@@ -3,10 +3,11 @@
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
 **Mode now:** on-script — the campaign spine follows the year brief and the live Boar arc. Use a **Scene Test** only when the knight rides off the brief into ground the books don't cover.
 
-## Chaos Factor: 4
+## Chaos Factor: 3
 
 <!-- 1–9. −1 after a scene the knight mostly controlled, +1 after a chaotic one. The game year remains the master metronome; Chaos never overrides the schedule. -->
-<!-- 5 → 4: Day 2 dusk, Abisec read the column clean and made his report unobserved — a scene he controlled. -->
+<!-- 5 → 4: Day 2 dusk, Abisec read the column clean and reported unobserved — controlled.
+     4 → 3: Day 2 feast closed with the knight on top (saved Pedr, faced down the Boar, finished the night composed) — controlled. -->
 
 ## Threads List → `state/threads.md`
 | # | Open thread (short) | Weight |
@@ -29,4 +30,4 @@
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas feast 481, Day 2 night — Pedr saved (public shout foiled the Boar's silencing-attempt) and taken alive by Caw, now ripe to flip; 2 more of the Boar's men marked Abisec; King watched but did not summon. Abisec stands in the lit side door, hall watching. Open: interrogate Pedr ("by morning"); aftermath of the public scene; the looming royal audience.
+- Save point: Christmas Court 481, **Day 3 dawn** — feast closed with Roderick's blessing; Caw reports **Pedr has talked**; Roderick summons Abisec. Same morning: hawking date with Lady Nest at the King's mews. Open: where to go first — the confession or the lady; the looming royal audience; the Boar will retaliate.

@@ -3,8 +3,8 @@
 **Status:** ACTIVE · No PC deaths · Dynasty unbroken
 **Current year:** 481 (closing; Christmas Court)
 **Period:** Uther (Book of Uther: campaign/uther/)
-**Season/position:** Christmas Court 481, White Tower of Londinium — Abisec's first royal court
-**Current scene:** Christmas feast, Day 2 night, winding down. The King did **not** summon Abisec tonight (watches, files the face for later). As the hall thinned, the **Pedr lift went wrong** — the Boar's men reached the side passage first to silence Pedr by the latrines. Abisec **shouted Pedr's name and flagged the two killers publicly**, turning the King's roof into a weapon: unable to murder under a hundred eyes, the two men aborted and withdrew (one marked Abisec's face). Pedr lives — frightened, exposed — and **Caw (Roderick's quiet man) bundled him out under cover of the scene**: alive and ripe to flip. Cost: Abisec intervened openly against the Boar's network; the King turned his head to watch. Abisec stands in the lit side door, the hall's eyes on him.
+**Season/position:** Christmas Court 481, White Tower of Londinium — Day 3, grey first light
+**Current scene:** Day 2 feast closed — Abisec sat back down and finished the feast in plain command; Roderick's verdict: it went loud (against orders) but saved the one witness who can name the coin — "you did well, I'd have done the same." Standing order: sleep barred, Cadry across the door, the Boar will gore now that he knows his net is being unpicked; the King watched and will move on his own clock. **Day 3 dawn:** Caw brings word — **Pedr has talked.** Roderick summons Abisec at once. Same morning, the hour approaches to **fly hawks with Lady Nest** at the King's mews. *Open: where to go first — the confession or the lady.*
 
 ## Situation
 
