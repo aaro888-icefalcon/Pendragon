@@ -22,12 +22,13 @@
 | NPC | Weight |
 |---|---|
 | Baron Idnerth of Hindon ("the Boar") | 3 |
-| Sir Pedr (the coin-taker) | 2 |
+| Lady Nest of Tisbury | 3 |
+| Master Gwyn (the Boar's cutout) | 2 |
 | Count Roderick (liege) | 2 |
 | King Uther | 2 |
-| Lady Nest of Tisbury | 2 |
-| Three badgeless hired swords | 1 |
+| Bledri (wool-factor conduit) | 2 |
+| Sir Pedr (flipped, held card) | 1 |
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas Court 481, **Day 3 dawn** — feast closed with Roderick's blessing; Caw reports **Pedr has talked**; Roderick summons Abisec. Same morning: hawking date with Lady Nest at the King's mews. Open: where to go first — the confession or the lady; the looming royal audience; the Boar will retaliate.
+- Save point: Christmas Court 481, **Day 3 AM, the King's mews** — confession heard (cutout "Master Gwyn"; trail → wool-wharves/Bledri; no Idnerth link yet). Now hawking with Lady Nest: fine flight, and she's **testing Abisec directly about last night's scene**. Open: how he answers her; the Gwyn/Bledri takes are running (Roderick's men); the royal audience looms; the Boar will retaliate (~7 days to Twelfth Night).

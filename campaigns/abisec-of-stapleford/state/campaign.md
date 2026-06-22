@@ -4,7 +4,7 @@
 **Current year:** 481 (closing; Christmas Court)
 **Period:** Uther (Book of Uther: campaign/uther/)
 **Season/position:** Christmas Court 481, White Tower of Londinium — Day 3, grey first light
-**Current scene:** Day 2 feast closed — Abisec sat back down and finished the feast in plain command; Roderick's verdict: it went loud (against orders) but saved the one witness who can name the coin — "you did well, I'd have done the same." Standing order: sleep barred, Cadry across the door, the Boar will gore now that he knows his net is being unpicked; the King watched and will move on his own clock. **Day 3 dawn:** Caw brings word — **Pedr has talked.** Roderick summons Abisec at once. Same morning, the hour approaches to **fly hawks with Lady Nest** at the King's mews. *Open: where to go first — the confession or the lady.*
+**Current scene:** Day 3 morning. Abisec saw Roderick first: **Pedr's confession** proves one paymaster (the cutout **"Master Gwyn"**, met at the Three Cranes on the wool-wharves) bought every blade — but no direct Idnerth link yet; the trail now runs through the **wool-network → Bledri**. Roderick's quiet men will take Gwyn; Bledri needs a lighter hand. Abisec then went to the **King's mews to hawk with Lady Nest** (Roderick's nudge: be seen idle and ordinary). A fine flight by his tiercel; now **Nest is testing him directly about last night's scene** — frank, weighing the match. *Open: how he answers her.*
 
 ## Situation
 
