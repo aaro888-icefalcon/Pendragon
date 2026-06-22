@@ -16,22 +16,23 @@
 ## Threads List → `state/threads.md`
 | # | Open thread (short) | Weight |
 |---|---|---|
-| 3/7 | The Boar reckoning + hired swords hunting Abisec | 3 |
-| 9 | Courting Lady Nest / the marriage question | 2 |
-| 8 | Vagon / the estate prospect ("Vagon, or better") | 2 |
-| 5 | The dangerous royal secret (which lord Uther doubts) | 1 |
-| 4 | Old-guard friction (Caradoc & the old families) | 1 |
+| 11 | Hindon's disposal — a **contested** prize (rival Gwythyr of Mere; King decides) | 3 |
+| 12 | Lady Senara of Hindon (heiress/ward — marriage-pawn or future enemy) | 2 |
+| 9 | Marriage / the dynasty (Adwen at Wilton; Senara via Hindon) | 2 |
+| 14 | Idris's death (barrow, his mother, a debt of memory) | 1 |
+| 13 | The second doubted lord (never named, still hidden) | 1 |
+| 4 | Old-guard friction (Caradoc, thawing) | 1 |
 
 ## Characters List → `state/npcs.md`
 | NPC | Weight |
 |---|---|
-| Baron Idnerth of Hindon ("the Boar") — at his reckoning | 3 |
-| King Uther (favorable; charged Abisec his witness) | 3 |
-| Count Roderick (liege) | 2 |
-| Lady Nest of Tisbury (deciding by winter) | 2 |
-| Sir Caradoc of Tilshead (unwon, principled frost) | 1 |
-| Sir Pedr (sole witness, moved to Sarum) | 1 |
+| King Uther (favorable; the grantor of Hindon) | 3 |
+| Baron Gwythyr of Mere (Abisec's rival for Hindon) | 2 |
+| Count Roderick (liege; possible backer) | 2 |
+| Lady Senara of Hindon (heiress/ward) | 2 |
+| Lady Adwen of Wilton (marriage prospect) | 1 |
+| Sir Caradoc of Tilshead (unwon, thawing) | 1 |
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: **Spring 482, HINDON (fallen) — the Boar arc CLOSED.** Abisec stormed Hindon, took Idnerth alive for the King's justice (→ scaffold), rescued Achil — at the cost of **Sir Idris dead** (First Aid failed). Hindon (a ~£150 **petty** barony — re-generated; £55 caput + a Magnificent £160 hall + scattered outliers) **forfeit to the Crown**; Abisec the front-runner (banneret + caput, or whole honour → minor baron), on Uther's clock. Glory ~2,494; Valorous 16 (famous); HP 25/25. About to ride home with the dead and the rescued. **Open:** #11 Hindon's disposal / Abisec's elevation; #12 **Lady Senara** (heiress/ward — marriage-pawn or future enemy); #13 the **second doubted lord**; #9 marriage (Adwen at Wilton; Senara possible); ~£144 to invest; **Idris's barrow** & home to Stapleford.
+- Save point: **Spring 482, HINDON (fallen) — the Boar arc CLOSED.** Abisec stormed Hindon, took Idnerth alive for the King's justice (→ scaffold), rescued Achil — at the cost of **Sir Idris dead** (First Aid failed). Hindon (a ~£150 **petty** barony — re-generated; £55 caput + a Magnificent £160 hall + scattered outliers) **forfeit to the Crown** — disposal **OPEN and contested** [Fate, spring 482: King grants it out (No to "keeps it"); Roderick not grabbing it (No → a possible backer); a greater rival IS in the field (Yes) = **Baron Gwythyr of Mere**, a Council baron pressing an ancient claim to the valley]. Abisec the **junior** claimant: best case banneret + the caput, worst case thanked while Hindon goes to Gwythyr. On Uther's clock. Glory ~2,494; Valorous 16 (famous); HP 25/25. About to ride home with the dead and the rescued. **Open:** #11 Hindon's disposal — a **contested** prize (rival **Gwythyr of Mere**); #12 **Lady Senara** (heiress/ward — marriage-pawn for whichever claimant, or future enemy); #13 the **second doubted lord**; #9 marriage (Adwen at Wilton; Senara possible); ~£144 to invest; **Idris's barrow** & home to Stapleford.

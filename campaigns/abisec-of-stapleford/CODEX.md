@@ -17,20 +17,20 @@
 | Age / Born | **23** / 459 |
 | Current Glory | **~2,494** (next Bonus Point at 3,000) |
 | Liege | **Count Roderick of Salisbury** |
-| Rank now | Vassal knight + **Castellan of Vagon**; **front-runner to be made Baron/banneret of Hindon** |
+| Rank now | Vassal knight + **Castellan of Vagon**; **one claimant — the junior one — for forfeit Hindon** (a contested prize, §11/§12) |
 | Royal standing | **King Uther's marked man** — "an honest instrument I can spend without watching my back" |
 | Current year | **482** (spring) |
 | Current place | Hindon (fallen), the western marches — about to ride home to Salisbury |
 | Central plot | **The Boar Conspiracy — CLOSED.** Baron Idnerth taken alive, bound for the King's scaffold |
 | Immediate cost | **Sir Idris ap Cynan dead** in the rescue; a barrow to raise |
 
-**The story so far, in one breath:** A pagan, Sarmatian-descended knight of a minor *healing* family rose in three years from green knight to the man who uncovered a baron's treason, survived a near-fatal trial by combat, then — when the cornered Boar abducted his brother — planned and led the storm of the traitor's castle, took the baron alive on a burning wall, and handed him to the King's justice. He paid for it with a friend's life and his own scars. Now the King owes him a barony, and the world has gone quiet enough, for a moment, to bury the dead.
+**The story so far, in one breath:** A pagan, Sarmatian-descended knight of a minor *healing* family rose in three years from green knight to the man who uncovered a baron's treason, survived a near-fatal trial by combat, then — when the cornered Boar abducted his brother — planned and led the storm of the traitor's castle, took the baron alive on a burning wall, and handed him to the King's justice. He paid for it with a friend's life and his own scars. Now the spoils of a traitor's barony lie open in the King's hand — and a young bachelor knight is only one hungry claimant among greater ones — while the world has gone quiet enough, for a moment, to bury the dead.
 
 ---
 
 ## 2. RESUME POINT (Spring 482)
 
-Abisec stands in fallen Hindon at grey dawn, **about to ride home to Salisbury** with Idris's body and his rescued brother Achil. The Boar (Idnerth) rides east in irons under royal guard. Hindon (a **~£150 petty barony**, §12) is **forfeit to the Crown**, and Abisec is the obvious man to be granted it.
+Abisec stands in fallen Hindon at grey dawn, **about to ride home to Salisbury** with Idris's body and his rescued brother Achil. The Boar (Idnerth) rides east in irons under royal guard. Hindon (a **~£150 petty barony**, §12) is **forfeit to the Crown** — and its disposal is **wide open and contested**: the King means to grant it out, but a great marcher neighbour (Baron Gwythyr of Mere) presses an ancient claim to it, and Abisec is only the junior claimant among them (§11/§12).
 
 **The immediate road (short, heavy):**
 - **Idris ap Cynan** home to a barrow on Salisbury Plain and a mother's grief.
@@ -38,8 +38,8 @@ Abisec stands in fallen Hindon at grey dawn, **about to ride home to Salisbury**
 - **Abisec** to Vagon and, on the King's clock, a **summons and a coronet**.
 
 **The live hooks (the next chapter):**
-- **Hindon's disposal / Abisec's elevation** (thread #11) — the King will grant the forfeit petty barony; Abisec the front-runner (Knight Banneret + the ~£55 caput estate, or the whole ~£150 honour → a minor baron's coronet). Comes on **Uther's clock**.
-- **Lady Senara of Hindon** (thread #12) — Idnerth's heiress, now a ward/captive: a marriage-pawn (her hand could seal Hindon's grant) **or** a future Morgan-shaped enemy.
+- **Hindon's disposal — a contested prize** (thread #11) — the King means to grant the forfeit petty barony out (he won't keep it), but **the spoils will be fought over and nothing is owed to Abisec.** A great marcher neighbour, **Baron Gwythyr of Mere**, presses an **ancient hereditary claim** to the contested valley and sells Uther on granting him Hindon to settle the border. Abisec's claim (he stormed it; the King's favour) is real but **junior** — best case a *banneret + the ~£55 caput*, more likely Glory + a lesser reward, worst case the title goes to Gwythyr and Abisec is merely thanked. Comes on **Uther's clock**, and Uther plays claimants against each other.
+- **Lady Senara of Hindon** (thread #12) — Idnerth's heiress, now a ward/captive: a marriage-pawn (a pardon + her hand could "clean" Hindon's grant for **whichever claimant the King favours**) **or** a future Morgan-shaped enemy.
 - **The second doubted lord** (thread #13) — Uther doubted *two* lords; only Idnerth was named. The other is still hidden in the marches.
 - **Marriage / the dynasty** (thread #9) — **Lady Adwen** of Wilton awaits ("come talk terms"); the heir question is urgent.
 - **~£144 liquid** to invest (harden Vagon, a marriage settlement, etc.).
@@ -120,8 +120,8 @@ Small moated, palisaded, gated manor on the Wylye. Coneygarth (+£2), armory (+�
 ### 4.2 Vagon — Castellan (held *for* Roderick)
 Salisbury's **western border castle** facing Hindon. **Timber motte-and-bailey, DV 5/11/2** (palisade/motte-tower/gate). Garrison ~10 (sergeants/bowmen) + 3–4 household knights (incl. **Sir Gwion**) under castellan Abisec (Battle 18). ~£45 gross / ~£10/yr personal margin — power, not profit. **Needs a steward** (Stewardship 3; Roderick has a man).
 
-### 4.3 The Hindon prospect — a barony in the King's gift
-See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner to be granted it (Knight Banneret + the ~£55 caput, or the whole £150 honour → a minor baron's coronet). The next elevation, on Uther's clock.
+### 4.3 The Hindon prospect — a contested prize in the King's gift
+See §11/§12. **~£150 petty barony, forfeit to the Crown** — and **its spoils will be fought over.** The King means to grant it out, but **Baron Gwythyr of Mere** presses an ancient claim and outranks him; Abisec is the *junior* claimant. Credible aim: **Knight Banneret + the ~£55 caput estate**. Long shot: the whole £150 honour → a minor baron's coronet. Worst case: thanked, while Hindon goes to Gwythyr. On Uther's clock, and nothing is owed.
 
 ---
 
@@ -163,8 +163,8 @@ See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner
 | 8 | Vagon | Held as castellan (timber motte-and-bailey). ~£144 liquid to invest. |
 | 9 | **Marriage / the dynasty** | **Nest closed the door** (her test failed — his danger proved permanent). **Adwen of Wilton** open ("come talk terms" — a hard, capable widow with a Wilton dower manor & a legal feud; the woman who'd *plant her feet*). **Lady Senara** possible via Hindon's grant. Heir urgent. |
 | 10 | Christmas tournament 481 | CLOSED — joust lost (to Sir Petroc); mêlée won the field; Brastias Champion; Abisec won the Marshal's & King's regard. |
-| 11 | **Hindon's disposal / Abisec's elevation** | **Hindon (~£150 petty barony) forfeit to the Crown** (§12). Likely: the ~£55 caput estate granted entire with the **Knight Banneret** title, or the whole £150 honour → a **minor baron's** coronet; the scattered outlier parcels reassigned at royal pleasure. **Abisec the front-runner.** On Uther's clock. |
-| 12 | **Lady Senara of Hindon** | Idnerth's heiress (~19), now a ward/captive. A **marriage-pawn** (her hand seals Hindon's grant) **or** a future **Morgan-shaped enemy**. *Unmet; watch her.* |
+| 11 | **Hindon's disposal — a CONTESTED prize** | **Hindon (~£150 petty barony) forfeit to the Crown** (§12), and **its spoils are fought over — nothing owed to Abisec.** The King means to grant it out, but **Baron Gwythyr of Mere** (a great marcher neighbour) presses an **ancient claim** to the contested valley and outranks him. Abisec is the *junior* claimant: best case **banneret + the ~£55 caput estate**; the whole coronet a long shot; worst case thanked while Hindon goes to Gwythyr. On Uther's clock — and the King plays claimants off each other. |
+| 12 | **Lady Senara of Hindon** | Idnerth's heiress (~19), now a ward/captive. A **marriage-pawn** (a pardon + her hand could seal Hindon's grant for **whichever claimant** the King favours — Abisec *or* Gwythyr) **or** a future **Morgan-shaped enemy**. *Unmet; watch her.* |
 | 13 | **The second doubted lord** | Uther doubted *two*; only Idnerth was named. The other is still hidden — likely a quiet marcher neighbour. *Open.* |
 | 14 | **Idris's death** | A barrow on the Plain, a mother to face, a debt of memory. Whether it hardens into a Hate/vengeance passion is the player's to feel. |
 
@@ -177,6 +177,8 @@ See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner
 **Abisec's circle:** **Sir Elad** (hard veteran) · **Sir Cadry** (loyal friend, rides at his right) · **Sir Gwion** (garrisons Vagon) · **Sir Gerin / Sir Bann** (household knights) · **Sir Jasson** (wry friend) · **Sir Garmon** (old family friend) · **Lady Isabel** (matchmaker/court insider) · **Brother Iuan** / **Father Tewdric** / **Brother Henris** (the syncretic-priest network) · **Bascar / Eluned / Achil** (family). **† Sir Idris ap Cynan — DEAD (spring 482).**
 
 **Marriage prospects:** **Lady Adwen of Wilton** (widow, a dower manor + a legal feud; would fight beside him — open, "talk terms") · **Lady Generys** (Caradoc's daughter; door may warm with the thaw) · **Lady Senara of Hindon** (the heiress; pawn or enemy). *(Lady Nest of Tisbury — closed the door, gracefully.)*
+
+**Rivals for Hindon:** **Baron Gwythyr of Mere** *(provisional — generated this handoff)* — a great, established Logres marcher baron whose honour borders Hindon to the west; presses an **ancient hereditary claim** that the long-contested valley (Hindon's caput with it) was wrongfully severed from his line generations ago, and sells Uther on granting him Hindon to settle the border for good. Outranks Abisec in age, wealth, rank (a Council baron) and the gravity of an old blood-claim — **the man to beat for the coronet** (thread #11).
 
 **Adversaries / suspects:** **Baron Idnerth** (taken, for the scaffold) · **Sir Cadeyrn** & **Father Maucan** (prisoners at Sarum) · **Sir Caradoc of Tilshead** (old-guard, thawing) · **Sir Bledig** (Idnerth's seneschal; fealty in limbo) · **the second doubted lord** (hidden) · **the wider spy-net** (loose ends).
 
@@ -212,7 +214,8 @@ See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner
 
 - **Salisbury** (Count Roderick; seat **Sarum / Castle of the Rock**). Abisec's home. Stapleford (low Wylye valley); **Vagon** (western border castle); the **Plain** (Stonehenge/Giant's Dance); Ambrius Abbey (Amesbury); the Deverills (Tewdric); Llud's Hall (royal treasury).
 - **Hindon** (forfeit barony; §12) — the western border, facing Vagon across a long-contested valley.
-- **Neighbors:** **Silchester** (Duke **Ulfius**, NE; Levcomagus the rival town) · **Summerland** (King **Cadwy**, W; the 482 agreement; marcher knights e.g. Sir Gwriad of the Brue) · the **contested valley** between Vagon and Hindon (the old border quarrel).
+- **Mere** (W of Hindon, toward Summerland) — seat of **Baron Gwythyr**, a great established marcher baron who claims the contested valley by ancient right and now angles for forfeit Hindon entire (thread #11).
+- **Neighbors:** **Silchester** (Duke **Ulfius**, NE; Levcomagus the rival town) · **Summerland** (King **Cadwy**, W; the 482 agreement; marcher knights e.g. Sir Gwriad of the Brue) · **Mere** (Baron Gwythyr, W; the Hindon rival) · the **contested valley** between Vagon and Hindon (the old border quarrel — the very ground Gwythyr claims).
 
 ---
 
@@ -233,12 +236,17 @@ See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner
 | **Annual Glory** | up to **100/yr** | Capped, for the holder; plus a **Council seat** (minor baron). |
 | **Geld (Uther's land tax)** | ~£25/yr | ~17% of CR. |
 
-**The legal state — forfeit by attainder.** Idnerth, convicted of treason, is **attainted**: he forfeits all lands & titles, **and his heirs are *tainted* — Lady Senara cannot inherit unless the King pardons her by name** (thread #12). Hindon **escheats to the Crown**; a royal **escheator** (that office is **Sir Brewnor's**) holds and inventories it during the vacancy; the King may **re-grant, keep, or absorb** it, and takes **primer seisin** (≈1 year's profits) at the transition.
+**The legal state — forfeit by attainder.** Idnerth, convicted of treason, is **attainted**: he forfeits all lands & titles, **and his heirs are *tainted* — Lady Senara cannot inherit unless the King pardons her by name** (thread #12). Hindon **escheats to the Crown**; a royal **escheator** (that office is **Sir Brewnor's**) holds and inventories it during the vacancy; the King takes **primer seisin** (≈1 year's profits) at the transition and may **re-grant, keep, break up, or absorb** it as he pleases.
 
-**What Abisec might be granted — the two shapes (petty-barony scale):**
-- **Knight Banneret + the caput estate.** *Banneret = a royal title for **valor in battle*** (rank-Glory 1,500), **not** a synonym for "estate-holder" — it fits his deeds exactly. Paired with the **~£55 caput** (castle, mill, town, home manors), he'd be a **banneret holding a large estate**: a real foothold, short of a Council seat. The scattered outlier parcels could be reassigned elsewhere by the King.
-- **(Minor) Baron of Hindon.** Granted the **whole ~£150 honour** in capite → Abisec becomes a **petty Baron** (Council seat, ~15 knights' servitium, ~£15/yr discretionary, ~100 Glory/yr) — and the upward duties (royal leave for his own marriage, castle-building). A baron's coronet, but a small one: a name and a seat, not yet wealth.
-- **+ Lady Senara's hand** could fold in: a **royal pardon** for the tainted heiress + a marriage would "clean" the title for the old vassals and quiet the border — at the cost of wedding a destroyed traitor's daughter who may yet nurse the ruin of her house.
+**The disposal is CONTESTED — nothing is owed to Abisec** *(framed on honest Fate rolls, this handoff)*:
+- **The King means to grant it out, not keep it** [Fate 50/50 → No to "keeps it in hand"] — so the prize is live; but it is *his* to give, and Uther is calculating, plays claimants off one another, and rewards where it suits the realm, not where it's "deserved."
+- **Roderick is *not* grabbing it** for Salisbury [Fate Likely → No] — Abisec's liege is a potential **backer/advocate**, not a rival, though his weight only goes so far for a junior man.
+- **A greater rival is in the field** [Fate Likely → **Yes**; not a court favourite → a **marcher neighbour lord**; PC-Negative, *Return·Freedom*]: **Baron Gwythyr of Mere**, a great established Council baron whose honour borders Hindon to the west, who presses an **ancient hereditary claim** that the contested valley was wrongfully severed from his house generations back — and sells Uther on granting *him* Hindon as the way to finally settle (free) the border quarrel. He **outranks Abisec** in age, wealth, rank, and the gravity of an old blood-claim.
+- **So Abisec's realistic spread, best → worst:** (a) *unlikely* — the whole £150 honour → minor Baron of Hindon; (b) *a fair reward* — **Knight Banneret + the ~£55 caput estate** (a foothold, short of a Council seat), the rest reassigned; (c) *quite possible* — Glory + the King's favour + a lesser gift (cash, a manor), the barony itself going to Gwythyr; (d) *the live threat* — **Hindon to Gwythyr of Mere outright**, the border "settled," Abisec thanked and landless of it. A bachelor knight of three years' spurs winning a barony whole over a great baron with an ancient claim would be **remarkable**, not expected.
+
+**Levers Abisec actually holds:** he **took the castle and exposed the Boar** (a strong claim-by-service); he has **the King's personal favour** ("an honest instrument"); **Roderick's advocacy**; and possession of **Vagon** on the same march (continuity argues for him holding Hindon too). **+ Lady Senara's hand** could fold in for *whichever* claimant the King favours: a **royal pardon** for the tainted heiress + a marriage would "clean" the title for the old vassals and quiet the border — for Abisec **or for Gwythyr** — at the cost of wedding a destroyed traitor's daughter who may yet nurse the ruin of her house. **Banneret-with-the-caput is the credible aim; the coronet is the long shot.**
+
+*Rank reminders that still hold:* **Banneret** = a royal title for **valor in battle** (rank-Glory 1,500), **not** a synonym for "estate-holder"; a **Baron** (rank-Glory 2,000) is a tenant-in-chief with a Council seat. Whatever the scale of the grant, it is the King's free gift, not a debt.
 
 ---
 
@@ -246,8 +254,8 @@ See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner
 
 1. Boot per `gm/GM-LOOP.md`; read `state/` (live truth) + this codex (overview).
 2. **Resume:** Spring 482, fallen Hindon — Abisec about to ride home with Idris's body and Achil.
-3. **Likely first beats:** the ride home → **Idris's funeral/barrow** on the Plain → **Achil home** to Stapleford → the **King's summons & the Hindon coronet** (Abisec's elevation) → the **marriage** question (Adwen at Wilton; Senara via Hindon).
-4. **Carry forward:** Lady Senara (pawn or enemy), the second doubted lord, the £144 to invest, the GPC 482 backdrop (Summerland, sheriffs).
+3. **Likely first beats:** the ride home → **Idris's funeral/barrow** on the Plain → **Achil home** to Stapleford → the **King's summons & the contest over Hindon** (Abisec petitioning against Baron Gwythyr of Mere's ancient claim — *not* a coronet handed over; a thing to be won, lost, or split) → the **marriage** question (Adwen at Wilton; Senara via Hindon).
+4. **Carry forward:** the Hindon contest (Gwythyr the rival; the King decides on his own clock), Lady Senara (pawn or enemy), the second doubted lord, the £144 to invest, the GPC 482 backdrop (Summerland, sheriffs).
 5. Roll every die in the shell and show it. Update `state/` on material changes; commit after the session.
 
 *The dice are honest. Failure is real (ask Idris). The world advances. Stay sharp, Shake.*
