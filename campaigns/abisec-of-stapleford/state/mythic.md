@@ -3,11 +3,14 @@
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
 **Mode now:** on-script — the campaign spine follows the year brief and the live Boar arc. Use a **Scene Test** only when the knight rides off the brief into ground the books don't cover.
 
-## Chaos Factor: 3
+## Chaos Factor: 2
 
 <!-- 1–9. −1 after a scene the knight mostly controlled, +1 after a chaotic one. The game year remains the master metronome; Chaos never overrides the schedule. -->
-<!-- 5 → 4: Day 2 dusk, Abisec read the column clean and reported unobserved — controlled.
-     4 → 3: Day 2 feast closed with the knight on top (saved Pedr, faced down the Boar, finished the night composed) — controlled. -->
+<!-- 5 → 4: Day 2 dusk, read the column clean, reported unobserved — controlled.
+     4 → 3: Day 2 feast closed with the knight on top — controlled.
+     3 (held): Day 3 confession (planning) + Nest cooling (calm scene, bad result) — no control-swing.
+     2: Day 3 mews recovery — patient, favorable, controlled. Held at 2 through the war-band downtime.
+     Watch for a climb when the Boar retaliates / at the tournament + Twelfth Night reckoning. -->
 
 ## Threads List → `state/threads.md`
 | # | Open thread (short) | Weight |
@@ -31,4 +34,4 @@
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas Court 481, **Day 3 AM, the King's mews** — confession heard (cutout "Master Gwyn"; trail → wool-wharves/Bledri; no Idnerth link yet). Hawking with Lady Nest: fine flight, but his honest evasion about the feast scene **cooled her** [Fate: No] — wary of his secrets/enemies; door ajar not shut. Open: how Abisec responds to her cooling; the Gwyn/Bledri takes are running (Roderick's men); the royal audience looms; the Boar will retaliate (~7 days to Twelfth Night); Christmas tournament due ~Day 4–5.
+- Save point: Christmas Court 481, **Day 3 evening** — courtship with Nest recovered to warm-but-uncommitted (decision deferred to winter). Decompressing with the war-band; they've set a standing close-guard on him. Open clocks: **Christmas tournament in ~2 days** (Brastias to beat); **Master Gwyn take** running (Roderick's quiet men); **Bledri** to be pulled with a light hand; the **royal audience** on Uther's clock; **the Boar isolating & likely to grow bold**; ~7 days to the **Twelfth Night reckoning**.
