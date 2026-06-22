@@ -4,7 +4,7 @@
 **Current year:** 481 (closing; Christmas Court)
 **Period:** Uther (Book of Uther: campaign/uther/)
 **Season/position:** Christmas Court 481, White Tower of Londinium — Day 3, grey first light
-**Current scene:** Day 3 morning. Abisec saw Roderick first: **Pedr's confession** proves one paymaster (the cutout **"Master Gwyn"**, met at the Three Cranes on the wool-wharves) bought every blade — but no direct Idnerth link yet; the trail now runs through the **wool-network → Bledri**. Roderick's quiet men will take Gwyn; Bledri needs a lighter hand. Abisec then went to the **King's mews to hawk with Lady Nest** (Roderick's nudge: be seen idle and ordinary). A fine flight by his tiercel; now **Nest is testing him directly about last night's scene** — frank, weighing the match. *Open: how he answers her.*
+**Current scene:** Day 3 morning. Abisec saw Roderick first: **Pedr's confession** proves one paymaster (the cutout **"Master Gwyn"**, met at the Three Cranes on the wool-wharves) bought every blade — but no direct Idnerth link yet; the trail now runs through the **wool-network → Bledri**. Roderick's quiet men will take Gwyn; Bledri needs a lighter hand. Abisec then went to the **King's mews to hawk with Lady Nest** (Roderick's nudge: be seen idle and ordinary). A fine flight by his tiercel; Nest tested him on the feast scene and he gave an **honest evasion** (bound by the royal secret; "you'll have my full measure by winter; ask me anything else true"). She respects it but it **cooled her** [Fate: No] — wary of his secrets and enemies; door ajar, not shut. *Open: how he responds to her cooling.*
 
 ## Situation
 

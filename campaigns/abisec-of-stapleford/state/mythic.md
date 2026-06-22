@@ -31,4 +31,4 @@
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas Court 481, **Day 3 AM, the King's mews** — confession heard (cutout "Master Gwyn"; trail → wool-wharves/Bledri; no Idnerth link yet). Now hawking with Lady Nest: fine flight, and she's **testing Abisec directly about last night's scene**. Open: how he answers her; the Gwyn/Bledri takes are running (Roderick's men); the royal audience looms; the Boar will retaliate (~7 days to Twelfth Night).
+- Save point: Christmas Court 481, **Day 3 AM, the King's mews** — confession heard (cutout "Master Gwyn"; trail → wool-wharves/Bledri; no Idnerth link yet). Hawking with Lady Nest: fine flight, but his honest evasion about the feast scene **cooled her** [Fate: No] — wary of his secrets/enemies; door ajar not shut. Open: how Abisec responds to her cooling; the Gwyn/Bledri takes are running (Roderick's men); the royal audience looms; the Boar will retaliate (~7 days to Twelfth Night); Christmas tournament due ~Day 4–5.

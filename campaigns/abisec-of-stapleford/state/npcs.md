@@ -26,7 +26,7 @@
 | **Brother Iuan** | Young syncretic priest, now Stapleford's | Committed ally; Abisec swore (Honor) to shield him |
 | **Father Tewdric** | Ancient syncretic British priest, the Deverills | Kindred ally; gave up his apprentice Iuan |
 | **Brother Henris** | Monk-infirmarer at Ambrius Abbey | Friendly family contact; Iuan's intended first clerical ally |
-| **Lady Nest of Tisbury** | Sir Bruan's daughter; sharp, bookish, hawks | Warming/intrigued — marriage prospect; hawking date Wed AM |
+| **Lady Nest of Tisbury** | Sir Bruan's daughter; sharp, bookish, hawks | **Cooled-but-not-closed (Day 3 AM).** Respects his honesty but wary of his secrets & enemies; "I'm my father's daughter." Door ajar — to be won, not assumed |
 
 ## Adversaries & suspects
 | NPC | Who | Standing |
