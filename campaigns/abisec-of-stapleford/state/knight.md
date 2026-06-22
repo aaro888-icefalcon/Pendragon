@@ -63,7 +63,7 @@
 | Spear | 6 | | Dagger | 5 |
 
 ## Wounds & Condition
-- **HP 25/25 — uninjured.** Came through Bedegraine and the hunt probe untouched.
+- **HP 20/25 — bruised.** Unhorsed in the first joust course (Christmas tournament, Day 5): a deep hip/rib bruise from the fall (5 pts), nothing broken. Heals 2/week; carries into the mêlée later the same day.
 
 ## Horses
 | Horse | Type | Damage | Notes |
