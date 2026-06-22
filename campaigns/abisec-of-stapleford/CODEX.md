@@ -220,18 +220,18 @@ See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner
 
 **Rank & value — a petty lord.** Hindon is held *by barony* (tenant-in-chief; a King's-Council seat) but at the **smallest tier: ~£150 Customary Revenue — a minor/petty baron** (warlord "Minor Baron £100–200"). Idnerth was a *small* lord with *large* pretensions — which is the whole story of him.
 
-**Generated structure** (rolled on the estate/warlord tables):
-| Element | Detail |
-|---|---|
-| **Customary Revenue** | ~£150/yr total honour |
-| **Caput major** *(~£50–60 chief estate; Book-of-the-Estate £50-class)* | Hindon castle (motte-and-bailey + **stone shell keep**, DV ~9/13/2); a **Mill** (+£2); the home manors + the walled **wool market-town**. A £50 estate supports a real household (steward, constable, chaplain, marshal + ~5 household knights). Base Assized Rent rolled **£60.** |
-| **⚑ Furnishings — MAGNIFICENT (£160)** | *The tell.* A petty lord's hall decked in gold plate and the best tapestries in the march — **furnishings worth more than his entire honour earns in a year.** No honest £150 baron affords that. This is the conspiracy made visible: Idnerth propped up grandeur far past his means with the **wool-trade and treason-money** (bought men, sold secrets) — exactly what made him a *doubted lord.* Senara's "extravagance" was raised amid a magnificence that was always a lie. |
-| **Outliers** *(~£90, "random manors & lands elsewhere" — 10 parcels)* | **2 sub-estates** (one in a **different county**), **4 scattered manors** (one also in a **different county**), **3 fee-farms** (leased for cash, no servitium owed), and a **second market town** — strung across the home hundred, the wider county, and *beyond Salisbury's border.* A patchwork, not a compact block. |
-| **Demesne / enfeoffed** | ~£100 demesne / ~£50 enfeoffed → **~2–3 vassal knights** + a household |
-| **Servitium debitum** | **15 knights + 30 field + 15 garrison foot** (1 + 2 + 1 per £10 CR). Nominal muster ~15 knights — the **~12 who died on the walls were nearly his whole loyal strength** after desertion |
-| **Discretionary Fund** | ~£15/yr honest — a pittance against a £160 hall, which is precisely the point |
-| **Annual Glory** | up to **100/yr** (capped) for the holder; a **Council seat** (minor baron) |
-| **Geld (Uther land tax)** | ~£25/yr (17% of CR) |
+**Generated structure — the honour totals £150 exactly** (caput £55 + outliers £95):
+| Element | Value | Detail |
+|---|---|---|
+| **Customary Revenue** | **£150/yr** | The whole honour (assized rents + other income). |
+| **Caput major** | **£55** | Hindon castle — motte-and-bailey with a **stone shell keep** (DV 9/13/2) — plus a **Mill** (+£2), the **home manors**, and the walled **wool market-town** at its gate. A £55 chief estate supports a real household (steward, constable, chaplain, marshal + ~4–5 household knights). *(Generated as a £50 ±10 caput per the Book of the Estate.)* |
+| **Outliers (8 parcels)** | **£95** | The "random manors & lands elsewhere" — and they sum exactly: **3 scattered manors** (£10 each = £30; one is the **contested border manor** by Vagon), **3 fee-farms** (£10 each = £30; leased for cash, no servitium owed — one lies in a **different county**), **1 sub-estate** run by its own steward (**£20**), **1 small market-town / wool-staple** (**£15**). A patchwork strung across the home hundred, the wider county, and *beyond Salisbury's border* — not a compact block. |
+| **⚑ Furnishings — MAGNIFICENT** | **£160 (one-time display value, NOT income)** | *The tell.* Per the Book of the Estate, furnishings are a **one-time display value** — capital sunk into the hall, *not* annual revenue. Idnerth's hall is decked in gold plate and the best tapestries in the march, a display **worth more than his whole honour earns in a year**, amassed over years from the **wool-trade and treason-money** (bought men, sold secrets). No honest £150 lord shows that much gilt — it is the conspiracy made visible. Senara's "extravagance" was a magnificence that was always a lie. |
+| **Demesne / enfeoffed** | ~£100 / ~£50 | ~65% held in hand (the caput + the £20 sub-estate + the fee-farms' cash) / ~35% enfeoffed → **~2–3 vassal knights** + the household. |
+| **Servitium debitum** | **15 + 30 + 15** | 15 knights + 30 field foot + 15 garrison foot (1 + 2 + 1 per £10 CR). Nominal muster ~15 knights — the **~12 who died on the walls were nearly his whole loyal strength** after the desertions. |
+| **Discretionary Fund** | ~£15/yr | A pittance beside that £160 hall — which is exactly why the hall could only have been paid for *dishonestly.* |
+| **Annual Glory** | up to **100/yr** | Capped, for the holder; plus a **Council seat** (minor baron). |
+| **Geld (Uther's land tax)** | ~£25/yr | ~17% of CR. |
 
 **The legal state — forfeit by attainder.** Idnerth, convicted of treason, is **attainted**: he forfeits all lands & titles, **and his heirs are *tainted* — Lady Senara cannot inherit unless the King pardons her by name** (thread #12). Hindon **escheats to the Crown**; a royal **escheator** (that office is **Sir Brewnor's**) holds and inventories it during the vacancy; the King may **re-grant, keep, or absorb** it, and takes **primer seisin** (≈1 year's profits) at the transition.
 
