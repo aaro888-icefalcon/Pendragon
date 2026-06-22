@@ -3,14 +3,15 @@
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
 **Mode now:** on-script — the campaign spine follows the year brief and the live Boar arc. Use a **Scene Test** only when the knight rides off the brief into ground the books don't cover.
 
-## Chaos Factor: 3
+## Chaos Factor: 2
 
 <!-- 1–9. −1 after a scene the knight mostly controlled, +1 after a chaotic one. The game year remains the master metronome; Chaos never overrides the schedule. -->
 <!-- 5 → 4: Day 2 dusk, read the column clean, reported unobserved — controlled.
      4 → 3: Day 2 feast closed with the knight on top — controlled.
      3 (held): Day 3 confession (planning) + Nest cooling — no control-swing.
      2: Day 3 mews recovery — patient, favorable, controlled. Held through war-band downtime.
-     2 → 3: Day 5 — Gwyn silenced by the Boar + Abisec unhorsed first course; the day is turning against him. -->
+     2 → 3: Day 5 — Gwyn silenced + Abisec unhorsed first course; day turning against him.
+     3 → 2: Day 5 mêlée — Abisec dominated tactically (double charge won the field) and rode out Brastias; he reasserted control. -->
 
 ## Threads List → `state/threads.md`
 | # | Open thread (short) | Weight |
@@ -34,4 +35,4 @@
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas Court 481, **Day 5, the tournament** — Abisec **unhorsed first course** (bruised, HP 20/25), out of the joust, but **carried it with grace** (saluted the victor, Sir Petroc of Dimilioc — a Cornish/Gorlois thread), recovering standing under the King's eye; the **mêlée** still to come (redemption). Open clocks: **Gwyn dead/silenced** (climb severed) → **Pedr is the sole witness** (guard tripled); **Roderick pulling Bledri today**; the **royal audience** on Uther's clock; the **Boar isolating, cutting threads & likely bolder**; ~5 days to the **Twelfth Night reckoning**.
+- Save point: Christmas Court 481, **Day 5 late afternoon — tournament over.** Joust lost (graciously); **mêlée won the field on Abisec's double charge**, rode out Champion Brastias's blow (Brastias took the laurel; Abisec took the Marshal's & King's regard + ~25 Glory). HP 22/25. Open clocks: **Bledri result pending** (Roderick pulling him today); **Pedr the sole witness** (guard tripled, prime target); the **royal audience** unspent on Uther's clock; the **Boar isolating & cutting threads**; ~5 days to the **Twelfth Night reckoning**. Open clocks: **Gwyn dead/silenced** (climb severed) → **Pedr is the sole witness** (guard tripled); **Roderick pulling Bledri today**; the **royal audience** on Uther's clock; the **Boar isolating, cutting threads & likely bolder**; ~5 days to the **Twelfth Night reckoning**.

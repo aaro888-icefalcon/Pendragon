@@ -9,7 +9,7 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **2,194** |
+| Current Glory | **~2,219** (2,194 + ~25 mêlée tally, Christmas tournament 481; firms at Winter Phase) |
 | Bonus Points | Both spent — 1,000-mark → Battle; 2,000-mark → Battle (now 18). Distinguished-self passion +1 → Honor 16. |
 
 ## Attributes & Derived
@@ -63,7 +63,7 @@
 | Spear | 6 | | Dagger | 5 |
 
 ## Wounds & Condition
-- **HP 20/25 — bruised.** Unhorsed in the first joust course (Christmas tournament, Day 5): a deep hip/rib bruise from the fall (5 pts), nothing broken. Heals 2/week; carries into the mêlée later the same day.
+- **HP 22/25 — bruised.** Day 5 joust: unhorsed first course, deep hip/rib bruise (−5); self-First-Aid recovered +2 (one application used on that wound). Came **through the mêlée un-wounded** (rebated weapons; rode out Brastias's blow without unhorsing). Heals 2/week (Sundays).
 
 ## Horses
 | Horse | Type | Damage | Notes |
