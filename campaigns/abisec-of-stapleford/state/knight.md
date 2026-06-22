@@ -84,7 +84,7 @@
 
 ## Experience checks pending (for Winter Phase 481)
 <!-- Append as earned in play; cleared at Winter Phase. -->
-- (none logged yet this session)
+- **Courtesy** — won the public salute-duel with Baron Idnerth at the Christmas feast (Day 2 night).
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.

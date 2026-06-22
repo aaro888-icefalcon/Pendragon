@@ -29,4 +29,4 @@
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas Court 481, Day 2 dusk — at the White Tower gate, hunt probe reported to Roderick; Pedr to be pulled "carefully"; heading into the Christmas feast at Roderick's board. Open: how to take Pedr.
+- Save point: Christmas feast 481, Day 2 night — Pedr saved (public shout foiled the Boar's silencing-attempt) and taken alive by Caw, now ripe to flip; 2 more of the Boar's men marked Abisec; King watched but did not summon. Abisec stands in the lit side door, hall watching. Open: interrogate Pedr ("by morning"); aftermath of the public scene; the looming royal audience.

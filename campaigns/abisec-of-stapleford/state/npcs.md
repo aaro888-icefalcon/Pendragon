@@ -22,6 +22,7 @@
 | **Lady Isabel** | Family friend, married into a Londinium merchant house | Warm; court insider & matchmaker |
 | **Sir Garmon** | Old household knight; soldiered with Bascar | Warm old family friend; offers a network of "useful dull men" at court |
 | **Cynyr** | Roderick's huntsman; Plain-wise | Won over (Plain Sweep); with the Count |
+| **Caw** | Roderick's plain-faced quiet man (forgettable on purpose) | Loyal agent; took Pedr alive at the feast (Day 2 night); running the interrogation |
 | **Brother Iuan** | Young syncretic priest, now Stapleford's | Committed ally; Abisec swore (Honor) to shield him |
 | **Father Tewdric** | Ancient syncretic British priest, the Deverills | Kindred ally; gave up his apprentice Iuan |
 | **Brother Henris** | Monk-infirmarer at Ambrius Abbey | Friendly family contact; Iuan's intended first clerical ally |
@@ -33,7 +34,8 @@
 | **Baron Idnerth of Hindon** | "The Boar" — doubted lord, the conspiracy's head | Enemy; at court, maneuvering; unmet face-to-face |
 | **Sir Cadeyrn** | Idnerth's handler/agent (the grey-rider) | Captured, prisoner at Sarum; defiant |
 | **Father Maucan** | Vagon's traitor-chaplain (informant) | Captured, prisoner at Sarum; broken, talking |
-| **Sir Pedr** | Landless Silchester knight | Likely took the assassins' coin; thread to pull (carefully) |
+| **Sir Pedr** | Landless Silchester knight | Took the assassins' coin; the Boar tried to silence him (Day 2 night). **Now in Roderick's hands, alive & frightened** — ripe to name the paymaster |
+| **Two feast-killers** | The Boar's men, sent to knife Pedr | Aborted under Abisec's public shout; withdrew unhurt; one marked Abisec's face. Faces banked |
 | **Father Cynfael** | Salisbury's zealous chaplain | Wary coexistence; face-saved at Plough Monday; watches for any slip |
 | **Sir Caradoc of Tilshead** | Old-family senior knight | Cool/skeptical — voice of old-guard resentment |
 | **Sir Edern of Vagon** | Castellan (loyal but slack) | To be removed honorably; no grudge |
