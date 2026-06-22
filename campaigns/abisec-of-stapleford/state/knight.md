@@ -33,10 +33,12 @@
 | Forgiving 13 | Vengeful 7 | | Prudent 12 | Reckless 8 |
 | Generous 13 | Selfish 7 | | Temperate 13 | Indulgent 7 |
 | Honest 13 | Deceitful 7 | | Trusting 14 | Suspicious 6 |
-| Just 13 | Arbitrary 7 | | **Valorous 15** | Cowardly 5 |
+| Just 13 | Arbitrary 7 | | **Valorous 16** | Cowardly 4 |
 | Merciful 13 | Cruel 7 | | | |
 
 *Read:* blunt-honest, kind, contained/calm, practical/empirical, gives autonomy to a fault, not dramatic. Modest 13 / Pious 7 → does NOT qualify for the pagan religious bonus (faith kept quietly).
+
+<!-- Valorous 15→16 via Winter Phase 481 training (personal development); now a FAMOUS trait — can seize him toward courage, +16 annual Glory, invokable (+10). Cowardly → 4. -->
 
 ## Passions
 | Passion | Value | Notes |
