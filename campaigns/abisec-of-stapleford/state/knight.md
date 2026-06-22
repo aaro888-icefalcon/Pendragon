@@ -9,17 +9,20 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,294** (2,194 + ~25 mêlée + ~75 royal favor, Christmas court 481; tallies firm at Winter Phase) |
+| Current Glory | **~2,344** (2,194 + ~25 mêlée + ~75 royal favor + ~50 valor of the trial-by-combat; tallies firm at Winter Phase) |
+| Holding | **Castellan of Vagon** (Salisbury's western watch, facing Hindon) from spring 482 — granted by Roderick, "Vagon or better," earned in service & blood. (Stapleford remains the family seat.) |
 | Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. (Homage still to Roderick; Uther reaches through the Count.) |
 | Bonus Points | Both spent — 1,000-mark → Battle; 2,000-mark → Battle (now 18). Distinguished-self passion +1 → Honor 16. |
 
 ## Attributes & Derived
 | SIZ | DEX | STR | CON | APP |
 |---|---|---|---|---|
-| 11 | 13 | 10 | 14 | 12 |
+| 11 | **11** | 10 | 14 | **11** |
 
-- **Damage:** 4d6 · **Healing Rate:** 2 · **Move:** 2
-- **Hit Points:** 25 / 25 · **Unconscious:** 6 · **Major Wound:** ≥14 (=CON) · **Knockdown:** ≥11 (=SIZ)
+> **Mortal wound, Twelfth Night 481 (trial by combat vs Idnerth):** survived a lance through the chest → 3 Stats Lost rolls = **DEX 13→11, APP 12→11** (permanent). Strength, toughness, wind, and all skills intact; a half-step slower forever, a hand-wide scar down the breastbone.
+
+- **Damage:** 4d6 · **Healing Rate:** 2 · **Move:** 2 (STR 10 + DEX 11)
+- **Hit Points:** 25 / 25 (recovered by spring 482) · **Unconscious:** 6 · **Major Wound:** ≥14 (=CON) · **Knockdown:** ≥11 (=SIZ)
 
 ## Traits (pairs total 20; bold = famous/notable 16+)
 | Trait | Opp. | | Trait | Opp. |
@@ -64,7 +67,7 @@
 | Spear | 6 | | Dagger | 5 |
 
 ## Wounds & Condition
-- **HP 22/25 — bruised.** Day 5 joust: unhorsed first course, deep hip/rib bruise (−5); self-First-Aid recovered +2 (one application used on that wound). Came **through the mêlée un-wounded** (rebated weapons; rode out Brastias's blow without unhorsing). Heals 2/week (Sundays).
+- **HP 25/25 — Healthy (recovered, spring 482).** Took a **mortal wound** in the Twelfth Night trial by combat (Idnerth's critical lance: net 31 vs a 7-HP body); saved by the King's surgeon [First Aid 16: success]. Nursed Unhealthy→Healthy by **Eluned's Chirurgery** [3 weekly successes]. Permanent cost: DEX 13→11, APP 12→11, the chest scar. **Watch:** Aggravation rule — strenuous activity while HP ≤ half (≤12) risks re-opening wounds.
 
 ## Horses
 | Horse | Type | Damage | Notes |

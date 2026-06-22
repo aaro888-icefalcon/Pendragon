@@ -11,8 +11,9 @@ Cymric, of Sarmatian descent. Known at court for its **healing**, and quietly fo
 | **Achil** | Brother, 16; Abisec's squire; leech-inclined | Will take the spurs (a knight who heals); closest tie ("above all"); knighting ~484–486 |
 
 ## Succession
-- **Heir:** none yet — Abisec is unmarried. The **marriage question is live** (Lady Nest of Tisbury; see threads #9). Producing an heir is the open dynastic priority.
-- **Line of fallback:** brother Achil (to be knighted) carries the name if Abisec falls before an heir.
+- **Heir:** none yet — Abisec is unmarried. **URGENT now:** he took a mortal wound at 23 in the Twelfth Night 481 trial by combat and nearly died heirless. The **marriage question** (Lady Nest of Tisbury; also Adwen, Generys — threads #9) is the open dynastic priority.
+- **Line of fallback:** brother Achil (to be knighted ~484–486) carries the name if Abisec falls before an heir.
+- **Eluned** rode from Stapleford to Londinium and nursed Abisec back from the mortal wound (Chirurgery) — the family's healing gift, in person.
 
 ## Holding
-**Stapleford** — small manor on the Wylye, Salisbury (held of Count Roderick). Now moated, palisaded, gated. See campaign holdings detail in threads (#8 Vagon prospect).
+**Stapleford** — the family seat, on the Wylye (Bascar, Eluned in residence); moated, palisaded, gated. **Vagon** — Abisec's new castellanship from spring 482 (Salisbury's western watch facing Hindon; see threads #8).

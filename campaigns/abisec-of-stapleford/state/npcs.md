@@ -26,12 +26,12 @@
 | **Brother Iuan** | Young syncretic priest, now Stapleford's | Committed ally; Abisec swore (Honor) to shield him |
 | **Father Tewdric** | Ancient syncretic British priest, the Deverills | Kindred ally; gave up his apprentice Iuan |
 | **Brother Henris** | Monk-infirmarer at Ambrius Abbey | Friendly family contact; Iuan's intended first clerical ally |
-| **Lady Nest of Tisbury** | Sir Bruan's daughter; sharp, bookish, hawks | **Cooled-but-not-closed (Day 3 AM).** Respects his honesty but wary of his secrets & enemies; "I'm my father's daughter." Door ajar — to be won, not assumed |
+| **Lady Nest of Tisbury** | Sir Bruan's daughter; sharp, bookish, hawks | Saw Abisec near death after the trial ("I asked whether your danger had an end — still waiting to know"); rode home, then **wrote asking how he mends.** Door ajar, undecided — her test (is his danger temporary?) hangs on whether the Boar matter truly ends |
 
 ## Adversaries & suspects
 | NPC | Who | Standing |
 |---|---|---|
-| **Baron Idnerth of Hindon** | "The Boar" — doubted lord, the conspiracy's head | Enemy; at court, maneuvering; unmet face-to-face |
+| **Baron Idnerth of Hindon** | "The Boar" — the conspiracy's head; brutal close-fighter (Sword ~17, big & strong, poor horseman, tires) | **Cleared by trial of combat (Twelfth Night 481)** — beat Abisec on a critical lance, free at Hindon. But ruined politically and now the **King's open enemy.** Abisec's near-killer and bitter foe; lives across the valley from Abisec's new seat at Vagon |
 | **Sir Cadeyrn** | Idnerth's handler/agent (the grey-rider) | Captured, prisoner at Sarum; defiant |
 | **Father Maucan** | Vagon's traitor-chaplain (informant) | Captured, prisoner at Sarum; broken, talking |
 | **Sir Pedr** | Landless Silchester knight | **Flipped — confessed (Day 3 dawn)** under Roderick's protection; never dealt with Idnerth, only the cutout "Master Gwyn." A held card |
@@ -43,7 +43,7 @@
 | **Sir Caradoc of Tilshead** | Old-family senior knight; voice of the old guard | **Cool — unwon (Twelfth Night eve), on principle.** Distrusts fast royal-favored rises ("climb fast, land hard, take the steady men down"); grants Abisec's prowess but not his hand until he's lasted 5 years and *held* something. Not an enemy — a worldview to win. Father of Lady Generys |
 | **Lady Adwen** | Young twice-widowed lady; holds a Wilton dower manor (~£12/yr) in her own hand | Marriage prospect — land & a capable partner, but a feud with her dead husbands' kin attached; "come back when you've done your sums" |
 | **Lady Generys** | Sir Caradoc's daughter; gentle, dutiful, pious (Christian) | Marriage prospect — a politics/old-guard alliance (would heal #4); door **cool** while her father is unwon; faith-tension with Abisec's quiet paganism |
-| **Sir Edern of Vagon** | Castellan (loyal but slack) | To be removed honorably; no grudge |
+| **Sir Edern of Vagon** | Former castellan (loyal but slack) | **Stood aside (spring 482)** for Abisec to take Vagon; honorably handled, no grudge |
 | **Bledri** | Wool-factor | The Boar's letter-conduit; a lead to run down |
 | **Sir Brastias** | Hard northern knight | The man to beat at the Christmas tournament |
 | **Three badgeless men** | Hired swords from the hunt probe | Faces known to Abisec; bought to kill him; tied to Pedr/Idnerth |
