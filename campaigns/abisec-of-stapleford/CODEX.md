@@ -30,7 +30,7 @@
 
 ## 2. RESUME POINT (Spring 482)
 
-Abisec stands in fallen Hindon at grey dawn, **about to ride home to Salisbury** with Idris's body and his rescued brother Achil. The Boar (Idnerth) rides east in irons under royal guard. Hindon (~£230 Baron honour) is **forfeit to the Crown**, and Abisec is the obvious man to be granted it.
+Abisec stands in fallen Hindon at grey dawn, **about to ride home to Salisbury** with Idris's body and his rescued brother Achil. The Boar (Idnerth) rides east in irons under royal guard. Hindon (a **~£150 petty barony**, §12) is **forfeit to the Crown**, and Abisec is the obvious man to be granted it.
 
 **The immediate road (short, heavy):**
 - **Idris ap Cynan** home to a barrow on Salisbury Plain and a mother's grief.
@@ -38,7 +38,7 @@ Abisec stands in fallen Hindon at grey dawn, **about to ride home to Salisbury**
 - **Abisec** to Vagon and, on the King's clock, a **summons and a coronet**.
 
 **The live hooks (the next chapter):**
-- **Hindon's disposal / Abisec's elevation** (thread #11) — the King will grant the forfeit barony; Abisec the front-runner (banneret of the ~£150 caput, or the whole ~£230 barony + a baron's coronet). Comes on **Uther's clock**.
+- **Hindon's disposal / Abisec's elevation** (thread #11) — the King will grant the forfeit petty barony; Abisec the front-runner (Knight Banneret + the ~£55 caput estate, or the whole ~£150 honour → a minor baron's coronet). Comes on **Uther's clock**.
 - **Lady Senara of Hindon** (thread #12) — Idnerth's heiress, now a ward/captive: a marriage-pawn (her hand could seal Hindon's grant) **or** a future Morgan-shaped enemy.
 - **The second doubted lord** (thread #13) — Uther doubted *two* lords; only Idnerth was named. The other is still hidden in the marches.
 - **Marriage / the dynasty** (thread #9) — **Lady Adwen** of Wilton awaits ("come talk terms"); the heir question is urgent.
@@ -121,7 +121,7 @@ Small moated, palisaded, gated manor on the Wylye. Coneygarth (+£2), armory (+�
 Salisbury's **western border castle** facing Hindon. **Timber motte-and-bailey, DV 5/11/2** (palisade/motte-tower/gate). Garrison ~10 (sergeants/bowmen) + 3–4 household knights (incl. **Sir Gwion**) under castellan Abisec (Battle 18). ~£45 gross / ~£10/yr personal margin — power, not profit. **Needs a steward** (Stewardship 3; Roderick has a man).
 
 ### 4.3 The Hindon prospect — a barony in the King's gift
-See §12. **~£230 Baron-tier honour, forfeit to the Crown**; Abisec the front-runner to be granted it (banneret of the ~£150 caput, or the whole barony + a coronet). The next great elevation, on Uther's clock.
+See §12. **~£150 petty barony, forfeit to the Crown**; Abisec the front-runner to be granted it (Knight Banneret + the ~£55 caput, or the whole £150 honour → a minor baron's coronet). The next elevation, on Uther's clock.
 
 ---
 
@@ -163,7 +163,7 @@ See §12. **~£230 Baron-tier honour, forfeit to the Crown**; Abisec the front-r
 | 8 | Vagon | Held as castellan (timber motte-and-bailey). ~£144 liquid to invest. |
 | 9 | **Marriage / the dynasty** | **Nest closed the door** (her test failed — his danger proved permanent). **Adwen of Wilton** open ("come talk terms" — a hard, capable widow with a Wilton dower manor & a legal feud; the woman who'd *plant her feet*). **Lady Senara** possible via Hindon's grant. Heir urgent. |
 | 10 | Christmas tournament 481 | CLOSED — joust lost (to Sir Petroc); mêlée won the field; Brastias Champion; Abisec won the Marshal's & King's regard. |
-| 11 | **Hindon's disposal / Abisec's elevation** | **Hindon (~£230 Baron honour) forfeit to the Crown.** Likely: the ~£150 demesne caput granted entire (banneret), or the whole barony + a coronet; vassal fees redistributed at royal pleasure. **Abisec the front-runner.** On Uther's clock. |
+| 11 | **Hindon's disposal / Abisec's elevation** | **Hindon (~£150 petty barony) forfeit to the Crown** (§12). Likely: the ~£55 caput estate granted entire with the **Knight Banneret** title, or the whole £150 honour → a **minor baron's** coronet; the scattered outlier parcels reassigned at royal pleasure. **Abisec the front-runner.** On Uther's clock. |
 | 12 | **Lady Senara of Hindon** | Idnerth's heiress (~19), now a ward/captive. A **marriage-pawn** (her hand seals Hindon's grant) **or** a future **Morgan-shaped enemy**. *Unmet; watch her.* |
 | 13 | **The second doubted lord** | Uther doubted *two*; only Idnerth was named. The other is still hidden — likely a quiet marcher neighbour. *Open.* |
 | 14 | **Idris's death** | A barrow on the Plain, a mother to face, a debt of memory. Whether it hardens into a Hate/vengeance passion is the player's to feel. |
@@ -216,29 +216,29 @@ See §12. **~£230 Baron-tier honour, forfeit to the Crown**; Abisec the front-r
 
 ---
 
-## 12. HINDON BARONY — DOSSIER (rules-grounded, Book of the Warlord)
+## 12. HINDON BARONY — DOSSIER (re-generated, Book of the Estate / Warlord)
 
-**Rank & value.** Hindon is held *by barony* (tenant-in-chief; a King's-Council seat) — a true **Baron-tier honour at ~£230 Customary Revenue** (CR = Assized Rents + court/Other Income = *the value of the holding*). Canonical near-twin: **Sir Staterius, Baron of Thornbush — £245.9 CR, 24 household knights + 52 foot, shell-keep castle DV 5/13.** Hindon is the same rung of the ladder.
-*(Honour tiers: Knight's Honour £100–150 · Small Baron £150–200 · **Baron £200–300** · Rich Baron £300–500 · Great Baron £500+.)*
+**Rank & value — a petty lord.** Hindon is held *by barony* (tenant-in-chief; a King's-Council seat) but at the **smallest tier: ~£150 Customary Revenue — a minor/petty baron** (warlord "Minor Baron £100–200"). Idnerth was a *small* lord with *large* pretensions — which is the whole story of him.
 
-**The honour, broken out:**
+**Generated structure** (rolled on the estate/warlord tables):
 | Element | Detail |
 |---|---|
-| **Customary Revenue** | ~£230/yr (~£222 Assized Rents + ~£8 court/Other Income) |
-| **Caput major** *(the ~£150 demesne core — "the chief estate that can't be broken up")* | Hindon castle — motte-and-bailey + **stone shell keep** (DV ~9/13/2); **Fine** furnishings (£40 — tapestries, silver plate; the "extravagance"); the home manors; a **walled market town** (the wool/cloth trade, +Market-Town rent); a mill / fulling-mill |
-| **Enfeoffed** *(~£80)* | **~4 vassal knights** (each ~£20 ≈ one manor; each owes 1 knight + 2 field + 1 garrison foot **up** to Hindon) + a couple of demesne outlier manors in the border valleys |
-| **Servitium debitum** | **~23 knights + ~46 field foot + ~23 garrison foot** (1 kt + 2 + 1 per £10 CR; the King may set lower by grace). Full muster ~16–24 knights — the ~12 who died on the walls were the *loyal remnant* after desertion |
-| **Discretionary Fund** | ~£23/yr free money (the wool-surplus that bought the Fine hall and the dirty coin) |
-| **Expense model** (on £230 CR) | Army 55% ≈ £127 · Court 25% ≈ £57 · Family 10% ≈ £23 · Discretionary 10% ≈ £23 |
-| **Annual Glory** | up to **100/yr** (capped) for the holder — a real Glory engine + the Council seat |
-| **Geld (Uther land tax)** | ~£39/yr owed the Crown (17% of CR) |
+| **Customary Revenue** | ~£150/yr total honour |
+| **Caput major** *(~£50–60 chief estate; Book-of-the-Estate £50-class)* | Hindon castle (motte-and-bailey + **stone shell keep**, DV ~9/13/2); a **Mill** (+£2); the home manors + the walled **wool market-town**. A £50 estate supports a real household (steward, constable, chaplain, marshal + ~5 household knights). Base Assized Rent rolled **£60.** |
+| **⚑ Furnishings — MAGNIFICENT (£160)** | *The tell.* A petty lord's hall decked in gold plate and the best tapestries in the march — **furnishings worth more than his entire honour earns in a year.** No honest £150 baron affords that. This is the conspiracy made visible: Idnerth propped up grandeur far past his means with the **wool-trade and treason-money** (bought men, sold secrets) — exactly what made him a *doubted lord.* Senara's "extravagance" was raised amid a magnificence that was always a lie. |
+| **Outliers** *(~£90, "random manors & lands elsewhere" — 10 parcels)* | **2 sub-estates** (one in a **different county**), **4 scattered manors** (one also in a **different county**), **3 fee-farms** (leased for cash, no servitium owed), and a **second market town** — strung across the home hundred, the wider county, and *beyond Salisbury's border.* A patchwork, not a compact block. |
+| **Demesne / enfeoffed** | ~£100 demesne / ~£50 enfeoffed → **~2–3 vassal knights** + a household |
+| **Servitium debitum** | **15 knights + 30 field + 15 garrison foot** (1 + 2 + 1 per £10 CR). Nominal muster ~15 knights — the **~12 who died on the walls were nearly his whole loyal strength** after desertion |
+| **Discretionary Fund** | ~£15/yr honest — a pittance against a £160 hall, which is precisely the point |
+| **Annual Glory** | up to **100/yr** (capped) for the holder; a **Council seat** (minor baron) |
+| **Geld (Uther land tax)** | ~£25/yr (17% of CR) |
 
 **The legal state — forfeit by attainder.** Idnerth, convicted of treason, is **attainted**: he forfeits all lands & titles, **and his heirs are *tainted* — Lady Senara cannot inherit unless the King pardons her by name** (thread #12). Hindon **escheats to the Crown**; a royal **escheator** (that office is **Sir Brewnor's**) holds and inventories it during the vacancy; the King may **re-grant, keep, or absorb** it, and takes **primer seisin** (≈1 year's profits) at the transition.
 
-**What Abisec might be granted — the two shapes:**
-- **Knight Banneret + the caput estate.** *Banneret is a specific royal title for **valor in battle*** (rank-Glory 1,500) — **not** a synonym for "estate-holder." It fits his deeds to the letter. Paired with the **~£150 caput** (castle, town, home manors), he'd be a **banneret holding a large estate** — a great step, but short of a Council seat.
-- **Baron of Hindon.** Granted the **whole ~£230 honour** in capite → Abisec becomes a **Baron** (rank-Glory 2,000): a **King's-Council seat**, ~23 knights' servitium, ~£23/yr discretionary, ~100 Glory/yr — and the upward duties (royal leave for his *own* marriage, castle-building, major feasts). The full leap: Vassal Knight → **Baron.**
-- **+ Lady Senara's hand** could be folded in: a **royal pardon** for the tainted heiress and a marriage to the new lord would "clean" the title in the eyes of Hindon's old vassals and quiet the border — at the cost of wedding a destroyed traitor's daughter who may yet nurse the ruin of her house.
+**What Abisec might be granted — the two shapes (petty-barony scale):**
+- **Knight Banneret + the caput estate.** *Banneret = a royal title for **valor in battle*** (rank-Glory 1,500), **not** a synonym for "estate-holder" — it fits his deeds exactly. Paired with the **~£55 caput** (castle, mill, town, home manors), he'd be a **banneret holding a large estate**: a real foothold, short of a Council seat. The scattered outlier parcels could be reassigned elsewhere by the King.
+- **(Minor) Baron of Hindon.** Granted the **whole ~£150 honour** in capite → Abisec becomes a **petty Baron** (Council seat, ~15 knights' servitium, ~£15/yr discretionary, ~100 Glory/yr) — and the upward duties (royal leave for his own marriage, castle-building). A baron's coronet, but a small one: a name and a seat, not yet wealth.
+- **+ Lady Senara's hand** could fold in: a **royal pardon** for the tainted heiress + a marriage would "clean" the title for the old vassals and quiet the border — at the cost of wedding a destroyed traitor's daughter who may yet nurse the ruin of her house.
 
 ---
 
