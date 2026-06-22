@@ -1,0 +1,15 @@
+# Python cruft from the dice/oracle scripts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# NOTE: campaigns/ is intentionally NOT ignored — the saga state under
+# campaigns/<name>/state/ is the whole point and is meant to be committed.
