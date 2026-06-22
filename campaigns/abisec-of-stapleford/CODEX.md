@@ -216,16 +216,29 @@ See §12. **~£230 Baron-tier honour, forfeit to the Crown**; Abisec the front-r
 
 ---
 
-## 12. HINDON BARONY — DOSSIER (the prize)
+## 12. HINDON BARONY — DOSSIER (rules-grounded, Book of the Warlord)
 
-| | |
+**Rank & value.** Hindon is held *by barony* (tenant-in-chief; a King's-Council seat) — a true **Baron-tier honour at ~£230 Customary Revenue** (CR = Assized Rents + court/Other Income = *the value of the holding*). Canonical near-twin: **Sir Staterius, Baron of Thornbush — £245.9 CR, 24 household knights + 52 foot, shell-keep castle DV 5/13.** Hindon is the same rung of the ladder.
+*(Honour tiers: Knight's Honour £100–150 · Small Baron £150–200 · **Baron £200–300** · Rich Baron £300–500 · Great Baron £500+.)*
+
+**The honour, broken out:**
+| Element | Detail |
 |---|---|
-| **Value** | **~£230/yr Customary Revenue — a true Baron-tier honour** (Council seat; ~100 Glory/yr) |
-| **Caput major** | Hindon castle — motte-and-bailey with **stone shell keep** (DV ~9/13/2), **finely furnished** (tapestries, silver plate) |
-| **The town** | A **walled wool-town** below the castle (market, fulling-mill, the cloth-and-wool trade — the Boar's dirty-money engine) |
-| **Lands** | ~a dozen manors & improved fields up and down the border valleys |
-| **Split** | ~£150 demesne / ~£80 enfeoffed → **~4 vassal knights** + a household; nominal muster ~16–20 knights (the ~12 who died on the walls were the loyal remnant) |
-| **Now** | **Forfeit to the Crown** (Idnerth attainted). Disposal at Uther's pleasure; **Abisec the front-runner.** Seneschal **Sir Bledig** surrendered; heiress **Lady Senara** a ward |
+| **Customary Revenue** | ~£230/yr (~£222 Assized Rents + ~£8 court/Other Income) |
+| **Caput major** *(the ~£150 demesne core — "the chief estate that can't be broken up")* | Hindon castle — motte-and-bailey + **stone shell keep** (DV ~9/13/2); **Fine** furnishings (£40 — tapestries, silver plate; the "extravagance"); the home manors; a **walled market town** (the wool/cloth trade, +Market-Town rent); a mill / fulling-mill |
+| **Enfeoffed** *(~£80)* | **~4 vassal knights** (each ~£20 ≈ one manor; each owes 1 knight + 2 field + 1 garrison foot **up** to Hindon) + a couple of demesne outlier manors in the border valleys |
+| **Servitium debitum** | **~23 knights + ~46 field foot + ~23 garrison foot** (1 kt + 2 + 1 per £10 CR; the King may set lower by grace). Full muster ~16–24 knights — the ~12 who died on the walls were the *loyal remnant* after desertion |
+| **Discretionary Fund** | ~£23/yr free money (the wool-surplus that bought the Fine hall and the dirty coin) |
+| **Expense model** (on £230 CR) | Army 55% ≈ £127 · Court 25% ≈ £57 · Family 10% ≈ £23 · Discretionary 10% ≈ £23 |
+| **Annual Glory** | up to **100/yr** (capped) for the holder — a real Glory engine + the Council seat |
+| **Geld (Uther land tax)** | ~£39/yr owed the Crown (17% of CR) |
+
+**The legal state — forfeit by attainder.** Idnerth, convicted of treason, is **attainted**: he forfeits all lands & titles, **and his heirs are *tainted* — Lady Senara cannot inherit unless the King pardons her by name** (thread #12). Hindon **escheats to the Crown**; a royal **escheator** (that office is **Sir Brewnor's**) holds and inventories it during the vacancy; the King may **re-grant, keep, or absorb** it, and takes **primer seisin** (≈1 year's profits) at the transition.
+
+**What Abisec might be granted — the two shapes:**
+- **Knight Banneret + the caput estate.** *Banneret is a specific royal title for **valor in battle*** (rank-Glory 1,500) — **not** a synonym for "estate-holder." It fits his deeds to the letter. Paired with the **~£150 caput** (castle, town, home manors), he'd be a **banneret holding a large estate** — a great step, but short of a Council seat.
+- **Baron of Hindon.** Granted the **whole ~£230 honour** in capite → Abisec becomes a **Baron** (rank-Glory 2,000): a **King's-Council seat**, ~23 knights' servitium, ~£23/yr discretionary, ~100 Glory/yr — and the upward duties (royal leave for his *own* marriage, castle-building, major feasts). The full leap: Vassal Knight → **Baron.**
+- **+ Lady Senara's hand** could be folded in: a **royal pardon** for the tainted heiress and a marriage to the new lord would "clean" the title in the eyes of Hindon's old vassals and quiet the border — at the cost of wedding a destroyed traitor's daughter who may yet nurse the ruin of her house.
 
 ---
 
