@@ -15,13 +15,13 @@
 |---|---|---|
 | **Sir Elad** | Hard veteran household knight | Follower in his eschille; loyalty hard-won |
 | **Sir Cadry** | Young Salisbury knight | Loyal friend; rides at his right; at court |
-| **Sir Idris** | Young Salisbury knight, pox-scarred | Loyal; at court |
+| **Sir Idris ap Cynan** | Young Salisbury knight, pox-scarred | **DEAD (spring 482)** — took a spear hauling Achil out of Hindon; Abisec's First Aid failed (roll 18). Rode at Abisec's right since the Plain Sweep. Honored: a barrow on the Plain, his name in the county roll |
 | **Sir Gwion** | Young Salisbury knight | Leg knit stiff-but-serviceable (Plain Sweep wound); garrisoning Vagon |
 | **Sir Gerin / Sir Bann** | Seasoned household knights | Recruited to the eschille before Bedegraine |
 | **Sir Jasson** | Senior household knight, neighbor; wry | Friend; warned him to keep the old faith quiet |
 | **Lady Isabel** | Family friend, married into a Londinium merchant house | Warm; court insider & matchmaker |
 | **Sir Garmon** | Old household knight; soldiered with Bascar | Warm old family friend; offers a network of "useful dull men" at court |
-| **Achil** | Brother / squire (16); "above all"; fallback heir | **MISSING (fate unknown) since spring 482** — set out for Vagon, never arrived. Possible Boar revenge. *The crisis of 482.* |
+| **Achil** | Brother / squire (16); "above all"; fallback heir | **RESCUED from Hindon (spring 482).** Survived two weeks' captivity by playing the useful leech; helped from inside. Changed by it — and by watching Idris die carrying him out; reforged in his healer-who-fights resolve. Heir restored |
 | **Bascar / Eluned** | Father / mother (Stapleford) | Eluned nursed Abisec from the mortal wound; Bascar brokered a kin-marriage (WP 481) |
 | **Sir Gwion** | Young Salisbury knight; leg stiff from the Plain Sweep | Garrisons **Vagon** — now under Abisec's command; glad he took the keys |
 | **Cynyr** | Roderick's huntsman; Plain-wise | Won over (Plain Sweep); with the Count |
@@ -34,7 +34,10 @@
 ## Adversaries & suspects
 | NPC | Who | Standing |
 |---|---|---|
-| **Baron Idnerth of Hindon** | "The Boar" — the conspiracy's head; brutal close-fighter (Sword ~17, big & strong, poor horseman, tires) | **Cleared by trial of combat (Twelfth Night 481)** — beat Abisec on a critical lance, free at Hindon. But ruined politically and now the **King's open enemy.** Abisec's near-killer and bitter foe; lives across the valley from Abisec's new seat at Vagon |
+| **Baron Idnerth of Hindon** | "The Boar" — the conspiracy's head | **TAKEN ALIVE (spring 482)** by Abisec on Hindon's burning wall, after abducting Achil; bound for a Londinium cell and a traitor's scaffold. Hindon forfeit. Parted with grudging respect: "you'd have made a son worth having." His arc closed |
+| **Lady Senara of Hindon** | Idnerth's only child & heir (~19); proud, finely-raised | Was away when Hindon fell; now a **ward/captive** of the victors, house attainted. A marriage-pawn for whoever's granted Hindon — or a future Morgan-shaped enemy. *Unmet; watch her.* (thread #12) |
+| **Sir Brewnor** | Royal household knight; the Crown's officer on the Hindon commission | Dry, competent, fair — appreciated Abisec's plan and his mercy. A useful **crown ally** going forward |
+| **Sir Bledig** | Idnerth's seneschal (ran Hindon's manors/books) | Surrendered with the castle; fealty in limbo; will serve whoever the King names — if his hands prove clean |
 | **Sir Cadeyrn** | Idnerth's handler/agent (the grey-rider) | Captured, prisoner at Sarum; defiant |
 | **Father Maucan** | Vagon's traitor-chaplain (informant) | Captured, prisoner at Sarum; broken, talking |
 | **Sir Pedr** | Landless Silchester knight | **Flipped — confessed (Day 3 dawn)** under Roderick's protection; never dealt with Idnerth, only the cutout "Master Gwyn." A held card |

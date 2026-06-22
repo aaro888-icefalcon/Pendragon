@@ -12,7 +12,7 @@ Cymric, of Sarmatian descent. Known at court for its **healing**, and quietly fo
 
 ## Succession
 - **Heir:** none yet — Abisec is unmarried. **URGENT now:** he took a mortal wound at 23 in the Twelfth Night 481 trial by combat and nearly died heirless. The **marriage question** (Lady Nest of Tisbury; also Adwen, Generys — threads #9) is the open dynastic priority.
-- **Line of fallback:** brother Achil — **but Achil is MISSING (fate unknown) as of spring 482** (Winter Phase family roll). With Abisec heirless and just back from a mortal wound, and the fallback heir vanished, **the dynasty is at its most fragile yet.** Finding Achil is both a brother's duty and a dynastic necessity.
+- **Line of fallback:** brother Achil — **rescued from Hindon (spring 482)**, alive and the heir restored, though marked by captivity and by Idris's death. The dynasty steadied; the marriage/heir question (Adwen at Wilton, possibly Lady Senara via Hindon's grant) is now the priority, sharpened by how close Abisec came to dying heirless.
 - **Eluned** rode from Stapleford to Londinium and nursed Abisec back from the mortal wound (Chirurgery) — the family's healing gift, in person.
 
 ## Holding

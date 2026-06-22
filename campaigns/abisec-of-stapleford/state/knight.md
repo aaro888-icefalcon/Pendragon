@@ -9,7 +9,7 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,448** (firmed at Winter Phase 481: 2,344 play tally + ~104 annual — landholding, castellan title, famous Honor, maintenance). Next Bonus Point at 3,000. |
+| Current Glory | **~2,494** (~2,448 firmed at WP 481 + ~150 for the storm of Hindon / taking the Boar alive / the chivalry of the mercy − overlap; tally firms next WP). Next Bonus Point at 3,000 — within a year's reach. |
 | Economic grade | **Superlative** (£13+/yr equiv.; castle + lord's maintenance) — 3 squires' worth, glory bonuses, +2 horse / +3 family rolls |
 | Holding | **Castellan of Vagon** (Salisbury's western watch, facing Hindon) from spring 482 — granted by Roderick, "Vagon or better," earned in service & blood. (Stapleford remains the family seat.) |
 | Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. (Homage still to Roderick; Uther reaches through the Count.) |
