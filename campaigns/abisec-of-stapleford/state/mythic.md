@@ -3,9 +3,10 @@
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
 **Mode now:** on-script — the campaign spine follows the year brief and the live Boar arc. Use a **Scene Test** only when the knight rides off the brief into ground the books don't cover.
 
-## Chaos Factor: 5
+## Chaos Factor: 4
 
 <!-- 1–9. −1 after a scene the knight mostly controlled, +1 after a chaotic one. The game year remains the master metronome; Chaos never overrides the schedule. -->
+<!-- 5 → 4: Day 2 dusk, Abisec read the column clean and made his report unobserved — a scene he controlled. -->
 
 ## Threads List → `state/threads.md`
 | # | Open thread (short) | Weight |
@@ -28,4 +29,4 @@
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas Court 481, Day 2 at dusk — returning from the King's hunt, the assassins' three faces banked, Roderick not yet told.
+- Save point: Christmas Court 481, Day 2 dusk — at the White Tower gate, hunt probe reported to Roderick; Pedr to be pulled "carefully"; heading into the Christmas feast at Roderick's board. Open: how to take Pedr.

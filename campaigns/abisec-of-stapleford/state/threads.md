@@ -8,7 +8,7 @@
 | 4 | **Old-guard friction** | Sir Caradoc of Tilshead & the old families cool toward the risen upstart. Standing earned by deeds (Bedegraine helped), not words. |
 | 5 | **The dangerous royal secret** | Abisec knows *which* lord the King doubts. A career-maker and a death-sentence both; very few share it. |
 | 6 | **Christmas board honor (480)** | CLOSED — Roderick publicly seated Abisec among his favored. |
-| 7 | **Idnerth at large / the hired swords** | Idnerth exposed but uncondemned; at court, brazen & maneuvering. **Bought swords are hunting Abisec** (hunt probe foiled; 3 faces known). Leads: Sir Pedr, Bledri, the wider net. *Imminent danger.* |
+| 7 | **Idnerth at large / the hired swords** | Idnerth exposed but uncondemned; at court, brazen & maneuvering. **Bought swords are hunting Abisec** (hunt probe foiled; 3 faces known). **Roderick now informed (Day 2 dusk)** — wants the *paymaster* shown, not the hirelings; orders Pedr pulled carefully. Pedr seen counting faces at the gate (awaiting news of the failed hit). Leads: Sir Pedr, Bledri, the wider net. *Imminent danger.* |
 | 8 | **Vagon / the estate prospect** | Edern to be removed; **"Vagon, or better"** owed to Abisec after the Christmas matter resolves. ~£144 liquid in reserve. |
 | 9 | **Marriage / the dynasty** | Abisec means to "find someone." At court, courting **Lady Nest of Tisbury** (a genuine spark; shared falconry & reading). Hawking date Wednesday AM. No heir yet. |
 

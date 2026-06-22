@@ -8,6 +8,7 @@ One line per beat. GM rulings recorded here as precedent.
 - **481, Session 3–4:** Vagon/Boar investigation — Maucan & Cadeyrn taken alive; Idnerth of Hindon exposed. Battle of Bedegraine (decisive; £170 ransom; a Courser). Estate hardened (armory, moat, gateworks). Achil set to the spurs.
 - **481, Christmas Court (Day 1–2):** First royal court at the White Tower, Londinium. Standing won; courting Lady Nest; hired-swords threat surfaces. **Day 2 dusk — hunt probe foiled:** 3 badgeless men tried to herd Abisec for a "hunting mishap"; he denied them and banked their three faces. **SAVE POINT.**
 - **481, Session 4 (this session):** Resumed from uploaded codex; working state materialized into `campaigns/abisec-of-stapleford/state/`. Resuming at Day 2 dusk, riding back to the Tower.
+- **481, Christmas Court Day 2 dusk:** Abisec rode up the column [Awareness 13 vs d20=5: success] — read it clean, clocked Pedr counting faces at the King's party (awaiting news of the failed hit), slipped to Roderick unobserved. **Reported the hunt probe** at the stirrup. Roderick: hirelings worthless, the paymaster is everything; pull Pedr carefully — "a name with a boar behind it." Standing order for the feast: eat in his sight, drink nothing unwatched. Scene controlled by the knight → CF 5 → 4.
 
 ## Rulings (precedent — keep consistent forever)
 1. Campaign opens 480 (not chargen's 485); knighting on-screen at Easter 480.

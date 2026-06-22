@@ -4,7 +4,7 @@
 **Current year:** 481 (closing; Christmas Court)
 **Period:** Uther (Book of Uther: campaign/uther/)
 **Season/position:** Christmas Court 481, White Tower of Londinium — Abisec's first royal court
-**Current scene:** Day 2 at dusk — riding back to the Tower from the King's hunt, having foiled an assassination probe (3 badgeless men; their faces banked). Roderick not yet told of the hunt probe.
+**Current scene:** Day 2 at dusk — back at the White Tower gate. Abisec has **reported the hunt probe to Roderick** (told flat, at the stirrup). Roderick's read: the dead hirelings don't matter; the hand that paid does. **Sir Pedr** seen counting faces in the column (waiting on news of the hit that failed) — Roderick wants him pulled carefully ("a name with a boar behind it"). Heading into the **Christmas feast** at Roderick's board tonight; standing order: eat in his sight, drink nothing unwatched. Open question on the table: *how to take Pedr.*
 
 ## Situation
 
