@@ -3,13 +3,14 @@
 | Field | Value |
 |---|---|
 | Name | Sir Abisec of Stapleford, "Shake" |
-| Born / Age | 459 / 22 (aged at Winter Phase 480) |
+| Born / Age | 459 / **23** (aged at Winter Phase 481) |
 | Homeland / Liege | Salisbury / Count Roderick |
 | Lineage | Cymric, of Sarmatian descent (eastern cavalry auxiliaries Rome settled on the Plain) |
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,344** (2,194 + ~25 mêlée + ~75 royal favor + ~50 valor of the trial-by-combat; tallies firm at Winter Phase) |
+| Current Glory | **~2,448** (firmed at Winter Phase 481: 2,344 play tally + ~104 annual — landholding, castellan title, famous Honor, maintenance). Next Bonus Point at 3,000. |
+| Economic grade | **Superlative** (£13+/yr equiv.; castle + lord's maintenance) — 3 squires' worth, glory bonuses, +2 horse / +3 family rolls |
 | Holding | **Castellan of Vagon** (Salisbury's western watch, facing Hindon) from spring 482 — granted by Roderick, "Vagon or better," earned in service & blood. (Stapleford remains the family seat.) |
 | Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. (Homage still to Roderick; Uther reaches through the Count.) |
 | Bonus Points | Both spent — 1,000-mark → Battle; 2,000-mark → Battle (now 18). Distinguished-self passion +1 → Honor 16. |
@@ -55,16 +56,19 @@
 | Courtesy | 13 | Gaming | 3 | Religion [Pagan] | 2 |
 | Dancing | 2 | Heraldry | 3 | Romance | 2 |
 | Faerie Lore | 1 | Hunting | 2 | Singing | 2 |
-| Falconry | **10** | Intrigue | 10 | Stewardship | 3 |
+| Falconry | **10** | Intrigue | 11 | Stewardship | 3 |
 | | | Orate | 3 | Swimming | 2 |
 | | | Play [harp] | 3 | Tourney | 2 |
 
 ## Combat Skills
 | Skill | Value | | Skill | Value |
 |---|---|---|---|---|
-| Sword | **15** | | Battle | **18** |
-| Lance | **15** | | Horsemanship | **15** |
+| Sword | **16** | | Battle | **18** |
+| Lance | **16** | | Horsemanship | **15** |
 | Spear | 6 | | Dagger | 5 |
+
+<!-- Sword 15→16 & Lance 15→16 gained at Winter Phase 481 experience (both now "famous"); Intrigue 10→11. -->
+
 
 ## Wounds & Condition
 - **HP 25/25 — Healthy (recovered, spring 482).** Took a **mortal wound** in the Twelfth Night trial by combat (Idnerth's critical lance: net 31 vs a 7-HP body); saved by the King's surgeon [First Aid 16: success]. Nursed Unhealthy→Healthy by **Eluned's Chirurgery** [3 weekly successes]. Permanent cost: DEX 13→11, APP 12→11, the chest scar. **Watch:** Aggravation rule — strenuous activity while HP ≤ half (≤12) risks re-opening wounds.
@@ -84,11 +88,11 @@
 - Father's field-surgery roll; a tiercel (hawk).
 
 ## Squire
-**Achil** — younger brother, age 16. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. Squired ably through the Plain Sweep and Bedegraine (captured the Courser). DECIDED (481): will take the spurs (a knight who also heals). Knighting ~484–486; to be outfitted from the new armory.
+**Achil** — younger brother, age 16. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. **MISSING (fate unknown) since late winter / early spring 482** — set out to join Abisec at Vagon and never arrived; no body, ransom, or word. Possible Boar revenge (unconfirmed). The fallback heir + Abisec's closest tie. *Driving crisis of 482.*
 
-## Experience checks pending (for Winter Phase 481)
-<!-- Append as earned in play; cleared at Winter Phase. -->
-- **Courtesy** — won the public salute-duel with Baron Idnerth at the Christmas feast (Day 2 night).
+## Experience checks pending (next Winter Phase)
+<!-- Append as earned in play; cleared at Winter Phase. Winter Phase 481 processed: Sword/Lance/Intrigue gained; rest erased. -->
+- (none yet for 482)
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.

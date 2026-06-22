@@ -21,6 +21,9 @@
 | **Sir Jasson** | Senior household knight, neighbor; wry | Friend; warned him to keep the old faith quiet |
 | **Lady Isabel** | Family friend, married into a Londinium merchant house | Warm; court insider & matchmaker |
 | **Sir Garmon** | Old household knight; soldiered with Bascar | Warm old family friend; offers a network of "useful dull men" at court |
+| **Achil** | Brother / squire (16); "above all"; fallback heir | **MISSING (fate unknown) since spring 482** — set out for Vagon, never arrived. Possible Boar revenge. *The crisis of 482.* |
+| **Bascar / Eluned** | Father / mother (Stapleford) | Eluned nursed Abisec from the mortal wound; Bascar brokered a kin-marriage (WP 481) |
+| **Sir Gwion** | Young Salisbury knight; leg stiff from the Plain Sweep | Garrisons **Vagon** — now under Abisec's command; glad he took the keys |
 | **Cynyr** | Roderick's huntsman; Plain-wise | Won over (Plain Sweep); with the Count |
 | **Caw** | Roderick's plain-faced quiet man (forgettable on purpose) | Loyal agent; took Pedr alive at the feast (Day 2 night); running the interrogation |
 | **Brother Iuan** | Young syncretic priest, now Stapleford's | Committed ally; Abisec swore (Honor) to shield him |
