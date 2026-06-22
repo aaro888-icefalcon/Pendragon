@@ -9,7 +9,8 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,219** (2,194 + ~25 mêlée tally, Christmas tournament 481; firms at Winter Phase) |
+| Current Glory | **~2,294** (2,194 + ~25 mêlée + ~75 royal favor, Christmas court 481; tallies firm at Winter Phase) |
+| Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. (Homage still to Roderick; Uther reaches through the Count.) |
 | Bonus Points | Both spent — 1,000-mark → Battle; 2,000-mark → Battle (now 18). Distinguished-self passion +1 → Honor 16. |
 
 ## Attributes & Derived

@@ -4,7 +4,7 @@
 | NPC | Who | Standing to Abisec |
 |---|---|---|
 | **Count Roderick** | Count of Salisbury; liege (Battle 17, Glory 4,044; just, prudent) | Deep trust — his "unconnected instrument"; promised an accounting/reward |
-| **King Uther Pendragon** | King of Logres; suspicious, proud, lustful, dangerously generous | Has "marked Abisec's face"; an audience is coming on the King's clock |
+| **King Uther Pendragon** | King of Logres; suspicious (Trusting 6, Intrigue 23), proud, shrewd, rules through fear & favorites | **FAVORABLE (Twelfth Night eve).** Took Abisec's measure privately and decided he wants him: "an honest instrument I can spend without watching my back"; prizes his discretion; honored the Roderick chain; charged him as the Twelfth Night witness against Idnerth |
 | **Merlin** | The enchanter; present at court | Unmet; a cowled unease by the dais |
 | **Sir Sadinal** | King's Herald & Dapifer (Heraldry 19, Courtesy 17) | Warm ally (481) — will see Abisec presented well; a who's-who source |
 | **Sir Ulfius** | Marshal of Logres, Duke of the Vale; royal favorite | Favorable notice — "Bedegraine… you'll do" |
@@ -40,7 +40,9 @@
 | **Sir Petroc of Dimilioc** | Young Cornish knight; Duke Gorlois's man | **Unhorsed Abisec in the first joust course** (the crit of his life; freely admits it was luck). Warm after Abisec saluted him — a gracious young friend-rival; a thread into Cornwall/Gorlois as that drama looms |
 | **Two feast-killers** | The Boar's men, sent to knife Pedr | Aborted under Abisec's public shout; withdrew unhurt; one marked Abisec's face. Faces banked |
 | **Father Cynfael** | Salisbury's zealous chaplain | Wary coexistence; face-saved at Plough Monday; watches for any slip |
-| **Sir Caradoc of Tilshead** | Old-family senior knight | Cool/skeptical — voice of old-guard resentment |
+| **Sir Caradoc of Tilshead** | Old-family senior knight; voice of the old guard | **Cool — unwon (Twelfth Night eve), on principle.** Distrusts fast royal-favored rises ("climb fast, land hard, take the steady men down"); grants Abisec's prowess but not his hand until he's lasted 5 years and *held* something. Not an enemy — a worldview to win. Father of Lady Generys |
+| **Lady Adwen** | Young twice-widowed lady; holds a Wilton dower manor (~£12/yr) in her own hand | Marriage prospect — land & a capable partner, but a feud with her dead husbands' kin attached; "come back when you've done your sums" |
+| **Lady Generys** | Sir Caradoc's daughter; gentle, dutiful, pious (Christian) | Marriage prospect — a politics/old-guard alliance (would heal #4); door **cool** while her father is unwon; faith-tension with Abisec's quiet paganism |
 | **Sir Edern of Vagon** | Castellan (loyal but slack) | To be removed honorably; no grudge |
 | **Bledri** | Wool-factor | The Boar's letter-conduit; a lead to run down |
 | **Sir Brastias** | Hard northern knight | The man to beat at the Christmas tournament |

@@ -25,14 +25,13 @@
 ## Characters List → `state/npcs.md`
 | NPC | Weight |
 |---|---|
-| Baron Idnerth of Hindon ("the Boar") | 3 |
-| Lady Nest of Tisbury | 3 |
-| Master Gwyn (the Boar's cutout) | 2 |
+| Baron Idnerth of Hindon ("the Boar") — at his reckoning | 3 |
+| King Uther (favorable; charged Abisec his witness) | 3 |
 | Count Roderick (liege) | 2 |
-| King Uther | 2 |
-| Bledri (wool-factor conduit) | 2 |
-| Sir Pedr (flipped, held card) | 1 |
+| Lady Nest of Tisbury (deciding by winter) | 2 |
+| Sir Caradoc of Tilshead (unwon, principled frost) | 1 |
+| Sir Pedr (sole witness, moved to Sarum) | 1 |
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
-- Save point: Christmas Court 481, **Day 5 late afternoon — tournament over.** Joust lost (graciously); **mêlée won the field on Abisec's double charge**, rode out Champion Brastias's blow (Brastias took the laurel; Abisec took the Marshal's & King's regard + ~25 Glory). HP 22/25. Open clocks: **Bledri result pending** (Roderick pulling him today); **Pedr the sole witness** (guard tripled, prime target); the **royal audience** unspent on Uther's clock; the **Boar isolating & cutting threads**; ~5 days to the **Twelfth Night reckoning**. Open clocks: **Gwyn dead/silenced** (climb severed) → **Pedr is the sole witness** (guard tripled); **Roderick pulling Bledri today**; the **royal audience** on Uther's clock; the **Boar isolating, cutting threads & likely bolder**; ~5 days to the **Twelfth Night reckoning**.
+- Save point: **TWELFTH NIGHT 481 — the Boar reckoning, live.** Abisec (sober, beside Roderick) has just been **called by the King to stand and testify** against Idnerth before the whole court. He won the King privately on Twelfth Night eve (opposed Honest 13 vs Suspicious 14) and is the crown's chosen witness; royal favor gained (Glory ~2,294). HP 22/25. **Open:** Abisec's testimony — and a cornered Boar's response (possible trial-by-combat demand or desperate act). Background: Gwyn dead, Bledri a dead-end backfire, Pedr the sole witness at Sarum; Caradoc/old-guard unwon; Nest deciding by winter; Vagon prospect owed after this resolves.
