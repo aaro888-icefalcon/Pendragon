@@ -37,7 +37,7 @@
 | **Sir Pedr** | Landless Silchester knight | **Flipped — confessed (Day 3 dawn)** under Roderick's protection; never dealt with Idnerth, only the cutout "Master Gwyn." A held card |
 | **Master Gwyn** | The Boar's court cutout/paymaster | **DEAD — silenced (Day 5).** Found drowned at a wharf-stair hours before Roderick's men could take him; the Boar cut his own thread. The Gwyn→Idnerth climb is severed |
 | **Sir Brastias** | Hard northern knight | The man to beat; still live in the Christmas tournament |
-| **Young Cornish knight (green)** | Eager journeyman jouster | **Unhorsed Abisec in the first course** (rolled the crit of his life). Name unknown; gracious-rival potential |
+| **Sir Petroc of Dimilioc** | Young Cornish knight; Duke Gorlois's man | **Unhorsed Abisec in the first joust course** (the crit of his life; freely admits it was luck). Warm after Abisec saluted him — a gracious young friend-rival; a thread into Cornwall/Gorlois as that drama looms |
 | **Two feast-killers** | The Boar's men, sent to knife Pedr | Aborted under Abisec's public shout; withdrew unhurt; one marked Abisec's face. Faces banked |
 | **Father Cynfael** | Salisbury's zealous chaplain | Wary coexistence; face-saved at Plough Monday; watches for any slip |
 | **Sir Caradoc of Tilshead** | Old-family senior knight | Cool/skeptical — voice of old-guard resentment |
