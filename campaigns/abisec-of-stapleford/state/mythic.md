@@ -3,7 +3,7 @@
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
 **Mode now:** on-script — spine follows the year brief; **482** now (Vagon, spring). Use a **Scene Test** only when the knight rides off the brief into ground the books don't cover.
 
-## Chaos Factor: 2
+## Chaos Factor: 4
 
 <!-- 1–9. −1 after a scene the knight mostly controlled, +1 after a chaotic one. The game year remains the master metronome; Chaos never overrides the schedule. -->
 <!-- … 2: Day 3 mews recovery (controlled), held through downtime.
@@ -12,7 +12,8 @@
      2 → 4: TWELFTH NIGHT TRIAL BY COMBAT — Abisec LOST, mortal wound, maimed; Idnerth cleared & free.
      4 → 5: spring 482 — Achil abducted by the Boar.
      5 → 2: the rescue & the storm of Hindon — Achil saved, Idnerth taken alive for the King's justice, the Boar arc CLOSED. The storm has passed; Abisec on top (a friend dead, Idris, the cost).
-     2 (held): the Hindon close — inventory, the guard-swap, Custennin (ExcYes ally), the Senara solar scene; Abisec steered every scene (even the unwon Senara result, Fate No); CF steady at 2. -->
+     2 (held): the Hindon close — inventory, the guard-swap, Custennin (ExcYes ally), the Senara solar scene; Abisec steered every scene (even the unwon Senara result, Fate No); CF steady at 2.
+     ⚠ RECALIBRATION (system review): CF had stuck at 2 by over-reading Abisec's *composure* as "in control." Per the rule (start 5; +1 when the PC does NOT master the scene's outcome, −1 when he does), the run of reversals on the homecoming — Senara's rejection, Idnerth withholding the truth, Gwenllian's cold rebuff, the Boar-backer dead end (none in Abisec's control) — should have driven CF back up. **Reset 2 → 4**, and moved ±1 every scene by outcome-mastery hereafter (baseline 5; floors: Anarchy/battle/faerie). At CF 4–5 honest odds breathe again (Likely 50–65%). -->
 
 ## Threads List → `state/threads.md`
 | # | Open thread (short) | Weight |
