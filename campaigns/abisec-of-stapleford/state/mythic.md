@@ -5,7 +5,9 @@
 
 ## Chaos Factor: 4
 
-<!-- 1–9. −1 after a scene the knight mostly controlled, +1 after a chaotic one. The game year remains the master metronome; Chaos never overrides the schedule. -->
+**Set it at each scene's START** = previous ±1 by whether the knight **mastered the outcome** (not his composure): −1 he controlled it · +1 it got away from him · ±2 only for a decisive triumph/catastrophe · hold on a wash. Clamp 1–9; baseline 5; floors Anarchy ≥5 / battle ≥4 / faerie ≥4. The game YEAR is the master metronome — CF is scene-tempo only, never overrides the GPC schedule.
+
+**Pace ladder:** 1 Becalmed (porridge) · 2 Quiet (gossip, hawking) · 3 Settled (a journey, a dispute) · 4 Stirring (threads tug, something brews) · 5 Balanced/baseline (live contest, outcomes uncertain) · 6 Turbulent (events outrun him) · 7 Volatile (crisis — feud/battle looms, he reacts) · 8 Chaos (betrayal/ambush, ground giving way) · 9 Cataclysm (everything at once). *Poles: 0 ≈ nothing stirs; 10 ≈ assassination + half the realm dead + poisoned + Grail loose — beyond the dice.*
 <!-- … 2: Day 3 mews recovery (controlled), held through downtime.
      2 → 3 → 2: Day 5 tournament (unhorsed, then won the field & rode out Brastias).
      2 (held): Twelfth Night eve — won the King's private audience.
