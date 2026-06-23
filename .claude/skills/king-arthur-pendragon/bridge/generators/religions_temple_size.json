@@ -1,0 +1,29 @@
+{
+ "id": "pendragon.religions.temple_size",
+ "title": "One-Roll Temple — How Big Is the Temple",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#how-big-is-the-temple-d4",
+ "entries": [
+  {
+   "min": 1,
+   "max": 25,
+   "value": "Much smaller than most in a similar place — a roadside shrine, a hermit's cave"
+  },
+  {
+   "min": 26,
+   "max": 50,
+   "value": "Shrunken from its former size — an old Roman basilica partly collapsed"
+  },
+  {
+   "min": 51,
+   "max": 75,
+   "value": "Normal for a temple of its importance"
+  },
+  {
+   "min": 76,
+   "max": 100,
+   "value": "Unusually large or grand for its site"
+  }
+ ]
+}

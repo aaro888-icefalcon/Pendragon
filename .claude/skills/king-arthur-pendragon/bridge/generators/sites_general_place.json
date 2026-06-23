@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.sites.general_place",
+ "title": "General Places of Adventure",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/06-sites-ruins.md#types-of-site",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A lost temple to a dead or forbidden god"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Ruins of a Roman town or fortified settlement"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Cavernous tunnels — old mine workings, natural caves, or barrow galleries"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "Ruined fortress of a former warlord or Roman garrison"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Town ruins swept away by plague, fire, or Saxon raid"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Lair of a legendary beast or monster"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "Sorcerer's tower or abandoned scholars' complex"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Failed colony or forward outpost"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A place of confinement built to hold a dangerous power"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Pilgrimage site for a lost or persecuted religion"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A nexus of faerie or otherworldly power"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Mortuary complex — barrow, cairn-field, or Roman mausoleum — for a lost people"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Stronghold of exiles, rebels, or Saxon newcomers"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "A settlement or den of dangerous inhuman folk"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "An underground settlement — carved hillfort, worked cave-complex, collapsed mine"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "An abandoned pleasure-place of a former lord — hunting lodge, baths, summer villa"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Lost fortified bridge or crossing-point"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Sinister ruined estate of a former lord"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "Roll again; now inhabited by interlopers"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Roll twice; one built on top of the other"
+  }
+ ]
+}

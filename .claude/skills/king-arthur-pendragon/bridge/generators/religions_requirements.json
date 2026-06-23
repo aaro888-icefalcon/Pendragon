@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.religions.requirements",
+ "title": "Particular Religious Requirements",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#particular-religious-requirements-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "Never or always associate with certain types of people"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Never eat a particular common food"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Give a significant tithe regularly — a tenth of income, a tenth of harvest"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "Make particular sacrifices at certain sacred times"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Revere or hate a particular class or group of people"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Forbid a certain common profession or social role"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "Forbid an activity common to society — blood sports, trade, weapons"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Give secular obedience to the clergy in matters of conscience"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Pray at certain fixed places or at fixed times of day"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Never or always trade with certain sorts of people"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Never or always live in certain kinds of places"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Marry exclusively within the faith"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Do something that wider society finds repugnant"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "Hold certain places, objects, or times to be taboo"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "Hide the faith's inner teachings from uninitiated outsiders"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Make sacrifices that neighbours find offensive or wasteful"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Never or always make war on certain people"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Honour or degrade a particular profession"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "Make certain pilgrimages to holy places — Rome, Jerusalem, a local shrine"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Never or always cooperate with a particular rival faith"
+  }
+ ]
+}

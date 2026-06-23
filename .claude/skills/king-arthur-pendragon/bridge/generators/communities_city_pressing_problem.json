@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.city_pressing_problem",
+ "title": "City — Current Pressing Problem",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#significant-towns-and-cities",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Saxon or Irish raiders are scourging local trade"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Criminals have corrupted the local lawmen"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Displeased locals are rioting"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "The king or overlord is making harsh demands"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Food supplies are not arriving as they should"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Armed factions are preparing to resolve a conflict violently"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A recent disaster has done major damage to the infrastructure"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A disguised monster or predator is feeding on the city"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The rulers have gravely offended the bishop or local saints"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A rebel faction denounces the city leader's legitimacy"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A private war threatens to involve this city"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A major local industry is threatened"
+  }
+ ]
+}

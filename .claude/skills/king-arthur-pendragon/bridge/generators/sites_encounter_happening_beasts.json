@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.sites.encounter_happening_beasts",
+ "title": "Wilderness Encounters — What Is Happening (With Beasts)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/06-sites-ruins.md#wilderness-encounters",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Wounded from a recent hunt"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Magically warped somehow"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Being chased by something bigger"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Remnants of its last prey are nearby"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Attacking someone right now"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Well-fed and disinclined to hunt"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Looks deceptively harmless or weak"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Someone's pet or hunting beast"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Fighting over a mate"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Using bait to lure in humans"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Currently eating its last prey"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Old or crippled and acting unpredictably"
+  }
+ ]
+}

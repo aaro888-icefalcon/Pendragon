@@ -1,5 +1,10 @@
 # Mythic: The Gap-Filler
 
+> **Scope:** this file is the contract for the **standalone mode** — when *Pendragon
+> drives* and reaches down to Mythic as rung 4 (`SKILL.md` mode B). In this repo the
+> **default is the reverse**: the `mythic-gm` engine drives and reads this skill's
+> `bridge/` (see `/CLAUDE.md`). Both honor the same one rule below.
+
 Mythic GME 2e is the **fourth tool** on the adjudication ladder — the oracle Pendragon never had. It does not replace any part of this engine. It runs *under* Pendragon and only where Pendragon is silent.
 
 The companion **mythic-gm** skill supplies the Mythic engine (Fate Questions, Scene Tests, Random Events, the Meaning Tables) and rolls them honestly through its own scripts. This file is the contract between the two. Read it whenever you are about to reach past `rules/`, `campaign/`, and `generators/` for an answer.

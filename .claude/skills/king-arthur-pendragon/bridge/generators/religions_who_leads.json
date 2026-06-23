@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.religions.who_leads",
+ "title": "Who Leads the Faith",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#who-leads-the-faith-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "Each holy man or woman is the autonomous leader of their own branch, with however many followers they can gather"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "Multiple bishops or high priests, friendly or otherwise, with subordinate clergy each obedient to their own superior"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "A single archbishop, abbot, or high priest with a layer of senior clergy beneath them"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "Individual congregations or grove-circles are independent, with their clergy subject to the consensus will of their people"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "Powerful lay believers fund temples or monasteries subject to their family's control"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "No official clergy; some believers take up special roles but are not qualitatively different from others"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "The church is entirely part of the secular structure of the land; its clergy are officials appointed by the lord"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "Roll twice; the faith has different structures in different places"
+  }
+ ]
+}

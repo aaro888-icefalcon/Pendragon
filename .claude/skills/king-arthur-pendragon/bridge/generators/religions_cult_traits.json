@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.religions.cult_traits",
+ "title": "One-Roll Malevolent Cult — Specific Traits of the Cult",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "It favours monstrous body alterations or markings"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "It is a remnant of a now-dead culture — Roman, Pictish, pre-Roman"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "It possesses a variety of potent ancient relics"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "It is a sect of a better-known public faith"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "It cuts secret deals with members of the ruling class"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "It has a totemic beast or monstrous creature type"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "They live where normal people could not survive"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "They practise some form of forbidden consumption"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "They have agents in other religious groups"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "They were thought to have been wiped out in the past"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A significant subculture of the land is friendly to it"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "It employs unusual enchantments or old Roman magic"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "It has obedient monstrous servants bound to it"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "An area is tacitly understood to belong to it — enter at your peril"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "It was once a public and powerful faith"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "It has open sympathisers among the great and powerful"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "It is thought by some to hold back some awful doom"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Its surface members look entirely unremarkable"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "The visible part of the cult is only a fraction of it"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "They serve a purpose that once made sense but no longer does"
+  }
+ ]
+}

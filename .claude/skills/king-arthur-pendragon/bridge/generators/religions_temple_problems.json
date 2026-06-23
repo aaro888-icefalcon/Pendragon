@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.religions.temple_problems",
+ "title": "One-Roll Temple — What Problems Does It Have",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#what-problems-does-it-have-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A rival faith or shrine is actively doing this one harm"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "The locals expect a miracle it cannot provide"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "The leader is fighting with their ecclesiastical superiors"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A priest here recently did something awful"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "The temple has gotten into serious debt"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A disaster has physically damaged the building"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Some armed men have a grudge against this shrine"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "The noble class refuse to patronise it for some reason"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "It shows signs of genuine divine displeasure — withered crops, sick animals"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A priest here is meddling with dark powers or forbidden rites"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A schismatic preacher is drawing off its believers"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Roll twice; one problem was caused by the other"
+  }
+ ]
+}

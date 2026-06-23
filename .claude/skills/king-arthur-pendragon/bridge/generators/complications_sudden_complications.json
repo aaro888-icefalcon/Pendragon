@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.complications.sudden_complications",
+ "title": "What Goes Wrong: Sudden Complications",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#what-goes-wrong-sudden-complications-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "The person they needed to speak to is dead, missing, or unreachable"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A third party they did not account for arrives with their own agenda"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "The information they acted on was deliberately false"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "An ally changes sides — not necessarily against the players, but toward their own interests"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "The time available is suddenly much shorter than assumed"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A prior action of the players has come back to haunt them here"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "The target has moved — the person, object, or situation is elsewhere"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Natural disaster or weather makes the situation much worse"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A superior authority intervenes and takes jurisdiction away from the players"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Someone who should be an enemy turns out to be a potential ally"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A secret comes to light that changes everyone's understanding of the situation"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "The obvious solution is unavailable because of some constraint no one mentioned"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "An innocent person is now in danger as a consequence of the players' actions"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "The Enemy knows what the players are planning"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "The Friend who promised to help cannot — they are compromised, frightened, or gone"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "The Thing turns out to be not what the players thought it was"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Someone important to the players is taken as a hostage or leverage"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "The players are blamed for something they did not do"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "An old wound is reopened — a blood feud, a broken oath, a past insult"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Everything goes well, but the consequences of success are unexpectedly complicated"
+  }
+ ]
+}

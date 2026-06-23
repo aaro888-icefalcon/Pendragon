@@ -1,0 +1,59 @@
+{
+ "id": "pendragon.npcs.ambition_form",
+ "title": "Basic Form of the Ambition",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "generators/03-npcs.md#basic-form-of-the-ambition-d10",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "To win the love or possession of a particular person"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "To obtain riches and personal wealth"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "To win political power or a particular title or office"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "To obtain glory and fame for a skill or great deed"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "To gain a particular property, estate, or holy relic"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "To go to or explore a far-off place — Jerusalem, Constantinople, Avalon"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "To become a member of a difficult or prestigious calling"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "To kill or utterly ruin a hated rival"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "To bring down an institution, family, or faith"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "To repay some immeasurable debt"
+  }
+ ]
+}

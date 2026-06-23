@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.npcs.visible_mannerisms",
+ "title": "Visible Mannerisms or Traits",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#visible-mannerisms-or-traits-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "An often-used catchphrase or verbal tic"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Always drinking or near a drink"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Hands never stop moving"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "Talks very slowly and deliberately"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Tends to shift weight constantly, never still"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Has an unusual hairstyle, beard, or markedly unfashionable look"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "Appears often to be slightly drunk or in a reverie"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Prefers always to be in shadow or away from windows"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Asks far too many questions"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Never looks you in the eye when lying"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Visibly hungry for gold, food, or attention"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Always circuitous about answering questions directly"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Never directly refuses or denies anything"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "Paces constantly; always prefers to stand"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "Has work-stained or scarred hands"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Old disease scars or pox marks on the face"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Prefers elaborate hats, belts, or jewelled adornments"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Always toying with rosary beads, a ring, or a coin"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "Knocks things over carelessly"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Checks written notes or tallies regularly"
+  }
+ ]
+}

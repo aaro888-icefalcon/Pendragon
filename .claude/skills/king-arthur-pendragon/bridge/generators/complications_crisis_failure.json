@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.complications.crisis_failure",
+ "title": "Why Did They Fail At the Final Crisis?",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#why-did-they-fail-at-the-final-crisis-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Their people were too deeply divided"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Their leadership was hopelessly inept"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "The gods cursed them to ruin"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Decadence and self-absorption doomed them"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "They were vastly overconfident in their plans"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Their neighbours conspired to help ruin them"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "It was actually two crises, and it was too much"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "They were culturally exhausted and apathetic"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Some tried to take advantage of the crisis themselves"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Their strengths were useless against this particular problem"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "The crisis was far too vast and overwhelming"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Some of their leaders were allied with the crisis"
+  }
+ ]
+}

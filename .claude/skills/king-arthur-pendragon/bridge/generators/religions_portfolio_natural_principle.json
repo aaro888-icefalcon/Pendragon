@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.religions.portfolio_natural_principle",
+ "title": "God's Portfolio — Natural Principle",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#gods-portfolio-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A local terrain type — moor, fen, forest, hilltop"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Wild beasts"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Beauty or desire"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "The cosmic order and law"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Creation and generation"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Death and the dead"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "Fertility and growth"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "The deep forest"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Enchantment and the unseen"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Mountains and high places"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Night and darkness"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "One or more seasons"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Pain and ordeal"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "The sea, rivers, and water"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "The sky"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Storms and rain"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "The sun, moon, or stars"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "The underworld and the Otherworld"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "Time and its passing"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Untamed wild nature"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.complications.region_themes",
+ "title": "Themes for a Region or Kingdom",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#themes-for-a-region-or-kingdom-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "**Barbarism** — brutal savagery is always near the surface"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "**Decadence** — sins and fadings; voluptuous cruelty and indolence"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "**Despair** — hopelessness and apathetic submission; the golden age is clearly lost"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "**Exhaustion** — strength spent and lost; everything is tired here"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "**Ignorance** — superstition and erroneous beliefs are critical to the culture's survival"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "**Oppression** — rule is a crushing weight; whole groups suffer under its heel"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "**Poverty** — even the rich are poor; the struggle for basics drives all conflict"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "**Precarity** — all goods are made fleeting; venerable institutions are tottering"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "**Stratification** — classes do not touch; the adventurer is a wild card here"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "**Violence** — life is something cheap; death in bed is a thing unlooked-for"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "**Enlightenment** — knowledge is loved; academies and scripture have real influence"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "**Expansion** — things swell greater; the people are vigorous and confident"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "**Hope** — the future should be better; a new lord, a new relic, a new alliance"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "**Justice** — a reckoning is coming; institutions of honest judgment are powerful here"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "**Legitimacy** — rulers are by right; it is almost unthinkable to overthrow them"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "**Pageantry** — splendour and magnificence; great feasts, grand processions, magnificent churches"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "**Prosperity** — wealth is easily had; the average family eats well"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "**Renewal** — things are growing brighter; old houses reviving, old wrongs being righted"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "**Triumph** — a victory is fresh in the memory; the people are confident and the enemies are weak"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "**Unity** — purposes are shared; the people paper over internal conflicts to face common threats"
+  }
+ ]
+}

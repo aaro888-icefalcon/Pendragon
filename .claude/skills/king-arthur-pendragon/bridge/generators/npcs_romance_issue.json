@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.romance_issue",
+ "title": "Current Issue They Face",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#current-issue-they-face-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Recent infidelity, or credible suspicion of it"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A rival moving in on one of them"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "One has made a mistake that threatens the other"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "One takes a dire risk for the sake of the other"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A feeling of lack — something important is missing"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A recent furious argument over something"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "One is being asked to sacrifice something very dear"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "They cannot agree on a future path"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "One has made a mistake that shamed the other"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A family member is interfering with the pair"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "They are being separated by circumstances — war, exile, duty"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A shared dream is being threatened"
+  }
+ ]
+}

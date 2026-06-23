@@ -1,0 +1,134 @@
+{
+ "id": "pendragon.npcs.type_gentry",
+ "title": "NPC Type — Gentry (one-roll)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#one-roll-npc-table-d100-per-column",
+ "entries": [
+  {
+   "min": 1,
+   "max": 4,
+   "value": "Abbot or prior of a monastery"
+  },
+  {
+   "min": 5,
+   "max": 8,
+   "value": "Court enchanter or learned mage"
+  },
+  {
+   "min": 9,
+   "max": 12,
+   "value": "Faerie-kin leader or high pagan priest"
+  },
+  {
+   "min": 13,
+   "max": 16,
+   "value": "Diplomat from a foreign land or court"
+  },
+  {
+   "min": 17,
+   "max": 20,
+   "value": "Discreet kingmaker or master of intelligences"
+  },
+  {
+   "min": 21,
+   "max": 24,
+   "value": "Headman of a significant ethnic minority"
+  },
+  {
+   "min": 25,
+   "max": 28,
+   "value": "Semi-legitimate bandit chief with connections"
+  },
+  {
+   "min": 29,
+   "max": 32,
+   "value": "Comfortably kept noble hostage"
+  },
+  {
+   "min": 33,
+   "max": 36,
+   "value": "Kept pretender to a foreign title"
+  },
+  {
+   "min": 37,
+   "max": 40,
+   "value": "Local temple's high priest or bishop"
+  },
+  {
+   "min": 41,
+   "max": 44,
+   "value": "Magistrate or royal judge"
+  },
+  {
+   "min": 45,
+   "max": 48,
+   "value": "Major royal official or minister"
+  },
+  {
+   "min": 49,
+   "max": 52,
+   "value": "Town mayor or chief city official"
+  },
+  {
+   "min": 53,
+   "max": 56,
+   "value": "Great merchant of wide affairs"
+  },
+  {
+   "min": 57,
+   "max": 60,
+   "value": "Military general or high officer"
+  },
+  {
+   "min": 61,
+   "max": 64,
+   "value": "Most sought-after courtesan in the region"
+  },
+  {
+   "min": 65,
+   "max": 68,
+   "value": "Paid-off noble family embarrassment"
+  },
+  {
+   "min": 69,
+   "max": 72,
+   "value": "Revered artistic genius"
+  },
+  {
+   "min": 73,
+   "max": 76,
+   "value": "Rusticating loser of a court dispute"
+  },
+  {
+   "min": 77,
+   "max": 80,
+   "value": "Ruthless noble clan patriarch"
+  },
+  {
+   "min": 81,
+   "max": 84,
+   "value": "Enchanter of fearsome name"
+  },
+  {
+   "min": 85,
+   "max": 88,
+   "value": "Spare prince or major noble's heir"
+  },
+  {
+   "min": 89,
+   "max": 92,
+   "value": "Hereditary holder of a traditional office"
+  },
+  {
+   "min": 93,
+   "max": 96,
+   "value": "Wealthy but hated usurer"
+  },
+  {
+   "min": 97,
+   "max": 100,
+   "value": "Wealthy scholar-noble"
+  }
+ ]
+}

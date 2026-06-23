@@ -1,0 +1,39 @@
+{
+ "id": "pendragon.religions.cult_goal",
+ "title": "One-Roll Malevolent Cult — General Goal",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "Glorify their dark god and its vile ways"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "Expand the cult in an adjacent community"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "Destroy a powerful enemy of the cult"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "Extinguish a rival faith and their clergy"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Perform a terrible magical ritual"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Obtain secular control over an area"
+  }
+ ]
+}

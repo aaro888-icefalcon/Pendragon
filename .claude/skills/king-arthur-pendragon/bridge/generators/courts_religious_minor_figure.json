@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.religious_minor_figure",
+ "title": "Religious Court — Minor Figure",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#religious-courts-church-monastery-hermit-brotherhood",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Lax or worldly cleric"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Corrupt or venal priest"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Fanatical Zealot"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Peddler of holy goods or relics"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Loud Reformer"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Criminal who seeks sanctuary"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Genuinely sick petitioner"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A craftsman serving the house"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Temple Guard"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Guard of the precinct"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Assistant to the clergy"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Tenant Farmer of the estate"
+  }
+ ]
+}

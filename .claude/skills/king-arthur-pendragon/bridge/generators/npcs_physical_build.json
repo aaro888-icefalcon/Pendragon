@@ -1,0 +1,29 @@
+{
+ "id": "pendragon.npcs.physical_build",
+ "title": "General Physical Build",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#general-physical-build-d4",
+ "entries": [
+  {
+   "min": 1,
+   "max": 25,
+   "value": "Unusually short or slender"
+  },
+  {
+   "min": 26,
+   "max": 50,
+   "value": "Unremarkably average"
+  },
+  {
+   "min": 51,
+   "max": 75,
+   "value": "Plump, soft, or voluptuous"
+  },
+  {
+   "min": 76,
+   "max": 100,
+   "value": "Bulky, muscular, or more massive than usual"
+  }
+ ]
+}

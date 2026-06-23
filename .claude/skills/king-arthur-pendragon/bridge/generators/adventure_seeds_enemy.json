@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.adventure_seeds.enemy",
+ "title": "Adventure Seeds — Enemy (d20)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/07-adventure-seeds.md#enemy-seeds-d20-or-120-on-d100",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "An **E** has suffered a dire reverse, and seeks a **T** in order to rescue their situation."
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "An **E** is behind a recent flare-up of a **C** that is causing problems for the players."
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "An **E** keeps a **T** at a well-guarded **P**, and a **F** is willing to pass the players information on it."
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "An **E** is being targeted by the negative effects of a **C** but is trying to pin it all on a **F**."
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "An **E** is trying to take control of a **P**, but is being hindered by the activities of a **F**."
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "An **E** is trying to use a **C** to pry a valuable **T** out of the hands of a **F**."
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "An **E** is using a **T** to bait a **F** into getting involved in a **C** that will probably destroy them."
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "An **E** controls a **P** where a **T** is located, but a **C** is currently keeping them from being able to extract it."
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "An **E** has recently become active near a **P**, and their actions have stirred up a **C** that a local **F** does not know how to handle."
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "An **E** is struggling over a **T** with another **E**, and the fallout from their fight is making problems for the players or a **F**."
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "An **E** has a grudge against a **F** and is trying to frame them for some crime related to a **T**."
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "An **E** has just destroyed the last obstacle that prevented them from full exertion of their malice and is using a **T** they claimed to prosecute it."
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "An **E** lost a **T** at the worst possible time and is suffering from a **C**. They are trying to get it back before they are ruined."
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "An **E** is currently at a **P** and is exceptionally vulnerable for some reason. A **F** wants to take advantage of that."
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "An **E** has promised an ally a **T** and is becoming increasingly desperate to obtain it, as the consequences for failure are dire."
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "An **E** has imprisoned a **F** for some reason, and if they are not rescued soon a grim fate awaits them."
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "An **E** has allied with another **E** in order to obtain a **T** from a **P**, yet both are preparing to betray each other and the **T** could be stolen in the chaos."
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "An **E** is working to weaponise a **C** against a **F**, but their attempt has somehow left open the possibility of stealing or finding a **T**."
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "An **E** has forced a **F** into service, but in the process the **F** has learned how the players can obtain a **T**."
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "An **E** has just had some personal triumph that is catalysing a flare-up of a **C** that is harming the players or a **F**."
+  }
+ ]
+}

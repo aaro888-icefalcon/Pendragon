@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.specific_nobility",
+ "title": "Specific Nobility",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#specific-nobility-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Royal scion judged unfit for any responsibility"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Knight who bought their title through wealth"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Head of a minor but greatly respected house"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Heir to a major local title or holding"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Fallen foreign noble in comfortable exile"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Scheming lesser knight with grand ideas"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Lord on their way down due to bad choices"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Court favourite with greater ambitions"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Treacherous but trusted noble plotter"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Idealistic and well-meaning young lord"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Grizzled lord who earned their title in war"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Dynasty leader who is simply getting too old"
+  }
+ ]
+}

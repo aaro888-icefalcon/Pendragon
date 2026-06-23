@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.complications.church_pagan_complications",
+ "title": "Church and Pagan Complications",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#church-and-pagan-complications-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "A holy well the Church has claimed was previously sacred to a pagan goddess and her followers are furious"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "A bishop and a local sorcerer have a long-running feud that everyone is being forced to take sides in"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "A relic is discovered that the Church and the pagan community both claim as their own"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "A heresy is spreading — one that holds that the old pagan powers were merely lesser gods, not demons"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "A group of monks is copying old Roman or pre-Roman texts; the local bishop wants them burned"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "A pagan harvest rite that everyone in the village takes part in has been declared sinful"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "A faerie bargain struck by the ancestors still binds the Church's land — the Church cannot break it without terrible consequences"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "A saint's tomb is producing miracles, but the miracles are the wrong kind — old, earthy, pagan in character"
+  }
+ ]
+}

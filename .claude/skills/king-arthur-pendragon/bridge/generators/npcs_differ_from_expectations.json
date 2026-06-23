@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.differ_from_expectations",
+ "title": "One Way They Differ From Expectations",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#one-way-they-differ-from-expectations-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Unusual skin coloration or texture — unusually pale, dark, or scarred"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "From a people not normally found here — Roman, Saxon, Irish, Byzantine"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Much older or younger than their position would suggest"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Abnormal temperament for their trade — a gentle warrior, a vicious priest"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Overt devotee of an uncommon or controversial faith"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Keeps a pet animal that is not normal here — a raven, a bear-cub, a serpent"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Eats a food that is disliked or taboo locally"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Abnormal hair texture or unusual colour"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Wears unusual tattoos or body decoration"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Uncommonly clumsy or awkward socially"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A body build entirely wrong for the area's common type"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A distinct physical mark — a birthmark, a brand, a missing finger"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.village_rationale",
+ "title": "Rationale for the Village's Existence",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#rural-villages",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Once a garrison outpost of a Roman or British lord"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A mine, quarry, or peat-cutting, perhaps now exhausted"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A place where refugees of a calamity settled"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Holy ground or a shrine to a local saint or pagan power"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A particular crop, animal, or resource grows very well here"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A safe waypost on a Roman road or river crossing"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Refuge for a despised minority or outcast group"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A former bandit camp that went legitimate"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A self-ruled home for a particular kinship group"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A safe base for salvagers who work nearby ruins"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Decayed remnant of an ancient Roman town or fort"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Grew up around a lord's manor or fortified hall"
+  }
+ ]
+}

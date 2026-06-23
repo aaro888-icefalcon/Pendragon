@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.characteristic_twists",
+ "title": "Characteristic Twists",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#characteristic-twists-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Abnormally rich or poor for their apparent station"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Extremely averse to using violence under any circumstances"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Tends to break their agreements, wisely or not"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Has a reason to distrust or dislike people of the players' class or background"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Has a useful but unlikely friend — a hermit, a faerie, a famous knight"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A player character or their lord owes this NPC a debt"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A personal disaster is looming rapidly for them"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Has a reason to like or trust people of the players' class or background"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Has few reliable social ties in this place"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Conceals a secret that would be socially ruinous if revealed"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A former outlaw, slave, or fallen person now trying to live honestly"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Has a second identity they maintain carefully"
+  }
+ ]
+}

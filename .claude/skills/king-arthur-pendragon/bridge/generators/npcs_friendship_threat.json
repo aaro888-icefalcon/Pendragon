@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.friendship_threat",
+ "title": "What Threatens to Divide Them",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#what-threatens-to-divide-them-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "They both want the same man or woman"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "One of them has made an error threatening both"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "One has something the other desperately wants"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "One feels painfully inferior about something"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Their families or associates disapprove of the friendship"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A religious or moral dispute lingers between them"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "One owes the other a large sum or a great favour"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "One is failing to provide needed assistance"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "One is pursuing the other's spouse or betrothed"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "They want the same office, title, or role"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "One has become useless to the other lately"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A misunderstanding has been festering"
+  }
+ ]
+}

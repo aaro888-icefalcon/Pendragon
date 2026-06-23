@@ -1,0 +1,29 @@
+{
+ "id": "pendragon.npcs.ambition_sparked",
+ "title": "When the Ambition Was Sparked",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#when-the-ambition-was-sparked-d4",
+ "entries": [
+  {
+   "min": 1,
+   "max": 25,
+   "value": "It has burned since childhood"
+  },
+  {
+   "min": 26,
+   "max": 50,
+   "value": "An event while young inspired it"
+  },
+  {
+   "min": 51,
+   "max": 75,
+   "value": "It came after mature adulthood"
+  },
+  {
+   "min": 76,
+   "max": 100,
+   "value": "It is a fairly recent zeal"
+  }
+ ]
+}

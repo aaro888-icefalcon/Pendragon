@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.sites.encounter_beasts",
+ "title": "Wilderness Encounters — Beasts and Monsters",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/06-sites-ruins.md#wilderness-encounters",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Harmless but annoying local creature"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Hungry pack hunters"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Stalking predator looking for an opening"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Sick or somehow enraged predator"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "An ambush predator lying in wait"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Large, dangerously aggressive herbivore"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Uncanny or faerie monster"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A swarm of dangerous vermin"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A flying monster or beast"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Mated pair of team hunters"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Ghost, animate corpse, or other undead"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Something far too dangerous to confront directly"
+  }
+ ]
+}

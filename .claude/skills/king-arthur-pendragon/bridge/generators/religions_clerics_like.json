@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.religions.clerics_like",
+ "title": "What Are the Clerics Like",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#what-are-the-clerics-like-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "Just ritual technicians trained in complex rites, with no special moral requirements"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "Chosen from specific bloodlines and trained to serve the faithful"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "Experts in some sphere related to the god's domain — healers, scholars, warriors"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "Enchanters or sorcerers who serve the god as part of their arcane studies"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "Common believers chosen by their peers for technical skill and moral character"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "Isolated ascetics expected to keep a strict distance from the world"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "Those who step forward and are accepted for their qualities or abilities"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "The wealthier believers who can afford the expensive or demanding practice"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "id": "pendragon.complications.historical_crises",
+ "title": "Historical Crises",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#historical-crises-d100",
+ "entries": [
+  {
+   "min": 1,
+   "max": 4,
+   "value": "Barbarian invasion — Saxons, Picts, Irish, or some older terror"
+  },
+  {
+   "min": 5,
+   "max": 8,
+   "value": "Colonial incursion from a greater power — Rome, or a former Roman province"
+  },
+  {
+   "min": 9,
+   "max": 12,
+   "value": "Decadent society — internal collapse of values and will"
+  },
+  {
+   "min": 13,
+   "max": 16,
+   "value": "Divine wrath upon them — plague, famine, drought sent as punishment"
+  },
+  {
+   "min": 17,
+   "max": 20,
+   "value": "Domineering neighbour — tribute demanded, hostages taken, autonomy stripped"
+  },
+  {
+   "min": 21,
+   "max": 24,
+   "value": "Economic collapse — trade routes cut, coinage debased, silver mines exhausted"
+  },
+  {
+   "min": 25,
+   "max": 28,
+   "value": "Failed external war — a campaign that ruined the fighting men and emptied the granaries"
+  },
+  {
+   "min": 29,
+   "max": 32,
+   "value": "Ideological divide — a religious schism, a dispute over custom, a heresy"
+  },
+  {
+   "min": 33,
+   "max": 36,
+   "value": "Incompetent governance — a succession of bad rulers, a regency disaster"
+  },
+  {
+   "min": 37,
+   "max": 40,
+   "value": "Internal refugees from disaster — famine, flood, or burning drove people from their homes"
+  },
+  {
+   "min": 41,
+   "max": 44,
+   "value": "Loss of cultural confidence — a humiliation so great the people doubted their own worth"
+  },
+  {
+   "min": 45,
+   "max": 48,
+   "value": "Magical calamity — a curse laid on the land, a faerie war, a sorcerer's blunder"
+  },
+  {
+   "min": 49,
+   "max": 52,
+   "value": "Malevolent religion — a dark cult seized power, demanded tribute, corrupted the church"
+  },
+  {
+   "min": 53,
+   "max": 56,
+   "value": "Miserable poverty — generations of hunger and bare survival"
+  },
+  {
+   "min": 57,
+   "max": 60,
+   "value": "Natural disasters — floods, drought, bitter winters, plague of animals"
+  },
+  {
+   "min": 61,
+   "max": 64,
+   "value": "Noble infighting — the lords tore themselves apart in blood feud and petty war"
+  },
+  {
+   "min": 65,
+   "max": 68,
+   "value": "Religious or ideological excess — a purge, a crusade, a witch-hunt"
+  },
+  {
+   "min": 69,
+   "max": 72,
+   "value": "Resource exhaustion — the forest, mine, or fishing grounds gave out"
+  },
+  {
+   "min": 73,
+   "max": 76,
+   "value": "Scheming sorcerers — wizards manipulated or preyed upon the people"
+  },
+  {
+   "min": 77,
+   "max": 80,
+   "value": "Some titanic monster — a dragon, a giant, a faerie lord turned enemy"
+  },
+  {
+   "min": 81,
+   "max": 84,
+   "value": "Tyrannical rule — a warlord or corrupt king squeezed the people dry"
+  },
+  {
+   "min": 85,
+   "max": 88,
+   "value": "Unsuccessful expansion — a war of conquest that went badly and cost everything"
+  },
+  {
+   "min": 89,
+   "max": 92,
+   "value": "Usurpers seizing control — a coup, a betrayal, a false claimant"
+  },
+  {
+   "min": 93,
+   "max": 96,
+   "value": "Vicious civil warfare — the people turned on each other"
+  },
+  {
+   "min": 97,
+   "max": 100,
+   "value": "War with a stronger power — a devastating defeat from which recovery was slow"
+  }
+ ]
+}

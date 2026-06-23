@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.religious_standing",
+ "title": "Religious Court — Relations With the Larger Faith",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#religious-courts-church-monastery-hermit-brotherhood",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Schismatic — despised as potentially heretical by the hierarchy"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Desultory — going through the motions with little genuine piety"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Penitential — a punishment posting for clergy who erred elsewhere"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Affable — courteous and cooperative with the bishop"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Populist — focused on serving the poor lay believers"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Scholarly — given to sophisticated theological debate"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Mystical — conducting prayer, fasting, and visionary studies"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Pioneering — a new missionary establishment in a pagan area"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Zealous — full of fervent and demanding believers"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Subverted — effectively controlled by a secular lord"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Venerable — ancient, greatly honoured, set in its ways"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Sectarian — a stronghold of one theological faction against another"
+  }
+ ]
+}

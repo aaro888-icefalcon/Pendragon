@@ -1,0 +1,39 @@
+{
+ "id": "pendragon.religions.temple_local_opinion",
+ "title": "One-Roll Temple — What Do the Locals Think of It",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#what-do-the-locals-think-of-it-d6",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "Held in contempt for its flaws and failings"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "Something about it is bothering the locals"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "Accepted as a tolerable and unremarkable shrine"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "Has a good and trustworthy reputation"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Did something recently that gave it great local glory"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Held in utmost esteem and veneration by the locals"
+  }
+ ]
+}

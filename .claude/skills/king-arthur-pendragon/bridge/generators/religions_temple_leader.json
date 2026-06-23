@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.religions.temple_leader",
+ "title": "One-Roll Temple — Who Is In Charge",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#who-is-in-charge-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "A venal time-server of desultory piety"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "A harried and inexperienced new leader"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "A dutiful servant of the local secular power"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "An incompetent shunted off to the post as a punishment"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "A local prodigy of remarkable piety and ability"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "A grizzled and pragmatic veteran of church politics"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "A charismatic but near-schismatic preacher"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "A practical and reasonably pious cleric doing their best"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.aristocratic_major_figure",
+ "title": "Aristocratic Court — Major Figure",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#aristocratic-courts",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Lord or Lady"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Ornamental Spouse"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Lord's Favourite (mistress or companion)"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Heir Apparent"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Spare Heir"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Court Priest or Chaplain"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Court Bard or Poet"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Chief Steward"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Poor Relation"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Senior Kinsman"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Cadet Branch Knight"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Lord's Chief Rival"
+  }
+ ]
+}

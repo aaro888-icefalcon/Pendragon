@@ -1,0 +1,134 @@
+{
+ "id": "pendragon.npcs.type_underclass",
+ "title": "NPC Type — Underclass (one-roll)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#one-roll-npc-table-d100-per-column",
+ "entries": [
+  {
+   "min": 1,
+   "max": 4,
+   "value": "Black sheep of a gentry family, living rough"
+  },
+  {
+   "min": 5,
+   "max": 8,
+   "value": "Cast-off former lord's mistress"
+  },
+  {
+   "min": 9,
+   "max": 12,
+   "value": "Coldly professional hired killer"
+  },
+  {
+   "min": 13,
+   "max": 16,
+   "value": "Corrupt petty bailiff or gatekeeper"
+  },
+  {
+   "min": 17,
+   "max": 20,
+   "value": "Cynical acrobat or entertainer"
+  },
+  {
+   "min": 21,
+   "max": 24,
+   "value": "Fallen former knight"
+  },
+  {
+   "min": 25,
+   "max": 28,
+   "value": "Foreigner barely surviving"
+  },
+  {
+   "min": 29,
+   "max": 32,
+   "value": "Gap-toothed local ruffian"
+  },
+  {
+   "min": 33,
+   "max": 36,
+   "value": "Hardscrabble orphaned urchin"
+  },
+  {
+   "min": 37,
+   "max": 40,
+   "value": "Wandering missionary of an unpopular god"
+  },
+  {
+   "min": 41,
+   "max": 44,
+   "value": "Penniless country boy or girl in the city"
+  },
+  {
+   "min": 45,
+   "max": 48,
+   "value": "Popular actor, singer, or minstrel"
+  },
+  {
+   "min": 49,
+   "max": 52,
+   "value": "Prostitute with a kind heart"
+  },
+  {
+   "min": 53,
+   "max": 56,
+   "value": "Weather-worn common sailor"
+  },
+  {
+   "min": 57,
+   "max": 60,
+   "value": "Scabby beggar with a secret"
+  },
+  {
+   "min": 61,
+   "max": 64,
+   "value": "Shabby boarding-house owner"
+  },
+  {
+   "min": 65,
+   "max": 68,
+   "value": "Unsteady slum physician"
+  },
+  {
+   "min": 69,
+   "max": 72,
+   "value": "Slanderous poet or storyteller"
+  },
+  {
+   "min": 73,
+   "max": 76,
+   "value": "Petty thief turned drunkard"
+  },
+  {
+   "min": 77,
+   "max": 80,
+   "value": "Bargeman or river-boatman"
+  },
+  {
+   "min": 81,
+   "max": 84,
+   "value": "Unpopular but zealous local artist"
+  },
+  {
+   "min": 85,
+   "max": 88,
+   "value": "Unpopular faerie-touched outsider"
+  },
+  {
+   "min": 89,
+   "max": 92,
+   "value": "Weary scavenger or bone-picker"
+  },
+  {
+   "min": 93,
+   "max": 96,
+   "value": "Widely-despised moneylender"
+  },
+  {
+   "min": 97,
+   "max": 100,
+   "value": "Worn-down day labourer"
+  }
+ ]
+}

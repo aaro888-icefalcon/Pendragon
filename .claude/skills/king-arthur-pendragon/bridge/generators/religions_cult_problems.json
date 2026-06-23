@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.religions.cult_problems",
+ "title": "One-Roll Malevolent Cult — What Problems Does It Have",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "The leadership is insane in unhelpful ways"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "It has caught the eye of a dangerous enemy"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "One of its bound creatures or servants is out of control"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "It is running low on sacrifices and new recruits"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "It has been impoverished by a recent trouble"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "There is a dangerous schism in its ranks"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Its god is making unreasonable and escalating demands"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "The lay believers are demanding much from the priests"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The cult's enforcers are muscling the clerical leadership"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "The god's influence has become distant and unreliable"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "An important member has turned traitor"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Another dark faith is actively at war with it"
+  }
+ ]
+}

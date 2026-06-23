@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.complications.problem_officials",
+ "title": "Officials Causing Problems",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#officials-causing-problems-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Rapaciously grasping tax-farmers or rent collectors"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Ill-disciplined and thieving soldiers or retainers"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Bribe-hungry and meddling magistrates"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Ever-watchful informers among neighbours"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Tithe-hungry collectors from the Church or a religious house"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Corrupt and untrustworthy market officials"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Carelessly superior nobles and their retinues"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Thuggish constables or town guards"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Pitiless inquisitors hunting out dark paganism or heresy"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Law enforcers acting as if they are above the law"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "State or church scholars teaching vile or politically-dangerous principles"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Corrupt village headmen acting as petty tyrants"
+  }
+ ]
+}

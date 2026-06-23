@@ -1,0 +1,59 @@
+{
+ "id": "pendragon.npcs.romance_problem",
+ "title": "Problem One or Both Have",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "generators/03-npcs.md#problem-one-or-both-have-d10",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "The pairing is completely socially unacceptable"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "Profound insecurity about their worthiness of the other"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "Abusive ways of expressing anger or worry"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "A serious addiction or compulsive flaw"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "They are already tied in an existing relationship"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "A deep lack of trust, perhaps from past betrayal"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "They love a false image they have of the other"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "Expectation that the other will or will not change"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "Self-centred or thoughtless behaviour"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "A self-destructive degree of sacrifice for the relationship"
+  }
+ ]
+}

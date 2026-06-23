@@ -1,0 +1,39 @@
+{
+ "id": "pendragon.npcs.romance_meeting",
+ "title": "Troubled Romances — How Did They Meet",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#how-did-they-meet-d6",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "They were opposed in a recent conflict"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "They are childhood acquaintances"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "Their families put them in contact"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "One needed something the other had"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Employment or service of one to the other"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Some unlikely random chance brought them together"
+  }
+ ]
+}

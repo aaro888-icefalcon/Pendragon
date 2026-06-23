@@ -2,7 +2,7 @@
 
 A self-contained solo **Game Master engine** for *King Arthur Pendragon* (5th edition). Claude runs the whole game — rolling every die honestly in the shell, enforcing traits and passions on the player knight, advancing the Great Pendragon Campaign year by year from 480 AD to 566, and continuing the saga through the dynasty when a knight falls.
 
-It **runs standalone**, and it is **built to pair with the `mythic-gm` skill**, which supplies an emergent-story oracle for the questions Pendragon leaves open.
+It **runs standalone**, and it ships a **`bridge/`** that makes it a content companion for the **`mythic-gm`** engine — which, in this repo, is the default driver (see `/CLAUDE.md`).
 
 ## What's inside
 
@@ -11,7 +11,7 @@ It **runs standalone**, and it is **built to pair with the `mythic-gm` skill**, 
 - `rules/` — Pendragon 5e: `core/` (chargen, skills, traits/passions, resolution, combat, injury, Glory, Winter Phase, equipment, society, GM stats), plus `battle/`, `estate/`, `warlord/`, `entourage/` supplements.
 - `campaign/` — the Great Pendragon Campaign: `uther/` (480–495 in depth) and `gpc/` (485–566 year briefs + appendices).
 - `generators/` — Arthurian-skinned oracle tables (courts, factions, NPCs, communities, religions, sites, adventure seeds, complications).
-- `compat/` — Pendragon reworked into `mythic-gm`'s compatibility shapes, for running Pendragon *under* the Mythic engine.
+- `bridge/` — the **companion bridge** that exposes this skill to the `mythic-gm` engine: `system-profile`, `interpretation`, `subsystems`, `theme-weights`, `chaos-tendency`, `seeds`, `setting-canon`, `generators/` (registry + 120 verified tables), `adventures/`. Manifest: `bridge/bridge.md`.
 - `assets/templates/` — blank `state/` files for starting a fresh campaign.
 
 ## How it pairs with mythic-gm

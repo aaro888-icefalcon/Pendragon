@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.npcs.clothing_idiosyncrasies",
+ "title": "Clothing Idiosyncrasies",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#clothing-idiosyncrasies-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "A fondness for very bright or very dull colours"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "An emblem of faith, order, or social group prominently displayed"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "Ill-kept — worn, dirty, or rumpled beyond what their station warrants"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "Wears another culture's style of clothing"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "Abnormally risqué or abnormally modest for the society"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "Shows the regular marks of their trade — smith's burns, farmer's mud, ink"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "Fastidiously neat and tastefully adorned"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "Wears a very noticeable piece of jewellery or armour"
+  }
+ ]
+}

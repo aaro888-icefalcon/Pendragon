@@ -1,0 +1,59 @@
+{
+ "id": "pendragon.complications.betrayal_form",
+ "title": "Form of the Betrayal",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "generators/08-complications-twists.md#form-of-the-betrayal-d10",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "They were never loyal — they were an enemy agent from the beginning"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "They sold the players out to save their own life or property"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "They were threatened or blackmailed into it"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "They made a worse deal than the one they had with the players"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "They genuinely changed their mind and now believe the players are in the wrong"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "They panicked and gave up information under pressure without meaning to betray"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "They were deceived into betraying without realising that was what they were doing"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "Their loyalty was to something higher — their lord, their god, their family — not to the players"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "They were seduced or enchanted into disloyalty"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "A past grudge they never disclosed motivated everything all along"
+  }
+ ]
+}

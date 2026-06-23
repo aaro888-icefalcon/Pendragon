@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.complications.faerie_otherworldly_complications",
+ "title": "Faerie and Otherworldly Complications",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#faerie-and-otherworldly-complications-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "A faerie lord claims a debt is owed by a local noble's lineage — and the debt is centuries old"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "A child has been swapped for a changeling; the parents have noticed but are afraid to say so"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "A river has changed course and flooded fields that were not flooded before; the river-spirit is angry about something"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "A knight has returned from the Perilous Forest after what seemed like a year but was actually seven years — and no one knows what to do with him"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "A faerie bargain that protected the village from harm has expired; no one knows what it required in return"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "A stream that flows through a village has water that heals wounds but slowly drives those who drink it mad"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "A barrow has opened; the dead are not hostile, but they are asking questions that no one wants to answer"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "A forest has been slowly advancing over the past generation; the trees are moving"
+  }
+ ]
+}

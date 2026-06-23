@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.village_pressing_problem",
+ "title": "Village — Current Pressing Problem",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#rural-villages",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Vital food stores have been lost or stolen"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Two families are in a long-running blood feud"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A new priest or preacher is making trouble with the old faith"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "The lord's reeve has been given unreasonable quotas"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "An upstart newcomer is disrupting the old hierarchy"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A marginal family is suspected of witchcraft or crime"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A dangerous beast or Saxon raider is lurking near"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A local bully and his friends are causing serious trouble"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The crops or herds are in very poor condition"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "An ambiguous land dispute is becoming violent"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A curse or strange ill-luck is vexing the people"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Noble quarrels have spilled over into the village"
+  }
+ ]
+}

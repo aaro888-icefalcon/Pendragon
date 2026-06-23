@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.religions.gods_origin",
+ "title": "God's Origin",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#gods-origin-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A deified ancestor-king or progenitor of a people"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A legendary historical hero, saint, or teacher"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "An abstract principle — Law, Mercy, War, Harvest — made into a divine person"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A being that simply always existed since the world was made"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "An apotheosised sorcerer or wise woman of vast power"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "The genius or spirit of a particular land, river, or place"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A faerie or otherworldly being from beyond the mortal world"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A personified natural phenomenon — the sun, the sea, thunder, winter"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A saint of another faith who was elevated into a god by the people's need"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A former enemy power that was tamed or placated"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A being constructed or called into existence by ancient human ritual"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Roll twice and blend the two origins"
+  }
+ ]
+}

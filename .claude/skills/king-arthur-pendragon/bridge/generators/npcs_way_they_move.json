@@ -1,0 +1,39 @@
+{
+ "id": "pendragon.npcs.way_they_move",
+ "title": "The Way They Move",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#the-way-they-move-d6",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "Hesitant, fluttery, or delicately precise"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "Clumsy, with broad and careless movements"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "Slow and measured in all actions"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "Sharp, brisk, vigorous"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Laborious or weary"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Smooth, relaxed, and efficient"
+  }
+ ]
+}

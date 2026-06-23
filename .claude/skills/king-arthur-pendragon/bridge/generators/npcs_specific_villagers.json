@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.specific_villagers",
+ "title": "Specific Villagers",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#specific-villagers-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Biggest and cleverest bully in the village"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Maiden or young man of known loose virtue"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Restless youth who burns to leave for something greater"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Best farmer in the hundred"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Half-feral shepherd or swineherd"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Village priest of steady, phlegmatic temperament"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Local artisan of considerable talent"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Gentry stuck in the countryside and hating it"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Local wise woman or cunning man"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Canny village headman or reeve"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Reeve serving the village's lord"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Traveller stuck here for some reason"
+  }
+ ]
+}

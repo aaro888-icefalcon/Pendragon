@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.complications.saxon_pictish_complications",
+ "title": "Saxon and Pictish Threat Complications",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#saxon-and-pictish-threat-complications-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "A Saxon war-band has made a deal with a local British lord against his neighbours"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "The Saxons raided a holy site and took a relic — they do not know what it is"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "Saxon settlers are farming land that was abandoned, and locals want it back"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "A Pictish raid from the north has been confused with a Saxon one, and the wrong people are being blamed"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "A British lord has offered Saxon foederati land in exchange for military service; the surrounding lords are furious"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "Saxon children taken as hostages during a treaty have grown up and now serve at a British court"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "A Saxon noble has converted to Christianity and is now protected by the Church, to everyone's frustration"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "The Saxon shore fortifications are falling into ruin — someone is supposed to maintain them but is not"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.criminal_major_figure",
+ "title": "Criminal Court — Major Figure",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#criminal-courts-bandit-warbands-smuggler-rings-secret-factions",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Grizzled Outlaw Chief"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Chief's Consort or Lover"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Brutal Enforcer"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Well-Placed Spy in a noble hall"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Ambitious Lieutenant"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "The Designated Heir"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Corrupt Reeve or Bailiff"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Wicked Noble Patron"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Incompetent but Protected Scion"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Outcast Sorcerer or Wise-Woman"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Dangerous Rival within the band"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Seductive Tempter"
+  }
+ ]
+}

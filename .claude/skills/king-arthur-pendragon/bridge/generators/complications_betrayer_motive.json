@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.complications.betrayer_motive",
+ "title": "What the Betrayer Wanted",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#what-the-betrayer-wanted-d8",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "Their own safety — they feared the consequences of loyalty more than disloyalty"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "Wealth — they were simply paid enough to turn"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "Protection of a loved one — someone they care about was threatened"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "Advancement — loyalty to the players was a dead end"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "Revenge — some old wrong, real or imagined, that the players did not know about"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "Ideological — they genuinely believe the players' enemies are right"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "Desperation — they had no good options left and this seemed least bad"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "Cowardice — they simply could not hold firm under pressure"
+  }
+ ]
+}

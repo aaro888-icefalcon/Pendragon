@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.sites.encounter_human",
+ "title": "Wilderness Encounters — Human",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/06-sites-ruins.md#wilderness-encounters",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Hopelessly lost merchant or peddler"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Hermit with a good reason to stay alone"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Escaped slave or prisoner"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Peasant perhaps moonlighting as a bandit"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Dangerous outlaw or outcast"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Explorer, scout, or surveyor"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Patrol of the local lord's men"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Miners, woodsmen, hunters, or other workers"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Common traveller, perhaps lost"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Noble or gentry on a journey"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Pilgrim, perhaps of a malevolent or pagan god"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Bandits, raiders, or other adventurers"
+  }
+ ]
+}

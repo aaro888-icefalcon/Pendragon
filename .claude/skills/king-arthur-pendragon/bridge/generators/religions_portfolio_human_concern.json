@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.religions.portfolio_human_concern",
+ "title": "God's Portfolio — Human Concern",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#gods-portfolio-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A human vice — pride, lust, wrath, greed"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A kind of outsider — faerie, Roman, Saxon, Pictish"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "Agriculture and the harvest"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "Cities and settled life"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Commerce and trade"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "Crafting and making things"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "Deception and illusion"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Healing the sick and injured"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Justice and righteous judgment"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "Fortune and luck"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Marriage and family"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Music, song, and poetry"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Prophecy and the second sight"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "Protection and guardianship"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "Revenge and reckoning"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Lordship and right rule"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Theft and hidden deeds"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "Travel, roads, and wayfarers"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "War and the warrior"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Wisdom and learning"
+  }
+ ]
+}

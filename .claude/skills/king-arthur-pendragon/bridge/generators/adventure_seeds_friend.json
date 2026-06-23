@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.adventure_seeds.friend",
+ "title": "Adventure Seeds — Friend (d20)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/07-adventure-seeds.md#friend-seeds-d20-or-2140-on-d100",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A **F** stole a **T** from an **E**. The **E** does not know who did it, but their flailing retaliation threatens something precious to the **F** as they search for the culprit and the **T**."
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A **F** carelessly fell into a peril related to a **C**, leaving them vulnerable to a threat from an **E**."
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A **F** needs to be rescued from the hostile attentions of an **E**, and they are currently hiding out at a **P** dangerously close to enemy forces."
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A **F** has acquired a **T**, but it is also being sought by an **E** and they need help to get it safely away and out of their foe's reach."
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "A **F** got lost or snared in a **P**, and a rising **C** threatens to kill or ruin them if they are not rescued in time."
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A **F** needs help to get a **T** from an abandoned **P**, but an **E** is ahead of them and prepared to deal harshly with competitors."
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "A **F** is not really a Friend, but an enemy agent, and is trying to lure the players into helping them acquire a **T** that will actually be turned over to their master."
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "A **F** is caught up in a **C** and cannot get to a **P** where they know a **T** is being kept. The players need to act as their agent or get them free of the **C**."
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A **F** has been charged with guarding or maintaining a **T**, but an **E** has set in motion a **C** that threatens both of them."
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "A **F** is being compelled by an **E**'s threats to sacrifice something important to them or endure some grave loss."
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A **F** desperately needs a **T** for their own purposes, but an **E** stands between them and it — though the **E** does not realise what is there."
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "A **F** has obtained ownership or responsibility for a **P**, but an **E** has set up a trap or disaster there meant to ruin or disgrace them."
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "A **F** has been gravely harmed by an **E** before and fears to confront them, but a **C** looks like it is going to force them into conflict once more."
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "A **F** has acquired a **T** and is making use of it to further their desires, but an **E** means to spoil their efforts and rob them of the **T**."
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A **F** has a sure lead to a **T** at a **P**, but in actuality the **T** is not there at all — only an **E** or a **C**-related peril."
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "A **F** has been snatched away by an **E**, who is convinced they are the key to acquiring a **T**. They may or may not be right about that."
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "A **F** has suffered a grave personal loss due to a **C**, but an **E** offers to make good their suffering if they can bring them a **T** they are supposed to know how to get."
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A **F** is sick or dying, and desperately needs a **T** if they are to live. Getting it would somehow directly put them in conflict with an **E**, however."
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "A **F** had a **T** but they hid it at a **P**. Unfortunately, that **P** is now under the control of an **E** who does not know what is hidden there."
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "A **F** is trying to protect someone from the consequences of a **C**, but their efforts are being thwarted by an **E** who profits by the current situation."
+  }
+ ]
+}

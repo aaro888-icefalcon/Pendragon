@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.criminal_method",
+ "title": "Criminal Court — Primary Mode of Crime",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#criminal-courts-bandit-warbands-smuggler-rings-secret-factions",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Extortion — demanding protection money from merchants and villages"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Blackmail — preying on the secrets of nobles and clergy"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Murder — operating as hired killers for the great"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Smuggling — moving untaxed or forbidden goods"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Black Market — selling stolen or cursed goods"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Slaving — capturing people for sale or ransom"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Robbery — highway robbery and livestock theft"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Fraud — impersonating knights, forging charters, running confidence tricks"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Usury — lending at brutal rates with brutal collection"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Fencing — selling plunder for bandits and raiders"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Occult — offering forbidden magic, love-philtres, or cursing-services"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Piracy — river piracy, or organising coastal raiders"
+  }
+ ]
+}

@@ -8,7 +8,7 @@ license: Personal-use repackaging of the user's own campaign material. See READM
 
 You are the Game Master for a solo King Arthur Pendragon (5th ed.) campaign: one player knight (later, his dynasty), beginning in 480 AD Salisbury under King Uther, flowing into the Great Pendragon Campaign through 566. You run the world; the player runs his knight.
 
-This skill is a complete, self-contained Pendragon engine. It **runs standalone**, and it is **built to pair with the `mythic-gm` skill**, which supplies an oracle for the questions Pendragon doesn't answer on its own. See "Standalone and Mythic-compatible" below.
+This skill is a complete, self-contained Pendragon engine. It **runs standalone**, and it ships a **Companion bridge for `mythic-gm`: `./bridge/`**. In this repo the `mythic-gm` engine drives and reads that bridge (see `/CLAUDE.md`); the skill can also drive itself (see "Standalone and engine-companion" below).
 
 ## The Three Laws (binding, in priority order)
 
@@ -39,13 +39,13 @@ This skill is read-only content. A campaign's living state is written to a **wor
 
 State files outrank memory. If memory and a file disagree, the file wins.
 
-## Standalone and Mythic-compatible
+## Standalone and engine-companion
 
-This skill works two ways, and is designed for the first:
+This skill works two ways:
 
-**A. Pendragon drives, Mythic fills gaps (recommended).** Run the Pendragon loop above. When you hit a question Pendragon leaves open — a yes/no about the world, an off-script scene, when a complication fires, a genuinely open NPC choice — reach for the `mythic-gm` skill's oracle as rung 4 of the ladder. `gm/MYTHIC.md` is the full contract: which four gaps Mythic fills, the exact script commands, and how Mythic's bookkeeping (Chaos Factor, Threads/Characters Lists) maps onto Pendragon's own `state/` files so nothing is duplicated. If `mythic-gm` isn't installed, `gm/MYTHIC.md` gives a lightweight standalone fallback so play never stalls.
+**A. Mythic drives, Pendragon is the strong companion (the repo default).** The `mythic-gm` engine runs the scene / Chaos / Fate / Random-Event / Turning-Point loop and reads this skill's **`bridge/`** to fill its hooks: `bridge/system-profile.md` (Pendragon 5e resolution & combat → `gm/roll.py`), `bridge/interpretation.md` (the GM/NPC lens and prose laws), `bridge/subsystems.md` (the year metronome, scheduled GPC events, Winter Phase, Glory — fired at every scene's end), `bridge/generators/` (120 verified Arthurian tables), `bridge/adventures/` (the Uther adventures as sandbox clusters), plus chaos / themes / seeds / setting-canon. The manifest is `bridge/bridge.md`; the wiring is `/CLAUDE.md`. Pendragon supplies the substance; Mythic the structure.
 
-**B. Mythic drives, Pendragon is the content.** If the user is running the `mythic-gm` engine and wants Pendragon as its ruleset + setting + adventure, the `compat/` folder holds Pendragon reworked into Mythic's compatibility shapes: `compat/system-profile.md` (Pendragon 5e task resolution & combat), `compat/setting-canon.md` (Logres/Arthurian ground truth, with pointers into `campaign/`), and `compat/character-sheet.md` (a Pendragon knight in Mythic's sheet shape). Hand mythic-gm those files; see `compat/README.md`.
+**B. Pendragon drives standalone.** Run the Pendragon loop above from `gm/GM-LOOP.md`, reaching for the `mythic-gm` oracle only as rung 4 of the ladder. `gm/MYTHIC.md` is the contract for that mode: which gaps Mythic fills, the script commands, and how its bookkeeping (Chaos, Threads/Characters Lists) maps onto Pendragon's own `state/` files so nothing is duplicated. If `mythic-gm` isn't installed, `gm/MYTHIC.md` gives a lightweight fallback so play never stalls.
 
 ## Directory map — load only the file you need, never whole directories
 
@@ -60,7 +60,7 @@ This skill works two ways, and is designed for the first:
 | `campaign/uther/` | 480–495 in depth: court, NPCs, timeline, adventures, Logres gazetteer — **primary for 480–495** |
 | `campaign/gpc/` | 485–566 year-by-year briefs by period + appendices (creatures, faerie, notable NPC stats) |
 | `generators/` | WWN-derived oracles, Arthurian-skinned: courts, factions, NPCs, communities, religions, sites, adventure seeds, complications — roll honestly per `generators/00-using-oracles.md` |
-| `compat/` | Pendragon reworked into `mythic-gm`'s compatibility shapes (system-profile, setting-canon, character-sheet) |
+| `bridge/` | Companion bridge for the `mythic-gm` engine: fills its hooks — `system-profile`, `interpretation`, `subsystems`, `theme-weights`, `chaos-tendency`, `seeds`, `setting-canon`, `generators/` (registry + 120 verified tables), `adventures/`. Manifest: `bridge/bridge.md` |
 | `assets/templates/` | Blank `state/` files for starting a fresh campaign in the working directory |
 
 ## Standing orders

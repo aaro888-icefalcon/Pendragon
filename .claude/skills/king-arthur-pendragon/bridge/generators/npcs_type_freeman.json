@@ -1,0 +1,134 @@
+{
+ "id": "pendragon.npcs.type_freeman",
+ "title": "NPC Type — Freeman (one-roll)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#one-roll-npc-table-d100-per-column",
+ "entries": [
+  {
+   "min": 1,
+   "max": 4,
+   "value": "Ambitious young merchant or craftsman"
+  },
+  {
+   "min": 5,
+   "max": 8,
+   "value": "Skilled artisan of local fame"
+  },
+  {
+   "min": 9,
+   "max": 12,
+   "value": "Butler or steward to a great figure"
+  },
+  {
+   "min": 13,
+   "max": 16,
+   "value": "Feared local gossip with influence"
+  },
+  {
+   "min": 17,
+   "max": 20,
+   "value": "Foreigner with enough coin"
+  },
+  {
+   "min": 21,
+   "max": 24,
+   "value": "Harried landlord of a small estate"
+  },
+  {
+   "min": 25,
+   "max": 28,
+   "value": "Herbalist or local wise woman"
+  },
+  {
+   "min": 29,
+   "max": 32,
+   "value": "Local innkeeper or taverner"
+  },
+  {
+   "min": 33,
+   "max": 36,
+   "value": "Grain merchant or bulk trader"
+  },
+  {
+   "min": 37,
+   "max": 40,
+   "value": "Merchant past his prime"
+  },
+  {
+   "min": 41,
+   "max": 44,
+   "value": "Minor king's reeve or official"
+  },
+  {
+   "min": 45,
+   "max": 48,
+   "value": "Junior government functionary"
+  },
+  {
+   "min": 49,
+   "max": 52,
+   "value": "Modestly prosperous freeholder"
+  },
+  {
+   "min": 53,
+   "max": 56,
+   "value": "Local shop-keeper"
+  },
+  {
+   "min": 57,
+   "max": 60,
+   "value": "Obsessed local scholar or cleric"
+  },
+  {
+   "min": 61,
+   "max": 64,
+   "value": "Peasant much like all others"
+  },
+  {
+   "min": 65,
+   "max": 68,
+   "value": "Priest of a local chapel"
+  },
+  {
+   "min": 69,
+   "max": 72,
+   "value": "Respected local hermit or ascetic"
+  },
+  {
+   "min": 73,
+   "max": 76,
+   "value": "Retired adventurer"
+  },
+  {
+   "min": 77,
+   "max": 80,
+   "value": "Worn but respectable craftsman"
+  },
+  {
+   "min": 81,
+   "max": 84,
+   "value": "Ship's captain or officer"
+  },
+  {
+   "min": 85,
+   "max": 88,
+   "value": "Someone important's concubine"
+  },
+  {
+   "min": 89,
+   "max": 92,
+   "value": "Venerable family elder"
+  },
+  {
+   "min": 93,
+   "max": 96,
+   "value": "Veteran soldier or guardsman"
+  },
+  {
+   "min": 97,
+   "max": 100,
+   "value": "Wandering peddler or trader"
+  }
+ ]
+}

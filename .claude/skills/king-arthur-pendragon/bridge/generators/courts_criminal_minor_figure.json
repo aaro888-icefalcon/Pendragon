@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.criminal_minor_figure",
+ "title": "Criminal Court — Minor Figure",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#criminal-courts-bandit-warbands-smuggler-rings-secret-factions",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Disreputable Hedge-Priest"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "An oppressed local they protect"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Protected merchant who buys their goods"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Shabby local fence"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A drunken healer"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A compliant innkeeper"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A tired woman of the road"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A would-be recruit"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "An aspiring thief"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A bribed gatekeeper"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A criminal's kinsman"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A mendicant beggar with eyes"
+  }
+ ]
+}

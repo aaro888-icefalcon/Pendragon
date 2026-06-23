@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.adventure_seeds.thing",
+ "title": "Adventure Seeds — Thing (d20)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/07-adventure-seeds.md#thing-seeds-d20-or-6180-on-d100",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A **T** has been lost in a dangerous **P** by a **F**, and now an **E** hastens to retrieve it. A **C** is making it hard for them to get it, but they will win through soon."
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A **T** has turned out to be very dangerous to possess, and an **E** is trying to bait the players or a **F** into taking or stealing it."
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A **T** is the crux of a savage conflict between two or more Enemies, and their fighting is stirring up a **C**."
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A **T** must be found if some calamity is to be avoided by the players or a **F**, but an **E** stands to profit if it is never obtained."
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "A **T** is located in a dangerous **P**, and a **F** knows how to get it."
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A **T** is supposed to be located in a **P**, but those who go there merely get caught in a **C**, though they do find out the real **P** the **T** has been moved to."
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "A **T** seems to be useful for a particular function or value, but in actuality it has a hidden value known to a **F** who is currently hiding from an **E**. The players know there is more to it, but only the **F** can tell the full truth."
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "A **T** has been lost by a **F** and they are desperate to get it back before it is found by an **E**."
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A **T** is hidden in a **P** controlled by an **E**, but the **E** is oblivious to it."
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "A **T** has been stolen from an **E** by a **F** and hidden in a **P**, but the **E** is searching around there and it is too dangerous for the **F** to try to retrieve it."
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A **T** is instrumental to an **E**'s plan, but the **F** who knows where to get it is in hiding."
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "A **T** has been demanded of the **E** by someone they fear, and their plans for getting it involve steps that will bring grave harm to a **F**."
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "A **T** holds the key to solving or being protected from a **C**, but the **P** it is at is currently very dangerous due to that **C**."
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "A **T** is responsible for a flare-up of a **C** in a **P**, and the players are somehow affected by it."
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A **T** that a **F** is responsible for obtaining or guarding will be lost to an **E** as soon as a **C** stops hindering them, unless the players can spirit it away from its current dangerous **P**."
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "A **T** was being kept at a **P** by an **E**, but a **F** has figured out a way to get past their defences."
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "A **T** was lost in a dangerous **P** long ago, but an **E** unwittingly holds the key to finding or unlocking it."
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A **T** hidden in a **P** is needed by two different Friends for different important reasons, but if an **E** is overcome, one or both of those reasons will cease to trouble them."
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "A **T** has just been obtained by a **F**, but an **E** now pursues them for it, and the players are asked to help drive off the **E** or get the **F** someplace safe with the **T**."
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "A **T** was the lawful inheritance of a **F**, but an **E** has seized it and a **C** prevents the **F** from obtaining it through conventional means."
+  }
+ ]
+}

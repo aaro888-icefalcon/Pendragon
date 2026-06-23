@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.sites.encounter_nonhuman",
+ "title": "Wilderness Encounters — Nonhuman or Faerie",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/06-sites-ruins.md#wilderness-encounters",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Raiders on their way to pillage a site"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Scouts out surveilling the territory"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Patrol to drive off troublesome intruders"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Campsite of the nonhumans"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Nonhuman workers or resource gatherers"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Religious figure conducting some rite"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Nonhumans chasing a human escapee"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Site of a bloody battle with nonhumans"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Nonhuman traders with valuable goods"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Outcast or deranged nonhuman"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Nonhuman magic-user and attendants"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Hunters pursuing their prey"
+  }
+ ]
+}
