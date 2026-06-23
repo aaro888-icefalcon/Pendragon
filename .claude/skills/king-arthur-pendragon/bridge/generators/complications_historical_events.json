@@ -1,0 +1,259 @@
+{
+ "id": "pendragon.complications.historical_events",
+ "title": "Historical Events",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#historical-events-d100",
+ "entries": [
+  {
+   "min": 1,
+   "max": 2,
+   "value": "**Battleground:** The group's territory ended up as a battleground between two stronger rivals, and they suffered bitterly for it."
+  },
+  {
+   "min": 3,
+   "max": 4,
+   "value": "**Betrayal:** Either they betrayed some trusting neighbour to a foe, or were betrayed in turn by such a false friend."
+  },
+  {
+   "min": 5,
+   "max": 6,
+   "value": "**Brutal Oppression:** Some portion of the group was reduced to wretched subservience by the rest."
+  },
+  {
+   "min": 7,
+   "max": 8,
+   "value": "**Class Struggle:** Different classes were in conflict, either subtle or overt, all seeking their own gain."
+  },
+  {
+   "min": 9,
+   "max": 10,
+   "value": "**Consequences:** Pick an event of a prior age; it had long-term consequences — good for a bad event, or bad for a good event."
+  },
+  {
+   "min": 11,
+   "max": 12,
+   "value": "**Decadence:** Old strengths and glories crumbled away into decadent remnants, the group becoming indolent and indulgent."
+  },
+  {
+   "min": 13,
+   "max": 14,
+   "value": "**Depravity:** Vile debauches and base hungers became commonplace among the group."
+  },
+  {
+   "min": 15,
+   "max": 16,
+   "value": "**Desolation:** Some portion of the group's territory was rendered uninhabitable — blighted, flooded, cursed."
+  },
+  {
+   "min": 17,
+   "max": 18,
+   "value": "**Diplomatic Coup:** The group achieved an extremely successful alliance or marriage-tie with a neighbouring power."
+  },
+  {
+   "min": 19,
+   "max": 20,
+   "value": "**Economic Boom:** Circumstances produced a burst of tremendous prosperity."
+  },
+  {
+   "min": 21,
+   "max": 22,
+   "value": "**Enemies Within:** A hostile sub-group inside the group worked to do it evil, perhaps on behalf of a neighbour."
+  },
+  {
+   "min": 23,
+   "max": 24,
+   "value": "**Evil Sorcerer:** A malevolent sorcerer, arcane cult, or powerful faerie entity caused a great deal of trouble."
+  },
+  {
+   "min": 25,
+   "max": 26,
+   "value": "**Exodus:** A significant chunk of the group packed up and left for some supposedly-superior land."
+  },
+  {
+   "min": 27,
+   "max": 28,
+   "value": "**Exquisite Art:** The group produced art that is revered to this day."
+  },
+  {
+   "min": 29,
+   "max": 30,
+   "value": "**External War:** The group faced a war with some external enemy or rival nation, with grave consequences."
+  },
+  {
+   "min": 31,
+   "max": 32,
+   "value": "**Freakish Magic:** A particular type of magic was developed here that is unknown elsewhere, and its practitioners keep its secrets."
+  },
+  {
+   "min": 33,
+   "max": 34,
+   "value": "**Golden Age:** Everything went remarkably well for the group for an extended period, allowing prosperity and success."
+  },
+  {
+   "min": 35,
+   "max": 36,
+   "value": "**Good Sorcerer:** Some magic-using entity of great power protected the group, taught them, or otherwise assisted them."
+  },
+  {
+   "min": 37,
+   "max": 38,
+   "value": "**Great Awakening:** A tremendous wave of reform, purification, and re-commitment to venerable values swept through the group."
+  },
+  {
+   "min": 39,
+   "max": 40,
+   "value": "**Great Builders:** The group constructed a great many vast palaces, monuments, estates, or other structures of wide fame."
+  },
+  {
+   "min": 41,
+   "max": 42,
+   "value": "**Great Infrastructure:** Some tremendous work of infrastructure was accomplished: roads, walls, aqueducts, drainage, mines."
+  },
+  {
+   "min": 43,
+   "max": 44,
+   "value": "**Hero King:** Some ruler achieved legendary glory in war, diplomacy, or governance. Their name is honoured even today."
+  },
+  {
+   "min": 45,
+   "max": 46,
+   "value": "**Immigrants:** A large group of foreigners entered the land more-or-less peacefully and may or may not have been welcomed."
+  },
+  {
+   "min": 47,
+   "max": 48,
+   "value": "**Inefficient Rule:** The group's governance was impractical, inefficient, or corrupt."
+  },
+  {
+   "min": 49,
+   "max": 50,
+   "value": "**Internal War:** A straight-up civil war was sparked in the group, one that involved all or many of its members."
+  },
+  {
+   "min": 51,
+   "max": 52,
+   "value": "**Loss of Confidence:** Some encounter with a new group or some shocking event made the group lose faith in its own customs."
+  },
+  {
+   "min": 53,
+   "max": 54,
+   "value": "**Magical Disaster:** Some large-scale magical disaster scarred the group — a sorcerer's folly, a faerie war, a curse."
+  },
+  {
+   "min": 55,
+   "max": 56,
+   "value": "**Magical Tech:** The group developed a useful widespread relic or magical infrastructure that may have survived into the present."
+  },
+  {
+   "min": 57,
+   "max": 58,
+   "value": "**Natural Calamity:** Earthquakes, multi-year droughts, storms, or some other ruin smote the group."
+  },
+  {
+   "min": 59,
+   "max": 60,
+   "value": "**New Horizons:** The group discovered new territory — a hidden valley, an island, a passage through the mountains."
+  },
+  {
+   "min": 61,
+   "max": 62,
+   "value": "**New Rulers:** The group's former ruling dynasty was replaced, either peacefully, through intrigue, or through outright conquest."
+  },
+  {
+   "min": 63,
+   "max": 64,
+   "value": "**Noble Function:** The ruling class was all expected to fill some specific role: priest, sorcerer, judge, warrior."
+  },
+  {
+   "min": 65,
+   "max": 66,
+   "value": "**Noble Strife:** The group's nobility found itself embroiled in assassinations, petty wars, and mutual struggle."
+  },
+  {
+   "min": 67,
+   "max": 68,
+   "value": "**Plague:** A sickness of vast scope culled many of the group, and may yet linger in some form."
+  },
+  {
+   "min": 69,
+   "max": 70,
+   "value": "**Poverty:** Circumstances conspired to reduce the group to great poverty and harsh simplicity for a time."
+  },
+  {
+   "min": 71,
+   "max": 72,
+   "value": "**Power Brokers:** The group was a critical regional power broker, their aid or influence critical in determining who would be king."
+  },
+  {
+   "min": 73,
+   "max": 74,
+   "value": "**Praetorian Coups:** Warriors or household guards in service to the ruler ended up becoming the ruler's electors or deposers."
+  },
+  {
+   "min": 75,
+   "max": 76,
+   "value": "**Priest King:** One or more religions became deeply intertwined with the legitimacy of the ruling class."
+  },
+  {
+   "min": 77,
+   "max": 78,
+   "value": "**Rare Resource:** Some unique and precious material was found or produced by the group."
+  },
+  {
+   "min": 79,
+   "max": 80,
+   "value": "**Religious Fall:** A formerly-powerful faith collapsed or was driven out, leaving a vacuum."
+  },
+  {
+   "min": 81,
+   "max": 82,
+   "value": "**Religious Rise:** A new or previously-minor faith grew dramatically in power and influence."
+  },
+  {
+   "min": 83,
+   "max": 84,
+   "value": "**Resource Collapse:** A critical resource the group depended on failed them — mine exhausted, forests cut, herds diseased."
+  },
+  {
+   "min": 85,
+   "max": 86,
+   "value": "**Ruinous Alliance:** The group allied with what seemed like a powerful benefactor that proved to be a catastrophic mistake."
+  },
+  {
+   "min": 87,
+   "max": 88,
+   "value": "**Schism:** The group split internally along ideological, ethnic, or religious lines."
+  },
+  {
+   "min": 89,
+   "max": 90,
+   "value": "**Slaughter:** The group suffered a catastrophic loss of population to warfare, plague, or famine."
+  },
+  {
+   "min": 91,
+   "max": 92,
+   "value": "**Trade Dominance:** The group controlled the trade of the entire region for a time."
+  },
+  {
+   "min": 93,
+   "max": 94,
+   "value": "**Usurpation:** The proper ruling line was deposed by a claimant, creating legitimacy disputes that persist today."
+  },
+  {
+   "min": 95,
+   "max": 96,
+   "value": "**Venerable Relic:** A sacred object was created, found, or lost during this period — its current whereabouts are unknown."
+  },
+  {
+   "min": 97,
+   "max": 98,
+   "value": "**Xenophobia:** The group turned inward, driving out or oppressing a minority that had previously been tolerated."
+  },
+  {
+   "min": 99,
+   "max": 100,
+   "value": "**Roll Twice:** Both events happened in the same generation, intertwined."
+  }
+ ]
+}

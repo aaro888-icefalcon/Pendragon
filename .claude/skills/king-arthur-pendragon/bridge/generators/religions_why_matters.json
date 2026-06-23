@@ -1,0 +1,59 @@
+{
+ "id": "pendragon.religions.why_matters",
+ "title": "Why Does This Faith Matter",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "generators/05-religions-cults.md#why-does-this-faith-matter-d10",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "It is the main purveyor of healing blessings in the region"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "It provides magical or miraculous favours to the faithful"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "It is locked in conflict with a major local power"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "It supports something the players love or hate"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "It is the state faith or otherwise legally mandatory"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "It regularly employs people to do work for it"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "It is trying to expand into new areas and needs help"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "It is a huge economic player in the region"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "It plots secret sinister evils against the land"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "It has influence over important local lords or royalty"
+  }
+ ]
+}

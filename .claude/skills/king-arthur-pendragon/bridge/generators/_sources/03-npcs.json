@@ -1,0 +1,514 @@
+{
+  "file": "generators/03-npcs.md",
+  "tables": [
+    {
+      "id": "pendragon.npcs.type_underclass",
+      "title": "NPC Type — Underclass (one-roll)",
+      "source": "generators/03-npcs.md#one-roll-npc-table-d100-per-column",
+      "die": "d100",
+      "values": [
+        "Black sheep of a gentry family, living rough",
+        "Cast-off former lord's mistress",
+        "Coldly professional hired killer",
+        "Corrupt petty bailiff or gatekeeper",
+        "Cynical acrobat or entertainer",
+        "Fallen former knight",
+        "Foreigner barely surviving",
+        "Gap-toothed local ruffian",
+        "Hardscrabble orphaned urchin",
+        "Wandering missionary of an unpopular god",
+        "Penniless country boy or girl in the city",
+        "Popular actor, singer, or minstrel",
+        "Prostitute with a kind heart",
+        "Weather-worn common sailor",
+        "Scabby beggar with a secret",
+        "Shabby boarding-house owner",
+        "Unsteady slum physician",
+        "Slanderous poet or storyteller",
+        "Petty thief turned drunkard",
+        "Bargeman or river-boatman",
+        "Unpopular but zealous local artist",
+        "Unpopular faerie-touched outsider",
+        "Weary scavenger or bone-picker",
+        "Widely-despised moneylender",
+        "Worn-down day labourer"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.type_freeman",
+      "title": "NPC Type — Freeman (one-roll)",
+      "source": "generators/03-npcs.md#one-roll-npc-table-d100-per-column",
+      "die": "d100",
+      "values": [
+        "Ambitious young merchant or craftsman",
+        "Skilled artisan of local fame",
+        "Butler or steward to a great figure",
+        "Feared local gossip with influence",
+        "Foreigner with enough coin",
+        "Harried landlord of a small estate",
+        "Herbalist or local wise woman",
+        "Local innkeeper or taverner",
+        "Grain merchant or bulk trader",
+        "Merchant past his prime",
+        "Minor king's reeve or official",
+        "Junior government functionary",
+        "Modestly prosperous freeholder",
+        "Local shop-keeper",
+        "Obsessed local scholar or cleric",
+        "Peasant much like all others",
+        "Priest of a local chapel",
+        "Respected local hermit or ascetic",
+        "Retired adventurer",
+        "Worn but respectable craftsman",
+        "Ship's captain or officer",
+        "Someone important's concubine",
+        "Venerable family elder",
+        "Veteran soldier or guardsman",
+        "Wandering peddler or trader"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.type_gentry",
+      "title": "NPC Type — Gentry (one-roll)",
+      "source": "generators/03-npcs.md#one-roll-npc-table-d100-per-column",
+      "die": "d100",
+      "values": [
+        "Abbot or prior of a monastery",
+        "Court enchanter or learned mage",
+        "Faerie-kin leader or high pagan priest",
+        "Diplomat from a foreign land or court",
+        "Discreet kingmaker or master of intelligences",
+        "Headman of a significant ethnic minority",
+        "Semi-legitimate bandit chief with connections",
+        "Comfortably kept noble hostage",
+        "Kept pretender to a foreign title",
+        "Local temple's high priest or bishop",
+        "Magistrate or royal judge",
+        "Major royal official or minister",
+        "Town mayor or chief city official",
+        "Great merchant of wide affairs",
+        "Military general or high officer",
+        "Most sought-after courtesan in the region",
+        "Paid-off noble family embarrassment",
+        "Revered artistic genius",
+        "Rusticating loser of a court dispute",
+        "Ruthless noble clan patriarch",
+        "Enchanter of fearsome name",
+        "Spare prince or major noble's heir",
+        "Hereditary holder of a traditional office",
+        "Wealthy but hated usurer",
+        "Wealthy scholar-noble"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.characteristic_twists",
+      "title": "Characteristic Twists",
+      "source": "generators/03-npcs.md#characteristic-twists-d12",
+      "die": "d12",
+      "values": [
+        "Abnormally rich or poor for their apparent station",
+        "Extremely averse to using violence under any circumstances",
+        "Tends to break their agreements, wisely or not",
+        "Has a reason to distrust or dislike people of the players' class or background",
+        "Has a useful but unlikely friend — a hermit, a faerie, a famous knight",
+        "A player character or their lord owes this NPC a debt",
+        "A personal disaster is looming rapidly for them",
+        "Has a reason to like or trust people of the players' class or background",
+        "Has few reliable social ties in this place",
+        "Conceals a secret that would be socially ruinous if revealed",
+        "A former outlaw, slave, or fallen person now trying to live honestly",
+        "Has a second identity they maintain carefully"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.specific_criminals",
+      "title": "Specific Criminals",
+      "source": "generators/03-npcs.md#specific-criminals-d12",
+      "die": "d12",
+      "values": [
+        "Decadent noble who turned to crime for the thrill",
+        "Single-minded former villain turned gang lord",
+        "Psychopathically indifferent assassin",
+        "Notorious relic-thief or jewel-thief",
+        "Infamously slippery confidence trickster",
+        "Wealthy innkeeper with extensive blackmail files",
+        "Terrifyingly brutal warband boss",
+        "Outlaw who protects the poor for a share of their produce",
+        "Smuggler dealing in very illegal goods",
+        "Renegade enchanter meddling with dark powers",
+        "Noble official robbing under colour of authority",
+        "Master spy for hire by the wealthy"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.specific_merchants",
+      "title": "Specific Merchants",
+      "source": "generators/03-npcs.md#specific-merchants-d12",
+      "die": "d12",
+      "values": [
+        "Grasping usurer with a long list of debtors",
+        "Trader in exotic and potentially illegal wares",
+        "Ambitious young merchant on their way up",
+        "Major landlord in the area",
+        "Monopolist with a royal patent",
+        "Brutally competitive merchant who uses hired muscle",
+        "Guild boss with enforcers and connections",
+        "Supplier of arms, horses, or provisions to the military",
+        "Wandering peddler or roaming tinker",
+        "Ship-owner trading with distant lands",
+        "Manor owner or large freeholder",
+        "Desperate oligarch with crumbling assets"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.specific_nobility",
+      "title": "Specific Nobility",
+      "source": "generators/03-npcs.md#specific-nobility-d12",
+      "die": "d12",
+      "values": [
+        "Royal scion judged unfit for any responsibility",
+        "Knight who bought their title through wealth",
+        "Head of a minor but greatly respected house",
+        "Heir to a major local title or holding",
+        "Fallen foreign noble in comfortable exile",
+        "Scheming lesser knight with grand ideas",
+        "Lord on their way down due to bad choices",
+        "Court favourite with greater ambitions",
+        "Treacherous but trusted noble plotter",
+        "Idealistic and well-meaning young lord",
+        "Grizzled lord who earned their title in war",
+        "Dynasty leader who is simply getting too old"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.specific_villagers",
+      "title": "Specific Villagers",
+      "source": "generators/03-npcs.md#specific-villagers-d12",
+      "die": "d12",
+      "values": [
+        "Biggest and cleverest bully in the village",
+        "Maiden or young man of known loose virtue",
+        "Restless youth who burns to leave for something greater",
+        "Best farmer in the hundred",
+        "Half-feral shepherd or swineherd",
+        "Village priest of steady, phlegmatic temperament",
+        "Local artisan of considerable talent",
+        "Gentry stuck in the countryside and hating it",
+        "Local wise woman or cunning man",
+        "Canny village headman or reeve",
+        "Reeve serving the village's lord",
+        "Traveller stuck here for some reason"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.specific_warriors",
+      "title": "Specific Warriors",
+      "source": "generators/03-npcs.md#specific-warriors-d12",
+      "die": "d12",
+      "values": [
+        "Iron-thewed barbarian giant with a huge sword",
+        "Coldly pragmatic bandit captain",
+        "Hard-bitten and cynical mercenary blade",
+        "Skulking archer-sniper who prefers ambush",
+        "Determinedly foppish duelling knight",
+        "Philosophical-minded village militiaman",
+        "Proudly skilled with bow or javelin",
+        "Consecrated temple-knight or crusading champion",
+        "Cunning hired enforcer with no public allegiance",
+        "Foreigner bearing an unusual weapon or style",
+        "Nondescript hired killer, easy to overlook",
+        "Veteran killer hiding behind a thin veneer of respectability"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.physical_build",
+      "title": "General Physical Build",
+      "source": "generators/03-npcs.md#general-physical-build-d4",
+      "die": "d4",
+      "values": [
+        "Unusually short or slender",
+        "Unremarkably average",
+        "Plump, soft, or voluptuous",
+        "Bulky, muscular, or more massive than usual"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.differ_from_expectations",
+      "title": "One Way They Differ From Expectations",
+      "source": "generators/03-npcs.md#one-way-they-differ-from-expectations-d12",
+      "die": "d12",
+      "values": [
+        "Unusual skin coloration or texture — unusually pale, dark, or scarred",
+        "From a people not normally found here — Roman, Saxon, Irish, Byzantine",
+        "Much older or younger than their position would suggest",
+        "Abnormal temperament for their trade — a gentle warrior, a vicious priest",
+        "Overt devotee of an uncommon or controversial faith",
+        "Keeps a pet animal that is not normal here — a raven, a bear-cub, a serpent",
+        "Eats a food that is disliked or taboo locally",
+        "Abnormal hair texture or unusual colour",
+        "Wears unusual tattoos or body decoration",
+        "Uncommonly clumsy or awkward socially",
+        "A body build entirely wrong for the area's common type",
+        "A distinct physical mark — a birthmark, a brand, a missing finger"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.way_they_move",
+      "title": "The Way They Move",
+      "source": "generators/03-npcs.md#the-way-they-move-d6",
+      "die": "d6",
+      "values": [
+        "Hesitant, fluttery, or delicately precise",
+        "Clumsy, with broad and careless movements",
+        "Slow and measured in all actions",
+        "Sharp, brisk, vigorous",
+        "Laborious or weary",
+        "Smooth, relaxed, and efficient"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.first_thing_noticed",
+      "title": "The First Thing Noticed",
+      "source": "generators/03-npcs.md#the-first-thing-noticed-d10",
+      "die": "d10",
+      "values": [
+        "Their voice is unusual and arresting",
+        "They are disfigured or missing a limb",
+        "They have a distinctive scent — incense, horses, forge-smoke, decay",
+        "Their clothing is very unusual for this place",
+        "They have distinct mannerisms of gesture",
+        "Their accent is unusual for this location",
+        "They are abnormally friendly or abnormally reserved",
+        "They show signs of a chronic illness or old wound",
+        "They have an unusual hairstyle, beard, or tonsure",
+        "They are very fat, thin, short, tall, or otherwise extreme"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.clothing_idiosyncrasies",
+      "title": "Clothing Idiosyncrasies",
+      "source": "generators/03-npcs.md#clothing-idiosyncrasies-d8",
+      "die": "d8",
+      "values": [
+        "A fondness for very bright or very dull colours",
+        "An emblem of faith, order, or social group prominently displayed",
+        "Ill-kept — worn, dirty, or rumpled beyond what their station warrants",
+        "Wears another culture's style of clothing",
+        "Abnormally risqué or abnormally modest for the society",
+        "Shows the regular marks of their trade — smith's burns, farmer's mud, ink",
+        "Fastidiously neat and tastefully adorned",
+        "Wears a very noticeable piece of jewellery or armour"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.visible_mannerisms",
+      "title": "Visible Mannerisms or Traits",
+      "source": "generators/03-npcs.md#visible-mannerisms-or-traits-d20",
+      "die": "d20",
+      "values": [
+        "An often-used catchphrase or verbal tic",
+        "Always drinking or near a drink",
+        "Hands never stop moving",
+        "Talks very slowly and deliberately",
+        "Tends to shift weight constantly, never still",
+        "Has an unusual hairstyle, beard, or markedly unfashionable look",
+        "Appears often to be slightly drunk or in a reverie",
+        "Prefers always to be in shadow or away from windows",
+        "Asks far too many questions",
+        "Never looks you in the eye when lying",
+        "Visibly hungry for gold, food, or attention",
+        "Always circuitous about answering questions directly",
+        "Never directly refuses or denies anything",
+        "Paces constantly; always prefers to stand",
+        "Has work-stained or scarred hands",
+        "Old disease scars or pox marks on the face",
+        "Prefers elaborate hats, belts, or jewelled adornments",
+        "Always toying with rosary beads, a ring, or a coin",
+        "Knocks things over carelessly",
+        "Checks written notes or tallies regularly"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.ambition_form",
+      "title": "Basic Form of the Ambition",
+      "source": "generators/03-npcs.md#basic-form-of-the-ambition-d10",
+      "die": "d10",
+      "values": [
+        "To win the love or possession of a particular person",
+        "To obtain riches and personal wealth",
+        "To win political power or a particular title or office",
+        "To obtain glory and fame for a skill or great deed",
+        "To gain a particular property, estate, or holy relic",
+        "To go to or explore a far-off place — Jerusalem, Constantinople, Avalon",
+        "To become a member of a difficult or prestigious calling",
+        "To kill or utterly ruin a hated rival",
+        "To bring down an institution, family, or faith",
+        "To repay some immeasurable debt"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.ambition_sparked",
+      "title": "When the Ambition Was Sparked",
+      "source": "generators/03-npcs.md#when-the-ambition-was-sparked-d4",
+      "die": "d4",
+      "values": [
+        "It has burned since childhood",
+        "An event while young inspired it",
+        "It came after mature adulthood",
+        "It is a fairly recent zeal"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.ambition_obstacle",
+      "title": "Biggest Immediate Obstacle",
+      "source": "generators/03-npcs.md#biggest-immediate-obstacle-d12",
+      "die": "d12",
+      "values": [
+        "A disinterested third party is blocking the way",
+        "They have made promises that are now coming due",
+        "They are burning out a resource in the pursuit",
+        "They are pushing themselves physically too far",
+        "They have suffered a recent considerable setback",
+        "A friend or loved one is somehow in the way",
+        "A backlash is about to rebound on them",
+        "They are pursuing the goal in entirely the wrong way",
+        "They have been fed some false information",
+        "They have lost a critical resource or tool",
+        "A traitor is sabotaging their efforts",
+        "Their success is now attracting hostile attention"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.tragedy_form",
+      "title": "Basic Form of the Tragedy",
+      "source": "generators/03-npcs.md#basic-form-of-the-tragedy-d10",
+      "die": "d10",
+      "values": [
+        "A family member died, was captured, or was ruined",
+        "They suffered horrible abuse or torment",
+        "A treasured ambition was crushed",
+        "A loving relationship was ruined",
+        "A terrible betrayal from someone they trusted",
+        "They failed at some critical moment of need",
+        "A friend or lover died or was lost",
+        "They killed someone they never meant to",
+        "They were maimed or crippled",
+        "They were beggared or lost everything dear to them"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.tragedy_scars",
+      "title": "Scars From the Tragedy",
+      "source": "generators/03-npcs.md#scars-from-the-tragedy-d20-roll-13-times",
+      "die": "d20",
+      "values": [
+        "They hate a type of person associated with the tragedy",
+        "They picked up an addictive habit",
+        "They are irrational about situations that resemble it",
+        "They want to share the misery around",
+        "They are haunted by lost possibilities",
+        "They remake the past in makeshift ways",
+        "They made deals they are still labouring under",
+        "They have visible physical scars associated with it",
+        "They accepted a role they hate because of it",
+        "They try to substitute others for what was lost",
+        "They meddled with dark magic or a forbidden bargain",
+        "They lost or sold something precious to them",
+        "They despise a place and its people",
+        "They insist on a false narrative of the events",
+        "They made a bargain with a dark power",
+        "They aggressively make light of their loss",
+        "They obsess over a physical token of the tragedy",
+        "They try to keep it secret from those near them",
+        "They behave so as to punish themselves for it",
+        "They have displaced their wrath on another"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.friendship_meeting",
+      "title": "Close Friendships — How Did They Meet",
+      "source": "generators/03-npcs.md#how-did-they-meet-d6",
+      "die": "d6",
+      "values": [
+        "They are relatives or connected by family ties",
+        "One did important work for the other",
+        "They share a mutual passion or hobby",
+        "One rescued the other from a peril",
+        "They shared in a successful plan or deed",
+        "They are in similar lines of work"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.friendship_threat",
+      "title": "What Threatens to Divide Them",
+      "source": "generators/03-npcs.md#what-threatens-to-divide-them-d12",
+      "die": "d12",
+      "values": [
+        "They both want the same man or woman",
+        "One of them has made an error threatening both",
+        "One has something the other desperately wants",
+        "One feels painfully inferior about something",
+        "Their families or associates disapprove of the friendship",
+        "A religious or moral dispute lingers between them",
+        "One owes the other a large sum or a great favour",
+        "One is failing to provide needed assistance",
+        "One is pursuing the other's spouse or betrothed",
+        "They want the same office, title, or role",
+        "One has become useless to the other lately",
+        "A misunderstanding has been festering"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.romance_meeting",
+      "title": "Troubled Romances — How Did They Meet",
+      "source": "generators/03-npcs.md#how-did-they-meet-d6",
+      "die": "d6",
+      "values": [
+        "They were opposed in a recent conflict",
+        "They are childhood acquaintances",
+        "Their families put them in contact",
+        "One needed something the other had",
+        "Employment or service of one to the other",
+        "Some unlikely random chance brought them together"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.romance_problem",
+      "title": "Problem One or Both Have",
+      "source": "generators/03-npcs.md#problem-one-or-both-have-d10",
+      "die": "d10",
+      "values": [
+        "The pairing is completely socially unacceptable",
+        "Profound insecurity about their worthiness of the other",
+        "Abusive ways of expressing anger or worry",
+        "A serious addiction or compulsive flaw",
+        "They are already tied in an existing relationship",
+        "A deep lack of trust, perhaps from past betrayal",
+        "They love a false image they have of the other",
+        "Expectation that the other will or will not change",
+        "Self-centred or thoughtless behaviour",
+        "A self-destructive degree of sacrifice for the relationship"
+      ]
+    },
+    {
+      "id": "pendragon.npcs.romance_issue",
+      "title": "Current Issue They Face",
+      "source": "generators/03-npcs.md#current-issue-they-face-d12",
+      "die": "d12",
+      "values": [
+        "Recent infidelity, or credible suspicion of it",
+        "A rival moving in on one of them",
+        "One has made a mistake that threatens the other",
+        "One takes a dire risk for the sake of the other",
+        "A feeling of lack — something important is missing",
+        "A recent furious argument over something",
+        "One is being asked to sacrifice something very dear",
+        "They cannot agree on a future path",
+        "One has made a mistake that shamed the other",
+        "A family member is interfering with the pair",
+        "They are being separated by circumstances — war, exile, duty",
+        "A shared dream is being threatened"
+      ]
+    }
+  ]
+}

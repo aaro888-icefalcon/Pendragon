@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.religious_internal_conflict",
+ "title": "Religious Court — Internal Conflicts",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#religious-courts-church-monastery-hermit-brotherhood",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A seductive heresy has taken hold among junior clergy"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Signs of divine displeasure have appeared"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A vital holy relic or liturgical object has been lost"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "The leader and their chief rival openly undermine each other"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A forbidden relationship has formed among the clergy"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A member demands an expensive and controversial rite"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Factions fight over who will conduct a great ceremony"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "The greater church has declared a vital activity forbidden"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The clergy have adopted a costly and scandalous habit"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A zealot reformer demands impractical standards of piety"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Poverty is forcing the community to compromise its principles"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A member is bungling an important duty or office"
+  }
+ ]
+}

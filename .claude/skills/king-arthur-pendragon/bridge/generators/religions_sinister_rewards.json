@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.religions.sinister_rewards",
+ "title": "Rewards of the Sinister Faith",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#rewards-of-the-sinister-faith-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "It savagely defends an otherwise powerless or oppressed group, requiring service as the price"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "The chosen among the believers are granted uncanny powers or dark gifts"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "The faith bestows wealth and material prosperity on those who serve it"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "It allows an undead or otherwise unnatural state of extended life for devout servants"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "It gives practical protection against a plague, disaster, or constant threat"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "It provides political power through blackmail, vile favours, and dark works"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Its principles are the comfortably established traditions of its hereditary believers"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "It provides intense experiences — visions, ecstasies, or physical pleasures — unavailable elsewhere"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "It provides muscle to its faithful followers, letting them terrorise their enemies"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "It justifies their worst impulses and gives divine rationale to a vicious subculture"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "It promises salvation from a coming catastrophe that will fall on all unbelievers"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "It gives its outcast adherents a sense of meaning, power, and belonging through its terrible majesty"
+  }
+ ]
+}

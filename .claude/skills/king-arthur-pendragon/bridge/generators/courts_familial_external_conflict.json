@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.familial_external_conflict",
+ "title": "Familial Clan Court — External Conflicts",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#familial-clan-courts-noble-dynasties-knightly-families-peasant-elder-clans",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "There is a running feud with another family"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "The lord does not like their influence and power"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A member committed adultery with the wrong person"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Someone gravely insulted or offended another family"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "The family's rights are being trampled by the nobility"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "The family's source of influence is being undermined"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A rival family stole something very important from them"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A marriage alliance has turned out very badly"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Their neighbours demand they fix a local problem"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Their vital interests are causing problems for neighbours"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Ambitious newcomers are attacking their standing"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A disinherited rebel is trying to seize control of assets"
+  }
+ ]
+}

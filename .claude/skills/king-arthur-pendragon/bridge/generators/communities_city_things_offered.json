@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.city_things_offered",
+ "title": "City — Interesting Things the Place Can Offer",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#significant-towns-and-cities",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Large amounts of conventional coin"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Expensive urban property — a warehouse, a town house"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Sophisticated and very valuable local products"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Formal citizenship and the rights of a local"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Quiet dismissal of criminal charges or disgraceful pasts"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Indulgences beyond the power of a smaller place to grant"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Services of exceptionally skilled specialist craftsmen"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Connections with major nobility of the realm"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Absentee ownership of rural manors or farms"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Rare occult components or magical products"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Blessings from major clergy or high priests"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Business monopolies or toll-rights in certain areas"
+  }
+ ]
+}

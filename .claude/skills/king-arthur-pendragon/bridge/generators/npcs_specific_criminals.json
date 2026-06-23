@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.specific_criminals",
+ "title": "Specific Criminals",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#specific-criminals-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Decadent noble who turned to crime for the thrill"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Single-minded former villain turned gang lord"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Psychopathically indifferent assassin"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Notorious relic-thief or jewel-thief"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Infamously slippery confidence trickster"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Wealthy innkeeper with extensive blackmail files"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Terrifyingly brutal warband boss"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Outlaw who protects the poor for a share of their produce"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Smuggler dealing in very illegal goods"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Renegade enchanter meddling with dark powers"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Noble official robbing under colour of authority"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Master spy for hire by the wealthy"
+  }
+ ]
+}

@@ -1,0 +1,443 @@
+{
+  "file": "generators/05-religions-cults.md",
+  "tables": [
+    {
+      "id": "pendragon.religions.who_leads",
+      "title": "Who Leads the Faith",
+      "source": "generators/05-religions-cults.md#who-leads-the-faith-d8",
+      "die": "d8",
+      "values": [
+        "Each holy man or woman is the autonomous leader of their own branch, with however many followers they can gather",
+        "Multiple bishops or high priests, friendly or otherwise, with subordinate clergy each obedient to their own superior",
+        "A single archbishop, abbot, or high priest with a layer of senior clergy beneath them",
+        "Individual congregations or grove-circles are independent, with their clergy subject to the consensus will of their people",
+        "Powerful lay believers fund temples or monasteries subject to their family's control",
+        "No official clergy; some believers take up special roles but are not qualitatively different from others",
+        "The church is entirely part of the secular structure of the land; its clergy are officials appointed by the lord",
+        "Roll twice; the faith has different structures in different places"
+      ]
+    },
+    {
+      "id": "pendragon.religions.gods_origin",
+      "title": "God's Origin",
+      "source": "generators/05-religions-cults.md#gods-origin-d12",
+      "die": "d12",
+      "values": [
+        "A deified ancestor-king or progenitor of a people",
+        "A legendary historical hero, saint, or teacher",
+        "An abstract principle — Law, Mercy, War, Harvest — made into a divine person",
+        "A being that simply always existed since the world was made",
+        "An apotheosised sorcerer or wise woman of vast power",
+        "The genius or spirit of a particular land, river, or place",
+        "A faerie or otherworldly being from beyond the mortal world",
+        "A personified natural phenomenon — the sun, the sea, thunder, winter",
+        "A saint of another faith who was elevated into a god by the people's need",
+        "A former enemy power that was tamed or placated",
+        "A being constructed or called into existence by ancient human ritual",
+        "Roll twice and blend the two origins"
+      ]
+    },
+    {
+      "id": "pendragon.religions.why_matters",
+      "title": "Why Does This Faith Matter",
+      "source": "generators/05-religions-cults.md#why-does-this-faith-matter-d10",
+      "die": "d10",
+      "values": [
+        "It is the main purveyor of healing blessings in the region",
+        "It provides magical or miraculous favours to the faithful",
+        "It is locked in conflict with a major local power",
+        "It supports something the players love or hate",
+        "It is the state faith or otherwise legally mandatory",
+        "It regularly employs people to do work for it",
+        "It is trying to expand into new areas and needs help",
+        "It is a huge economic player in the region",
+        "It plots secret sinister evils against the land",
+        "It has influence over important local lords or royalty"
+      ]
+    },
+    {
+      "id": "pendragon.religions.faith_wants",
+      "title": "What Does This Faith Want",
+      "source": "generators/05-religions-cults.md#what-does-this-faith-want-d12",
+      "die": "d12",
+      "values": [
+        "To crush its religious rivals in the region",
+        "To destroy a heretical but powerful sub-sect",
+        "To expand to a foreign land or people",
+        "To recover a holy site or relic that was seized",
+        "To obtain vast material wealth for the faith",
+        "To depose a hostile lord or government",
+        "To destroy a specific enemy faith or pagan tradition",
+        "To call a great holy conclave or perform a sacred ritual",
+        "To erect a grand cathedral, minster, or sacred monument",
+        "To perform a tremendously expensive rite or pilgrimage",
+        "To strengthen and protect its devout believers",
+        "Roll again; stop a rival from doing that thing"
+      ]
+    },
+    {
+      "id": "pendragon.religions.social_function",
+      "title": "What Does This God Do in Society",
+      "source": "generators/05-religions-cults.md#what-does-this-god-do-in-society-d20",
+      "die": "d20",
+      "values": [
+        "It is the war-god or patron of those who fight",
+        "It is the favourite god of the ruling class",
+        "It is the patron of an important profession — smiths, sailors, healers",
+        "It is a devil-figure that must be placated to avert disaster",
+        "It provides healing, protection from illness, and aid in danger",
+        "It is the patron of an illegal but inevitable trade",
+        "It hallows the law, consecrates oaths, and punishes oath-breakers",
+        "It is flatly illegal and hated by most of the official establishment",
+        "It is the protector of an ethnic or social minority",
+        "It provides good harvests, fertile animals, and healthy children",
+        "It is the patron of the former rulers of the land — Roman, pre-Roman",
+        "It guards particular sacred places — springs, groves, stones, boundaries",
+        "It provides wisdom and prophetic insight to those who seek it",
+        "It gives good luck to its petitioners",
+        "It is a protector of the weak and the humble",
+        "It empowers those seeking righteous revenge for wrongs",
+        "It bestows material wealth on petitioners",
+        "It protects the soul in the afterlife",
+        "It explains the creation and order of the world",
+        "It prevents some type of common disaster — flood, plague, harvest-failure"
+      ]
+    },
+    {
+      "id": "pendragon.religions.portfolio_human_concern",
+      "title": "God's Portfolio — Human Concern",
+      "source": "generators/05-religions-cults.md#gods-portfolio-d20",
+      "die": "d20",
+      "values": [
+        "A human vice — pride, lust, wrath, greed",
+        "A kind of outsider — faerie, Roman, Saxon, Pictish",
+        "Agriculture and the harvest",
+        "Cities and settled life",
+        "Commerce and trade",
+        "Crafting and making things",
+        "Deception and illusion",
+        "Healing the sick and injured",
+        "Justice and righteous judgment",
+        "Fortune and luck",
+        "Marriage and family",
+        "Music, song, and poetry",
+        "Prophecy and the second sight",
+        "Protection and guardianship",
+        "Revenge and reckoning",
+        "Lordship and right rule",
+        "Theft and hidden deeds",
+        "Travel, roads, and wayfarers",
+        "War and the warrior",
+        "Wisdom and learning"
+      ]
+    },
+    {
+      "id": "pendragon.religions.portfolio_natural_principle",
+      "title": "God's Portfolio — Natural Principle",
+      "source": "generators/05-religions-cults.md#gods-portfolio-d20",
+      "die": "d20",
+      "values": [
+        "A local terrain type — moor, fen, forest, hilltop",
+        "Wild beasts",
+        "Beauty or desire",
+        "The cosmic order and law",
+        "Creation and generation",
+        "Death and the dead",
+        "Fertility and growth",
+        "The deep forest",
+        "Enchantment and the unseen",
+        "Mountains and high places",
+        "Night and darkness",
+        "One or more seasons",
+        "Pain and ordeal",
+        "The sea, rivers, and water",
+        "The sky",
+        "Storms and rain",
+        "The sun, moon, or stars",
+        "The underworld and the Otherworld",
+        "Time and its passing",
+        "Untamed wild nature"
+      ]
+    },
+    {
+      "id": "pendragon.religions.clerics_like",
+      "title": "What Are the Clerics Like",
+      "source": "generators/05-religions-cults.md#what-are-the-clerics-like-d8",
+      "die": "d8",
+      "values": [
+        "Just ritual technicians trained in complex rites, with no special moral requirements",
+        "Chosen from specific bloodlines and trained to serve the faithful",
+        "Experts in some sphere related to the god's domain — healers, scholars, warriors",
+        "Enchanters or sorcerers who serve the god as part of their arcane studies",
+        "Common believers chosen by their peers for technical skill and moral character",
+        "Isolated ascetics expected to keep a strict distance from the world",
+        "Those who step forward and are accepted for their qualities or abilities",
+        "The wealthier believers who can afford the expensive or demanding practice"
+      ]
+    },
+    {
+      "id": "pendragon.religions.requirements",
+      "title": "Particular Religious Requirements",
+      "source": "generators/05-religions-cults.md#particular-religious-requirements-d20",
+      "die": "d20",
+      "values": [
+        "Never or always associate with certain types of people",
+        "Never eat a particular common food",
+        "Give a significant tithe regularly — a tenth of income, a tenth of harvest",
+        "Make particular sacrifices at certain sacred times",
+        "Revere or hate a particular class or group of people",
+        "Forbid a certain common profession or social role",
+        "Forbid an activity common to society — blood sports, trade, weapons",
+        "Give secular obedience to the clergy in matters of conscience",
+        "Pray at certain fixed places or at fixed times of day",
+        "Never or always trade with certain sorts of people",
+        "Never or always live in certain kinds of places",
+        "Marry exclusively within the faith",
+        "Do something that wider society finds repugnant",
+        "Hold certain places, objects, or times to be taboo",
+        "Hide the faith's inner teachings from uninitiated outsiders",
+        "Make sacrifices that neighbours find offensive or wasteful",
+        "Never or always make war on certain people",
+        "Honour or degrade a particular profession",
+        "Make certain pilgrimages to holy places — Rome, Jerusalem, a local shrine",
+        "Never or always cooperate with a particular rival faith"
+      ]
+    },
+    {
+      "id": "pendragon.religions.temple_size",
+      "title": "One-Roll Temple — How Big Is the Temple",
+      "source": "generators/05-religions-cults.md#how-big-is-the-temple-d4",
+      "die": "d4",
+      "values": [
+        "Much smaller than most in a similar place — a roadside shrine, a hermit's cave",
+        "Shrunken from its former size — an old Roman basilica partly collapsed",
+        "Normal for a temple of its importance",
+        "Unusually large or grand for its site"
+      ]
+    },
+    {
+      "id": "pendragon.religions.temple_local_opinion",
+      "title": "One-Roll Temple — What Do the Locals Think of It",
+      "source": "generators/05-religions-cults.md#what-do-the-locals-think-of-it-d6",
+      "die": "d6",
+      "values": [
+        "Held in contempt for its flaws and failings",
+        "Something about it is bothering the locals",
+        "Accepted as a tolerable and unremarkable shrine",
+        "Has a good and trustworthy reputation",
+        "Did something recently that gave it great local glory",
+        "Held in utmost esteem and veneration by the locals"
+      ]
+    },
+    {
+      "id": "pendragon.religions.temple_leader",
+      "title": "One-Roll Temple — Who Is In Charge",
+      "source": "generators/05-religions-cults.md#who-is-in-charge-d8",
+      "die": "d8",
+      "values": [
+        "A venal time-server of desultory piety",
+        "A harried and inexperienced new leader",
+        "A dutiful servant of the local secular power",
+        "An incompetent shunted off to the post as a punishment",
+        "A local prodigy of remarkable piety and ability",
+        "A grizzled and pragmatic veteran of church politics",
+        "A charismatic but near-schismatic preacher",
+        "A practical and reasonably pious cleric doing their best"
+      ]
+    },
+    {
+      "id": "pendragon.religions.temple_problems",
+      "title": "One-Roll Temple — What Problems Does It Have",
+      "source": "generators/05-religions-cults.md#what-problems-does-it-have-d12",
+      "die": "d12",
+      "values": [
+        "A rival faith or shrine is actively doing this one harm",
+        "The locals expect a miracle it cannot provide",
+        "The leader is fighting with their ecclesiastical superiors",
+        "A priest here recently did something awful",
+        "The temple has gotten into serious debt",
+        "A disaster has physically damaged the building",
+        "Some armed men have a grudge against this shrine",
+        "The noble class refuse to patronise it for some reason",
+        "It shows signs of genuine divine displeasure — withered crops, sick animals",
+        "A priest here is meddling with dark powers or forbidden rites",
+        "A schismatic preacher is drawing off its believers",
+        "Roll twice; one problem was caused by the other"
+      ]
+    },
+    {
+      "id": "pendragon.religions.temple_help",
+      "title": "One-Roll Temple — What Particular Help Can It Provide",
+      "source": "generators/05-religions-cults.md#what-particular-help-can-it-provide-d10",
+      "die": "d10",
+      "values": [
+        "Considerable healing blessings and holy physic",
+        "Unusually well-resourced for a shrine of this size",
+        "Owns a great deal of valuable goods, land, or livestock",
+        "Has the ear of important local lords or royal officials",
+        "The local lord relies on it considerably for legitimacy",
+        "Has useful lay servants and lay brothers",
+        "Knows a great many useful secrets and rumours",
+        "Can arrange for crimes or offences to be forgiven or overlooked",
+        "Is owed favours by other temples and monasteries",
+        "Has a surprising number of well-armed defenders"
+      ]
+    },
+    {
+      "id": "pendragon.religions.temple_quirks",
+      "title": "One-Roll Temple — Particular Quirks About the Temple",
+      "source": "generators/05-religions-cults.md#particular-quirks-about-the-temple-d20",
+      "die": "d20",
+      "values": [
+        "It is built into a former secular building — a Roman bath, a great hall",
+        "It is remarkably well-fortified for a religious house",
+        "It is connected to a thriving secular business — a mill, a farm, a workshop",
+        "The clergy are largely related to each other by blood",
+        "It is in an unusually dangerous location — a cliff, a flood-plain, a moor",
+        "It shares its precinct with a friendly but different faith",
+        "It follows unusual prohibitions or practises rites not found elsewhere",
+        "It has access to an ancient relic or holy object of real power",
+        "Its library or archive is remarkably extensive",
+        "It attracts wandering prophets, mystics, and religious merchants",
+        "It provides some service that polite society finds illicit or scandalous",
+        "It is more a business or farm than a genuine religious house",
+        "It is unusually beautifully built or decorated",
+        "It is a shadow of a once-glorious past — crumbling, underpopulated",
+        "It is unusually recent in its founding — within living memory",
+        "The clergy generally dislike each other intensely",
+        "Its leadership is of foreign origin or background",
+        "It deals only with those who have proven their faith",
+        "It displaced a former faith, perhaps violently",
+        "It is secretly a front for another faith entirely"
+      ]
+    },
+    {
+      "id": "pendragon.religions.sinister_rewards",
+      "title": "Rewards of the Sinister Faith",
+      "source": "generators/05-religions-cults.md#rewards-of-the-sinister-faith-d12",
+      "die": "d12",
+      "values": [
+        "It savagely defends an otherwise powerless or oppressed group, requiring service as the price",
+        "The chosen among the believers are granted uncanny powers or dark gifts",
+        "The faith bestows wealth and material prosperity on those who serve it",
+        "It allows an undead or otherwise unnatural state of extended life for devout servants",
+        "It gives practical protection against a plague, disaster, or constant threat",
+        "It provides political power through blackmail, vile favours, and dark works",
+        "Its principles are the comfortably established traditions of its hereditary believers",
+        "It provides intense experiences — visions, ecstasies, or physical pleasures — unavailable elsewhere",
+        "It provides muscle to its faithful followers, letting them terrorise their enemies",
+        "It justifies their worst impulses and gives divine rationale to a vicious subculture",
+        "It promises salvation from a coming catastrophe that will fall on all unbelievers",
+        "It gives its outcast adherents a sense of meaning, power, and belonging through its terrible majesty"
+      ]
+    },
+    {
+      "id": "pendragon.religions.cult_goal",
+      "title": "One-Roll Malevolent Cult — General Goal",
+      "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+      "die": "d6",
+      "values": [
+        "Glorify their dark god and its vile ways",
+        "Expand the cult in an adjacent community",
+        "Destroy a powerful enemy of the cult",
+        "Extinguish a rival faith and their clergy",
+        "Perform a terrible magical ritual",
+        "Obtain secular control over an area"
+      ]
+    },
+    {
+      "id": "pendragon.religions.cult_horror",
+      "title": "One-Roll Malevolent Cult — What's So Horrible About the Faith",
+      "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+      "die": "d8",
+      "values": [
+        "Unbelievers are to be killed on principle",
+        "Hideous appetites of the flesh are sacred",
+        "Unholy entities from the Otherworld must be called",
+        "Unbelievers are property to be used as desired",
+        "The world must be purged to make room for the god",
+        "All settled civilisation must be destroyed",
+        "All law but the cult's must be overthrown",
+        "The god demands a terrible and constant nourishment"
+      ]
+    },
+    {
+      "id": "pendragon.religions.cult_enforcement",
+      "title": "One-Roll Malevolent Cult — How Do the Clergy Enforce Their Will",
+      "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+      "die": "d10",
+      "values": [
+        "Magical curses punish the disobedient",
+        "Blackmail and threats of social ruin",
+        "Murder by cult enforcers and bound creatures",
+        "Mental compulsions implanted by rituals",
+        "Kidnapping followed by hideous ritual death",
+        "Traitors are betrayed to cult enemies",
+        "Violence against a traitor's loved ones",
+        "The dark god's wrath falls on the faithless",
+        "Control of an addictive thing they need",
+        "Lay believers gain glory by purging traitors"
+      ]
+    },
+    {
+      "id": "pendragon.religions.cult_unity",
+      "title": "One-Roll Malevolent Cult — How Unified Is the Cult",
+      "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+      "die": "d4",
+      "values": [
+        "Completely united behind its leadership",
+        "Obedient to leaders who sometimes quarrel",
+        "Tenuously balanced factions cooperate",
+        "Badly fractious under many rival priests"
+      ]
+    },
+    {
+      "id": "pendragon.religions.cult_problems",
+      "title": "One-Roll Malevolent Cult — What Problems Does It Have",
+      "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+      "die": "d12",
+      "values": [
+        "The leadership is insane in unhelpful ways",
+        "It has caught the eye of a dangerous enemy",
+        "One of its bound creatures or servants is out of control",
+        "It is running low on sacrifices and new recruits",
+        "It has been impoverished by a recent trouble",
+        "There is a dangerous schism in its ranks",
+        "Its god is making unreasonable and escalating demands",
+        "The lay believers are demanding much from the priests",
+        "The cult's enforcers are muscling the clerical leadership",
+        "The god's influence has become distant and unreliable",
+        "An important member has turned traitor",
+        "Another dark faith is actively at war with it"
+      ]
+    },
+    {
+      "id": "pendragon.religions.cult_traits",
+      "title": "One-Roll Malevolent Cult — Specific Traits of the Cult",
+      "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+      "die": "d20",
+      "values": [
+        "It favours monstrous body alterations or markings",
+        "It is a remnant of a now-dead culture — Roman, Pictish, pre-Roman",
+        "It possesses a variety of potent ancient relics",
+        "It is a sect of a better-known public faith",
+        "It cuts secret deals with members of the ruling class",
+        "It has a totemic beast or monstrous creature type",
+        "They live where normal people could not survive",
+        "They practise some form of forbidden consumption",
+        "They have agents in other religious groups",
+        "They were thought to have been wiped out in the past",
+        "A significant subculture of the land is friendly to it",
+        "It employs unusual enchantments or old Roman magic",
+        "It has obedient monstrous servants bound to it",
+        "An area is tacitly understood to belong to it — enter at your peril",
+        "It was once a public and powerful faith",
+        "It has open sympathisers among the great and powerful",
+        "It is thought by some to hold back some awful doom",
+        "Its surface members look entirely unremarkable",
+        "The visible part of the cult is only a fraction of it",
+        "They serve a purpose that once made sense but no longer does"
+      ]
+    }
+  ]
+}

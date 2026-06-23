@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.complications.disputes_with_neighbour",
+ "title": "Disputes With a Neighbouring Power",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#disputes-with-a-neighbouring-power-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "Raiders are taking refuge in their lands after striking ours"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Ownership of a resource site — a mine, a ford, a fishing ground — is disputed"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A usurper or criminal is being sheltered by them"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A troublemaking religious sect is based in their territory"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "Their rulers have a political claim on our throne or on land we hold"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A diplomatic marriage has gone sour — insults were given, a bride mistreated"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "A past war's savagery has left deep scars that have not healed"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Their culture or religion is supplanting local beliefs among our people"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Their immigrants are gaining great influence in border communities"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "They broke off an alliance or an important oath"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "They lured away a respected scholar, holy man, or craftsman"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Border tariffs and tolls are blocking trade and enriching bandits"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "They drove a terrible monster or cursed tribe into our land"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "A faerie mound or Roman ruin they tampered with has sent evil into our territory"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "They woke up a great peril from the past"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "They are cooperating with our enemies — harbouring Saxon scouts, supplying raiders"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "They are suspected of backing assassinations or palace intrigues here"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A spy ring operating from their court has been found or is suspected"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "They refused to give aid for some current crisis"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "They have been hostile to an allied group or vassal of ours"
+  }
+ ]
+}

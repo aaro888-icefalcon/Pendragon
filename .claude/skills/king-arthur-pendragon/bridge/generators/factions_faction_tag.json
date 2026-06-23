@@ -1,0 +1,79 @@
+{
+ "id": "pendragon.factions.faction_tag",
+ "title": "Faction Tag",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/02-factions.md#faction-tags",
+ "entries": [
+  {
+   "min": 1,
+   "max": 8,
+   "value": "Concealed"
+  },
+  {
+   "min": 9,
+   "max": 16,
+   "value": "Imperialist"
+  },
+  {
+   "min": 17,
+   "max": 23,
+   "value": "Innovative"
+  },
+  {
+   "min": 24,
+   "max": 30,
+   "value": "Machiavellian"
+  },
+  {
+   "min": 31,
+   "max": 37,
+   "value": "Martial"
+  },
+  {
+   "min": 38,
+   "max": 44,
+   "value": "Massive"
+  },
+  {
+   "min": 45,
+   "max": 51,
+   "value": "Mobile"
+  },
+  {
+   "min": 52,
+   "max": 58,
+   "value": "Populist"
+  },
+  {
+   "min": 59,
+   "max": 65,
+   "value": "Rich"
+  },
+  {
+   "min": 66,
+   "max": 72,
+   "value": "Rooted"
+  },
+  {
+   "min": 73,
+   "max": 79,
+   "value": "Tenacious"
+  },
+  {
+   "min": 80,
+   "max": 86,
+   "value": "Zealot"
+  },
+  {
+   "min": 87,
+   "max": 93,
+   "value": "Holy"
+  },
+  {
+   "min": 94,
+   "max": 100,
+   "value": "Pagan"
+  }
+ ]
+}

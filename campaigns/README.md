@@ -16,7 +16,8 @@ campaigns/
       npcs.md          # the Characters List — who's on stage, with weights
       threads.md       # the Threads List — open goals and hooks, with weights
       session-log.md   # one line per beat; GM rulings recorded here as precedent
-      mythic.md        # the gap-filler's dial: Chaos Factor + scene mode + roll-snapshot
+      mythic.md        # the engine's loop-state anchor: Chaos Factor + scene mode + Lists snapshot + recap
+      seeds.md         # the engine's seed deck (30–40), refreshed each bookkeeping (created on demand)
 ```
 
 ## Starting a new campaign
@@ -30,13 +31,22 @@ cp .claude/skills/king-arthur-pendragon/assets/templates/*.md campaigns/<campaig
 ```
 
 Open at Salisbury, spring **480 AD**, under King Uther. Claude (driving the
-`king-arthur-pendragon` skill) walks you through the rest per
-`.claude/skills/king-arthur-pendragon/gm/GM-LOOP.md`.
+`mythic-gm` engine over the `king-arthur-pendragon` companion bridge) walks you
+through the rest — Session Zero, then THE TURN (see `/CLAUDE.md`).
+
+## No duplicate bookkeeping (engine ⇄ Pendragon state mapping)
+
+In the default mode (Mythic drives), the engine's loop-state lives in these
+existing Pendragon files — no parallel `campaign-state.md` is created:
+
+- engine **`campaign-state.md`** (Frame · Chaos · Lists snapshot · recap) → **`mythic.md`**
+- engine **`character-sheet.md`** → **`knight.md`**
+- engine **Threads List** → **`threads.md`** · **Characters List** → **`npcs.md`**
+- engine **seed deck** → **`seeds.md`** · engine **archive** → **`dynasty.md`** + the home files
 
 ## Notes
 
 - **State files outrank memory.** If memory and a file disagree, the file wins.
 - Commit your `state/` after a session — the saga is meant to be version-controlled and preserved.
-- In the default mode (Pendragon drives), Pendragon's `state/` is the single
-  source of truth; Mythic's bookkeeping folds into `threads.md`, `npcs.md`, and
-  `mythic.md` rather than a separate file.
+- The **game year is the master metronome** (`bridge/subsystems.md`); the Chaos
+  Factor is scene-turbulence only and never overrides the scheduled GPC timeline.

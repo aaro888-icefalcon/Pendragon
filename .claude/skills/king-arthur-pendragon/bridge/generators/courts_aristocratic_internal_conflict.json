@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.aristocratic_internal_conflict",
+ "title": "Aristocratic Court — Internal Conflicts",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#aristocratic-courts",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Someone is pursuing another member's betrothed"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Someone faces financial ruin from a costly folly"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Two potential heirs are in bitter, open conflict"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "An elder kinsman makes unreasonable demands on all"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A danger lurks in or near the court's own stronghold"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Someone skims income that rightfully belongs to others"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A household servant is blackmailing their master"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A court resource has been badly damaged or lost"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Someone wants to make a politically disastrous marriage"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Someone poisoned or cursed another member"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A member has become entangled with outlaws or pagans"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A faction in the court is secretly scheming against the lord"
+  }
+ ]
+}

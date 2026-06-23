@@ -1,0 +1,509 @@
+{
+ "id": "pendragon.adventure_seeds.all",
+ "title": "Adventure Seeds — All (one-roll d100)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/07-adventure-seeds.md#how-to-use-seeds",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "An **E** has suffered a dire reverse, and seeks a **T** in order to rescue their situation."
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "An **E** is behind a recent flare-up of a **C** that is causing problems for the players."
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "An **E** keeps a **T** at a well-guarded **P**, and a **F** is willing to pass the players information on it."
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "An **E** is being targeted by the negative effects of a **C** but is trying to pin it all on a **F**."
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "An **E** is trying to take control of a **P**, but is being hindered by the activities of a **F**."
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "An **E** is trying to use a **C** to pry a valuable **T** out of the hands of a **F**."
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "An **E** is using a **T** to bait a **F** into getting involved in a **C** that will probably destroy them."
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "An **E** controls a **P** where a **T** is located, but a **C** is currently keeping them from being able to extract it."
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "An **E** has recently become active near a **P**, and their actions have stirred up a **C** that a local **F** does not know how to handle."
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "An **E** is struggling over a **T** with another **E**, and the fallout from their fight is making problems for the players or a **F**."
+  },
+  {
+   "min": 11,
+   "max": 11,
+   "value": "An **E** has a grudge against a **F** and is trying to frame them for some crime related to a **T**."
+  },
+  {
+   "min": 12,
+   "max": 12,
+   "value": "An **E** has just destroyed the last obstacle that prevented them from full exertion of their malice and is using a **T** they claimed to prosecute it."
+  },
+  {
+   "min": 13,
+   "max": 13,
+   "value": "An **E** lost a **T** at the worst possible time and is suffering from a **C**. They are trying to get it back before they are ruined."
+  },
+  {
+   "min": 14,
+   "max": 14,
+   "value": "An **E** is currently at a **P** and is exceptionally vulnerable for some reason. A **F** wants to take advantage of that."
+  },
+  {
+   "min": 15,
+   "max": 15,
+   "value": "An **E** has promised an ally a **T** and is becoming increasingly desperate to obtain it, as the consequences for failure are dire."
+  },
+  {
+   "min": 16,
+   "max": 16,
+   "value": "An **E** has imprisoned a **F** for some reason, and if they are not rescued soon a grim fate awaits them."
+  },
+  {
+   "min": 17,
+   "max": 17,
+   "value": "An **E** has allied with another **E** in order to obtain a **T** from a **P**, yet both are preparing to betray each other and the **T** could be stolen in the chaos."
+  },
+  {
+   "min": 18,
+   "max": 18,
+   "value": "An **E** is working to weaponise a **C** against a **F**, but their attempt has somehow left open the possibility of stealing or finding a **T**."
+  },
+  {
+   "min": 19,
+   "max": 19,
+   "value": "An **E** has forced a **F** into service, but in the process the **F** has learned how the players can obtain a **T**."
+  },
+  {
+   "min": 20,
+   "max": 20,
+   "value": "An **E** has just had some personal triumph that is catalysing a flare-up of a **C** that is harming the players or a **F**."
+  },
+  {
+   "min": 21,
+   "max": 21,
+   "value": "A **F** stole a **T** from an **E**. The **E** does not know who did it, but their flailing retaliation threatens something precious to the **F** as they search for the culprit and the **T**."
+  },
+  {
+   "min": 22,
+   "max": 22,
+   "value": "A **F** carelessly fell into a peril related to a **C**, leaving them vulnerable to a threat from an **E**."
+  },
+  {
+   "min": 23,
+   "max": 23,
+   "value": "A **F** needs to be rescued from the hostile attentions of an **E**, and they are currently hiding out at a **P** dangerously close to enemy forces."
+  },
+  {
+   "min": 24,
+   "max": 24,
+   "value": "A **F** has acquired a **T**, but it is also being sought by an **E** and they need help to get it safely away and out of their foe's reach."
+  },
+  {
+   "min": 25,
+   "max": 25,
+   "value": "A **F** got lost or snared in a **P**, and a rising **C** threatens to kill or ruin them if they are not rescued in time."
+  },
+  {
+   "min": 26,
+   "max": 26,
+   "value": "A **F** needs help to get a **T** from an abandoned **P**, but an **E** is ahead of them and prepared to deal harshly with competitors."
+  },
+  {
+   "min": 27,
+   "max": 27,
+   "value": "A **F** is not really a Friend, but an enemy agent, and is trying to lure the players into helping them acquire a **T** that will actually be turned over to their master."
+  },
+  {
+   "min": 28,
+   "max": 28,
+   "value": "A **F** is caught up in a **C** and cannot get to a **P** where they know a **T** is being kept. The players need to act as their agent or get them free of the **C**."
+  },
+  {
+   "min": 29,
+   "max": 29,
+   "value": "A **F** has been charged with guarding or maintaining a **T**, but an **E** has set in motion a **C** that threatens both of them."
+  },
+  {
+   "min": 30,
+   "max": 30,
+   "value": "A **F** is being compelled by an **E**'s threats to sacrifice something important to them or endure some grave loss."
+  },
+  {
+   "min": 31,
+   "max": 31,
+   "value": "A **F** desperately needs a **T** for their own purposes, but an **E** stands between them and it — though the **E** does not realise what is there."
+  },
+  {
+   "min": 32,
+   "max": 32,
+   "value": "A **F** has obtained ownership or responsibility for a **P**, but an **E** has set up a trap or disaster there meant to ruin or disgrace them."
+  },
+  {
+   "min": 33,
+   "max": 33,
+   "value": "A **F** has been gravely harmed by an **E** before and fears to confront them, but a **C** looks like it is going to force them into conflict once more."
+  },
+  {
+   "min": 34,
+   "max": 34,
+   "value": "A **F** has acquired a **T** and is making use of it to further their desires, but an **E** means to spoil their efforts and rob them of the **T**."
+  },
+  {
+   "min": 35,
+   "max": 35,
+   "value": "A **F** has a sure lead to a **T** at a **P**, but in actuality the **T** is not there at all — only an **E** or a **C**-related peril."
+  },
+  {
+   "min": 36,
+   "max": 36,
+   "value": "A **F** has been snatched away by an **E**, who is convinced they are the key to acquiring a **T**. They may or may not be right about that."
+  },
+  {
+   "min": 37,
+   "max": 37,
+   "value": "A **F** has suffered a grave personal loss due to a **C**, but an **E** offers to make good their suffering if they can bring them a **T** they are supposed to know how to get."
+  },
+  {
+   "min": 38,
+   "max": 38,
+   "value": "A **F** is sick or dying, and desperately needs a **T** if they are to live. Getting it would somehow directly put them in conflict with an **E**, however."
+  },
+  {
+   "min": 39,
+   "max": 39,
+   "value": "A **F** had a **T** but they hid it at a **P**. Unfortunately, that **P** is now under the control of an **E** who does not know what is hidden there."
+  },
+  {
+   "min": 40,
+   "max": 40,
+   "value": "A **F** is trying to protect someone from the consequences of a **C**, but their efforts are being thwarted by an **E** who profits by the current situation."
+  },
+  {
+   "min": 41,
+   "max": 41,
+   "value": "A **C** threatens a **F**, who offers a way to get at a **T** to the players if they can help the **F** escape trouble."
+  },
+  {
+   "min": 42,
+   "max": 42,
+   "value": "A **C**'s flare-up is the fault of an **E**, who stirred it up in the process of seeking a **T**."
+  },
+  {
+   "min": 43,
+   "max": 43,
+   "value": "A **C** is showing a double edge, harming both an **E** and the players in some way and making the former vulnerable."
+  },
+  {
+   "min": 44,
+   "max": 44,
+   "value": "A **C** threatens to ruin a **F** unless a particular **T** can be found and used to save them."
+  },
+  {
+   "min": 45,
+   "max": 45,
+   "value": "A **C**'s activity opens the path to a lost **T** at some dangerous **P**."
+  },
+  {
+   "min": 46,
+   "max": 46,
+   "value": "A **C** is only getting worse until an **E** is defeated and forced to stop their provocations."
+  },
+  {
+   "min": 47,
+   "max": 47,
+   "value": "A **C** is causing problems for the players, but a **F** can help resolve things if they can be found at a dangerous **P**."
+  },
+  {
+   "min": 48,
+   "max": 48,
+   "value": "A **C** has rendered an **E** vulnerable to the players if they can get their hands on a **T**."
+  },
+  {
+   "min": 49,
+   "max": 49,
+   "value": "A **C** is centred at a **P** that a **F** needs to get to for some reason."
+  },
+  {
+   "min": 50,
+   "max": 50,
+   "value": "A **C** is causing problems for a **F** that an **E** is taking advantage of."
+  },
+  {
+   "min": 51,
+   "max": 51,
+   "value": "A **C** elsewhere is having knock-on effects that are reaching the players, but a **F** can help resolve it if they can hold back an **E** that is threatening them."
+  },
+  {
+   "min": 52,
+   "max": 52,
+   "value": "A **C** is being provoked by a **F** who does not want to do it, but is forced to do so by circumstances until an **E**'s related machinations can be stopped."
+  },
+  {
+   "min": 53,
+   "max": 53,
+   "value": "A **C** just calmed down, with the lull exposing a **T** and making it accessible at an otherwise-dangerous **P**. At some random near future time, however, the **C** will pick back up with a vengeance."
+  },
+  {
+   "min": 54,
+   "max": 54,
+   "value": "A **C** is empowering an **E**'s plans, allowing them far more influence than they would normally have. A **T** or **F** can stop this, if the players can lay hands on it or find the NPC."
+  },
+  {
+   "min": 55,
+   "max": 55,
+   "value": "A **C** struck amid a struggle between an **E** and a **F**, just before the **F**'s loss. If the **E** is not defeated before the **C** dies down again, they will win for certain."
+  },
+  {
+   "min": 56,
+   "max": 56,
+   "value": "A **C** is forcing a **F** and an **E** to work together, but it is inevitable that there will be conflict the moment it ends, and the **F** is seeking help."
+  },
+  {
+   "min": 57,
+   "max": 57,
+   "value": "A **C** drove a **F** out of a **P** before they could recover a **T** from there. Even though the **C** is still blocking the site, they need the **T** as quickly as possible."
+  },
+  {
+   "min": 58,
+   "max": 58,
+   "value": "A **C** has robbed an **E** of the current use of their best tool or most effective underling, and a **F** has a plan to make that loss permanent."
+  },
+  {
+   "min": 59,
+   "max": 59,
+   "value": "A **C** has damaged or involved a **T**, **P**, or institution that no one ever thought would become embroiled. A **F** associated with that target is in need of aid."
+  },
+  {
+   "min": 60,
+   "max": 60,
+   "value": "A **C** is delicately poised between an **E** and a **F**, targeting neither right now, but both are working to manipulate it to hit the other or escape its eventual explosion."
+  },
+  {
+   "min": 61,
+   "max": 61,
+   "value": "A **T** has been lost in a dangerous **P** by a **F**, and now an **E** hastens to retrieve it. A **C** is making it hard for them to get it, but they will win through soon."
+  },
+  {
+   "min": 62,
+   "max": 62,
+   "value": "A **T** has turned out to be very dangerous to possess, and an **E** is trying to bait the players or a **F** into taking or stealing it."
+  },
+  {
+   "min": 63,
+   "max": 63,
+   "value": "A **T** is the crux of a savage conflict between two or more Enemies, and their fighting is stirring up a **C**."
+  },
+  {
+   "min": 64,
+   "max": 64,
+   "value": "A **T** must be found if some calamity is to be avoided by the players or a **F**, but an **E** stands to profit if it is never obtained."
+  },
+  {
+   "min": 65,
+   "max": 65,
+   "value": "A **T** is located in a dangerous **P**, and a **F** knows how to get it."
+  },
+  {
+   "min": 66,
+   "max": 66,
+   "value": "A **T** is supposed to be located in a **P**, but those who go there merely get caught in a **C**, though they do find out the real **P** the **T** has been moved to."
+  },
+  {
+   "min": 67,
+   "max": 67,
+   "value": "A **T** seems to be useful for a particular function or value, but in actuality it has a hidden value known to a **F** who is currently hiding from an **E**. The players know there is more to it, but only the **F** can tell the full truth."
+  },
+  {
+   "min": 68,
+   "max": 68,
+   "value": "A **T** has been lost by a **F** and they are desperate to get it back before it is found by an **E**."
+  },
+  {
+   "min": 69,
+   "max": 69,
+   "value": "A **T** is hidden in a **P** controlled by an **E**, but the **E** is oblivious to it."
+  },
+  {
+   "min": 70,
+   "max": 70,
+   "value": "A **T** has been stolen from an **E** by a **F** and hidden in a **P**, but the **E** is searching around there and it is too dangerous for the **F** to try to retrieve it."
+  },
+  {
+   "min": 71,
+   "max": 71,
+   "value": "A **T** is instrumental to an **E**'s plan, but the **F** who knows where to get it is in hiding."
+  },
+  {
+   "min": 72,
+   "max": 72,
+   "value": "A **T** has been demanded of the **E** by someone they fear, and their plans for getting it involve steps that will bring grave harm to a **F**."
+  },
+  {
+   "min": 73,
+   "max": 73,
+   "value": "A **T** holds the key to solving or being protected from a **C**, but the **P** it is at is currently very dangerous due to that **C**."
+  },
+  {
+   "min": 74,
+   "max": 74,
+   "value": "A **T** is responsible for a flare-up of a **C** in a **P**, and the players are somehow affected by it."
+  },
+  {
+   "min": 75,
+   "max": 75,
+   "value": "A **T** that a **F** is responsible for obtaining or guarding will be lost to an **E** as soon as a **C** stops hindering them, unless the players can spirit it away from its current dangerous **P**."
+  },
+  {
+   "min": 76,
+   "max": 76,
+   "value": "A **T** was being kept at a **P** by an **E**, but a **F** has figured out a way to get past their defences."
+  },
+  {
+   "min": 77,
+   "max": 77,
+   "value": "A **T** was lost in a dangerous **P** long ago, but an **E** unwittingly holds the key to finding or unlocking it."
+  },
+  {
+   "min": 78,
+   "max": 78,
+   "value": "A **T** hidden in a **P** is needed by two different Friends for different important reasons, but if an **E** is overcome, one or both of those reasons will cease to trouble them."
+  },
+  {
+   "min": 79,
+   "max": 79,
+   "value": "A **T** has just been obtained by a **F**, but an **E** now pursues them for it, and the players are asked to help drive off the **E** or get the **F** someplace safe with the **T**."
+  },
+  {
+   "min": 80,
+   "max": 80,
+   "value": "A **T** was the lawful inheritance of a **F**, but an **E** has seized it and a **C** prevents the **F** from obtaining it through conventional means."
+  },
+  {
+   "min": 81,
+   "max": 81,
+   "value": "A **P** has been overwhelmed by some danger related to a **C**, and a **F** is now trapped there."
+  },
+  {
+   "min": 82,
+   "max": 82,
+   "value": "A **P** has changed, becoming much more dangerous due to the influence of an **E**. This is causing problems for a **F**."
+  },
+  {
+   "min": 83,
+   "max": 83,
+   "value": "A **P** has been overrun by an **E** or their agents in an attempt to find a **T** that is supposedly located there."
+  },
+  {
+   "min": 84,
+   "max": 84,
+   "value": "A **P** is currently the focal point of a **C** that is threatening a **F**."
+  },
+  {
+   "min": 85,
+   "max": 85,
+   "value": "A **P** is being reclaimed by a **F** from its current difficulties, but an **E** has reasons to oppose that change and is using a **C** to interfere."
+  },
+  {
+   "min": 86,
+   "max": 86,
+   "value": "A **P** is the destination to which a **F** must take a **T**. An **E** means to waylay them, however."
+  },
+  {
+   "min": 87,
+   "max": 87,
+   "value": "A **P** is the source of an **E**'s power, and they guard it jealously. Despite this, a **F** knows of a **T** located there."
+  },
+  {
+   "min": 88,
+   "max": 88,
+   "value": "A **P** offers refuge from a **C** that is currently making trouble in the area, but an **E** is preventing others from making use of it unless bribed otherwise."
+  },
+  {
+   "min": 89,
+   "max": 89,
+   "value": "A **P** is falling apart, but the chaos has exposed a chance to get a **T** that is being pursued by an **E** and others."
+  },
+  {
+   "min": 90,
+   "max": 90,
+   "value": "A **P** is under siege by an **E**, who is determined to take it before a rival can claim it. A **F** would face disaster if either side claimed it."
+  },
+  {
+   "min": 91,
+   "max": 91,
+   "value": "A **P** is currently entrapping an **E**, who is powerless to escape. They have taken a **T** from a **F**, however, and will release it only when the **F** releases them."
+  },
+  {
+   "min": 92,
+   "max": 92,
+   "value": "A **P** is the inherited property or responsibility of a **F**, but they lack a **T** which is critical to their successful obtaining or maintenance of the place."
+  },
+  {
+   "min": 93,
+   "max": 93,
+   "value": "A **P** conceals its true nature as a very different **P**, and a **F** has been misfortunately taken in by it."
+  },
+  {
+   "min": 94,
+   "max": 94,
+   "value": "A **P** has a **T** as an integral part of it, and when an **E** took it, a resultant **C** started that will not end until it is returned."
+  },
+  {
+   "min": 95,
+   "max": 95,
+   "value": "A **P** is used by an **E** to create a **T**, the processes and events going on there utilised to produce the desired result."
+  },
+  {
+   "min": 96,
+   "max": 96,
+   "value": "A **P** is distant and the journey there is dangerous, but a **F** offers a **T** if the players can get them there safely."
+  },
+  {
+   "min": 97,
+   "max": 97,
+   "value": "A **P** is the seat of an **E**'s power, where they are both most fearsome and least wary. A **F** has a plan to take advantage of that."
+  },
+  {
+   "min": 98,
+   "max": 98,
+   "value": "A **P** is the target of a **C**, and the consequences might ruin it. A **T** is located there, and if it is not grabbed first the **C** will probably wreck or take it."
+  },
+  {
+   "min": 99,
+   "max": 99,
+   "value": "A **P** has been newly-established and is still fragile. A **C** threatens to destroy it."
+  },
+  {
+   "min": 100,
+   "max": 100,
+   "value": "A **P** is a refuge for a **F**, but an **E** means to bait them out of it or force them to leave with a **C**."
+  }
+ ]
+}

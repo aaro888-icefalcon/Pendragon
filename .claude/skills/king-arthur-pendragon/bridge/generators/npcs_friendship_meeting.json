@@ -1,0 +1,39 @@
+{
+ "id": "pendragon.npcs.friendship_meeting",
+ "title": "Close Friendships — How Did They Meet",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#how-did-they-meet-d6",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "They are relatives or connected by family ties"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "One did important work for the other"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "They share a mutual passion or hobby"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "One rescued the other from a peril"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "They shared in a successful plan or deed"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "They are in similar lines of work"
+  }
+ ]
+}

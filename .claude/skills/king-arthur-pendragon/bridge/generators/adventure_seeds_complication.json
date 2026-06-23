@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.adventure_seeds.complication",
+ "title": "Adventure Seeds — Complication (d20)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/07-adventure-seeds.md#complication-seeds-d20-or-4160-on-d100",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A **C** threatens a **F**, who offers a way to get at a **T** to the players if they can help the **F** escape trouble."
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A **C**'s flare-up is the fault of an **E**, who stirred it up in the process of seeking a **T**."
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A **C** is showing a double edge, harming both an **E** and the players in some way and making the former vulnerable."
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A **C** threatens to ruin a **F** unless a particular **T** can be found and used to save them."
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "A **C**'s activity opens the path to a lost **T** at some dangerous **P**."
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A **C** is only getting worse until an **E** is defeated and forced to stop their provocations."
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "A **C** is causing problems for the players, but a **F** can help resolve things if they can be found at a dangerous **P**."
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "A **C** has rendered an **E** vulnerable to the players if they can get their hands on a **T**."
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A **C** is centred at a **P** that a **F** needs to get to for some reason."
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "A **C** is causing problems for a **F** that an **E** is taking advantage of."
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A **C** elsewhere is having knock-on effects that are reaching the players, but a **F** can help resolve it if they can hold back an **E** that is threatening them."
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "A **C** is being provoked by a **F** who does not want to do it, but is forced to do so by circumstances until an **E**'s related machinations can be stopped."
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "A **C** just calmed down, with the lull exposing a **T** and making it accessible at an otherwise-dangerous **P**. At some random near future time, however, the **C** will pick back up with a vengeance."
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "A **C** is empowering an **E**'s plans, allowing them far more influence than they would normally have. A **T** or **F** can stop this, if the players can lay hands on it or find the NPC."
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A **C** struck amid a struggle between an **E** and a **F**, just before the **F**'s loss. If the **E** is not defeated before the **C** dies down again, they will win for certain."
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "A **C** is forcing a **F** and an **E** to work together, but it is inevitable that there will be conflict the moment it ends, and the **F** is seeking help."
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "A **C** drove a **F** out of a **P** before they could recover a **T** from there. Even though the **C** is still blocking the site, they need the **T** as quickly as possible."
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A **C** has robbed an **E** of the current use of their best tool or most effective underling, and a **F** has a plan to make that loss permanent."
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "A **C** has damaged or involved a **T**, **P**, or institution that no one ever thought would become embroiled. A **F** associated with that target is in need of aid."
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "A **C** is delicately poised between an **E** and a **F**, targeting neither right now, but both are working to manipulate it to hit the other or escape its eventual explosion."
+  }
+ ]
+}

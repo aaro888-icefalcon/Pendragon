@@ -1,0 +1,29 @@
+{
+ "id": "pendragon.religions.cult_unity",
+ "title": "One-Roll Malevolent Cult — How Unified Is the Cult",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+ "entries": [
+  {
+   "min": 1,
+   "max": 25,
+   "value": "Completely united behind its leadership"
+  },
+  {
+   "min": 26,
+   "max": 50,
+   "value": "Obedient to leaders who sometimes quarrel"
+  },
+  {
+   "min": 51,
+   "max": 75,
+   "value": "Tenuously balanced factions cooperate"
+  },
+  {
+   "min": 76,
+   "max": 100,
+   "value": "Badly fractious under many rival priests"
+  }
+ ]
+}

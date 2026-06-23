@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.ambition_obstacle",
+ "title": "Biggest Immediate Obstacle",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#biggest-immediate-obstacle-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A disinterested third party is blocking the way"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "They have made promises that are now coming due"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "They are burning out a resource in the pursuit"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "They are pushing themselves physically too far"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "They have suffered a recent considerable setback"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A friend or loved one is somehow in the way"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A backlash is about to rebound on them"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "They are pursuing the goal in entirely the wrong way"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "They have been fed some false information"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "They have lost a critical resource or tool"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A traitor is sabotaging their efforts"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Their success is now attracting hostile attention"
+  }
+ ]
+}

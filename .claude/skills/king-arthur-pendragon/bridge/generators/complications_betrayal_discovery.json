@@ -1,0 +1,39 @@
+{
+ "id": "pendragon.complications.betrayal_discovery",
+ "title": "When It Is Discovered",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#when-it-is-discovered-d6",
+ "entries": [
+  {
+   "min": 1,
+   "max": 17,
+   "value": "Immediately — the players watch it happen"
+  },
+  {
+   "min": 18,
+   "max": 34,
+   "value": "Shortly after — they find evidence within the same session"
+  },
+  {
+   "min": 35,
+   "max": 51,
+   "value": "After the fact — they have to piece it together from consequences"
+  },
+  {
+   "min": 52,
+   "max": 68,
+   "value": "By a third party who tells them"
+  },
+  {
+   "min": 69,
+   "max": 84,
+   "value": "Long after — the damage is already done"
+  },
+  {
+   "min": 85,
+   "max": 100,
+   "value": "Never conclusively — they suspect but cannot prove"
+  }
+ ]
+}

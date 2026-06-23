@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.tribe_significant_local",
+ "title": "Tribe — Significant Local",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#tribes-and-marginal-settlements",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "The best hunter or warrior in the group"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A wise man or wise woman"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A seer or shaman"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Skilled tribal artisan"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A skilled scout or tracker"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Trader who deals with the settled folk"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "An adopted outsider who knows their ways"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A tribal slave of unexpected importance"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The most feared troublemaker"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "The tribe's most eligible young person"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A barely-tolerated wretch with a gift"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A cunning tribal advisor"
+  }
+ ]
+}

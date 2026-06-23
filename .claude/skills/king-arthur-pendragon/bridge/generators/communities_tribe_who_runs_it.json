@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.tribe_who_runs_it",
+ "title": "Tribe — Who Runs It?",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#tribes-and-marginal-settlements",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Bestially savage tyrant"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Wizened elder of great authority"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Magically-gifted chief"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A holy man or holy woman"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A hereditary chieftain"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "An outsider or stranger turned lord"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Brutal but cunning war-chief"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A foreigner turned ruler by force"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Council of elders"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "No ruler — only clan heads"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Envoy of a patron power"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "The most charismatic native"
+  }
+ ]
+}

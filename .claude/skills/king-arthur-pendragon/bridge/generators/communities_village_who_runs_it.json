@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.village_who_runs_it",
+ "title": "Village — Who Runs It?",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#rural-villages",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Hereditary headman or senior villein"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A reeve appointed by the lord"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A parish priest"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A council of elders"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A cruel and feared strongman"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A popularly-chosen chief"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A feared enchanter or wise woman"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A practical local warlord"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The richest native"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A traditional squire or minor knight"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A patriarch or matriarch of the dominant family"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "An envoy of a distant lord or church"
+  }
+ ]
+}

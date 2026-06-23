@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.npcs.tragedy_scars",
+ "title": "Scars From the Tragedy",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#scars-from-the-tragedy-d20-roll-13-times",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "They hate a type of person associated with the tragedy"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "They picked up an addictive habit"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "They are irrational about situations that resemble it"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "They want to share the misery around"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "They are haunted by lost possibilities"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "They remake the past in makeshift ways"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "They made deals they are still labouring under"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "They have visible physical scars associated with it"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "They accepted a role they hate because of it"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "They try to substitute others for what was lost"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "They meddled with dark magic or a forbidden bargain"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "They lost or sold something precious to them"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "They despise a place and its people"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "They insist on a false narrative of the events"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "They made a bargain with a dark power"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "They aggressively make light of their loss"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "They obsess over a physical token of the tragedy"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "They try to keep it secret from those near them"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "They behave so as to punish themselves for it"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "They have displaced their wrath on another"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.religious_external_conflict",
+ "title": "Religious Court — External Conflicts",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#religious-courts-church-monastery-hermit-brotherhood",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A popular itinerant preacher is drawing believers away"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A rival religious house is encroaching on this one's territory"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A noble patron demands an impossible miracle"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Court property is being seized by a secular power"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "The lord's miracles seem to be failing; people are losing faith"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "The overlord wants this court to take an unpopular role"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "The hierarchy is fighting over who controls this house"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A demagogue preacher is publicly denouncing this court"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The lord is trying to install his own man as head"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A noble patron is demanding special favours and concessions"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "An outside cleric has arrived claiming authority over them"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Rivals are blaming this court for some recent misfortune"
+  }
+ ]
+}

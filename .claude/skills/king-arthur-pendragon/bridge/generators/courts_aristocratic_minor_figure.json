@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.aristocratic_minor_figure",
+ "title": "Aristocratic Court — Minor Figure",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#aristocratic-courts",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Affiliated Merchant"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Jester or Household Entertainer"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Household Steward or Chamberlain"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "The Heir's Tutor or Fosterer"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Household Knight"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Knight's Body-Servant"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Hired Blade"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Household Guard-Captain"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Lady-in-Waiting"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Groom of the Chamber"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Prying Servant"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Spy for a Rival"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+  "file": "generators/02-factions.md",
+  "tables": [
+    {
+      "id": "pendragon.factions.faction_tag",
+      "title": "Faction Tag",
+      "source": "generators/02-factions.md#faction-tags",
+      "die": "d100",
+      "values": [
+        "Concealed",
+        "Imperialist",
+        "Innovative",
+        "Machiavellian",
+        "Martial",
+        "Massive",
+        "Mobile",
+        "Populist",
+        "Rich",
+        "Rooted",
+        "Tenacious",
+        "Zealot",
+        "Holy",
+        "Pagan"
+      ]
+    },
+    {
+      "id": "pendragon.factions.faction_goal",
+      "title": "Faction Goal",
+      "source": "generators/02-factions.md#faction-goals",
+      "die": "d10",
+      "values": [
+        "Blood the Enemy",
+        "Destroy the Foe",
+        "Eliminate Target",
+        "Expand Influence",
+        "Inside Enemy Territory",
+        "Invincible Valour",
+        "Peaceable Kingdom",
+        "Root Out the Enemy",
+        "Sphere Dominance",
+        "Wealth of Kingdoms"
+      ]
+    }
+  ]
+}

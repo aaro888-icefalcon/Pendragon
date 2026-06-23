@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.npcs.specific_merchants",
+ "title": "Specific Merchants",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/03-npcs.md#specific-merchants-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Grasping usurer with a long list of debtors"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Trader in exotic and potentially illegal wares"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Ambitious young merchant on their way up"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Major landlord in the area"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Monopolist with a royal patent"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Brutally competitive merchant who uses hired muscle"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Guild boss with enforcers and connections"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Supplier of arms, horses, or provisions to the military"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Wandering peddler or roaming tinker"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Ship-owner trading with distant lands"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Manor owner or large freeholder"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Desperate oligarch with crumbling assets"
+  }
+ ]
+}

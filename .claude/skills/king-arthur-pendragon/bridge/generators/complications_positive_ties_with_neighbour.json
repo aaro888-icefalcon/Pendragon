@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.complications.positive_ties_with_neighbour",
+ "title": "Positive Ties With a Neighbouring Power",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#positive-ties-with-a-neighbouring-power-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "The ruling classes are related — a marriage, a shared ancestor"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "An important faith crosses the border and unites the peoples"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "They fought beside us in some famous battle within living memory"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "Their culture is widely admired here — their bards, their smithwork, their horses"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "They helped us overcome an otherworldly or monstrous peril"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "They held back an enemy from our border when we could not"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "They are co-ethnics of the same British origin"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "They provide critical trade goods we cannot make ourselves"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Scholars and holy men came from there and founded our greatest institutions"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "They gave critical aid during a plague, famine, or disaster"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A hero of this land came originally from there"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "A past hero-king once ruled both lands"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "They produce some vital commodity — grain, tin, horses, salt"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "We share a dangerous enemy"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A holy site or relic that helps us lies within their borders"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "A long-standing alliance or trade pact exists"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "They recently conceded some disputed land or right"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "They greatly admire elements of our culture"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "They are considered unusually desirable marriage partners"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "They took in our refugees at some past time of great need"
+  }
+ ]
+}

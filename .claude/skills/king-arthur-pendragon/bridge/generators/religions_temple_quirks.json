@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.religions.temple_quirks",
+ "title": "One-Roll Temple — Particular Quirks About the Temple",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#particular-quirks-about-the-temple-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "It is built into a former secular building — a Roman bath, a great hall"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "It is remarkably well-fortified for a religious house"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "It is connected to a thriving secular business — a mill, a farm, a workshop"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "The clergy are largely related to each other by blood"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "It is in an unusually dangerous location — a cliff, a flood-plain, a moor"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "It shares its precinct with a friendly but different faith"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "It follows unusual prohibitions or practises rites not found elsewhere"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "It has access to an ancient relic or holy object of real power"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Its library or archive is remarkably extensive"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "It attracts wandering prophets, mystics, and religious merchants"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "It provides some service that polite society finds illicit or scandalous"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "It is more a business or farm than a genuine religious house"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "It is unusually beautifully built or decorated"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "It is a shadow of a once-glorious past — crumbling, underpopulated"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "It is unusually recent in its founding — within living memory"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "The clergy generally dislike each other intensely"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Its leadership is of foreign origin or background"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "It deals only with those who have proven their faith"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "It displaced a former faith, perhaps violently"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "It is secretly a front for another faith entirely"
+  }
+ ]
+}

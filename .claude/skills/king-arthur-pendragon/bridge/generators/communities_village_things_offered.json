@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.village_things_offered",
+ "title": "Village — Interesting Things the Place Can Offer",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#rural-villages",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "An unusually large amount of saved coin or valuables"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Valuable local specialty product — unusual wool, rare honey"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A holy relic or heirloom weapon passed down to the headman"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A magical service unique to a local tradition or wise woman"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A map or secret leading to a nearby Roman ruin or barrow"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A chapel with potent healing prayers or miracle water"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A secret treasure buried generations ago"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Large amounts of produce or local goods"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Ownership of an abandoned farm or cottage"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Contacts with rural outlaws or criminal rings"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Favours from the lord who is very fond of the village"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Young locals willing to take service with the party"
+  }
+ ]
+}

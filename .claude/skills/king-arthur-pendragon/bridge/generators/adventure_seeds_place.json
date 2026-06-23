@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.adventure_seeds.place",
+ "title": "Adventure Seeds — Place (d20)",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/07-adventure-seeds.md#place-seeds-d20-or-81100-on-d100",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A **P** has been overwhelmed by some danger related to a **C**, and a **F** is now trapped there."
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A **P** has changed, becoming much more dangerous due to the influence of an **E**. This is causing problems for a **F**."
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A **P** has been overrun by an **E** or their agents in an attempt to find a **T** that is supposedly located there."
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A **P** is currently the focal point of a **C** that is threatening a **F**."
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "A **P** is being reclaimed by a **F** from its current difficulties, but an **E** has reasons to oppose that change and is using a **C** to interfere."
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A **P** is the destination to which a **F** must take a **T**. An **E** means to waylay them, however."
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "A **P** is the source of an **E**'s power, and they guard it jealously. Despite this, a **F** knows of a **T** located there."
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "A **P** offers refuge from a **C** that is currently making trouble in the area, but an **E** is preventing others from making use of it unless bribed otherwise."
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A **P** is falling apart, but the chaos has exposed a chance to get a **T** that is being pursued by an **E** and others."
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "A **P** is under siege by an **E**, who is determined to take it before a rival can claim it. A **F** would face disaster if either side claimed it."
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A **P** is currently entrapping an **E**, who is powerless to escape. They have taken a **T** from a **F**, however, and will release it only when the **F** releases them."
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "A **P** is the inherited property or responsibility of a **F**, but they lack a **T** which is critical to their successful obtaining or maintenance of the place."
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "A **P** conceals its true nature as a very different **P**, and a **F** has been misfortunately taken in by it."
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "A **P** has a **T** as an integral part of it, and when an **E** took it, a resultant **C** started that will not end until it is returned."
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A **P** is used by an **E** to create a **T**, the processes and events going on there utilised to produce the desired result."
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "A **P** is distant and the journey there is dangerous, but a **F** offers a **T** if the players can get them there safely."
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "A **P** is the seat of an **E**'s power, where they are both most fearsome and least wary. A **F** has a plan to take advantage of that."
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A **P** is the target of a **C**, and the consequences might ruin it. A **T** is located there, and if it is not grabbed first the **C** will probably wreck or take it."
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "A **P** has been newly-established and is still fragile. A **C** threatens to destroy it."
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "A **P** is a refuge for a **F**, but an **E** means to bait them out of it or force them to leave with a **C**."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.complications.recent_governmental_events",
+ "title": "Recent Governmental Events",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#recent-governmental-events-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A major official was executed or exiled for treason"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A critically-necessary heir was born, or confirmed, or announced"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A chief minister fell rapidly from grace"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A high noble made openly rebellious noises"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "A major faith was offended by the lord's actions"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "An allied lord was angered by some act of the court"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "An enemy's spy ring was revealed operating inside the court"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "A vast governmental project was announced — a campaign, a fortress, a pilgrimage"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "Corrupt officials plundered a great plan and it has failed"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "A new council, charter, or institution was formed"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A heavy levy was imposed on the people to deal with some crisis"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "A general or warlord was dismissed for incompetence or insubordination"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "A folk hero rose to dangerous popularity among the common people"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "A major infrastructure project was begun — a road, a bridge, a church"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A fief or territory was put in new hands, angering the previous holder's kin"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "Certain merchants or nobles were ruined by fines or seizure of their goods"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "A terrorist attack by rebels, Saxon agents, or faerie agents"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A major faction of court officials collapsed or was purged"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "A significant privilege or exemption was revoked"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "Province or hundred borders were redrawn, causing local fury"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.complications.government_struggle",
+ "title": "Current Struggle Within a Government",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#current-struggle-within-a-government-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "The lord is trying to crush a too-powerful vassal who has grown dangerous"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Ministers or bishops are trying to usurp power from the lord"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A grand scheme — a war, a monument, a marriage — has gone terribly wrong"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "External diplomacy has bungled something and caused a crisis"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A usurper secretly controls a major institution"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Foreign rivals are backing malcontents inside the court"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A different class — merchants, commoners, lesser clergy — demands a share of rule"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "The existing ruling class wants more power and is willing to cause disruption to get it"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A disfavoured class is being oppressed, and the injustice is generating resistance"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Popular discontent is eroding the lord's legitimacy"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "The prior lord's incompetence or mistakes still constrain the current one"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "The heir is unacceptable to many powerful people for some reason"
+  }
+ ]
+}

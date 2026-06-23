@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.village_local_seeks_adventurers",
+ "title": "Village — Local Likely to Seek Adventurers",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#rural-villages",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "An ambitious local who wants to reach a lord's court"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Social outcast who cannot ask any local for help"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Gentry who wants no local gossip about their need"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Former city-dweller eager for contact with the worldly"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A comparatively prosperous villager with an urgent need"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A starry-eyed young local devoted to the idea of knighthood"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Village priest in need of outside help"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A reeve who cannot reasonably press locals for a dangerous task"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "The village leader who wants expendable outside help"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A burly local militiaman who watches all new faces"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A shifty native who wants some clueless accomplices"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A clan patriarch who does not want to use their own kin"
+  }
+ ]
+}

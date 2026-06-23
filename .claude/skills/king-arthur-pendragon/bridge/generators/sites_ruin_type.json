@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.sites.ruin_type",
+ "title": "Arthurian Britain Ruin Types",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/06-sites-ruins.md#types-of-site",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A city once inhabited by not-quite-humans — giants, fair folk, or pre-Celtic peoples"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A Roman structure whose purpose is no longer clear — bath-house, amphitheatre, granary"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A spot that was once a sacred site of the old religion"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A vast monument complex — stone circle, cursus, long barrow — dedicated to a vanished people"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Fortress raised by a dead warlord, failed king, or militant faith"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A sorcerer's tower or hermit's compound once or presently inhabited by a powerful figure"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Roll twice on 1d6 above; the first result was built on top of or in the ruins of the second"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Roll again, but now inhabited by bandits, exiles, Saxon refugees, or other interlopers"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A Roman road-fort whose garrison has been replaced by something worse"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A barrow complex — multiple burial chambers, several generations of the honoured dead"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A working or partly-working Roman relic — mill, aqueduct, dock — now badly decayed"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A former estate or villa, gutted and half-collapsed, but recognisable"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "pendragon.factions.faction_goal",
+ "title": "Faction Goal",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "generators/02-factions.md#faction-goals",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "Blood the Enemy"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "Destroy the Foe"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "Eliminate Target"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "Expand Influence"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "Inside Enemy Territory"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "Invincible Valour"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "Peaceable Kingdom"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "Root Out the Enemy"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "Sphere Dominance"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "Wealth of Kingdoms"
+  }
+ ]
+}

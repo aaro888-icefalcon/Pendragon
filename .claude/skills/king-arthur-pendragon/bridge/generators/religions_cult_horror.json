@@ -1,0 +1,49 @@
+{
+ "id": "pendragon.religions.cult_horror",
+ "title": "One-Roll Malevolent Cult — What's So Horrible About the Faith",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+ "entries": [
+  {
+   "min": 1,
+   "max": 13,
+   "value": "Unbelievers are to be killed on principle"
+  },
+  {
+   "min": 14,
+   "max": 26,
+   "value": "Hideous appetites of the flesh are sacred"
+  },
+  {
+   "min": 27,
+   "max": 39,
+   "value": "Unholy entities from the Otherworld must be called"
+  },
+  {
+   "min": 40,
+   "max": 52,
+   "value": "Unbelievers are property to be used as desired"
+  },
+  {
+   "min": 53,
+   "max": 64,
+   "value": "The world must be purged to make room for the god"
+  },
+  {
+   "min": 65,
+   "max": 76,
+   "value": "All settled civilisation must be destroyed"
+  },
+  {
+   "min": 77,
+   "max": 88,
+   "value": "All law but the cult's must be overthrown"
+  },
+  {
+   "min": 89,
+   "max": 100,
+   "value": "The god demands a terrible and constant nourishment"
+  }
+ ]
+}

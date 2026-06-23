@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.complications.current_national_problems",
+ "title": "Current National Problems",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#current-national-problems-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "Farmland is becoming worn-out and depleted — old Roman drainage has failed and bogs are returning"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "Verminous monsters are swarming from the fens, moors, or barrows"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A rebel front is stirring up trouble against the High King or regional lord"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A foreign power is backing internal strife — Saxon lords, Irish pirates, or a rival British king"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "The leadership is inept and distracted by private pleasures or petty quarrels"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A religious reformer is breaking old compacts between church and secular power"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "An evil is provoking outraged rioting — a dark cult, a monstrous tribute, an unjust judgment"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Dark cults are attracting the ambitious and the desperate"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A Saxon or Pictish horde is threatening the borders"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "An ancient ruin has disgorged some peril — barrow-wights, a bound evil, a faerie court angered"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "Malcontents have obtained a potent relic and are using it against the kingdom"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Luxuriance has left the king's coffers bare — a great feast, a failed campaign, a royal ransom"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "Local lords are pushing for independence or refusing to send levies"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "An important mine or resource site has run out or been seized by enemies"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A sinister favourite has infatuated the lord — a foreign sorceress, a corrupt churchman, a flatterer"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "A recurring cattle plague or crop blight is causing hunger"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "Fearsome monsters are migrating into settled lands from the wilderness"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A rival king is preparing for war or raiding"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "A grand national plan is exhausting the people — road-building, a fortress, a campaign"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "A savage grudge has erupted into open violence between two great lords"
+  }
+ ]
+}

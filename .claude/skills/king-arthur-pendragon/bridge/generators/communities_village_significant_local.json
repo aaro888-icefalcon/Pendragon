@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.village_significant_local",
+ "title": "Village — Significant Local",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#rural-villages",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "The village harlot"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "The worst local bully"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A gifted young peasant with unusual talents"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A half-feral shepherd or swineherd"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A charismatic itinerant priest"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A major freeholder"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A youth who wants to leave and join a knight's household"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "A venerable old farmer"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A criminal hiding from justice in the countryside"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "A local hedge-mage or cunning man"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "The lord's local reeve"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "An important artisan — blacksmith, miller"
+  }
+ ]
+}

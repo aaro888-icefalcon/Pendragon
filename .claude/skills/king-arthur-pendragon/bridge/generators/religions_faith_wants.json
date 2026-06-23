@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.religions.faith_wants",
+ "title": "What Does This Faith Want",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#what-does-this-faith-want-d12",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "To crush its religious rivals in the region"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "To destroy a heretical but powerful sub-sect"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "To expand to a foreign land or people"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "To recover a holy site or relic that was seized"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "To obtain vast material wealth for the faith"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "To depose a hostile lord or government"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "To destroy a specific enemy faith or pagan tradition"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "To call a great holy conclave or perform a sacred ritual"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "To erect a grand cathedral, minster, or sacred monument"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "To perform a tremendously expensive rite or pilgrimage"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "To strengthen and protect its devout believers"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Roll again; stop a rival from doing that thing"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.religions.social_function",
+ "title": "What Does This God Do in Society",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/05-religions-cults.md#what-does-this-god-do-in-society-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "It is the war-god or patron of those who fight"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "It is the favourite god of the ruling class"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "It is the patron of an important profession — smiths, sailors, healers"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "It is a devil-figure that must be placated to avert disaster"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "It provides healing, protection from illness, and aid in danger"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "It is the patron of an illegal but inevitable trade"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "It hallows the law, consecrates oaths, and punishes oath-breakers"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "It is flatly illegal and hated by most of the official establishment"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "It is the protector of an ethnic or social minority"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "It provides good harvests, fertile animals, and healthy children"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "It is the patron of the former rulers of the land — Roman, pre-Roman"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "It guards particular sacred places — springs, groves, stones, boundaries"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "It provides wisdom and prophetic insight to those who seek it"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "It gives good luck to its petitioners"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "It is a protector of the weak and the humble"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "It empowers those seeking righteous revenge for wrongs"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "It bestows material wealth on petitioners"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "It protects the soul in the afterlife"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "It explains the creation and order of the world"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "It prevents some type of common disaster — flood, plague, harvest-failure"
+  }
+ ]
+}

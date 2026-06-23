@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.religious_source_of_power",
+ "title": "Religious Court — Source of Power in the Court",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#religious-courts-church-monastery-hermit-brotherhood",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Renowned for producing miracles and healings"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Acknowledged skill in healing or exorcism"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Unassailable mastery of doctrine and scripture"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Backed by secret but powerful lay supporters"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Generous local lay donors fund their position"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Has noble or landowning relatives in the area"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Expert at persuasion and managing people"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Charismatic leadership and keen insight"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Backed by a pious lord who gives lavishly"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Secretly arranges worldly services for the court"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Claims an especially holy lineage or holy office"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "The upper hierarchy of the faith strongly favours them"
+  }
+ ]
+}

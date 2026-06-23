@@ -1,0 +1,59 @@
+{
+ "id": "pendragon.religions.cult_enforcement",
+ "title": "One-Roll Malevolent Cult — How Do the Clergy Enforce Their Will",
+ "type": "list_d10",
+ "dice": "1d10",
+ "source": "generators/05-religions-cults.md#one-roll-malevolent-cult",
+ "entries": [
+  {
+   "min": 1,
+   "max": 1,
+   "value": "Magical curses punish the disobedient"
+  },
+  {
+   "min": 2,
+   "max": 2,
+   "value": "Blackmail and threats of social ruin"
+  },
+  {
+   "min": 3,
+   "max": 3,
+   "value": "Murder by cult enforcers and bound creatures"
+  },
+  {
+   "min": 4,
+   "max": 4,
+   "value": "Mental compulsions implanted by rituals"
+  },
+  {
+   "min": 5,
+   "max": 5,
+   "value": "Kidnapping followed by hideous ritual death"
+  },
+  {
+   "min": 6,
+   "max": 6,
+   "value": "Traitors are betrayed to cult enemies"
+  },
+  {
+   "min": 7,
+   "max": 7,
+   "value": "Violence against a traitor's loved ones"
+  },
+  {
+   "min": 8,
+   "max": 8,
+   "value": "The dark god's wrath falls on the faithless"
+  },
+  {
+   "min": 9,
+   "max": 9,
+   "value": "Control of an addictive thing they need"
+  },
+  {
+   "min": 10,
+   "max": 10,
+   "value": "Lay believers gain glory by purging traitors"
+  }
+ ]
+}

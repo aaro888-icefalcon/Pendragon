@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.familial_internal_conflict",
+ "title": "Familial Clan Court — Internal Conflicts",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#familial-clan-courts-noble-dynasties-knightly-families-peasant-elder-clans",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "An important member's spouse is having an affair"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "The clan leader opposes a plan the rest of the family wants"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "The previous leader died without a clear or accepted heir"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "A member's bloodline is shadowed by old rumour of bastardy"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A cadet branch is maneuvring to seize clan leadership"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "The clan spent a great deal on a failed ambition or war"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Personal grudges have created bitter factions"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "The new generation is ignoring painful obligations"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A member is selfishly trading on the clan's reputation"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "One member is convinced another wants them dead"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "A very important young talent has turned rebellious"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "The leader is betting heavily on a risky, unpopular scheme"
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.communities.city_who_runs_it",
+ "title": "City — Who Runs It?",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/04-communities.md#significant-towns-and-cities",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "A hereditary lord"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "A great merchant"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "A council of leading families"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Allied noble heads in tense cooperation"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "A royal viceroy or appointed governor"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "A gentry-elected mayor"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "A major church figure — bishop, abbot"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "An occult power-holder — enchanter, faerie proxy"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "A criminal group's puppet"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "An ethnic group's elected ruler"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "The chief magistrate"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "A military strongman"
+  }
+ ]
+}

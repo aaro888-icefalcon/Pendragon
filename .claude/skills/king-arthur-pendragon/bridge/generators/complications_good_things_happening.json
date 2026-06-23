@@ -1,0 +1,109 @@
+{
+ "id": "pendragon.complications.good_things_happening",
+ "title": "Good Things Happening Right Now",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/08-complications-twists.md#good-things-happening-right-now-d20",
+ "entries": [
+  {
+   "min": 1,
+   "max": 5,
+   "value": "A splendid mine, holy spring, or resource has been found"
+  },
+  {
+   "min": 6,
+   "max": 10,
+   "value": "A pious holy man or woman is strengthening the Church and drawing pilgrims"
+  },
+  {
+   "min": 11,
+   "max": 15,
+   "value": "A noble heir shows signs of heroic greatness — strength, wisdom, unusual piety"
+  },
+  {
+   "min": 16,
+   "max": 20,
+   "value": "A major rival has recently suffered a calamity and cannot threaten the kingdom"
+  },
+  {
+   "min": 21,
+   "max": 25,
+   "value": "New farmland has been drained or cleared and families are settling it"
+  },
+  {
+   "min": 26,
+   "max": 30,
+   "value": "A new trade route has been forged — to a distant port, across the moors, through the forest"
+  },
+  {
+   "min": 31,
+   "max": 35,
+   "value": "A horrible monster was slain or driven off, and the villages are safe"
+  },
+  {
+   "min": 36,
+   "max": 40,
+   "value": "Good harvests have enriched the people and the granaries are full"
+  },
+  {
+   "min": 41,
+   "max": 45,
+   "value": "A wicked minister or corrupt official has been deposed and punished"
+  },
+  {
+   "min": 46,
+   "max": 50,
+   "value": "A new school, monastery, or scriptorium has recently opened"
+  },
+  {
+   "min": 51,
+   "max": 55,
+   "value": "A bandit or rebel uprising has been crushed"
+  },
+  {
+   "min": 56,
+   "max": 60,
+   "value": "Two rival lords have begun to make peace — a marriage has been proposed"
+  },
+  {
+   "min": 61,
+   "max": 65,
+   "value": "An old enemy has agreed to a truce or peace pact"
+  },
+  {
+   "min": 66,
+   "max": 70,
+   "value": "The military won a recent smashing victory"
+  },
+  {
+   "min": 71,
+   "max": 75,
+   "value": "A useful relic or faerie-gift has been activated or recovered"
+  },
+  {
+   "min": 76,
+   "max": 80,
+   "value": "A powerful relic is helping the ruler govern and judge"
+  },
+  {
+   "min": 81,
+   "max": 85,
+   "value": "An old source of unrest — a blood feud, a territorial dispute — has been calmed"
+  },
+  {
+   "min": 86,
+   "max": 90,
+   "value": "A dark cult has been revealed and purged from a major community"
+  },
+  {
+   "min": 91,
+   "max": 95,
+   "value": "New diplomatic ties have been made with a former enemy"
+  },
+  {
+   "min": 96,
+   "max": 100,
+   "value": "A new lord has risen, loved by his people for his justice and generosity"
+  }
+ ]
+}

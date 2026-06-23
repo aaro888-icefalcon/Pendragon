@@ -1,0 +1,69 @@
+{
+ "id": "pendragon.courts.aristocratic_main_theme",
+ "title": "Aristocratic Court — Main Theme",
+ "type": "list_d100",
+ "dice": "1d100",
+ "source": "generators/01-courts.md#aristocratic-courts",
+ "entries": [
+  {
+   "min": 1,
+   "max": 9,
+   "value": "Treachery — an air of suspicion and mistrust runs through the hall"
+  },
+  {
+   "min": 10,
+   "max": 18,
+   "value": "Decadence — the lord feasts while the kingdom suffers"
+  },
+  {
+   "min": 19,
+   "max": 27,
+   "value": "Ennui — exhaustion and loss of meaning; the old glories are gone"
+  },
+  {
+   "min": 28,
+   "max": 36,
+   "value": "Ambition — everyone is climbing, pushing, scheming upward"
+  },
+  {
+   "min": 37,
+   "max": 44,
+   "value": "Resentment — bitter at rivals' crimes, real or imagined"
+  },
+  {
+   "min": 45,
+   "max": 52,
+   "value": "Nobility — a genuine sense of obligation to the people and the land"
+  },
+  {
+   "min": 53,
+   "max": 60,
+   "value": "Paralysis — trapped by an internal crisis no one dares name openly"
+  },
+  {
+   "min": 61,
+   "max": 68,
+   "value": "Luxury — abundant wealth, rich tapestries, fine horses, generous table"
+  },
+  {
+   "min": 69,
+   "max": 76,
+   "value": "Tyranny — the lord crushes those beneath him without mercy"
+  },
+  {
+   "min": 77,
+   "max": 84,
+   "value": "Dissolution — the court is falling apart under outside pressure"
+  },
+  {
+   "min": 85,
+   "max": 92,
+   "value": "Exoticism — following strange foreign fashions or heathen ways"
+  },
+  {
+   "min": 93,
+   "max": 100,
+   "value": "Might — the court flexes its military power at every opportunity"
+  }
+ ]
+}
