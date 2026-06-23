@@ -9,6 +9,12 @@ and resolve each DUE / triggered row below by rolling its named table or rule
 events fire **whether or not the player engaged** — every year brief has an "If
 the player does nothing" line; use it. The world is not waiting for the knight.
 
+**The Pendragon game year** runs in a fixed shape — **court → adventure season →
+(battle, if the year brief schedules one) → Winter Phase** — and then turns to the
+next year. The engine frames Expected Scenes within that shape; the rows below
+fire at the year's turn. Aim to complete at least one full game year, Winter Phase
+included, per session (`gm/PACING.md`).
+
 | subsystem | cadence | advance by |
 |---|---|---|
 | Game-year metronome (MASTER) | on trigger: year turn / Winter Phase | Advance `state/campaign.md` to the next game year; load the new year's brief (`campaign/uther/05-timeline-480-495.md` for 480–495, `campaign/gpc/` for 496–566). The year clock outranks Chaos. |

@@ -43,7 +43,6 @@ real dice in the shell and never soften the result. The wiring is in
 [`.claude/skills/king-arthur-pendragon/bridge/bridge.md`](.claude/skills/king-arthur-pendragon/bridge/bridge.md),
 and the migration that produced this layout is documented in
 [`.claude/skills/mythic-gm/CONVERSION.md`](.claude/skills/mythic-gm/CONVERSION.md).
-(The companion can also still run **standalone** as its own GM engine.)
 
 ## A note on content & copyright
 

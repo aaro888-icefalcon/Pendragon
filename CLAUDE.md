@@ -50,10 +50,6 @@ scheduled GPC events, thread pressure, Winter Phase, Glory) at every bookkeeping
 step via `tick.py`, and can frame Expected Scenes from the ingested Pendragon
 content in `bridge/adventures/`.
 
-> The companion **also runs standalone** as its own GM engine (the older
-> "Pendragon drives" mode), via `king-arthur-pendragon/gm/GM-LOOP.md`. Use that
-> only if the user explicitly asks to drive from Pendragon rather than Mythic.
-
 ## The resolution ladder (inside the engine's TURN)
 
 Never resolve by vibes what a procedure resolves. The engine runs the loop;
@@ -162,7 +158,7 @@ The engine's discipline and Pendragon's laws reinforce each other:
   SKILL.md
   bridge/       bridge.md · system-profile · interpretation · chaos-tendency · theme-weights
                 subsystems · seeds · setting-canon · generators/ (registry + 120 *.json) · adventures/
-  gm/           GM-LOOP · LETHALITY/PACING/STYLE/VOICE · DICE.md+roll.py · MYTHIC.md (standalone-mode contract)
+  gm/           LETHALITY/PACING/STYLE/VOICE (the Pendragon laws) · DICE.md+roll.py (the roller the bridge calls)
   rules/        core/ · battle/ · estate/ · warlord/ · entourage/
   campaign/     uther/ (480–495) · gpc/ (485–566 year briefs + appendices)
   generators/   the source Arthurian oracle markdown (compiled into bridge/generators/)

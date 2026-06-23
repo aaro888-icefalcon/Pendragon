@@ -36,4 +36,4 @@ Never break a stall with atmosphere. Break it with an event that demands a respo
 ## 5. Endings
 
 - End every session at a Winter Phase or a genuine cliffhanger — never mid-haggle.
-- Last act of any session: update `state/` files (GM-LOOP.md §5), so the next session boots clean.
+- Last act of any session: update `state/` files (the engine's bookkeeping — see `/CLAUDE.md`), so the next session boots clean.

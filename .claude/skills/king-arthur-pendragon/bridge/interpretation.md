@@ -20,7 +20,7 @@ roll Meaning; incorporate what Pendragon says.
 
 ## NPCs in this world (so they act setting-true and to win)
 
-NPCs act from their written stats, traits, passions, and motives — **not** from what the plot needs (`gm/GM-LOOP.md` §4). An NPC who would attack, cheat, refuse, or kill, does; one who would forgive or reward, does. Run them as people with interests, and roll their competence — never play them dumb.
+NPCs act from their written stats, traits, passions, and motives — **not** from what the plot needs. An NPC who would attack, cheat, refuse, or kill, does; one who would forgive or reward, does. Run them as people with interests, and roll their competence — never play them dumb.
 
 - **Feudal logic governs.** Everyone has a lord above and duties below. Loyalty, homage, and the obligation of the summons are real forces; refusing a lord has consequences. A vassal weighs honor against survival; a lord weighs largesse against need.
 - **The great houses & powers, and what they want:**
