@@ -94,7 +94,8 @@
 
 ## Experience checks pending (next Winter Phase)
 <!-- Append as earned in play; cleared at Winter Phase. Winter Phase 481 processed: Sword/Lance/Intrigue gained; rest erased. -->
-- (none yet for 482)
+- **Merciful** — brought the condemned Idnerth his last meal, unbidden (spring 482).
+- **Honor** — swore an unbought oath to protect Senara of Hindon (spring 482).
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.
