@@ -75,14 +75,13 @@ def _find(entries, name):
     return None
 
 def add_entry(obj, name, bump=True):
-    """Add a new entry, or +1 its weight (capped). bump=False just ensures it exists."""
+    """Add a new entry, or +1 its weight (capped at WEIGHT_CAP). bump=False just ensures it exists.
+    No list-length cap (Ruling #31): the List may grow past 25 — the proportional roll
+    (two_stage with new_weight) handles any length, so adding never refuses."""
     e = _find(obj["entries"], name)
     if e is None:
-        if total_weight(obj["entries"]) >= LIST_CAP:
-            return "FULL", obj   # canon "The List Is Full" — caller must remove something first
         obj["entries"].append({"name": name.strip(), "weight": 1}); return "added", obj
     if bump and e["weight"] < WEIGHT_CAP:
-        if total_weight(obj["entries"]) >= LIST_CAP: return "FULL", obj
         e["weight"] += 1; return "weighted", obj
     return "noop", obj
 
@@ -103,10 +102,32 @@ def weighted_pick(entries):
         if r <= acc: return r, S, e["name"]
     return r, S, entries[-1]["name"]
 
-def two_stage(entries, kind):
-    """Full two-stage roll. Returns a dict with category, pick, and both rolls."""
-    new_lines = KIND_NEWLINES[kind]
+def two_stage(entries, kind, new_weight=None):
+    """Full two-stage roll. Returns a dict with category, pick, and both rolls.
+
+    new_weight=None → LEGACY canonical model (the printed 25-line List): existing entries
+      occupy slots 1..S; blank slots S+1..25 give their printed default (NEW / CHOOSE MOST
+      LOGICAL); once the list fills to 25, NEW can no longer come up.
+
+    new_weight=int → PROPORTIONAL model (house rule, Ruling #31): 'NEW' competes as a virtual
+      weighted slot of size new_weight alongside the existing entries. Stage 1 rolls
+      1d(S+new_weight): r≤S → PRE-EXISTING (then weighted_pick over ALL entries, any length,
+      dead/background included), else → NEW. No 25 cap; P(NEW)=new_weight/(S+new_weight) stays
+      nonzero at every list size. (No CHOOSE band — picking an existing entry already covers it.)"""
     S = total_weight(entries)
+    if new_weight is not None:
+        if S <= 0:
+            return {"category": "NEW", "pick": None, "r1": None, "L": int(new_weight), "S": 0,
+                    "r2": None, "S2": 0, "overfull": False, "new_weight": int(new_weight)}
+        L = S + int(new_weight)
+        r1 = d(L)
+        if r1 <= S:
+            r2, S2, pick = weighted_pick(entries)
+            return {"category": "PRE-EXISTING", "pick": pick, "r1": r1, "L": L, "S": S,
+                    "r2": r2, "S2": S2, "overfull": False, "new_weight": int(new_weight)}
+        return {"category": "NEW", "pick": None, "r1": r1, "L": L, "S": S,
+                "r2": None, "S2": 0, "overfull": False, "new_weight": int(new_weight)}
+    new_lines = KIND_NEWLINES[kind]
     if S <= 0:
         return {"category": "NEW", "pick": None, "r1": None, "L": LIST_CAP, "S": 0,
                 "r2": None, "S2": 0, "overfull": False}
@@ -127,6 +148,13 @@ def describe(res, kind):
     K = kind.capitalize()
     if res["S"] == 0:
         return f"{K} List empty → automatic NEW {K.upper()}"
+    if res.get("new_weight") is not None:                       # proportional model (Ruling #31)
+        nw = res["new_weight"]
+        head = f"Stage 1: 1d{res['L']}={res['r1']} (S={res['S']} existing + {nw} NEW)"
+        if res["category"] == "PRE-EXISTING":
+            return (f"{head} → PRE-EXISTING.  Stage 2: 1d{res['S2']}={res['r2']} (weighted) "
+                    f"→ invoke **{res['pick']}**")
+        return f"{head} → **NEW {K.upper()}**"
     head = f"Stage 1: 1d{res['L']}={res['r1']} (S={res['S']} weighted slot(s)" + \
            (", list OVERFULL — full list rolls over" if res["overfull"] else "") + ")"
     if res["category"] == "PRE-EXISTING":

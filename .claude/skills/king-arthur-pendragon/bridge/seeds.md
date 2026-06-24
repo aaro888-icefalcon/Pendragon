@@ -6,8 +6,8 @@
     (`campaign/uther/` for 480–495, `campaign/gpc/` for 496–566). The strongest source.
   - **ingested adventure clusters** near the PC (`adventures/uther-adventures.md`) — so
     Expected Scenes can be framed from authored Pendragon content (then Scene-Tested).
-  - **live state** — open objectives in `state/threads.md`, recurring people in
-    `state/npcs.md`, and any "Divergences" recorded in `state/campaign.md`.
+  - **live state** — open objectives in `state/threads.json`, recurring people in
+    `state/characters.json`, and any "Divergences" recorded in `state/campaign.md`.
   - **random rolls for novelty**, on (see `generators/registry.md`):
     - `generators/adventure_seeds_all.json`            # one-roll adventure premise
     - `generators/complications_sudden_complications.json`  # a wrinkle / reversal

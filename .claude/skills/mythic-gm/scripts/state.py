@@ -32,8 +32,8 @@ def cmd_init(dirpath):
     dst = os.path.join(dirpath, "campaign-state.md")
     if os.path.exists(dst): sys.exit(f"{dst} already exists — refusing to overwrite.")
     shutil.copy(TEMPLATE, dst)
-    lists.save_list(dirpath, {"kind": "thread", "entries": []})
-    lists.save_list(dirpath, {"kind": "character", "entries": []})
+    lists.save_list(dirpath, {"kind": "thread", "new_weight": 2, "entries": []})
+    lists.save_list(dirpath, {"kind": "character", "new_weight": 4, "entries": []})
     lists.save_adventure(dirpath, lists.load_adventure(dirpath))   # writes defaults
     print(f"Initialised {dst}\n  + threads.json, characters.json, adventure.json (empty)")
 
@@ -52,25 +52,34 @@ def cmd_validate(path):
         print("INVALID — missing/!ok:", ", ".join(missing)); sys.exit(1)
     print("State valid ✓  (Chaos Factor = %s)" % (cf.group(1) if cf else "?"))
 
-def _render(obj):
+def _render(obj, full=False):
     K = obj["kind"].capitalize()
     if not obj["entries"]:
         print(f"  ({K}s List empty)"); return
     for i, e in enumerate(obj["entries"], 1):
-        w = e.get("weight", 1)
-        print(f"  {i}. {e['name']}" + (f"  (weight {w})" if w > 1 else ""))
+        w = int(e.get("weight", 1))
+        wtag = "held·w0" if w == 0 else f"w{w}"
+        st = e.get("status")
+        print(f"  {i}. {e['name']}  ({wtag}" + (f" · {st}" if st else "") + ")")
+        doss = e.get("dossier")
+        if doss:
+            preview = doss if (full or len(doss) <= 160) else doss[:159].rstrip() + "…"
+            print(f"       {preview}")
     S = lists.total_weight(obj["entries"])
-    flag = "  ⚠ OVERFULL (>25 weighted slots — the full list still rolls over)" if S > 25 else ""
-    print(f"  Σ weighted slots = {S}{flag}")
+    live = sum(1 for e in obj["entries"] if int(e.get("weight", 1)) > 0)
+    held = len(obj["entries"]) - live
+    nw = obj.get("new_weight")
+    tail = ""
+    if nw:
+        tail = f"  ·  NEW slot = {nw}  → P(new) = {nw}/{S+nw} ≈ {round(100*nw/(S+nw))}%"
+    print(f"  Σ weighted slots = {S}  ({live} live" + (f", {held} held" if held else "") + f"){tail}")
 
-def cmd_listcmd(kind, action, campaign, name=None):
+def cmd_listcmd(kind, action, campaign, name=None, full=False):
     obj = lists.load_list(campaign, kind)
     if action == "show":
-        _render(obj); return
+        _render(obj, full=full); return
     if action in ("add", "weight"):
         status, obj = lists.add_entry(obj, name, bump=True)
-        if status == "FULL":
-            print(f"⚠ The {kind} List is FULL (25 weighted slots). Remove something first."); return
         lists.save_list(campaign, obj); print(f"{kind} '{name}': {status}.")
     elif action == "remove":
         status, obj = lists.remove_entry(obj, name)
@@ -140,9 +149,10 @@ def cmd_list_count(campaign):
     for kind, flag in [("thread", "--threads"), ("character", "--characters")]:
         obj = lists.load_list(campaign, kind); S = lists.total_weight(obj["entries"])
         over = [f"{e['name']}×{e['weight']}" for e in obj["entries"] if e.get("weight",1) > 3]
-        cap = "  ⚠ >25 weighted slots (rolls over full list)" if S > 25 else ""
         wq = ("  ⚠ weight>3: " + ", ".join(over)) if over else ""
-        print(f"{kind.capitalize()}s List: {len(obj['entries'])} entr(y/ies), Σ slots {S} {cap}{wq}".rstrip())
+        nw = obj.get("new_weight")
+        nwt = f"  + NEW slot {nw} (P≈{round(100*nw/(S+nw))}%)" if nw else ""
+        print(f"{kind.capitalize()}s List: {len(obj['entries'])} entr(y/ies), Σ slots {S}{nwt}{wq}".rstrip())
 
 def main():
     a = sys.argv[1:]
@@ -151,8 +161,10 @@ def main():
     if c == "init": cmd_init(a[1])
     elif c == "chaos": cmd_chaos(a[1], a[2])
     elif c == "validate": cmd_validate(a[1])
-    elif c == "thread": cmd_listcmd("thread", a[1], a[2], a[3] if len(a) > 3 else None)
-    elif c == "char": cmd_listcmd("character", a[1], a[2], a[3] if len(a) > 3 else None)
+    elif c in ("thread", "char"):
+        kind = "thread" if c == "thread" else "character"
+        pos = [x for x in a[1:] if not x.startswith("--")]   # flag-aware positional parse
+        cmd_listcmd(kind, pos[0], pos[1], pos[2] if len(pos) > 2 else None, full=("--full" in a))
     elif c == "adventure": cmd_adventure(a[1], a[2], a[3] if len(a) > 3 else None)
     elif c == "migrate": cmd_migrate(a[1])
     elif c == "list-count": cmd_list_count(a[1])

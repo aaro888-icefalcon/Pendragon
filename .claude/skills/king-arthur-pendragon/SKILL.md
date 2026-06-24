@@ -42,7 +42,7 @@ The engine's loop-state maps onto these existing files (no duplicate bookkeeping
 — see `/CLAUDE.md`).
 
 - **Continuing:** the engine reads the existing `state/` and resumes (recap ≤4 sentences, then play).
-- **Starting:** the engine runs character creation (`rules/core/01-character-creation.md`) with honest rolls, copies `assets/templates/` into `state/` (`campaign.md`, `knight.md`, `dynasty.md`, `npcs.md`, `threads.md`, `session-log.md`, `mythic.md`, `seeds.md`), and opens at Salisbury, 480 AD (`campaign/uther/05-timeline-480-495.md`).
+- **Starting:** the engine runs character creation (`rules/core/01-character-creation.md`) with honest rolls, copies `assets/templates/` into `state/` (`campaign.md`, `knight.md`, `dynasty.md`, `session-log.md`, `mythic.md`, `seeds.md`) and scaffolds the JSON Lists (`state.py init` → `threads.json`, `characters.json`, `adventure.json` — each List entry carries its own `dossier`+`status`; there is no `npcs.md`/`threads.md`), and opens at Salisbury, 480 AD (`campaign/uther/05-timeline-480-495.md`).
 
 State files outrank memory. If memory and a file disagree, the file wins.
 

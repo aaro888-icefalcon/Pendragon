@@ -9,10 +9,10 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,594** (~2,448 firmed at WP 481 + ~150 for the storm of Hindon / taking the Boar alive / the chivalry of the mercy − overlap; tally firms next WP). Next Bonus Point at 3,000 — within a year's reach. |
+| Current Glory | **~2,594** (~2,448 firmed at WP 481 + ~150 for the storm of Hindon / taking the Boar alive / the chivalry of the mercy − overlap; tally firms next WP; **+~25 provisional, spring 482** — the Boar's-cell oath kept under provocation, Honor success, witnessed by Custennin & crown men). Next Bonus Point at 3,000 — within a year's reach. |
 | Economic grade | **Superlative** (£13+/yr equiv.; castle + lord's maintenance) — 3 squires' worth, glory bonuses, +2 horse / +3 family rolls |
-| Holding | **Knight Banneret; holds the CAPUT OF HINDON** (shell-keep castle DV 9/13/2 + mill + wool-town + home manors, ~£55) — a **Crown grant** (spring 482), held for the King on a **sworn perpetual-fealty vow** (his till the line fails; the western road guarded for Uther's heirs; forfeit twice as fast if ever turned). To fortify from his own purse (~£50 plan: town moat/enclosure/gateworks + two towers). **Gwythyr of Mere denied** the valley. Vagon reverts to Roderick's disposal; Stapleford remains the family seat. |
-| Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. (Homage still to Roderick; Uther reaches through the Count.) |
+| Holding | **Knight Banneret; holds the CAPUT OF HINDON** (shell-keep castle DV 9/13/2 + mill + wool-town + home manors, ~£55) — a **Crown grant** (spring 482), held for the King on a **sworn perpetual-fealty vow** (his till the line fails; the western road guarded for Uther's heirs; forfeit twice as fast if ever turned). To fortify from his own purse (~£50 plan: town moat/enclosure/gateworks + two towers). **Gwythyr of Mere denied** the valley. Vagon reverts to Roderick's disposal; Stapleford remains the family seat (settled on Achil, held in trust). **Full Book-of-the-Estate detail for both holdings: `state/estate.md`.** |
+| Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. **WATCHFUL since the midsummer-482 court stumble** (fumbled lodging the syndicate case; recovered by honest spine + a clever play, but the easy favor is now probationary — 'I'll watch your hands'). (Homage still to Roderick; Uther reaches through the Count.) |
 | Bonus Points | Both spent — 1,000-mark → Battle; 2,000-mark → Battle (now 18). Distinguished-self passion +1 → Honor 16. |
 
 ## Attributes & Derived
@@ -87,11 +87,11 @@
 ## Equipment & Wealth
 - **Armor:** Chainmail (10 pt) · **Shield** (6 pt) · **Weapons:** Sword, dagger, 2 spears, lance · Fine clothing (£1)
 - **Coin on hand:** ~£9 + 9 denarii
-- **Ransom (Bedegraine 481):** ~£170 owed by the captured knight's kin (paid over coming months). ~£26 spent (armory £10 + hall defenses ~£10 + moat £2 + gateworks £4); **~£144 held liquid** for the estate prospect (Vagon / the King's reward).
+- **Ransom (Bedegraine 481):** ~£170 owed by the captured knight's kin (paid over coming months). ~£26 spent (armory £10 + hall defenses ~£10 + moat £2 + gateworks £4); **~£99 held liquid** (Bedegraine ransom remainder, after the Stapleford works + the £37 Hindon "bolt"; see `state/estate.md`).
 - Father's field-surgery roll; a tiercel (hawk).
 
 ## Squire
-**Achil** — younger brother, age 16. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. **MISSING (fate unknown) since late winter / early spring 482** — set out to join Abisec at Vagon and never arrived; no body, ransom, or word. Possible Boar revenge (unconfirmed). The fallback heir + Abisec's closest tie. *Driving crisis of 482.*
+**Achil** — younger brother, age 16. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. **RESCUED from Hindon (spring 482)**; now squires for Abisec at Hindon, changed by captivity and by watching Idris die for him — set on the healer-who-fights path. The fallback heir + Abisec's closest tie. **Stapleford settled on him** (to hold of Abisec once belted; knighting ~484–486; held in trust meanwhile).
 
 ## Experience checks pending (next Winter Phase)
 <!-- Append as earned in play; cleared at Winter Phase. Winter Phase 481 processed: Sword/Lance/Intrigue gained; rest erased. -->
@@ -99,6 +99,9 @@
 - **Honor** — swore an unbought oath to protect Senara of Hindon (spring 482).
 - **Courtesy** — won the King's floor for Hindon: the bolt-assessment + the clemency plea (spring 482).
 - **Honor** — the perpetual-fealty vow sworn before the King, passion invoked & successful (spring 482).
+- **Honor** — kept the unbought oath to Senara under the Boar's provocation: stayed Custennin's protest, refused to brand a dying man a liar to his daughter, reaffirmed the oath and bowed to him (Sarum, spring 482; Honor 16 check, rolled 1).
+- **Just** — Hindon's first court (summer 482): heard the wronged shepherds before ruling, gave true justice on the crooked wool-factor (restitution + stocks + banishment, life spared at the commons' ask) — won the valley and answered Senara's challenge.
+- **Courtesy** — survived the King's court (midsummer 482): fumbled the syndicate-case presentation, then recovered honest footing and turned a paranoid King with 'summon them and judge for yourself' (Courtesy save, rolled 1).
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.
