@@ -84,20 +84,28 @@ Generators are rebuilt/verified with `python3 bridge/generators/build_generators
 ## Paths & commands
 
 - **Engine scripts** (all oracle randomness): `.claude/skills/mythic-gm/scripts/`
-  — `dice.py` · `oracle.py` · `adventure_crafter.py` · `state.py` · `tick.py` · `bridge.py` · `build_data.py`.
+  — `dice.py` · `oracle.py` · `lists.py` · `adventure_crafter.py` · `state.py` · `tick.py` · `bridge.py` · `system.py` · `build_data.py`.
 - **Pendragon roller** (all task/combat resolution): `python3 .claude/skills/king-arthur-pendragon/gm/roll.py …`.
 - **The bridge:** `.claude/skills/king-arthur-pendragon/bridge`.
 
+Engine scripts live under `.claude/skills/mythic-gm/scripts/`; `gm/roll.py` under
+`.claude/skills/king-arthur-pendragon/gm/`. Below, **`<C>`** = the campaign's `state/`
+dir (e.g. `campaigns/abisec-of-stapleford/state`) and **`<B>`** = `.../king-arthur-pendragon/bridge`.
+The play-loop passes `--campaign <C> --bridge <B>` so the dice roll the campaign's
+**JSON Lists** (`threads.json`/`characters.json`/`adventure.json`) and honor the companion overrides.
+
 | Need | Command |
 |---|---|
-| Load the companion | `python3 .claude/skills/mythic-gm/scripts/bridge.py summary .claude/skills/king-arthur-pendragon/bridge` |
-| Scene Test (AC always on) | `python3 .claude/skills/mythic-gm/scripts/dice.py scene <CF>` |
-| Fate Question (yes/no) | `python3 .claude/skills/mythic-gm/scripts/dice.py fate <odds> <CF>` (Pendragon-replacing rule → `--mode rule`) |
-| Roll a Pendragon generator | `python3 .claude/skills/mythic-gm/scripts/dice.py table .claude/skills/king-arthur-pendragon/bridge/generators/<x>.json` |
-| World-tick at bookkeeping | `python3 .claude/skills/mythic-gm/scripts/tick.py .claude/skills/king-arthur-pendragon/bridge <scene#>` |
-| Turning Point | `python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py turning-point …` |
-| Chaos up/down | `python3 .claude/skills/mythic-gm/scripts/state.py chaos <+1\|-1> <CF>` |
-| Pendragon task/combat | `python3 .claude/skills/king-arthur-pendragon/gm/roll.py check <skill>` · `opposed <a> <b>` · `<NdM>` |
+| Load the companion | `bridge.py summary <B>` |
+| Scene Test (AC always on) | `dice.py scene <CF>` |
+| Fate Question (yes/no) | `dice.py fate <odds> <CF> --campaign <C> --bridge <B>` (Pendragon-replacing rule → `--mode rule`) |
+| Random Event / List invoke | `oracle.py event --campaign <C> --bridge <B>` · `oracle.py thread-list\|character-list --campaign <C> --bridge <B>` (two-stage roll; a NEW character auto-generates via the bridge) |
+| Roll a Pendragon generator | `dice.py table <B>/generators/<x>.json` |
+| World-tick at bookkeeping | `tick.py <B> <scene#>` |
+| Turning Point | `adventure_crafter.py turning-point --campaign <C> [--existing]` (reads/writes `threads.json` + `adventure.json`; rolls 5 Plot Points, Meta on 96–100) |
+| Manage the Lists | `state.py thread\|char add\|weight\|remove\|show <C> "<name>"` · `state.py adventure show\|set-themes <C>` · `state.py list-count <C>` |
+| Chaos up/down | `state.py chaos <+1\|-1> <CF>` |
+| Pendragon task/combat | `gm/roll.py check <skill>` · `opposed <a> <b>` · `<NdM>` |
 
 Odds vocabulary (9): `Certain`, `"Nearly Certain"`, `"Very Likely"`, `Likely`,
 `50/50`, `Unlikely`, `"Very Unlikely"`, `"Nearly Impossible"`, `Impossible`.
@@ -111,6 +119,7 @@ The skills are **read-only content**. A campaign's living state is written under
 campaigns/<campaign-name>/state/
     campaign.md      knight.md     dynasty.md
     npcs.md          threads.md    session-log.md     mythic.md     seeds.md
+    threads.json     characters.json    adventure.json      ← the machine Lists the dice roll
 ```
 
 - **Starting a new campaign:** create `campaigns/<name>/state/`, copy every
@@ -127,7 +136,8 @@ parallel ones:
 
 - Engine **`campaign-state.md`** (Frame · Chaos · Lists snapshot · scene recap · drift counter) → **`state/mythic.md`**.
 - Engine **`character-sheet.md`** (the PC the loop tracks) → **`state/knight.md`**.
-- Engine **Threads List** → **`state/threads.md`** · **Characters List** → **`state/npcs.md`**.
+- Engine **Threads / Characters Lists** → machine source **`state/threads.json`** / **`state/characters.json`** (the dice roll these via the two-stage roll, any length; manage with `state.py thread|char …`). The Markdown **`state/threads.md`** / **`state/npcs.md`** and the snapshot tables in `mythic.md` are the human-readable mirror — keep roughly in sync.
+- Engine **Theme priority + Tens-cycle counter** → **`state/adventure.json`** (read/written by `adventure_crafter.py turning-point --campaign <C>`).
 - Engine **seed deck** → **`state/seeds.md`** (refreshed each bookkeeping from `bridge/seeds.md` sources).
 - Engine **archive** (dead PCs, resolved threads) → **`state/dynasty.md`** + the home files.
 
@@ -149,7 +159,7 @@ The engine's discipline and Pendragon's laws reinforce each other:
 ```
 .claude/skills/mythic-gm/              THE ENGINE
   SKILL.md  COMPANION-SKILLS.md  CONVERSION.md
-  scripts/      dice.py · oracle.py · adventure_crafter.py · state.py · tick.py · bridge.py · build_data.py
+  scripts/      dice.py · oracle.py · lists.py · adventure_crafter.py · state.py · tick.py · bridge.py · system.py · build_data.py
   data/         verified machine-rollable JSON (Mythic + Adventure Crafter)
   references/   playloop · discipline · mythic/ · adventure-crafter/ · adapting/ · genres/ · canon/
   assets/       templates/ · bridge-templates/   ·   agents/mythic-scout.md

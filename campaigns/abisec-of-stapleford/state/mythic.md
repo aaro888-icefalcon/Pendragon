@@ -2,6 +2,8 @@
 
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
 **Mode now:** on-script — spine follows the year brief; **482** now (Vagon, spring). Use a **Scene Test** only when the knight rides off the brief into ground the books don't cover.
+**Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
+**Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the two-stage roll). The tables below + `state/threads.md` / `state/npcs.md` are the human snapshot — keep roughly in sync; mutate the JSON with `python3 .claude/skills/mythic-gm/scripts/state.py thread|char add|weight|remove <campaign>/state "<name>"`.
 
 ## Chaos Factor: 5
 
@@ -17,7 +19,7 @@
      2 (held): the Hindon close — inventory, the guard-swap, Custennin (ExcYes ally), the Senara solar scene; Abisec steered every scene (even the unwon Senara result, Fate No); CF steady at 2.
      ⚠ RECALIBRATION (system review): CF had stuck at 2 by over-reading Abisec's *composure* as "in control." Per the rule (start 5; +1 when the PC does NOT master the scene's outcome, −1 when he does), the run of reversals on the homecoming — Senara's rejection, Idnerth withholding the truth, Gwenllian's cold rebuff, the Boar-backer dead end (none in Abisec's control) — should have driven CF back up. **Reset 2 → 4**, and moved ±1 every scene by outcome-mastery hereafter (baseline 5; floors: Anarchy/battle/faerie). At CF 4–5 honest odds breathe again (Likely 50–65%). -->
 
-## Threads List → `state/threads.md`
+## Threads List — snapshot of `state/threads.json` (the dice roll the JSON; detail in `state/threads.md`)
 | # | Open thread (short) | Weight |
 |---|---|---|
 | 11 | Hindon's disposal — a **contested** prize (rival Gwythyr of Mere; King decides) | 3 |
@@ -27,13 +29,14 @@
 | 13 | The second doubted lord (never named, still hidden) | 1 |
 | 4 | Old-guard friction (Caradoc, thawing) | 1 |
 
-## Characters List → `state/npcs.md`
+## Characters List — snapshot of `state/characters.json` (the dice roll the JSON; detail in `state/npcs.md`)
 | NPC | Weight |
 |---|---|
 | King Uther (favorable; the grantor of Hindon) | 3 |
 | Baron Gwythyr of Mere (Abisec's rival for Hindon) | 2 |
 | Count Roderick (liege; possible backer) | 2 |
 | Lady Senara of Hindon (heiress/ward) | 2 |
+| Sir Ulfius, Marshal of Logres (strong ally for Hindon) | 2 |
 | Lady Adwen of Wilton (marriage prospect) | 1 |
 | Sir Caradoc of Tilshead (unwon, thawing) | 1 |
 | Father Custennin (Senara's chaplain — Abisec's committed ally inside the old household) | 1 |

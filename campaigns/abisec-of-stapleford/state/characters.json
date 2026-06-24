@@ -1,0 +1,13 @@
+{
+ "kind": "character",
+ "entries": [
+  { "name": "King Uther (favorable; grantor of Hindon)", "weight": 3 },
+  { "name": "Baron Gwythyr of Mere (rival for Hindon)", "weight": 2 },
+  { "name": "Count Roderick (liege; possible backer)", "weight": 2 },
+  { "name": "Lady Senara of Hindon (heiress/ward)", "weight": 2 },
+  { "name": "Sir Ulfius, Marshal of Logres (strong ally)", "weight": 2 },
+  { "name": "Father Custennin (Senara's chaplain; ally)", "weight": 1 },
+  { "name": "Lady Adwen of Wilton (marriage prospect)", "weight": 1 },
+  { "name": "Sir Caradoc of Tilshead (old-guard, thawing)", "weight": 1 }
+ ]
+}
