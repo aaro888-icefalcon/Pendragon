@@ -5,7 +5,7 @@
 **Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
 **Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the two-stage roll). The tables below + `state/threads.md` / `state/npcs.md` are the human snapshot — keep roughly in sync; mutate the JSON with `python3 .claude/skills/mythic-gm/scripts/state.py thread|char add|weight|remove <campaign>/state "<name>"`.
 
-## Chaos Factor: 2
+## Chaos Factor: 3
 
 **Set it at each scene's START** = previous ±1 by whether the knight **mastered the outcome** (not his composure): −1 he controlled it · +1 it got away from him · ±2 only for a decisive triumph/catastrophe · hold on a wash. Clamp 1–9; baseline 5; floors Anarchy ≥5 / battle ≥4 / faerie ≥4. The game YEAR is the master metronome — CF is scene-tempo only, never overrides the GPC schedule.
 
