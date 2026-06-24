@@ -23,6 +23,9 @@ roller, `gm/roll.py`; all oracle/Mythic dice run through the engine's scripts.
   "companion": "king-arthur-pendragon",
   "engine": "mythic-gm>=2",
   "overrides": ["resolve","meaning","chaos","themes","generate:character","generate:element","world-tick","seeds","adventure-ingest"],
+  "generators_map": {
+    "character": { "mode": "conjunction", "note": "roll the locale/role-appropriate NPC table from generators/registry.md (npcs_type_underclass|freeman|gentry, or an npcs_specific_* role table) and flesh the result from setting-canon factions and the active year brief" }
+  },
   "files": {
     "system_profile": "system-profile.md",
     "interpretation": "interpretation.md",

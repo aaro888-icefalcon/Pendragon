@@ -62,6 +62,19 @@ within it, resolve each uncertain moment by walking this ladder — Pendragon
 4. A **Mythic oracle** for what Pendragon leaves open — a yes/no Fate Question, an off-script Scene Test, the timing/lever of a complication, a genuinely open NPC choice. Read it through `bridge/interpretation.md`.
 5. A **GM ruling** — state it, log it in `state/session-log.md`, keep it forever.
 
+### Resolution discipline (binding — a passive ladder loses to an active habit)
+
+At **every uncertain PC moment the first move is a Pendragon check** — skill, **trait**, **passion**, or combat on `gm/roll.py` (rung 1). Only when none applies do you drop to a Mythic **Fate Question** (rung 4). *Prefer the actual Pendragon check whenever one exists* (`bridge/system-profile.md`). Persuading or moving an NPC is the PC's **skill** (Courtesy / Orate / Intrigue), opposed by the NPC's resolve — **not** a flat Fate Question.
+
+**Test a trait/passion the moment the fiction triggers one** — it binds the knight, and famous (≥16) traits/passions *compel* action:
+- sworn / kept / broken oath, largesse, pride vs. humility → **Honor · Modest/Proud · Generous**
+- mercy or cruelty to a foe, vengeance offered or refused → **Merciful/Cruel · Forgiving/Vengeful**
+- danger, a charge, the urge to flee → **Valorous/Cowardly**
+- a lord's command, a kinsman in need → **Loyalty · Love (family)**
+- temptation to lie / scheme / act on whim → **Honest/Deceitful · Just/Arbitrary · Prudent/Reckless**
+
+The player may **invoke a passion before a roll for inspiration** (+10 success / +20 crit / −5 disheartened / madness on a fumble; `rules/core/03-traits-and-passions.md`).
+
 ## The bridge (the companion contract)
 
 `.claude/skills/king-arthur-pendragon/bridge/` — declared in `bridge/bridge.md`:
@@ -84,20 +97,28 @@ Generators are rebuilt/verified with `python3 bridge/generators/build_generators
 ## Paths & commands
 
 - **Engine scripts** (all oracle randomness): `.claude/skills/mythic-gm/scripts/`
-  — `dice.py` · `oracle.py` · `adventure_crafter.py` · `state.py` · `tick.py` · `bridge.py` · `build_data.py`.
+  — `dice.py` · `oracle.py` · `lists.py` · `adventure_crafter.py` · `state.py` · `tick.py` · `bridge.py` · `system.py` · `build_data.py`.
 - **Pendragon roller** (all task/combat resolution): `python3 .claude/skills/king-arthur-pendragon/gm/roll.py …`.
 - **The bridge:** `.claude/skills/king-arthur-pendragon/bridge`.
 
+Engine scripts live under `.claude/skills/mythic-gm/scripts/`; `gm/roll.py` under
+`.claude/skills/king-arthur-pendragon/gm/`. Below, **`<C>`** = the campaign's `state/`
+dir (e.g. `campaigns/abisec-of-stapleford/state`) and **`<B>`** = `.../king-arthur-pendragon/bridge`.
+The play-loop passes `--campaign <C> --bridge <B>` so the dice roll the campaign's
+**JSON Lists** (`threads.json`/`characters.json`/`adventure.json`) and honor the companion overrides.
+
 | Need | Command |
 |---|---|
-| Load the companion | `python3 .claude/skills/mythic-gm/scripts/bridge.py summary .claude/skills/king-arthur-pendragon/bridge` |
-| Scene Test (AC always on) | `python3 .claude/skills/mythic-gm/scripts/dice.py scene <CF>` |
-| Fate Question (yes/no) | `python3 .claude/skills/mythic-gm/scripts/dice.py fate <odds> <CF>` (Pendragon-replacing rule → `--mode rule`) |
-| Roll a Pendragon generator | `python3 .claude/skills/mythic-gm/scripts/dice.py table .claude/skills/king-arthur-pendragon/bridge/generators/<x>.json` |
-| World-tick at bookkeeping | `python3 .claude/skills/mythic-gm/scripts/tick.py .claude/skills/king-arthur-pendragon/bridge <scene#>` |
-| Turning Point | `python3 .claude/skills/mythic-gm/scripts/adventure_crafter.py turning-point …` |
-| Chaos up/down | `python3 .claude/skills/mythic-gm/scripts/state.py chaos <+1\|-1> <CF>` |
-| Pendragon task/combat | `python3 .claude/skills/king-arthur-pendragon/gm/roll.py check <skill>` · `opposed <a> <b>` · `<NdM>` |
+| Load the companion | `bridge.py summary <B>` |
+| Scene Test (AC always on) | `dice.py scene <CF>` |
+| Fate Question (yes/no) | `dice.py fate <odds> <CF> --campaign <C> --bridge <B>` (Pendragon-replacing rule → `--mode rule`) |
+| Random Event / List invoke | `oracle.py event --campaign <C> --bridge <B>` · `oracle.py thread-list\|character-list --campaign <C> --bridge <B>` (two-stage roll; a NEW character auto-generates via the bridge) |
+| Roll a Pendragon generator | `dice.py table <B>/generators/<x>.json` |
+| World-tick at bookkeeping | `tick.py <B> <scene#>` |
+| Turning Point | `adventure_crafter.py turning-point --campaign <C> [--existing]` (reads/writes `threads.json` + `adventure.json`; rolls 5 Plot Points, Meta on 96–100) |
+| Manage the Lists | `state.py thread\|char add\|weight\|remove\|show <C> "<name>"` · `state.py adventure show\|set-themes <C>` · `state.py list-count <C>` |
+| Chaos up/down | `state.py chaos <+1\|-1> <CF>` |
+| Pendragon task/combat | `gm/roll.py check <skill>` · `opposed <a> <b>` · `<NdM>` |
 
 Odds vocabulary (9): `Certain`, `"Nearly Certain"`, `"Very Likely"`, `Likely`,
 `50/50`, `Unlikely`, `"Very Unlikely"`, `"Nearly Impossible"`, `Impossible`.
@@ -111,6 +132,7 @@ The skills are **read-only content**. A campaign's living state is written under
 campaigns/<campaign-name>/state/
     campaign.md      knight.md     dynasty.md
     npcs.md          threads.md    session-log.md     mythic.md     seeds.md
+    threads.json     characters.json    adventure.json      ← the machine Lists the dice roll
 ```
 
 - **Starting a new campaign:** create `campaigns/<name>/state/`, copy every
@@ -127,12 +149,19 @@ parallel ones:
 
 - Engine **`campaign-state.md`** (Frame · Chaos · Lists snapshot · scene recap · drift counter) → **`state/mythic.md`**.
 - Engine **`character-sheet.md`** (the PC the loop tracks) → **`state/knight.md`**.
-- Engine **Threads List** → **`state/threads.md`** · **Characters List** → **`state/npcs.md`**.
+- Engine **Threads / Characters Lists** → **single source `state/threads.json`** / **`state/characters.json`** (the dice roll these; mutate ONLY via `state.py thread|char add|weight|remove`). The human view is **generated** (`state.py thread|char show <C>`) — keep **no** hand-copy of the List anywhere (that duplicate is the drift class we closed). `state/threads.md` / `state/npcs.md` hold per-thread / per-NPC **prose dossiers** (status & history), not the List itself.
+- Engine **Theme priority + Tens-cycle counter** → **`state/adventure.json`** (read/written by `adventure_crafter.py turning-point --campaign <C>`).
 - Engine **seed deck** → **`state/seeds.md`** (refreshed each bookkeeping from `bridge/seeds.md` sources).
 - Engine **archive** (dead PCs, resolved threads) → **`state/dynasty.md`** + the home files.
 
 The **game year is the master metronome** (`bridge/subsystems.md`); Chaos is
 scene-turbulence only and never overrides the GPC schedule.
+
+**Per-scene bookkeeping (run every scene — don't skip):**
+1. **Trait/passion fire?** Did the scene trigger one (see *Resolution discipline*)? Roll it — it may go against the PC.
+2. **World-tick:** `tick.py <B> <scene#>` → award **Glory** for the scene's deeds, nudge **thread pressure**, fire any scheduled **GPC event**, run a **faction turn** (~every 3 scenes), **Winter Phase** at year-end.
+3. **State, one source:** mutate Lists in **JSON** via `state.py`; write narrative to the `.md` dossiers; never hand-maintain a duplicate List.
+4. **Chaos:** set the next scene's CF = this scene's ±1 by **outcome-mastery** (not the PC's composure).
 
 ## The standing laws (binding every step)
 
@@ -149,7 +178,7 @@ The engine's discipline and Pendragon's laws reinforce each other:
 ```
 .claude/skills/mythic-gm/              THE ENGINE
   SKILL.md  COMPANION-SKILLS.md  CONVERSION.md
-  scripts/      dice.py · oracle.py · adventure_crafter.py · state.py · tick.py · bridge.py · build_data.py
+  scripts/      dice.py · oracle.py · lists.py · adventure_crafter.py · state.py · tick.py · bridge.py · system.py · build_data.py
   data/         verified machine-rollable JSON (Mythic + Adventure Crafter)
   references/   playloop · discipline · mythic/ · adventure-crafter/ · adapting/ · genres/ · canon/
   assets/       templates/ · bridge-templates/   ·   agents/mythic-scout.md

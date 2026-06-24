@@ -9,9 +9,9 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,494** (~2,448 firmed at WP 481 + ~150 for the storm of Hindon / taking the Boar alive / the chivalry of the mercy − overlap; tally firms next WP). Next Bonus Point at 3,000 — within a year's reach. |
+| Current Glory | **~2,594** (~2,448 firmed at WP 481 + ~150 for the storm of Hindon / taking the Boar alive / the chivalry of the mercy − overlap; tally firms next WP). Next Bonus Point at 3,000 — within a year's reach. |
 | Economic grade | **Superlative** (£13+/yr equiv.; castle + lord's maintenance) — 3 squires' worth, glory bonuses, +2 horse / +3 family rolls |
-| Holding | **Castellan of Vagon** (Salisbury's western watch, facing Hindon) from spring 482 — granted by Roderick, "Vagon or better," earned in service & blood. (Stapleford remains the family seat.) |
+| Holding | **Knight Banneret; holds the CAPUT OF HINDON** (shell-keep castle DV 9/13/2 + mill + wool-town + home manors, ~£55) — a **Crown grant** (spring 482), held for the King on a **sworn perpetual-fealty vow** (his till the line fails; the western road guarded for Uther's heirs; forfeit twice as fast if ever turned). To fortify from his own purse (~£50 plan: town moat/enclosure/gateworks + two towers). **Gwythyr of Mere denied** the valley. Vagon reverts to Roderick's disposal; Stapleford remains the family seat. |
 | Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. (Homage still to Roderick; Uther reaches through the Count.) |
 | Bonus Points | Both spent — 1,000-mark → Battle; 2,000-mark → Battle (now 18). Distinguished-self passion +1 → Honor 16. |
 
@@ -48,6 +48,7 @@
 | Hospitality | 15 | |
 | **Honor** | **16** | Notable — +1 for distinguishing himself at Bedegraine 481 |
 | Hate (Saxons) | 14 | Rolled 3d6=14 at creation |
+| Loyalty (King Uther / Pendragon) | **10** | **NEW (spring 482)** — sworn on direct Crown homage for Hindon (now a tenant-in-chief). Note it sits *below* Loyalty (Roderick) 15: the King is **legally** first (homage trumps fealty if they collide), but Roderick is still first in the heart. A live future tension. |
 
 ## Skills
 | Skill | Val | Skill | Val | Skill | Val |
@@ -94,7 +95,10 @@
 
 ## Experience checks pending (next Winter Phase)
 <!-- Append as earned in play; cleared at Winter Phase. Winter Phase 481 processed: Sword/Lance/Intrigue gained; rest erased. -->
-- (none yet for 482)
+- **Merciful** — brought the condemned Idnerth his last meal, unbidden (spring 482).
+- **Honor** — swore an unbought oath to protect Senara of Hindon (spring 482).
+- **Courtesy** — won the King's floor for Hindon: the bolt-assessment + the clemency plea (spring 482).
+- **Honor** — the perpetual-fealty vow sworn before the King, passion invoked & successful (spring 482).
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.

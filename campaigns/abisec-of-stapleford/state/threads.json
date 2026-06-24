@@ -1,0 +1,29 @@
+{
+ "kind": "thread",
+ "entries": [
+  {
+   "name": "Lady Senara of Hindon (heiress/ward)",
+   "weight": 2
+  },
+  {
+   "name": "Marriage / the dynasty (Adwen at Wilton; Senara)",
+   "weight": 2
+  },
+  {
+   "name": "Idris's death (the barrow; Gwenllian's unpaid debt)",
+   "weight": 1
+  },
+  {
+   "name": "The second doubted lord (Idnerth's unproven charge: Gwythyr)",
+   "weight": 1
+  },
+  {
+   "name": "Old-guard friction (Caradoc, thawing)",
+   "weight": 1
+  },
+  {
+   "name": "Hold & build Hindon's caput; Gwythyr's grudge (the denied, careful rival)",
+   "weight": 1
+  }
+ ]
+}
