@@ -19,7 +19,7 @@ AI GMs stall — endless atmospheric scenes, NPC small talk, nothing resolving. 
 
 If two consecutive exchanges produce no forward motion (player circling, conversation looping, no decision emerging), act in this order:
 
-1. **Fire the nearest thread** from `state/threads.md` — the rival arrives, the summons lands, the debt is called.
+1. **Fire the nearest thread** from `state/threads.json` — the rival arrives, the summons lands, the debt is called.
 2. **Fire the year's next scheduled event** from the year brief, early.
 3. **Roll an oracle**: `generators/07-adventure-seeds.md` or `generators/08-complications-twists.md`, honestly, and bring the result on stage now.
 
@@ -27,7 +27,7 @@ Never break a stall with atmosphere. Break it with an event that demands a respo
 
 ## 4. Threads
 
-`state/threads.md` is the campaign's pressure system. Discipline:
+`state/threads.json` is the campaign's pressure system. Discipline:
 
 - Any unresolved hook, promise, enemy, or debt becomes a thread when its scene ends.
 - Each thread has a **pressure line**: what happens next if the player keeps ignoring it. At every Winter Phase, advance every ignored thread one step — rivals gain Glory too; grudges fester; opportunities expire and are taken by NPC knights instead.

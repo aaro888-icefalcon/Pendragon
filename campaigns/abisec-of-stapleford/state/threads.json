@@ -1,29 +1,84 @@
 {
  "kind": "thread",
+ "new_weight": 2,
  "entries": [
   {
    "name": "Lady Senara of Hindon (heiress/ward)",
-   "weight": 2
+   "weight": 2,
+   "status": "active",
+   "dossier": "Idnerth's only child (~19; mother long dead, no brother). Now Abisec's ward; hostile [Fate No, solar 482] — charged him with overturning God's judgment, certainty cracked when told the truth (incl. Achil's abduction, confirmed by Custennin) but not her hatred; rejects his wardship. On the road her father did NOT free her of the lie [Fate No]; Custennin will carry the truth after the burial. MATERNAL kin: royal-descended, the old line at EBBESBORNE, but headed by the wastrel LORD CADELL ('judged unfit'), who WON'T press for her [Fate will-press No, 34] — her hoped refuge is a hollow door; royal blood only makes her a richer marriage-prize (no land descends past the attainder [Fate No]). PARDONED by the King (482) — blood clean, attainder lifted; remains his sworn charge. Ulfius openly named the move: a marriage (Abisec×Senara) would unite deed-claim + blood-claim and end the quarrel — she still hates the man who broke her house. The marriage angle is live; she's hostile. She is a weapon either way — the Crown's marriage-pawn to 'clean' a Hindon grant, or a Morgan-shaped grievance pointed at the men who broke her house, Abisec foremost."
   },
   {
    "name": "Marriage / the dynasty (Adwen at Wilton; Senara)",
-   "weight": 2
+   "weight": 2,
+   "status": "active",
+   "dossier": "Heir urgency sharply up — Abisec nearly died at 23 with no heir; the line currently falls to brother Achil. Live prospects: SENARA of Hindon (would end the Hindon quarrel & unite the claims, but hostile); LADY NEST of Tisbury (genuine spark, door ajar — she wrote asking how he mends; her test is whether his danger is temporary); LADY GENERYS (Caradoc's daughter — old-guard alliance, may warm as Caradoc thaws; faith-tension); LADY ADWEN (Wilton widow, a £12 dower manor in hand, but a feud with her dead husbands' kin — 'come back when you've done your sums'). No heir yet."
   },
   {
    "name": "Idris's death (the barrow; Gwenllian's unpaid debt)",
-   "weight": 1
+   "weight": 1,
+   "status": "active",
+   "dossier": "Sir Idris ap Cynan died in the storm of Hindon (482) taking a spear hauling Achil out; Abisec's First Aid failed (roll 18). Buried in a barrow on Salisbury Plain, his name in the county roll. On the road home Abisec offered to help bury him and pay respects, but Idris's mother GWENLLIAN (Cynan's widow, who lost her only son) rebuffed him cold [Fate No, 77] — 'lords always have friends to dig for them, and brothers who come back.' The debt to Idris's memory / to Gwenllian sits UNPAID."
   },
   {
    "name": "The second doubted lord (Idnerth's unproven charge: Gwythyr)",
-   "weight": 1
+   "weight": 1,
+   "status": "active",
+   "dossier": "Uther set his snare for TWO lords. Idnerth wore the Boar; the OTHER was never named at the time. Spring 482: the dying Idnerth NAMED him — GWYTHYR OF MERE — claiming they 'sounded each other' a year back and Gwythyr let him take the bait, now inheriting the valley with the King's eye fixed on the dead Boar. UNPROVEN (no seal, no proof). Roderick does NOT credit it [Fate No] and forbids speaking it without evidence — 'a knife with no handle.' A weapon against the rival if ever proven; poison to Abisec if wielded unproven. Open."
   },
   {
    "name": "Old-guard friction (Caradoc, thawing)",
-   "weight": 1
+   "weight": 1,
+   "status": "active",
+   "dossier": "The old guard distrusts Abisec's fast royal-favoured rise. Caradoc's price was 'prove you'll last / hold a thing.' Then Abisec set his body against a baron in God's trial, took a lance through the chest, and lived — and now holds Hindon — and even Caradoc allows 'the boy has bottom.' Valour (and land) doing what charm couldn't. The Generys marriage-door may warm with the father."
   },
   {
-   "name": "Hold & build Hindon's caput; Gwythyr's grudge (the denied, careful rival)",
-   "weight": 1
+   "name": "Hold & build Hindon's caput; Gwythyr's grudge",
+   "weight": 1,
+   "status": "active",
+   "dossier": "RESOLVED in Abisec's favour (the hearing, 482): the King created Abisec Knight Banneret and granted him Hindon's CAPUT to hold for the Crown on his sworn perpetual-fealty vow; Gwythyr DENIED the valley; Senara pardoned. The full barony / Council seat NOT granted — the outliers stay in the King's hand, a thing to grow into by service. THE CAPUT: £55 (shell-keep castle DV 9/13/2 + a Mill + the wool market-town + home manors). THE OUTLIERS (NOT his): ~£95 in 8 parcels, escheat to the Crown, 'in question' only until Idnerth's vertict, then settled-forfeit — the King will likely break them up / feed a parcel to Gwythyr. STRATEGIC WEIGHT: the Hindon valley is the gate between Salisbury and Summerland (Cadwy's Mendip silver/lead Uther seized); Gwythyr holds Mere, the other gatepost. TO DO: harden the caput modestly from his own purse (~£50 plan — dammed town-moat, palisade + gatehouse round the wool-town, deep cistern, two towers); stout vs raiders/a rebel, useless vs a king's host (loyal initiative, not a power-base). Live successors: Gwythyr's grudge (the slighted, careful rival); the second-lord suspicion still unproven. Levers held: the storming + exposing the Boar; the King's favour; Roderick + Ulfius; the march."
+  },
+  {
+   "name": "Stapleford pagan scandal (CLOSED)",
+   "weight": 0,
+   "status": "closed",
+   "dossier": "CLOSED (Plough Monday 481). Cynfael deflected; Iuan installed as a tolerant resident priest; the rite continues quietly. Watch: Cynfael will pounce on any future slip."
+  },
+  {
+   "name": "Achil — RESCUED (CLOSED)",
+   "weight": 0,
+   "status": "closed",
+   "dossier": "Pulled from Hindon castle alive (spring 482) after a betrayal (the groom Tegid sold him, then was silenced by the Boar — boar-coin on his body confirmed Idnerth's hand). Survived two weeks by playing the useful leech. Changed by it — and by watching Idris die carrying him out; reforged in his healer-who-fights path. Heir restored. Crisis closed."
+  },
+  {
+   "name": "The Boar Conspiracy (CLOSED)",
+   "weight": 0,
+   "status": "closed",
+   "dossier": "The central thread of 480–482, finished. ORIGIN (480): a royal courier on Salisbury Plain murdered and a sealed dispatch stolen by trained British-tongued men; Abisec ran them down, recovered a secret royal muster-order AND a snare — Uther binding trusted lords while secretly testing TWO doubted lords, one bearing a Boar badge; an informant inside Roderick's house had warned the Boar-lord early. CHAIN: Father Maucan (Vagon's chaplain, the informant, paid in boar-coin — captured, broken); Sir Cadeyrn (handler/grey-rider — captured, defiant); Baron Idnerth of Hindon, 'the Boar' (one of the two doubted lords). Trial-by-combat lost (Twelfth Night 481; Abisec maimed). But the Boar's abduction of Achil (482) handed Uther his pretext: a royal commission, the Salisbury host, and the STORM OF HINDON — Abisec planned and led it (deception + escalade), took Idnerth alive in single combat on the burning wall, and gave him to the King's justice rather than a knight's sword. Idnerth → Londinium cell & scaffold. COST: Sir Idris ap Cynan dead in the rescue. (Disposal → Hold-Hindon thread; the heir → Senara thread.) Loose ends: who else Master Gwyn's ledger named; the wider spy-network."
+  },
+  {
+   "name": "The dangerous royal secret → ROYAL FAVOR (TURNED)",
+   "weight": 0,
+   "status": "turned",
+   "dossier": "TURNED (Twelfth Night eve audience). Uther himself noted Abisec had guessed the King's snare and kept silent about the King's business in front of the King — and PRIZED the discretion ('rarer than courage'). No longer a death-risk; a mark of favour. Abisec won the King's trust [opposed Honest 13 vs Suspicious 14 — won]; Uther counts him 'an honest instrument I can spend without watching my back,' honoured the Roderick chain, charged him as the Twelfth Night witness. Royal favour gained."
+  },
+  {
+   "name": "Christmas board honour (480) (CLOSED)",
+   "weight": 0,
+   "status": "closed",
+   "dossier": "CLOSED — Roderick publicly seated Abisec among his favoured at the Christmas board (480)."
+  },
+  {
+   "name": "Vagon — granted, then reverted to Roderick (CLOSED)",
+   "weight": 0,
+   "status": "closed",
+   "dossier": "Salisbury's western watch facing Hindon (timber motte-and-bailey, DV 5/11/2). Abisec held it as castellan (Battle 18) + household knights (incl. Gwion) + ~10 sergeants/bowmen; ~£45 gross, ~£10/yr margin — power, not profit. REVERTS to Roderick's disposal (spring 482) now that Abisec holds the King's caput at Hindon and Stapleford stays the family seat."
+  },
+  {
+   "name": "Christmas tournament (481) (RESOLVED)",
+   "weight": 0,
+   "status": "resolved",
+   "dossier": "RESOLVED (Day 5, 481). Joust lost (unhorsed first course by Sir Petroc). Mêlée: Abisec's side won the field on his double charge (flank break [Battle 18] → pulled the eschille out and rear-charged [Battle 13] → enemy company shattered); then charged Brastias [opposed Lance 20 vs Sword 18 — Brastias won the pass but failed to unhorse him; Abisec rode it out, Horsemanship 15]. Brastias took the Champion's laurel; Abisec took the regard of Ulfius and the King (generalship noticed) + ~25 Glory. Redemption for the joust in the eyes that matter."
   }
  ]
 }

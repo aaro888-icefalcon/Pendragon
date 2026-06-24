@@ -131,8 +131,10 @@ The skills are **read-only content**. A campaign's living state is written under
 ```
 campaigns/<campaign-name>/state/
     campaign.md      knight.md     dynasty.md
-    npcs.md          threads.md    session-log.md     mythic.md     seeds.md
-    threads.json     characters.json    adventure.json      ← the machine Lists the dice roll
+    session-log.md   mythic.md     seeds.md
+    threads.json     characters.json    adventure.json   ← the Lists the dice roll; EACH entry carries
+                                                            its own prose dossier + status (the dossiers
+                                                            live here now — no separate npcs.md/threads.md)
 ```
 
 - **Starting a new campaign:** create `campaigns/<name>/state/`, copy every
@@ -149,7 +151,7 @@ parallel ones:
 
 - Engine **`campaign-state.md`** (Frame · Chaos · Lists snapshot · scene recap · drift counter) → **`state/mythic.md`**.
 - Engine **`character-sheet.md`** (the PC the loop tracks) → **`state/knight.md`**.
-- Engine **Threads / Characters Lists** → **single source `state/threads.json`** / **`state/characters.json`** (the dice roll these; mutate ONLY via `state.py thread|char add|weight|remove`). The human view is **generated** (`state.py thread|char show <C>`) — keep **no** hand-copy of the List anywhere (that duplicate is the drift class we closed). `state/threads.md` / `state/npcs.md` hold per-thread / per-NPC **prose dossiers** (status & history), not the List itself.
+- Engine **Threads / Characters Lists** → **single source `state/threads.json`** / **`state/characters.json`** (the dice roll these; mutate weights via `state.py thread|char add|weight|remove`, edit the JSON directly for dossiers). The human view is **generated** (`state.py thread|char show <C>` · `--full` for whole dossiers) — keep **no** hand-copy of the List anywhere. **Each entry carries its own `dossier` (prose: status & history) and `status` field IN the JSON** — there is no separate `npcs.md` / `threads.md`. **The whole cast/plot lives in one rollable pool:** dead, archived, and background NPCs stay in `characters.json` so the oracle can still surface them (as kin, memory, ghost, legacy); **resolved threads stay in `threads.json` at `weight 0`** (held — kept for canon, never rolled until you reopen them). The roll is **proportional** (`new_weight` per file): any existing entry can be invoked weighted, AND a NEW result stays possible at any list size — no 25-slot cap (Ruling #31).
 - Engine **Theme priority + Tens-cycle counter** → **`state/adventure.json`** (read/written by `adventure_crafter.py turning-point --campaign <C>`).
 - Engine **seed deck** → **`state/seeds.md`** (refreshed each bookkeeping from `bridge/seeds.md` sources).
 - Engine **archive** (dead PCs, resolved threads) → **`state/dynasty.md`** + the home files.
@@ -160,7 +162,7 @@ scene-turbulence only and never overrides the GPC schedule.
 **Per-scene bookkeeping (run every scene — don't skip):**
 1. **Trait/passion fire?** Did the scene trigger one (see *Resolution discipline*)? Roll it — it may go against the PC.
 2. **World-tick:** `tick.py <B> <scene#>` → award **Glory** for the scene's deeds, nudge **thread pressure**, fire any scheduled **GPC event**, run a **faction turn** (~every 3 scenes), **Winter Phase** at year-end.
-3. **State, one source:** mutate Lists in **JSON** via `state.py`; write narrative to the `.md` dossiers; never hand-maintain a duplicate List.
+3. **State, one source:** mutate List weights via `state.py`; write each thread/NPC's narrative into that entry's **`dossier`** field in `threads.json` / `characters.json` (edit the JSON directly); set a resolved thread to `weight 0` and a dead/archived NPC stays in the pool at low weight; never hand-maintain a duplicate List.
 4. **Chaos:** set the next scene's CF = this scene's ±1 by **outcome-mastery** (not the PC's composure).
 
 ## The standing laws (binding every step)

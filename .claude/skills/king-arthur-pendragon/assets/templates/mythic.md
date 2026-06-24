@@ -2,9 +2,9 @@
 
 <!-- The mythic-gm engine's loop-state anchor for this campaign — the engine's
 `campaign-state.md` mapped onto Pendragon's `state/` (see /CLAUDE.md, "No duplicate
-bookkeeping"). Overwrite at the end of every scene. Threads/NPCs and the saga's
-substance live in their own files; this holds the Frame, the Chaos dial, the Lists
-snapshot, and the scene recap. -->
+bookkeeping"). Overwrite at the end of every scene. The Threads/Characters Lists
+(with their per-entry dossiers) live in `state/threads.json` / `state/characters.json`;
+this file holds the Frame, the Chaos dial, and the scene recap — no List copy. -->
 
 ## Frame
 - **Engine:** mythic-gm (drives) · companion bridge: `king-arthur-pendragon/bridge/`
@@ -17,19 +17,15 @@ snapshot, and the scene recap. -->
 
 <!-- 1–9. −1 after a scene the knight mostly controlled, +1 after a chaotic one. Start at 5. The game year remains the master metronome (bridge/subsystems.md, gm/PACING.md); Chaos never overrides the schedule. -->
 
-## Threads List → `state/threads.md`
+## Lists — SINGLE SOURCE: `state/threads.json` · `state/characters.json`
 
-<!-- Snapshot of open threads with a rough salience weight (1–3) for Mythic list-rolls. Prose home is threads.md. -->
-
-| # | Open thread (short) | Weight |
-|---|---|---|
-
-## Characters List → `state/npcs.md`
-
-<!-- Most active NPCs on stage now, with a rough weight (1–3) for Mythic list-rolls. Full roster in npcs.md. -->
-
-| NPC | Weight |
-|---|---|
+<!-- The dice roll the JSON directly (proportional two-stage roll, any length). Keep NO hand-copy of the Lists here.
+     Each entry carries its own `dossier` (prose: status & history) + `status` field IN the JSON — there is no
+     npcs.md / threads.md. The whole cast/plot is one rollable pool: dead/archived NPCs stay surfaceable; resolved
+     threads sit at weight 0 (held). View: `state.py thread|char show <C>` (`--full` for whole dossiers).
+     Mutate weights: `state.py thread|char add|weight|remove <C> "<name>"`; edit the JSON directly for dossiers. -->
+- **View the live, generated list:** `state.py thread show <C>` · `state.py char show <C>` (`--full` for dossiers)
+- **Mutate weights:** `state.py thread|char add|weight|remove <C> "<name>"`  ·  **dossier/status:** edit the JSON entry
 
 ## Scene
 - **Last scene recap (2–3 sentences):** _the campaign opens here_
@@ -38,5 +34,5 @@ snapshot, and the scene recap. -->
 
 ## Notes
 
-- Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those files win; this is the engine's loop-state anchor (Frame + Chaos + snapshot + recap).
-- When a thread closes or an NPC leaves the stage, drop it from the snapshot above (its prose record stays in its home file).
+- Nothing here overrides `state/campaign.md`, `state/threads.json`, or `state/characters.json`. On conflict, those win; this is the engine's loop-state anchor (Frame + Chaos + recap).
+- When a thread closes set its `weight` to 0 in `threads.json` (held — kept for canon, surfaced only if reopened); a dead/departed NPC stays in `characters.json` at low weight so the oracle can still surface them. Update the entry's `dossier` to record what changed.

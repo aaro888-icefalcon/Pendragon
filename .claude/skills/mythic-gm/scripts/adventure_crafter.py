@@ -64,7 +64,7 @@ def roll_thread(campaign, n_fallback):
     Falls back to a legacy count-based 1d100→line when no campaign JSON is given."""
     if campaign:
         obj = lists.load_list(campaign, "thread")
-        res = lists.two_stage(obj["entries"], "thread")
+        res = lists.two_stage(obj["entries"], "thread", obj.get("new_weight"))
         return "Thread — " + lists.describe(res, "thread")
     if n_fallback <= 0: return "Thread — Threads List empty → automatic NEW THREAD"
     r = d(100); line = (r - 1)//4 + 1

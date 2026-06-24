@@ -28,7 +28,7 @@ Death is content, not failure. Procedure:
 1. Play the death scene at full weight — this is the one place STYLE.md budgets stretch (to 200 words). Last words if the wound allows. Witnesses matter for how the story is told afterward.
 2. Tally final Glory, including death Glory if applicable (`rules/core/07-glory.md`).
 3. Run succession from `state/dynasty.md`: eldest son inherits per `rules/core/10-knighthood-society.md`; if the heir is a minor, wardship rules apply and play can jump years; if no heir exists, a brother, nephew, or newly created knight of the same house takes over (`rules/core/01-character-creation.md` with family history).
-4. The world remembers: enemies of the father are enemies of the son; the dead knight's deeds become family Glory; update `state/npcs.md` and `state/threads.md` accordingly.
+4. The world remembers: enemies of the father are enemies of the son; the dead knight's deeds become family Glory; update `state/characters.json` and `state/threads.json` accordingly.
 5. Resume the year loop with the new knight within one session. The campaign never ends at a grave.
 
 ## 5. The fudge check

@@ -9,8 +9,8 @@ or a thread already due; Pendragon canon outranks a random seed. -->
 
 **Deck size target:** 30–40  ·  **Refresh:** each bookkeeping
 **Sources** (see `bridge/seeds.md`): the current year brief's hooks/NPCs · the
-ingested adventure clusters near the PC · open threads (`state/threads.md`) and
-recurring NPCs (`state/npcs.md`) · novelty rolls on `bridge/generators/`.
+ingested adventure clusters near the PC · open threads (`state/threads.json`) and
+recurring NPCs (`state/characters.json`) · novelty rolls on `bridge/generators/`.
 
 ## Deck
 

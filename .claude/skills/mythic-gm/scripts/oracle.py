@@ -82,7 +82,7 @@ def invoke_two_stage(kind, campaign, bridge_dir=None, auto_generate=True, _print
     or the companion's generate:character override from the bridge)."""
     if not campaign: sys.exit("This command needs --campaign DIR (the campaign folder with the JSON Lists).")
     obj = lists.load_list(campaign, kind)
-    res = lists.two_stage(obj["entries"], kind)
+    res = lists.two_stage(obj["entries"], kind, obj.get("new_weight"))
     text = lists.describe(res, kind)
     if _print: print(f"📃 {kind.capitalize()} List invoke → {text}")
     if auto_generate and kind == "character" and res["category"] == "NEW":

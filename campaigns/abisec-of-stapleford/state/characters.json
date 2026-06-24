@@ -1,13 +1,246 @@
 {
  "kind": "character",
+ "new_weight": 4,
  "entries": [
-  { "name": "King Uther (favorable; grantor of Hindon)", "weight": 3 },
-  { "name": "Baron Gwythyr of Mere (rival for Hindon)", "weight": 2 },
-  { "name": "Count Roderick (liege; possible backer)", "weight": 2 },
-  { "name": "Lady Senara of Hindon (heiress/ward)", "weight": 2 },
-  { "name": "Sir Ulfius, Marshal of Logres (strong ally)", "weight": 2 },
-  { "name": "Father Custennin (Senara's chaplain; ally)", "weight": 1 },
-  { "name": "Lady Adwen of Wilton (marriage prospect)", "weight": 1 },
-  { "name": "Sir Caradoc of Tilshead (old-guard, thawing)", "weight": 1 }
+  {
+   "name": "King Uther (favorable; grantor of Hindon)",
+   "weight": 3,
+   "status": "crown/king",
+   "dossier": "King of Logres; suspicious (Trusting 6, Intrigue 23), proud, shrewd, rules through fear & favourites. FAVOURABLE since Twelfth Night eve 481 — took Abisec's measure privately and wants him: 'an honest instrument I can spend without watching my back'; prizes his discretion; honoured the Roderick chain; charged him as the Twelfth Night witness vs Idnerth. Spring 482: created Abisec Knight Banneret and granted him Hindon's caput to hold for the Crown on a sworn perpetual-fealty vow; took his homage directly. Plays claimants off each other; will likely BREAK UP Hindon's outliers rather than let the barony reunite, and may feed a parcel to Gwythyr to quiet him."
+  },
+  {
+   "name": "Count Roderick (liege; possible backer)",
+   "weight": 2,
+   "status": "liege/Salisbury",
+   "dossier": "Count of Salisbury; Abisec's homeland liege (Battle 17, Glory 4,044; just, prudent). Deep trust — his 'unconnected instrument.' Spring 482: when Abisec rose to Knight Banneret holding a King's caput, Roderick RELEASED him to swear the King (can't hold sole a man who holds a Crown caput). Bond reframed — reserved liege (Stapleford) + lifelong mentor; the King now legally trumps if they ever collide, but Roderick is first in the heart (Loyalty Roderick 15 > Loyalty Uther 10). A failed Loyalty (Roderick) roll showed the rise pull at Abisec; his honest reckoning of it won Roderick's respect over any hollow vow. Vagon reverts to Roderick."
+  },
+  {
+   "name": "Sir Ulfius, Marshal of Logres (strong ally)",
+   "weight": 2,
+   "status": "ally/patron(ailing)",
+   "dossier": "Marshal of Logres, Duke of the Vale; royal favourite; a soldier before a courtier. STRONG ALLY for Hindon (482) [Fate ExcYes] — saw Abisec storm Hindon, championed him at the King's board, carried the over-mighty-lord argument and SEALED the grant himself. Now Abisec's patron/mentor, spending his remaining weight on a young captain; counsels the Abisec×Senara marriage. But AILING (aged + a fever he fought through to back the boy; Random Event Assist·Illness) — a window that may not stay open. Tend the patron."
+  },
+  {
+   "name": "Lady Senara of Hindon (heiress/ward)",
+   "weight": 2,
+   "status": "ward(hostile)",
+   "dossier": "Idnerth's only child & heir (~19); proud, finely-raised amid a magnificence that was always a lie (her petty-lord father's £160 hall, propped on treason-silver). Was away when Hindon fell — now Abisec's sworn ward. MET in the solar (482) and HOSTILE [Fate No]: believed her father wronged, cleared by God in the trial-by-combat, then destroyed by a vengeful Abisec — until told the truth plainly (courier's murder, paid assassins, the failed muster, the abduction of Abisec's brother Achil), confirmed silently by Custennin; her certainty cracked, her hatred didn't. Rejects his wardship ('I'll choose my keeper, and it will not be you'). Hunts with a bow, keeps her books; proud, precise, dangerous to underestimate. MATERNAL BLOOD — ROYAL (canon, road 482, per Custennin): her late mother was of the old ROYAL line of EBBESBORNE — princes' blood from before the legions left — the wellspring of her queenly pride; Idnerth a petty baron who married up. That line is headed now by the wastrel uncle LORD CADELL of Ebbesborne ('a royal scion judged unfit for any responsibility' — drink, dice, falling walls), who will NOT stir to claim her [Fate 482: standing Yes(4), local Yes(5), will-press No(34)]. So her intended refuge ('I'll go to my mother's people') is a HOLLOW DOOR she doesn't yet know is shut. Royal BLOOD but no land by it — no protected maternal portion descends past her father's attainder [Fate 482: No]. Her royal descent only makes her a RICHER marriage-prize: it 'cleans' a Hindon claim far better than a petty baron's daughter could, and the hawks will see that before she does. PARDONED by the King (482) at Abisec's plea — blood clean, attainder lifted; she remains his ward. The Abisec×Senara marriage (Ulfius's idea) would unite deed-claim + blood-claim and end the quarrel — she has no stomach for it. The man she's set on hating may be the only one between her and the auction block. [threads: Senara; Marriage]"
+  },
+  {
+   "name": "Baron Gwythyr of Mere (rival for Hindon)",
+   "weight": 2,
+   "status": "rival(slighted)",
+   "dossier": "Great, established Logres marcher baron (Council seat); honour borders Hindon to the WEST, toward Summerland. Abisec's chief RIVAL for Hindon. Pressed an ancient hereditary claim that the contested valley (Hindon's caput with it) was wrongfully severed from his line generations ago; sold Uther on granting HIM Hindon to settle the border. Outranks Abisec in age, wealth, rank, old blood-claim. Spring 482: ACCUSED by the dying Idnerth of being Uther's hidden SECOND doubted lord — used the Boar as a cat's-paw and now inherits the valley while the King's suspicion burns out on the dead man. UNPROVEN; Roderick disbelieves it; Abisec holds the lead privately (forbidden to speak it without proof). MET (Sarum gallery, eve of the hearing): a big, careful magnate past fifty, NO GOLD on him (the careful man's tell); conceded Abisec's valour, meant to win on rank + the ancient charter. DENIED Hindon at the hearing (482) — the King set Ulfius's over-mighty argument + Abisec's vow above the charter. Took it with perfect grace ('the King is wise'), smile intact, eyes gone to winter. Now a slighted great rival / quiet enemy — careful men don't rage; they wait. Idnerth's warning: 'mind your back with the careful man.'"
+  },
+  {
+   "name": "Achil of Stapleford (brother, squire, heir)",
+   "weight": 2,
+   "status": "family/heir",
+   "dossier": "Abisec's younger brother & squire (16); 'above all'; the fallback heir. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. RESCUED from Hindon (spring 482) after the groom Tegid sold him (then was silenced by the Boar — boar-coin on the body confirmed Idnerth's hand). Survived two weeks' captivity by playing the useful leech, helping from inside. Changed by it — and by watching Idris die carrying him out; reforged in his healer-who-fights path ('you do it anyway'). Heir restored; mending at Stapleford."
+  },
+  {
+   "name": "Baron Idnerth of Hindon ('the Boar')",
+   "weight": 2,
+   "status": "captive/condemned",
+   "dossier": "The conspiracy's head. TAKEN ALIVE (482) by Abisec on Hindon's burning wall after abducting Achil; bound for a Londinium cell and a traitor's scaffold — the TRIAL is the live upcoming event (his attainder waits on the verdict). Hindon forfeit. Parted with grudging respect ('you'd have made a son worth having'). In the cellar (482) Abisec fed him his last meal; moved that the protection-oath for Senara was given unbought, Idnerth freely gave up the second doubted lord — names GWYTHYR OF MERE (unproven). Parting: 'Mind your back with the careful man; mind your front with my daughter.'"
+  },
+  {
+   "name": "Father Custennin (Senara's chaplain; ally)",
+   "weight": 1,
+   "status": "ally/clergy",
+   "dossier": "Hindon's chaplain ~20 yrs; steady, phlegmatic; kept himself poor amid Idnerth's gilded hall (never touched the tainted silver, never said why). Senara's confessor/tutor since her mother died, and the one person she trusts. Judged Abisec sincere [Fate ExcYes] and threw in as her protector-ally — vouches for him, travels with her; a window into the old household. The source of the Ebbesborne / Cadell canon."
+  },
+  {
+   "name": "Lady Adwen of Wilton (marriage prospect)",
+   "weight": 1,
+   "status": "prospect",
+   "dossier": "Young twice-widowed lady; holds a Wilton dower manor (~£12/yr) in her own hand. Marriage prospect — land & a capable partner, but a feud with her dead husbands' kin attached. 'Come back when you've done your sums.'"
+  },
+  {
+   "name": "Sir Caradoc of Tilshead (old-guard, thawing)",
+   "weight": 1,
+   "status": "neutral(thawing)",
+   "dossier": "Old-family senior knight; voice of the old guard; father of Lady Generys. Distrusts fast royal-favoured rises ('climb fast, land hard, take the steady men down'); granted Abisec's prowess but not his hand until he's lasted 5 years and HELD something. Cool — unwon on principle, but THAWING: after Abisec set his body against a baron in God's trial, took a lance through the chest for the truth, and lived, even Caradoc allows 'the boy has bottom.' Not an enemy — a worldview to win."
+  },
+  {
+   "name": "Lady Nest of Tisbury (marriage prospect; door ajar)",
+   "weight": 1,
+   "status": "prospect(ajar)",
+   "dossier": "Sir Bruan's daughter; sharp, bookish, hawks — a genuine spark with Abisec (shared falconry & reading). Cooled when he gave her an honest evasion over the royal secret [Fate No]; a sharp woman wary of binding her house to a man trailing dead men and secrets. Saw him near death after the trial ('I asked whether your danger had an end — still waiting to know'), rode home, then WROTE asking how he mends. Door ajar, undecided — her test: is his danger 'this season's weather' or 'his whole sky'? The Boar's downfall argues temporary."
+  },
+  {
+   "name": "Lady Generys of Tilshead (marriage prospect; cool)",
+   "weight": 1,
+   "status": "prospect(cool)",
+   "dossier": "Sir Caradoc's daughter; gentle, dutiful, pious (Christian). Marriage prospect — a politics/old-guard alliance that would heal the old-guard friction. Door COOL while her father is unwon; faith-tension with Abisec's quiet paganism. May warm now that Caradoc is thawing."
+  },
+  {
+   "name": "Bascar & Eluned of Stapleford (parents)",
+   "weight": 1,
+   "status": "family",
+   "dossier": "Abisec's parents at Stapleford. ELUNED — sharp, stubborn-but-pragmatic, keeper of the Stapleford pagan rite since Gwenda died; nursed Abisec from the mortal wound; runs the hall; angling to see him married ('don't let the clever get you killed'). BASCAR — old soldier (soldiered with Garmon); brokered a kin-marriage (WP 481); gave Abisec the field-surgery roll. Counsel: 'be the hand, not the coronet.'"
+  },
+  {
+   "name": "Sir Brewnor (crown officer; ally)",
+   "weight": 1,
+   "status": "crown ally",
+   "dossier": "Royal household knight; the Crown's officer (escheator's office) on the Hindon commission. Dry, competent, fair — appreciated Abisec's plan and his mercy. A useful crown ally going forward; holds/ inventories Hindon's escheat."
+  },
+  {
+   "name": "Sir Bledig (Hindon seneschal)",
+   "weight": 1,
+   "status": "neutral(limbo)",
+   "dossier": "Idnerth's seneschal — ran Hindon's manors and books. Surrendered with the castle; fealty in limbo; will serve whoever the King names IF his hands prove clean. The man who knows where every Hindon parcel and penny sits."
+  },
+  {
+   "name": "Sir Cadeyrn (the grey-rider; prisoner)",
+   "weight": 1,
+   "status": "prisoner",
+   "dossier": "Idnerth's gently-born handler/agent — the grey-rider (fine dappled grey, silvered harness), the Boar's hand and knife. Captured alive (481); prisoner at Sarum; defiant."
+  },
+  {
+   "name": "Sir Pedr (flipped; held card)",
+   "weight": 1,
+   "status": "asset(flipped)",
+   "dossier": "Landless Silchester knight. Flipped — confessed (Day 3 dawn) under Roderick's protection; never dealt with Idnerth directly, only the cutout 'Master Gwyn.' A held card."
+  },
+  {
+   "name": "Sir Brastias (mutual respect)",
+   "weight": 1,
+   "status": "ally(respect)",
+   "dossier": "Hard northern knight; superb horseman/swordsman. Christmas-tournament Champion (481). Beat Abisec in their mêlée pass but couldn't unhorse him; gave him a soldier's salute — mutual respect now, not enmity. (Canonically rises to Captain of the Guard, 491.)"
+  },
+  {
+   "name": "Sir Petroc of Dimilioc (Cornwall friend-rival)",
+   "weight": 1,
+   "status": "friend-rival",
+   "dossier": "Young Cornish knight; Duke Gorlois's man. Unhorsed Abisec in the first joust course (the crit of his life; freely admits it was luck). Warm after Abisec saluted him — a gracious young friend-rival; a thread into Cornwall/Gorlois as that drama looms."
+  },
+  {
+   "name": "Sir Sadinal (King's Herald & Dapifer)",
+   "weight": 1,
+   "status": "ally/court",
+   "dossier": "King's Herald & Dapifer (Heraldry 19, Courtesy 17). Warm ally (481) — will see Abisec presented well; a who's-who source at court."
+  },
+  {
+   "name": "Brother Syrion (Royal Treasurer)",
+   "weight": 1,
+   "status": "crown(honest)",
+   "dossier": "Royal Treasurer at Llud's Hall (Honest 18). The crown witness to the Boar evidence; owes Salisbury nothing — an incorruptible record-keeper."
+  },
+  {
+   "name": "Merlin (the enchanter)",
+   "weight": 1,
+   "status": "background(looming)",
+   "dossier": "The enchanter; present at court. Unmet by Abisec; a cowled unease by the dais. Looms over the whole age."
+  },
+  {
+   "name": "Brother Iuan (Stapleford's priest)",
+   "weight": 1,
+   "status": "ally/clergy",
+   "dossier": "Young syncretic priest, now Stapleford's. Committed ally; Abisec swore (Honor) to shield him. Keeps the old faith tolerantly beside the new."
+  },
+  {
+   "name": "Father Tewdric (the Deverills)",
+   "weight": 1,
+   "status": "ally/clergy",
+   "dossier": "Ancient syncretic British priest of the Deverills. Kindred ally; gave up his apprentice Iuan to Stapleford."
+  },
+  {
+   "name": "Brother Henris (Ambrius Abbey)",
+   "weight": 1,
+   "status": "contact/clergy",
+   "dossier": "Monk-infirmarer at Ambrius Abbey. Friendly family contact; Iuan's intended first clerical ally."
+  },
+  {
+   "name": "Lady Isabel (Londinium; matchmaker)",
+   "weight": 1,
+   "status": "ally/court",
+   "dossier": "Family friend, married into a Londinium merchant house. Warm; a court insider & matchmaker."
+  },
+  {
+   "name": "Sir Garmon (old family friend)",
+   "weight": 1,
+   "status": "ally",
+   "dossier": "Old household knight; soldiered with Bascar. Warm old family friend; offers a network of 'useful dull men' at court."
+  },
+  {
+   "name": "Sir Gwion (garrisons Vagon)",
+   "weight": 1,
+   "status": "war-band",
+   "dossier": "Young Salisbury knight; leg knit stiff-but-serviceable (Plain Sweep wound). Garrisoned Vagon under Abisec — now reverting to Roderick's command with the keep; glad he took the keys. A follower in Abisec's eschille."
+  },
+  {
+   "name": "Cynyr (Roderick's huntsman)",
+   "weight": 1,
+   "status": "ally",
+   "dossier": "Roderick's huntsman; Plain-wise. Won over (Plain Sweep); with the Count."
+  },
+  {
+   "name": "Caw (Roderick's quiet man)",
+   "weight": 1,
+   "status": "ally",
+   "dossier": "Roderick's plain-faced quiet man (forgettable on purpose). Loyal agent; took Pedr alive at the feast (Day 2 night); ran the interrogation."
+  },
+  {
+   "name": "Sir Elad (household knight)",
+   "weight": 1,
+   "status": "war-band",
+   "dossier": "Hard veteran household knight; a follower in Abisec's eschille — loyalty hard-won."
+  },
+  {
+   "name": "Sir Cadry (household knight; friend)",
+   "weight": 1,
+   "status": "war-band",
+   "dossier": "Young Salisbury knight. Loyal friend; rides at Abisec's right; at court."
+  },
+  {
+   "name": "Sir Gerin & Sir Bann (household knights)",
+   "weight": 1,
+   "status": "war-band",
+   "dossier": "Seasoned household knights recruited to Abisec's eschille before Bedegraine."
+  },
+  {
+   "name": "Sir Jasson (neighbour knight; friend)",
+   "weight": 1,
+   "status": "war-band",
+   "dossier": "Senior household knight, neighbour; wry. Friend; warned Abisec to keep the old faith quiet."
+  },
+  {
+   "name": "Father Cynfael (Salisbury's chaplain)",
+   "weight": 1,
+   "status": "wary",
+   "dossier": "Salisbury's zealous Christian chaplain. Wary coexistence with Abisec's quiet paganism; face-saved at Plough Monday; watches for any slip."
+  },
+  {
+   "name": "Sir Edern of Vagon (former castellan)",
+   "weight": 1,
+   "status": "neutral",
+   "dossier": "Former castellan of Vagon (loyal but slack). Stood aside (spring 482) for Abisec to take Vagon; honourably handled, no grudge."
+  },
+  {
+   "name": "Bledri (wool-factor; lead)",
+   "weight": 1,
+   "status": "lead",
+   "dossier": "Wool-factor; was the Boar's letter-conduit — a lead to run down."
+  },
+  {
+   "name": "Sir Idris ap Cynan (dead)",
+   "weight": 1,
+   "status": "dead",
+   "dossier": "Young Salisbury knight, pox-scarred; rode at Abisec's right since the Plain Sweep. DEAD (spring 482) — took a spear hauling Achil out of Hindon; Abisec's First Aid failed (roll 18). Honoured with a barrow on the Plain and his name in the county roll. His mother GWENLLIAN (Cynan's widow, lost her only son) rebuffed Abisec cold and his debt to her / Idris's memory is UNPAID. Surfaces as memory, legacy, or his grieving kin. [thread: Idris's death]"
+  },
+  {
+   "name": "Master Gwyn (the Boar's paymaster; dead)",
+   "weight": 1,
+   "status": "dead",
+   "dossier": "The Boar's court cutout/paymaster. DEAD — silenced (Day 5); found drowned at a wharf-stair hours before Roderick's men could take him; the Boar cut his own thread. The Gwyn→Idnerth climb was severed. Surfaces as a loose end / who else he paid."
+  },
+  {
+   "name": "Hired faces (feast-killers & badgeless men)",
+   "weight": 1,
+   "status": "background(threat)",
+   "dossier": "Banked faces from the Boar's net: two FEAST-KILLERS sent to knife Pedr (aborted under Abisec's public shout; one marked Abisec's face) and three BADGELESS MEN from the hunt probe (bought to kill him; tied to Pedr/Idnerth). Lingering hired threats whose faces Abisec knows."
+  }
  ]
 }
