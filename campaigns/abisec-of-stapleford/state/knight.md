@@ -9,7 +9,7 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,594** (~2,448 firmed at WP 481 + ~150 for the storm of Hindon / taking the Boar alive / the chivalry of the mercy − overlap; tally firms next WP). Next Bonus Point at 3,000 — within a year's reach. |
+| Current Glory | **~2,594** (~2,448 firmed at WP 481 + ~150 for the storm of Hindon / taking the Boar alive / the chivalry of the mercy − overlap; tally firms next WP; **+~25 provisional, spring 482** — the Boar's-cell oath kept under provocation, Honor success, witnessed by Custennin & crown men). Next Bonus Point at 3,000 — within a year's reach. |
 | Economic grade | **Superlative** (£13+/yr equiv.; castle + lord's maintenance) — 3 squires' worth, glory bonuses, +2 horse / +3 family rolls |
 | Holding | **Knight Banneret; holds the CAPUT OF HINDON** (shell-keep castle DV 9/13/2 + mill + wool-town + home manors, ~£55) — a **Crown grant** (spring 482), held for the King on a **sworn perpetual-fealty vow** (his till the line fails; the western road guarded for Uther's heirs; forfeit twice as fast if ever turned). To fortify from his own purse (~£50 plan: town moat/enclosure/gateworks + two towers). **Gwythyr of Mere denied** the valley. Vagon reverts to Roderick's disposal; Stapleford remains the family seat. |
 | Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. (Homage still to Roderick; Uther reaches through the Count.) |
@@ -99,6 +99,7 @@
 - **Honor** — swore an unbought oath to protect Senara of Hindon (spring 482).
 - **Courtesy** — won the King's floor for Hindon: the bolt-assessment + the clemency plea (spring 482).
 - **Honor** — the perpetual-fealty vow sworn before the King, passion invoked & successful (spring 482).
+- **Honor** — kept the unbought oath to Senara under the Boar's provocation: stayed Custennin's protest, refused to brand a dying man a liar to his daughter, reaffirmed the oath and bowed to him (Sarum, spring 482; Honor 16 check, rolled 1).
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.
