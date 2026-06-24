@@ -100,6 +100,7 @@
 - **Courtesy** — won the King's floor for Hindon: the bolt-assessment + the clemency plea (spring 482).
 - **Honor** — the perpetual-fealty vow sworn before the King, passion invoked & successful (spring 482).
 - **Honor** — kept the unbought oath to Senara under the Boar's provocation: stayed Custennin's protest, refused to brand a dying man a liar to his daughter, reaffirmed the oath and bowed to him (Sarum, spring 482; Honor 16 check, rolled 1).
+- **Just** — Hindon's first court (summer 482): heard the wronged shepherds before ruling, gave true justice on the crooked wool-factor (restitution + stocks + banishment, life spared at the commons' ask) — won the valley and answered Senara's challenge.
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.
