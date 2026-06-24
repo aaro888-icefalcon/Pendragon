@@ -44,10 +44,11 @@ An integrated scheme — keep and town one body, joined by a drawbridge, each ab
 | Keep ditch & rampart (~1,000 ft) | 3 | DV 3 |
 | Keep wet moat | 2 | +4 ditch |
 | Drawbridge (keep↔town over the moat) | 3 | controlled link; raised = no dry approach to either |
-| **Total** | **£37** | |
+| Deep cistern / vault | 4 | siege water & secure store |
+| **Total** | **£41** | |
 
-**Timeline:** defensive core (moats + gatehouse) by raiding season; full wall + drawbridge by autumn 482. When complete: town **DV 5+** behind wall & moat, gate +2, keep moated atop **9/13/2**.
-**Still affordable later:** two wooden towers (£30), deep cistern/vault (~£4).
+**Timeline:** defensive core (moats + gatehouse + cistern) by raiding season; full wall + drawbridge by autumn 482. When complete: town **DV 5+** behind wall & moat, gate +2, keep moated atop **9/13/2**.
+**Tower cadence:** wooden towers (£15 each) to be added **one per season** — no overreach, no debt.
 Stout vs. raiders or a rebel; useless vs. a king's host — **loyal initiative, not a power-base** (the pitch that won the King's floor).
 
 **Household (Abisec's own people, not strangers):** steward **Mabli** · seneschal **Bledig** (retained) · household leech **Sioned** (the hall's infirmary — Hindon's emerging *healing* character) · household knights **Alun**, cousin **Madog**, **Elad** (+ **Gerin & Bann** returning from the London escort) · squire **Achil** · sergeants/garrison. Constabulary herd scaled to the caput (oxen, dairy, the wool-flocks, swine, poultry).
@@ -85,7 +86,7 @@ Stout vs. raiders or a rebel; useless vs. a king's host — **loyal initiative, 
 
 ## Cash & reserves (Sir Abisec, spring 482)
 
-- **Liquid: ~£103** — Bedegraine-ransom remainder (after ~£30 Stapleford works + £37 Hindon bolt). Reserve for towers/cistern, a hospital, contingencies.
+- **Liquid: ~£99** — Bedegraine-ransom remainder (after ~£30 Stapleford works + £41 Hindon bolt incl. cistern). Reserve for the towers (one/season), a hospital, contingencies.
 - Coin on hand: ~£9 + denarii.
 - **Economic grade:** Superlative.
 

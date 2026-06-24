@@ -87,7 +87,7 @@
 ## Equipment & Wealth
 - **Armor:** Chainmail (10 pt) · **Shield** (6 pt) · **Weapons:** Sword, dagger, 2 spears, lance · Fine clothing (£1)
 - **Coin on hand:** ~£9 + 9 denarii
-- **Ransom (Bedegraine 481):** ~£170 owed by the captured knight's kin (paid over coming months). ~£26 spent (armory £10 + hall defenses ~£10 + moat £2 + gateworks £4); **~£103 held liquid** (Bedegraine ransom remainder, after the Stapleford works + the £37 Hindon "bolt"; see `state/estate.md`).
+- **Ransom (Bedegraine 481):** ~£170 owed by the captured knight's kin (paid over coming months). ~£26 spent (armory £10 + hall defenses ~£10 + moat £2 + gateworks £4); **~£99 held liquid** (Bedegraine ransom remainder, after the Stapleford works + the £37 Hindon "bolt"; see `state/estate.md`).
 - Father's field-surgery roll; a tiercel (hawk).
 
 ## Squire
