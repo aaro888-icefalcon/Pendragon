@@ -91,7 +91,7 @@
 - Father's field-surgery roll; a tiercel (hawk).
 
 ## Squire
-**Achil** — younger brother, age 16. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. **MISSING (fate unknown) since late winter / early spring 482** — set out to join Abisec at Vagon and never arrived; no body, ransom, or word. Possible Boar revenge (unconfirmed). The fallback heir + Abisec's closest tie. *Driving crisis of 482.*
+**Achil** — younger brother, age 16. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. **RESCUED from Hindon (spring 482)**; now squires for Abisec at Hindon, changed by captivity and by watching Idris die for him — set on the healer-who-fights path. The fallback heir + Abisec's closest tie. **Stapleford settled on him** (to hold of Abisec once belted; knighting ~484–486; held in trust meanwhile).
 
 ## Experience checks pending (next Winter Phase)
 <!-- Append as earned in play; cleared at Winter Phase. Winter Phase 481 processed: Sword/Lance/Intrigue gained; rest erased. -->
