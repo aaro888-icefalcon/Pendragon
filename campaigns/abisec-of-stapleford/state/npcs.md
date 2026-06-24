@@ -7,7 +7,7 @@
 | **King Uther Pendragon** | King of Logres; suspicious (Trusting 6, Intrigue 23), proud, shrewd, rules through fear & favorites | **FAVORABLE (Twelfth Night eve).** Took Abisec's measure privately and decided he wants him: "an honest instrument I can spend without watching my back"; prizes his discretion; honored the Roderick chain; charged him as the Twelfth Night witness against Idnerth |
 | **Merlin** | The enchanter; present at court | Unmet; a cowled unease by the dais |
 | **Sir Sadinal** | King's Herald & Dapifer (Heraldry 19, Courtesy 17) | Warm ally (481) — will see Abisec presented well; a who's-who source |
-| **Sir Ulfius** | Marshal of Logres, Duke of the Vale; royal favorite | Favorable notice — "Bedegraine… you'll do" |
+| **Sir Ulfius** | Marshal of Logres, Duke of the Vale; royal favorite | **STRONG ALLY for Hindon (482)** [Fate ExcYes] — a soldier before a courtier; saw Abisec storm Hindon and champions him at the King's board. Abisec's heaviest voice in the contest. Earlier: "Bedegraine… you'll do" |
 | **Brother Syrion** | Royal Treasurer at Llud's Hall (Honest 18) | The crown witness to the Boar evidence; owes Salisbury nothing |
 
 ## Abisec's circle (war-band, friends, family)
