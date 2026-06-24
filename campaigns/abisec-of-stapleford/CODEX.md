@@ -2,7 +2,7 @@
 
 > **System:** King Arthur Pendragon, 5th edition (solo play, Claude as GM)
 > **Setting:** Salisbury & the western marches, Kingdom of Logres, reign of King Uther
-> **Save point:** **Spring 482 AD** — Hindon fallen; the Boar arc closed; riding home with the dead and the rescued.
+> **Save point:** **Spring 482 AD — the HINDON ARC WON.** Abisec is now **Knight Banneret of Hindon**, tenant-in-chief holding the caput from the Crown on a sworn vow; homage to Uther sworn (Loyalty Uther 10 / Roderick 15); Gwythyr denied; Senara pardoned; CF 2. *(This banner supersedes older sections below — the live `state/` files + `session-log.md` carry the authoritative, detailed record of the Hindon hearing, the homage, and the engine/workflow upgrades since this CODEX was first compiled. Trust `state/`.)*
 > **Status:** ACTIVE · No PC deaths (one mortal wound, survived) · Dynasty unbroken
 >
 > Consolidated master snapshot, compiled from the live `state/` files. **Where this and a `state/` file disagree, the `state/` files win.** Read this for the overview; trust `state/` for the detail.
