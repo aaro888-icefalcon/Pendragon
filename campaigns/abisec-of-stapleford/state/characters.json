@@ -331,6 +331,12 @@
    "weight": 1,
    "status": "compromised (syndicate's noble cover)",
    "dossier": "March baron, paid a courtesy guest-call by Abisec (summer 482). [npcs: 'royal scion judged unfit for any responsibility' (echo of Cadell) + 'conceals a socially-ruinous secret'; Fate: NOT a clean/well-disposed ally.] A dissolute, charming, debt-drowned wastrel of good blood. ABISEC READ HIM [Awareness 13: success]: foreign plate & foreign coin in a wastrel's hall that should be sliding to ruin; too-quick to wave off 'the newcomers' eating his neighbours. Privately certain: TEWDWR IS THE SYNDICATE'S MAN — a baron they cooped rather than devoured (a complicit noble face lends them legitimacy) to cover his debts/vices; his ruinous secret is that he sold his class to the foreign purse. = a WINDOW into the syndicate (knows its people/workings) AND a LEVER (his secret = a knife at his throat). BUT Abisec is his GUEST (Hospitality 15/Honor — can't seize or shame a host under his own roof); banked it, gave nothing away. DANGER: Tewdwr may report Abisec's visit to his masters. To be worked once Abisec is no longer his guest."
+  },
+  {
+   "name": "Baron Meurig (un-bought march baron; coalition ally)",
+   "weight": 2,
+   "status": "ally (coalition spine)",
+   "dossier": "The un-bought spine of the western march — a hard, plain, honest old baron who's lost no ground and burned all spring with nowhere to swing. MET summer 482: Abisec won him by humble courtesy [Courtesy 18: success] then handed him the word that turned rage to purpose — FORGERY (a rope, a lawful throat to cut). He's IN: will lend his weight AND bring WITNESSES — every wronged/dispossessed house he can reach, to swear the forged debts on relics. Knows the march's debts cold. Dismisses Tewdwr of Wereside as a useless sot (does NOT suspect his complicity — Abisec's card stays hidden). Respects Abisec as 'Roderick's honest boy' who didn't grab the whole barony. The coalition leader, won."
   }
  ]
 }
