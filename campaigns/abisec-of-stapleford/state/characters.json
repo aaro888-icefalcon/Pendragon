@@ -305,14 +305,14 @@
   {
    "name": "Lady Eilwen (marriage prospect; march alliance)",
    "weight": 1,
-   "status": "prospect",
-   "dossier": "Daughter of Sir Cadwal, west of Hindon toward the Summerland march; ~17, sensible, a clean dowry and NO feud attached — and her father a steady neighbour on the very flank Gwythyr probes. Surfaced by Eluned (summer 482) as a safe, useful, locally-strategic match — if a green and untested one. Unmet."
+   "status": "prospect->contracted (in crisis)",
+   "dossier": "Daughter of Sir Cadwal, west of Hindon toward the Summerland march; ~17, sensible, a clean dowry and NO feud attached — and her father a steady neighbour on the very flank Gwythyr probes. Surfaced by Eluned (summer 482) as a safe, useful, locally-strategic match — if a green and untested one. Unmet. — CRISIS (summer 482): her HAND HAS BEEN CONTRACTED ('Sold!') to the agent of an innovative outside syndicate that bought up her father's debts — taken off Abisec's marriage-board and into a damsel's bind, the stake in a march-wide conflict. By her will, her father's coercion, or pure transaction is unknown."
   },
   {
    "name": "Sir Cadwal (march neighbour; Eilwen's father)",
    "weight": 1,
-   "status": "neutral/prospect-kin",
-   "dossier": "Steady knight holding west of Hindon toward the Summerland march; father of Lady Eilwen. A potential friendly neighbour/ally on Abisec's exposed western flank (the side Gwythyr's men have probed) — value a marriage-alliance would secure. Unmet."
+   "status": "neutral (compromised; in crisis)",
+   "dossier": "Steady knight holding west of Hindon toward the Summerland march; father of Lady Eilwen. A potential friendly neighbour/ally on Abisec's exposed western flank (the side Gwythyr's men have probed) — value a marriage-alliance would secure. Unmet. — CRISIS (summer 482): debts bought up by an outside money-power; pressured into contracting Eilwen's hand to them; his house split, the march in uproar. A would-be ally now caught/compromised — and a window onto who the buyers are."
   }
  ]
 }
