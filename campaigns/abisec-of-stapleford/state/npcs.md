@@ -3,7 +3,7 @@
 ## Liege, court & crown
 | NPC | Who | Standing to Abisec |
 |---|---|---|
-| **Count Roderick** | Count of Salisbury; liege (Battle 17, Glory 4,044; just, prudent) | Deep trust — his "unconnected instrument"; promised an accounting/reward |
+| **Count Roderick** | Count of Salisbury; liege (Battle 17, Glory 4,044; just, prudent) | Deep trust — his "unconnected instrument"; promised an accounting/reward | **Spring 482: made good — Abisec rose to Knight Banneret holding Hindon from the Crown, so Roderick RELEASED him to swear the King (he can't hold a man sole who holds a King's caput). The bond reframed: Roderick = reserved liege (Stapleford) + lifelong mentor; the King now legally trumps if they ever collide. A failed Loyalty (Roderick) roll showed the rise pull at Abisec — but his HONEST reckoning of it ("the law sends me to him; you made me, that's unchanged") won Roderick's respect over any hollow vow. Vagon reverts to Roderick.** |
 | **King Uther Pendragon** | King of Logres; suspicious (Trusting 6, Intrigue 23), proud, shrewd, rules through fear & favorites | **FAVORABLE (Twelfth Night eve).** Took Abisec's measure privately and decided he wants him: "an honest instrument I can spend without watching my back"; prizes his discretion; honored the Roderick chain; charged him as the Twelfth Night witness against Idnerth |
 | **Merlin** | The enchanter; present at court | Unmet; a cowled unease by the dais |
 | **Sir Sadinal** | King's Herald & Dapifer (Heraldry 19, Courtesy 17) | Warm ally (481) — will see Abisec presented well; a who's-who source |

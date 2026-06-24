@@ -48,6 +48,7 @@
 | Hospitality | 15 | |
 | **Honor** | **16** | Notable — +1 for distinguishing himself at Bedegraine 481 |
 | Hate (Saxons) | 14 | Rolled 3d6=14 at creation |
+| Loyalty (King Uther / Pendragon) | **10** | **NEW (spring 482)** — sworn on direct Crown homage for Hindon (now a tenant-in-chief). Note it sits *below* Loyalty (Roderick) 15: the King is **legally** first (homage trumps fealty if they collide), but Roderick is still first in the heart. A live future tension. |
 
 ## Skills
 | Skill | Val | Skill | Val | Skill | Val |
