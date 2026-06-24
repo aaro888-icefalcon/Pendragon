@@ -53,8 +53,8 @@
   {
    "name": "Lady Adwen of Wilton (marriage prospect)",
    "weight": 1,
-   "status": "prospect",
-   "dossier": "Young twice-widowed lady; holds a Wilton dower manor (~£12/yr) in her own hand. Marriage prospect — land & a capable partner, but a feud with her dead husbands' kin attached. 'Come back when you've done your sums.'"
+   "status": "prospect(receptive; feud attached)",
+   "dossier": "Young twice-widowed lady; holds a Wilton dower manor (~£12/yr) in her own hand. Marriage prospect — land & a capable partner, but a feud with her dead husbands' kin attached. 'Come back when you've done your sums.' — CALLED ON (summer 482) [Courtesy 18: success]: now a viable, even eager match — Abisec's a banneret with a castle, the man she gambled he'd become. A genuine partner (run a knight's hall twice; would carry Hindon's domestic weight well), steadier than spark. THE COST, named by her own mouth: the **Goronwy kin** (her late 2nd husband's people) contest her dower and have lawyers + spite to feud over it — marry her, marry that quarrel (a 2nd feud, opposite the Gwythyr flank). Receptive; the choice is Abisec's."
   },
   {
    "name": "Sir Caradoc of Tilshead (old-guard, thawing)",
@@ -65,14 +65,14 @@
   {
    "name": "Lady Nest of Tisbury (marriage prospect; door ajar)",
    "weight": 1,
-   "status": "prospect(ajar)",
-   "dossier": "Sir Bruan's daughter; sharp, bookish, hawks — a genuine spark with Abisec (shared falconry & reading). Cooled when he gave her an honest evasion over the royal secret [Fate No]; a sharp woman wary of binding her house to a man trailing dead men and secrets. Saw him near death after the trial ('I asked whether your danger had an end — still waiting to know'), rode home, then WROTE asking how he mends. Door ajar, undecided — her test: is his danger 'this season's weather' or 'his whole sky'? The Boar's downfall argues temporary."
+   "status": "prospect(open; genuine liking)",
+   "dossier": "Sir Bruan's daughter; sharp, bookish, hawks — a genuine spark with Abisec (shared falconry & reading). Cooled when he gave her an honest evasion over the royal secret [Fate No]; a sharp woman wary of binding her house to a man trailing dead men and secrets. Saw him near death after the trial ('I asked whether your danger had an end — still waiting to know'), rode home, then WROTE asking how he mends. Door ajar, undecided — her test: is his danger 'this season's weather' or 'his whole sky'? The Boar's downfall argues temporary. — Eluned's read (summer 482): with the Boar dead and Abisec risen (a banneret who did NOT leave her widowed by spring), Nest's test is answered — her door is now OPEN, and there's genuine liking in it. Eluned's pick for the heart."
   },
   {
    "name": "Lady Generys of Tilshead (marriage prospect; cool)",
    "weight": 1,
    "status": "prospect(cool)",
-   "dossier": "Sir Caradoc's daughter; gentle, dutiful, pious (Christian). Marriage prospect — a politics/old-guard alliance that would heal the old-guard friction. Door COOL while her father is unwon; faith-tension with Abisec's quiet paganism. May warm now that Caradoc is thawing."
+   "dossier": "Sir Caradoc's daughter; gentle, dutiful, pious (Christian). Marriage prospect — a politics/old-guard alliance that would heal the old-guard friction. Door COOL while her father is unwon; faith-tension with Abisec's quiet paganism. May warm now that Caradoc is thawing. — Eluned's read (summer 482): Caradoc's price (last, and HOLD a thing) is now met — Abisec holds Hindon. An offer for Generys could heal the whole old-guard feud (politic), though she's devout and Abisec keeps the old faith quiet (a cool but useful hearth)."
   },
   {
    "name": "Bascar & Eluned of Stapleford (parents)",
@@ -301,6 +301,18 @@
    "weight": 1,
    "status": "family/elder",
    "dossier": "The family matriarch (Abisec's grandmother's generation); formidable, sharp-tongued, keeper of the oldest lore, the oldest healing, and the oldest grudges. Near kin and a wellspring of family memory/old-ways counsel."
+  },
+  {
+   "name": "Lady Eilwen (marriage prospect; march alliance)",
+   "weight": 1,
+   "status": "prospect",
+   "dossier": "Daughter of Sir Cadwal, west of Hindon toward the Summerland march; ~17, sensible, a clean dowry and NO feud attached — and her father a steady neighbour on the very flank Gwythyr probes. Surfaced by Eluned (summer 482) as a safe, useful, locally-strategic match — if a green and untested one. Unmet."
+  },
+  {
+   "name": "Sir Cadwal (march neighbour; Eilwen's father)",
+   "weight": 1,
+   "status": "neutral/prospect-kin",
+   "dossier": "Steady knight holding west of Hindon toward the Summerland march; father of Lady Eilwen. A potential friendly neighbour/ally on Abisec's exposed western flank (the side Gwythyr's men have probed) — value a marriage-alliance would secure. Unmet."
   }
  ]
 }
