@@ -62,6 +62,19 @@ within it, resolve each uncertain moment by walking this ladder — Pendragon
 4. A **Mythic oracle** for what Pendragon leaves open — a yes/no Fate Question, an off-script Scene Test, the timing/lever of a complication, a genuinely open NPC choice. Read it through `bridge/interpretation.md`.
 5. A **GM ruling** — state it, log it in `state/session-log.md`, keep it forever.
 
+### Resolution discipline (binding — a passive ladder loses to an active habit)
+
+At **every uncertain PC moment the first move is a Pendragon check** — skill, **trait**, **passion**, or combat on `gm/roll.py` (rung 1). Only when none applies do you drop to a Mythic **Fate Question** (rung 4). *Prefer the actual Pendragon check whenever one exists* (`bridge/system-profile.md`). Persuading or moving an NPC is the PC's **skill** (Courtesy / Orate / Intrigue), opposed by the NPC's resolve — **not** a flat Fate Question.
+
+**Test a trait/passion the moment the fiction triggers one** — it binds the knight, and famous (≥16) traits/passions *compel* action:
+- sworn / kept / broken oath, largesse, pride vs. humility → **Honor · Modest/Proud · Generous**
+- mercy or cruelty to a foe, vengeance offered or refused → **Merciful/Cruel · Forgiving/Vengeful**
+- danger, a charge, the urge to flee → **Valorous/Cowardly**
+- a lord's command, a kinsman in need → **Loyalty · Love (family)**
+- temptation to lie / scheme / act on whim → **Honest/Deceitful · Just/Arbitrary · Prudent/Reckless**
+
+The player may **invoke a passion before a roll for inspiration** (+10 success / +20 crit / −5 disheartened / madness on a fumble; `rules/core/03-traits-and-passions.md`).
+
 ## The bridge (the companion contract)
 
 `.claude/skills/king-arthur-pendragon/bridge/` — declared in `bridge/bridge.md`:
@@ -136,13 +149,19 @@ parallel ones:
 
 - Engine **`campaign-state.md`** (Frame · Chaos · Lists snapshot · scene recap · drift counter) → **`state/mythic.md`**.
 - Engine **`character-sheet.md`** (the PC the loop tracks) → **`state/knight.md`**.
-- Engine **Threads / Characters Lists** → machine source **`state/threads.json`** / **`state/characters.json`** (the dice roll these via the two-stage roll, any length; manage with `state.py thread|char …`). The Markdown **`state/threads.md`** / **`state/npcs.md`** and the snapshot tables in `mythic.md` are the human-readable mirror — keep roughly in sync.
+- Engine **Threads / Characters Lists** → **single source `state/threads.json`** / **`state/characters.json`** (the dice roll these; mutate ONLY via `state.py thread|char add|weight|remove`). The human view is **generated** (`state.py thread|char show <C>`) — keep **no** hand-copy of the List anywhere (that duplicate is the drift class we closed). `state/threads.md` / `state/npcs.md` hold per-thread / per-NPC **prose dossiers** (status & history), not the List itself.
 - Engine **Theme priority + Tens-cycle counter** → **`state/adventure.json`** (read/written by `adventure_crafter.py turning-point --campaign <C>`).
 - Engine **seed deck** → **`state/seeds.md`** (refreshed each bookkeeping from `bridge/seeds.md` sources).
 - Engine **archive** (dead PCs, resolved threads) → **`state/dynasty.md`** + the home files.
 
 The **game year is the master metronome** (`bridge/subsystems.md`); Chaos is
 scene-turbulence only and never overrides the GPC schedule.
+
+**Per-scene bookkeeping (run every scene — don't skip):**
+1. **Trait/passion fire?** Did the scene trigger one (see *Resolution discipline*)? Roll it — it may go against the PC.
+2. **World-tick:** `tick.py <B> <scene#>` → award **Glory** for the scene's deeds, nudge **thread pressure**, fire any scheduled **GPC event**, run a **faction turn** (~every 3 scenes), **Winter Phase** at year-end.
+3. **State, one source:** mutate Lists in **JSON** via `state.py`; write narrative to the `.md` dossiers; never hand-maintain a duplicate List.
+4. **Chaos:** set the next scene's CF = this scene's ±1 by **outcome-mastery** (not the PC's composure).
 
 ## The standing laws (binding every step)
 

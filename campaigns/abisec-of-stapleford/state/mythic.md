@@ -21,27 +21,11 @@
      4 → 5: Idris's barrow — Gwenllian rebuffed Abisec (scene not mastered).
      5 → 4: the Sarum eve — Ulfius's strategic backing won, Gwythyr met & handled, the modest "bolt" pitch shaped (mastered). -->
 
-## Threads List — snapshot of `state/threads.json` (the dice roll the JSON; detail in `state/threads.md`)
-| # | Open thread (short) | Weight |
-|---|---|---|
-| 11 | Hindon's disposal — a **contested** prize (rival Gwythyr of Mere; King decides) | 3 |
-| 12 | Lady Senara of Hindon (heiress/ward — marriage-pawn or future enemy) | 2 |
-| 9 | Marriage / the dynasty (Adwen at Wilton; Senara via Hindon) | 2 |
-| 14 | Idris's death (barrow, his mother, a debt of memory) | 1 |
-| 13 | The second doubted lord (never named, still hidden) | 1 |
-| 4 | Old-guard friction (Caradoc, thawing) | 1 |
-
-## Characters List — snapshot of `state/characters.json` (the dice roll the JSON; detail in `state/npcs.md`)
-| NPC | Weight |
-|---|---|
-| King Uther (favorable; the grantor of Hindon) | 3 |
-| Baron Gwythyr of Mere (Abisec's rival for Hindon) | 2 |
-| Count Roderick (liege; possible backer) | 2 |
-| Lady Senara of Hindon (heiress/ward) | 2 |
-| Sir Ulfius, Marshal of Logres (strong ally for Hindon) | 2 |
-| Lady Adwen of Wilton (marriage prospect) | 1 |
-| Sir Caradoc of Tilshead (unwon, thawing) | 1 |
-| Father Custennin (Senara's chaplain — Abisec's committed ally inside the old household) | 1 |
+## Lists — SINGLE SOURCE: `state/threads.json` · `state/characters.json`
+The dice roll the JSON (two-stage roll, any length). **This file keeps NO hand-copy of the Lists — that duplicate was the drift we removed (sync-C).**
+- **View the live, generated list:** `state.py thread show <C>` · `state.py char show <C>`
+- **Mutate (the only way):** `state.py thread|char add|weight|remove <C> "<name>"`
+- Per-thread / per-NPC narrative detail (status, history) lives in `state/threads.md` / `state/npcs.md` — prose dossiers, not the List.
 
 ## Notes
 - Nothing here overrides `state/campaign.md`, `state/threads.md`, or `state/npcs.md`. On conflict, those win.
