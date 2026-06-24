@@ -89,8 +89,8 @@
   {
    "name": "Sir Bledig (Hindon seneschal)",
    "weight": 1,
-   "status": "neutral(limbo)",
-   "dossier": "Idnerth's seneschal — ran Hindon's manors and books. Surrendered with the castle; fealty in limbo; will serve whoever the King names IF his hands prove clean. The man who knows where every Hindon parcel and penny sits."
+   "status": "household/seneschal",
+   "dossier": "Idnerth's seneschal — ran Hindon's manors and books. Surrendered with the castle; fealty in limbo; will serve whoever the King names IF his hands prove clean. The man who knows where every Hindon parcel and penny sits. — Spring 482: SWORE TRUE FEALTY to Abisec and retained as seneschal under steward Mabli [his books audited honest, Stewardship 15]. A man who kept clean books for a traitor, glad to keep them for a clean lord. Runs the land; Mabli runs the rolls."
   },
   {
    "name": "Sir Cadeyrn (the grey-rider; prisoner)",

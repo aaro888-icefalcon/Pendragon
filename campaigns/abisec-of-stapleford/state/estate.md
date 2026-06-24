@@ -32,16 +32,22 @@ Compiled spring 482 by **Mabli**, steward of Hindon [Stewardship 15 → success]
 
 **Furnishings:** a **Magnificent hall** — a one-time display value (~£160), **NOT income**; the treason-silver's visible legacy. It sets a hospitality standard the £55 income strains to keep — **margins run lean** (discretionary ~£5.5/yr).
 
-**PLANNED works — the "bolt" (~£50–60, from ransom-liquid):**
+**The "bolt" — UNDERWAY (commissioned spring 482; master mason of the wool-town guild; £37 spent):**
+An integrated scheme — keep and town one body, joined by a drawbridge, each able to seal the other out; the **mill-stream dammed** to fill the ditches.
 
 | Work | £ | Effect |
 |---|---|---|
-| Town enclosure (wall/palisade round the wool-town) | 14 | town DV 5 |
-| Ditch & rampart + **wet moat** (a dammed town-moat) | ~11 | DV 3 (+4 moat) |
-| Complex gateworks | 4 | +2 gate DV |
-| Two wooden towers | 30 | DV 2 each |
-| Deep cistern / vault | ~4 | siege water / secure store |
+| Town enclosure (stone wall round the wool-town) | 14 | town DV 5 |
+| Complex gateworks (fortified gatehouse) | 4 | +2 gate DV |
+| Town ditch & rampart (~3,000 ft) | 9 | DV 3 |
+| Town wet moat (dammed mill-stream) | 2 | +4 ditch |
+| Keep ditch & rampart (~1,000 ft) | 3 | DV 3 |
+| Keep wet moat | 2 | +4 ditch |
+| Drawbridge (keep↔town over the moat) | 3 | controlled link; raised = no dry approach to either |
+| **Total** | **£37** | |
 
+**Timeline:** defensive core (moats + gatehouse) by raiding season; full wall + drawbridge by autumn 482. When complete: town **DV 5+** behind wall & moat, gate +2, keep moated atop **9/13/2**.
+**Still affordable later:** two wooden towers (£30), deep cistern/vault (~£4).
 Stout vs. raiders or a rebel; useless vs. a king's host — **loyal initiative, not a power-base** (the pitch that won the King's floor).
 
 **Household (Abisec's own people, not strangers):** steward **Mabli** · seneschal **Bledig** (retained) · household leech **Sioned** (the hall's infirmary — Hindon's emerging *healing* character) · household knights **Alun**, cousin **Madog**, **Elad** (+ **Gerin & Bann** returning from the London escort) · squire **Achil** · sergeants/garrison. Constabulary herd scaled to the caput (oxen, dairy, the wool-flocks, swine, poultry).
@@ -79,7 +85,7 @@ Stout vs. raiders or a rebel; useless vs. a king's host — **loyal initiative, 
 
 ## Cash & reserves (Sir Abisec, spring 482)
 
-- **Liquid: ~£140** — Bedegraine-ransom remainder (after ~£30 of Stapleford works), earmarked for the ~£50 Hindon "bolt," reserve behind it.
+- **Liquid: ~£103** — Bedegraine-ransom remainder (after ~£30 Stapleford works + £37 Hindon bolt). Reserve for towers/cistern, a hospital, contingencies.
 - Coin on hand: ~£9 + denarii.
 - **Economic grade:** Superlative.
 
