@@ -5,7 +5,7 @@
 **Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
 **Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the two-stage roll). The tables below + `state/threads.md` / `state/npcs.md` are the human snapshot — keep roughly in sync; mutate the JSON with `python3 .claude/skills/mythic-gm/scripts/state.py thread|char add|weight|remove <campaign>/state "<name>"`.
 
-## Chaos Factor: 3
+## Chaos Factor: 2
 
 **Set it at each scene's START** = previous ±1 by whether the knight **mastered the outcome** (not his composure): −1 he controlled it · +1 it got away from him · ±2 only for a decisive triumph/catastrophe · hold on a wash. Clamp 1–9; baseline 5; floors Anarchy ≥5 / battle ≥4 / faerie ≥4. The game YEAR is the master metronome — CF is scene-tempo only, never overrides the GPC schedule.
 
@@ -22,7 +22,8 @@
      5 → 4: the Sarum eve — Ulfius's strategic backing won, Gwythyr met & handled, the modest "bolt" pitch shaped (mastered).
      4 → 3: the Hindon hearing WON — Courtesy✓ + the Honor-vow (invoked, success) + Ulfius's strategic case → the King grants the caput + banneret, denies Gwythyr, pardons Senara. A triumph (mastered).
      3 → 2: the homage & consolidation — Abisec swore Uther (new Loyalty (Uther) 10) and settled his footing with Roderick honestly (failed Loyalty 15, redeemed by honesty); the rise consolidated.
-     2 → 3: scene 1 (tracked session counter begun) — Sarum, the solar + the Boar's cell. Abisec turned Senara from pure hostility to genuine engagement by offering her real CHOICE (Honest 18 vs Suspicious 14, won partial), then took her to Idnerth for the truth. The Boar **ExcNo'd (98)** — recanted the Gwythyr naming, cast Abisec as the wolf, counselled the Morgan path (wed-and-ruin). A reversal not in Abisec's control (+1); his **Honor (rolled 1)** — oath kept, grace to a dying man, no liar-branding — salvaged footing and planted a hairline crack in Senara's father-given certainty. -->
+     2 → 3: scene 1 (tracked session counter begun) — Sarum, the solar + the Boar's cell. Abisec turned Senara from pure hostility to genuine engagement by offering her real CHOICE (Honest 18 vs Suspicious 14, won partial), then took her to Idnerth for the truth. The Boar **ExcNo'd (98)** — recanted the Gwythyr naming, cast Abisec as the wolf, counselled the Morgan path (wed-and-ruin). A reversal not in Abisec's control (+1); his **Honor (rolled 1)** — oath kept, grace to a dying man, no liar-branding — salvaged footing and planted a hairline crack in Senara's father-given certainty.
+     3 → 2: scenes 2–4 — court errands & the gathering-in (Sarum→Stapleford). Thanked Ulfius (ailing patron); the King freed him from London & charged him to hold Hindon, reserving Senara's hand to the Crown (warned Abisec off the marriage); Roderick's leave to grant Stapleford to Achil (held of Abisec; finish squiring). Cadry declined the march [ExcNo 93] but Abisec mustered his own circle instead (Alun, cousin Madog, steward Mabli, leech Sioned + a healer-network & kin-branch — 10 NPCs added). Senara sent to London (Gerin+Bann+4) for her father's end. Downtime mastered → −1. -->
 
 ## Lists — SINGLE SOURCE: `state/threads.json` · `state/characters.json`
 The dice roll the JSON (**proportional** two-stage roll, any length, no 25 cap). **No hand-copy of the Lists anywhere; no `npcs.md`/`threads.md` — the prose lives IN the JSON.**

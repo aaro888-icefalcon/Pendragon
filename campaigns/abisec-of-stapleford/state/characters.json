@@ -6,13 +6,13 @@
    "name": "King Uther (favorable; grantor of Hindon)",
    "weight": 3,
    "status": "crown/king",
-   "dossier": "King of Logres; suspicious (Trusting 6, Intrigue 23), proud, shrewd, rules through fear & favourites. FAVOURABLE since Twelfth Night eve 481 — took Abisec's measure privately and wants him: 'an honest instrument I can spend without watching my back'; prizes his discretion; honoured the Roderick chain; charged him as the Twelfth Night witness vs Idnerth. Spring 482: created Abisec Knight Banneret and granted him Hindon's caput to hold for the Crown on a sworn perpetual-fealty vow; took his homage directly. Plays claimants off each other; will likely BREAK UP Hindon's outliers rather than let the barony reunite, and may feed a parcel to Gwythyr to quiet him."
+   "dossier": "King of Logres; suspicious (Trusting 6, Intrigue 23), proud, shrewd, rules through fear & favourites. FAVOURABLE since Twelfth Night eve 481 — took Abisec's measure privately and wants him: 'an honest instrument I can spend without watching my back'; prizes his discretion; honoured the Roderick chain; charged him as the Twelfth Night witness vs Idnerth. Spring 482: created Abisec Knight Banneret and granted him Hindon's caput to hold for the Crown on a sworn perpetual-fealty vow; took his homage directly. Plays claimants off each other; will likely BREAK UP Hindon's outliers rather than let the barony reunite, and may feed a parcel to Gwythyr to quiet him. — RULING (Sarum, spring 482): freed Abisec from attending Idnerth's London trial [Fate No] — his charge is to GO HOLD HINDON ('be the wall'). On the ward: Senara stays Abisec's charge (safety/keeping) but **her hand is the Crown's** — Uther warned Abisec to his face OFF marrying her ('I scrubbed the taint off her to spend her, not so the gate-holder could pocket the blood that doubles his claim'). She may ride to London for her father's end, under guard."
   },
   {
    "name": "Count Roderick (liege; possible backer)",
    "weight": 2,
    "status": "liege/Salisbury",
-   "dossier": "Count of Salisbury; Abisec's homeland liege (Battle 17, Glory 4,044; just, prudent). Deep trust — his 'unconnected instrument.' Spring 482: when Abisec rose to Knight Banneret holding a King's caput, Roderick RELEASED him to swear the King (can't hold sole a man who holds a Crown caput). Bond reframed — reserved liege (Stapleford) + lifelong mentor; the King now legally trumps if they ever collide, but Roderick is first in the heart (Loyalty Roderick 15 > Loyalty Uther 10). A failed Loyalty (Roderick) roll showed the rise pull at Abisec; his honest reckoning of it won Roderick's respect over any hollow vow. Vagon reverts to Roderick."
+   "dossier": "Count of Salisbury; Abisec's homeland liege (Battle 17, Glory 4,044; just, prudent). Deep trust — his 'unconnected instrument.' Spring 482: when Abisec rose to Knight Banneret holding a King's caput, Roderick RELEASED him to swear the King (can't hold sole a man who holds a Crown caput). Bond reframed — reserved liege (Stapleford) + lifelong mentor; the King now legally trumps if they ever collide, but Roderick is first in the heart (Loyalty Roderick 15 > Loyalty Uther 10). A failed Loyalty (Roderick) roll showed the rise pull at Abisec; his honest reckoning of it won Roderick's respect over any hollow vow. Vagon reverts to Roderick. — Spring 482: gave leave for Abisec to settle Stapleford on Achil; counselled Achil hold it of Roderick directly, but yielded when Abisec insisted on granting it of himself ('your homages, your headache'). Keeps Gwion to garrison Vagon; gave Abisec the promised steward-offer (declined for Mabli) and his blessing to recruit."
   },
   {
    "name": "Sir Ulfius, Marshal of Logres (strong ally)",
@@ -191,8 +191,8 @@
   {
    "name": "Sir Cadry (household knight; friend)",
    "weight": 1,
-   "status": "war-band",
-   "dossier": "Young Salisbury knight. Loyal friend; rides at Abisec's right; at court."
+   "status": "friend(stayed Salisbury)",
+   "dossier": "Young Salisbury knight. Loyal friend; rides at Abisec's right; at court. — Spring 482: DECLINED to follow Abisec to Hindon [Fate ExcNo, 93]. A Wylye man — a girl half-promised, a widowed mother, roots in Salisbury — and honest that he's 'not built to follow' onto a raw march beside a vengeful baron. No rift, but the first real cost of the rise among old friends; the friendship cools to distance."
   },
   {
    "name": "Sir Gerin & Sir Bann (household knights)",
@@ -204,7 +204,7 @@
    "name": "Sir Jasson (neighbour knight; friend)",
    "weight": 1,
    "status": "war-band",
-   "dossier": "Senior household knight, neighbour; wry. Friend; warned Abisec to keep the old faith quiet."
+   "dossier": "Senior household knight, neighbour; wry. Friend; warned Abisec to keep the old faith quiet. — = the wry, blunt SENIOR of Abisec's healing-cohort youth (the one who took the belt instead of the bag). Stays his own man on his own land, a steadfast friend at Abisec's back."
   },
   {
    "name": "Father Cynfael (Salisbury's chaplain)",
@@ -241,6 +241,66 @@
    "weight": 1,
    "status": "background(threat)",
    "dossier": "Banked faces from the Boar's net: two FEAST-KILLERS sent to knife Pedr (aborted under Abisec's public shout; one marked Abisec's face) and three BADGELESS MEN from the hunt probe (bought to kill him; tied to Pedr/Idnerth). Lingering hired threats whose faces Abisec knows."
+  },
+  {
+   "name": "Sir Alun (childhood friend; household knight)",
+   "weight": 2,
+   "status": "household knight",
+   "dossier": "Childhood friend of the Wylye years; laconic, fearless, landless — reads the lie of a field before other men see it, says three words and rides at anything. Joined Abisec's household to garrison Hindon's caput (spring 482) — a march castle suits him. One of the six."
+  },
+  {
+   "name": "Mabli (steward of Hindon)",
+   "weight": 2,
+   "status": "household/steward",
+   "dossier": "Childhood friend; a wool-merchant's daughter, all ledgers and lists — organized to the bone, never still, brilliant with accounts. Recruited spring 482 as STEWARD/reeve of Hindon (Abisec chose her over a stranger of Roderick's). Runs the caput's books, rents, and stores; delighted by the scale of the task."
+  },
+  {
+   "name": "Sioned (household leech)",
+   "weight": 1,
+   "status": "household/healer",
+   "dossier": "Trained in the leech-craft a step behind Abisec and better at it; kind, blunt, ruthlessly efficient. Joined spring 482 as the healer of Hindon's hall — the seed of the castle's healing reputation."
+  },
+  {
+   "name": "Sir Madog ap Gwriad (cousin; household knight)",
+   "weight": 1,
+   "status": "family/household knight",
+   "dossier": "Abisec's cousin — Sir Gwriad's landless younger son, nothing to inherit and everything to prove. Joined the Hindon garrison spring 482 (kin + a berth in one). Eager, untested, loyal. One of the six."
+  },
+  {
+   "name": "Dwynwen (midwife; wise-woman)",
+   "weight": 1,
+   "status": "ally/healer",
+   "dossier": "Childhood friend; kind, quiet, quietly heretical — the midwife and wise-woman the Wylye's women trust over any priest, and a keeper of the old ways the Stapleford house keeps. Won't leave her mothers, but Abisec's at a word. Regional ally."
+  },
+  {
+   "name": "Hywel (eye-leech; town friend)",
+   "weight": 1,
+   "status": "ally/healer",
+   "dossier": "Of Abisec's healing cohort; gregarious eye-leech in a Logres town (couches cataracts, knows everyone). Stays at his practice but a warm standing friend — news, patients, and goodwill flow through him."
+  },
+  {
+   "name": "Sawyl the Greek-taught (physician; distant)",
+   "weight": 1,
+   "status": "ally/healer(distant)",
+   "dossier": "Of Abisec's healing cohort; analytical, learned in Eastern/Greek medicine far past anything in Logres. Far off at a port (or abroad) — a rare correspondent and a link to the East that Abisec's Sarmatian blood already leans toward. Distant ally; a resource for hard cases and rare lore."
+  },
+  {
+   "name": "Sir Gwriad (uncle)",
+   "weight": 1,
+   "status": "family",
+   "dossier": "Abisec's maternal uncle (Eluned's brother); a knight on a manor half a day from Stapleford. Gruff, practical. Father of cousin Madog. Near kin and a Salisbury anchor."
+  },
+  {
+   "name": "Lady Angharad (aunt)",
+   "weight": 1,
+   "status": "family",
+   "dossier": "Sir Gwriad's wife, Abisec's aunt; warm and harried, runs their manor. Near kin."
+  },
+  {
+   "name": "Old Tangwystl (matriarch)",
+   "weight": 1,
+   "status": "family/elder",
+   "dossier": "The family matriarch (Abisec's grandmother's generation); formidable, sharp-tongued, keeper of the oldest lore, the oldest healing, and the oldest grudges. Near kin and a wellspring of family memory/old-ways counsel."
   }
  ]
 }
