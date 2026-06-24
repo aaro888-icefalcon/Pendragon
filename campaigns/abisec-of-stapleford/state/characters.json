@@ -325,6 +325,12 @@
    "weight": 1,
    "status": "adversary/lead",
    "dossier": "The syndicate's installed husband-to-be for Lady Eilwen [npcs roll: 'ambitious young merchant on their way up'; first-noticed: 'clothing very unusual for this place' — foreign]. Not a lord — a hungry young foreigner climbing into land and a noble bed on a forged debt and a frightened knight's daughter. A creature/junior of the bigger syndicate, ambitious to rise; a clue to its outland origin. Due to wed Eilwen & take Cadwal's manor by harvest unless the debt is broken. Unmet."
+  },
+  {
+   "name": "Baron Tewdwr of Wereside",
+   "weight": 1,
+   "status": "compromised (syndicate's noble cover)",
+   "dossier": "March baron, paid a courtesy guest-call by Abisec (summer 482). [npcs: 'royal scion judged unfit for any responsibility' (echo of Cadell) + 'conceals a socially-ruinous secret'; Fate: NOT a clean/well-disposed ally.] A dissolute, charming, debt-drowned wastrel of good blood. ABISEC READ HIM [Awareness 13: success]: foreign plate & foreign coin in a wastrel's hall that should be sliding to ruin; too-quick to wave off 'the newcomers' eating his neighbours. Privately certain: TEWDWR IS THE SYNDICATE'S MAN — a baron they cooped rather than devoured (a complicit noble face lends them legitimacy) to cover his debts/vices; his ruinous secret is that he sold his class to the foreign purse. = a WINDOW into the syndicate (knows its people/workings) AND a LEVER (his secret = a knife at his throat). BUT Abisec is his GUEST (Hospitality 15/Honor — can't seize or shame a host under his own roof); banked it, gave nothing away. DANGER: Tewdwr may report Abisec's visit to his masters. To be worked once Abisec is no longer his guest."
   }
  ]
 }
