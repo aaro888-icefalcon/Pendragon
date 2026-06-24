@@ -3,7 +3,7 @@
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
 **Mode now:** on-script — spine follows the year brief; **482** now (Vagon, spring). Use a **Scene Test** only when the knight rides off the brief into ground the books don't cover.
 **Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
-**Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the two-stage roll). The tables below + `state/threads.md` / `state/npcs.md` are the human snapshot — keep roughly in sync; mutate the JSON with `python3 .claude/skills/mythic-gm/scripts/state.py thread|char add|weight|remove <campaign>/state "<name>"`.
+**Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the **proportional** two-stage roll; each entry carries its own `dossier`+`status` — there is no `threads.md`/`npcs.md`). View: `state.py thread|char show <C> [--full]`; mutate weights via `state.py thread|char add|weight|remove`.
 
 ## Chaos Factor: 3
 
