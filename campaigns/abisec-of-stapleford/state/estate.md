@@ -1,6 +1,8 @@
 # Holdings — Book of the Estate · Sir Abisec of Stapleford
 
-Compiled spring 482 by **Mabli**, steward of Hindon [Stewardship 15 → success], from Seneschal **Bledig**'s rolls (honest & meticulous — he served the land, not just the Boar). Reconciled each Winter Phase (Step 4 economic cycle — `rules/estate/02-estate-economics.md`).
+Compiled spring 482 by **Mabli**, steward of Hindon, from Seneschal **Bledig**'s rolls. Reconciled each Winter Phase.
+
+> **⚙ AUTHORITATIVE DATA → `state/estate.json`.** The machine-tracked estate subsystem (cash ledger to the decimal, income/expenses, improvements, fortification DV, settlement & military demographics, key NPCs) lives in the JSON now. This file is prose companion; on any numeric conflict, **the JSON wins.**
 
 ---
 
@@ -86,7 +88,7 @@ Stout vs. raiders or a rebel; useless vs. a king's host — **loyal initiative, 
 
 ## Cash & reserves (Sir Abisec, spring 482)
 
-- **Liquid: ~£99** — Bedegraine-ransom remainder (after ~£30 Stapleford works + £41 Hindon bolt incl. cistern). Reserve for the towers (one/season), a hospital, contingencies.
+- **Liquid: £110.5** (firmed WP482; full decimal ledger in `state/estate.json`). Reserve for the tower cadence (£15/season) & contingencies. *(Hospital plan scrapped; vaccary + apiary built WP482.)*
 - Coin on hand: ~£9 + denarii.
 - **Economic grade:** Superlative.
 

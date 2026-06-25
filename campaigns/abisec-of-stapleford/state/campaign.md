@@ -1,7 +1,7 @@
 # Campaign State
 
 **Status:** ACTIVE · No PC deaths (one near-fatal mortal wound, survived) · Dynasty unbroken (no heir yet)
-**Current year:** **482** (spring)
+**Current year:** **483** (spring) · *(detailed live save-point in `state/mythic.md`)*
 **Period:** Uther (Book of Uther: campaign/uther/)
 **Season/position:** **Sarum — spring 482**; the Hindon hearing WON. Abisec is **Knight Banneret of Hindon**, the King's sworn **tenant-in-chief** for the caput (homage to Uther sworn; liege reserved to Count Roderick).
 **Current scene:** **The Boar arc CLOSED and the Hindon contest WON.** At the King's floor Abisec gave a plain account, made two points on a **Courtesy✓** (a costed fortification assessment of the gate + a clemency plea for Senara), Ulfius carried the strategic "don't make Gwythyr over-mighty" argument, and Abisec invoked **Honor 16** to swear a **perpetual-fealty vow**. Uther created him **Knight Banneret** and granted **Hindon's caput** (~£55) to hold on the vow, **DENIED Gwythyr** (now a smooth, slighted rival), and **PARDONED Lady Senara**. Abisec then swore the King homage (new passion **Loyalty (Uther) 10** — note: below Loyalty (Roderick) 15; the King is now legally first, Roderick first in the heart); **Vagon reverts to Roderick**, Stapleford stays the family seat. **Glory ~2,594** (banneret rank + caput annual Glory firm at WP; next Bonus Point at 3,000). *Open: hold & fortify the caput (~£50 plan, from his own purse); **Senara** (pardoned ward — the marriage that would end the quarrel, floated by Ulfius; she's hostile); **Gwythyr's grudge** + the unproven second-lord suspicion; **Ulfius** an ailing patron; **Achil** mending at Stapleford; **Idris's** unpaid debt (Gwenllian); the GPC 482 backdrop (Cadwy/Summerland accord, sheriffs); the game year rolling toward its adventure season & Winter Phase.*
@@ -32,6 +32,7 @@ Uther reigns, flush from conquering Bedegraine (481). He is suspicious, proud, l
 |---|---|---|
 | 480 | Knighted at Easter; Battle of **Menevia** (Wales); the **Plain Sweep** & the Boar Conspiracy uncovered for Roderick; Coneygarth built; closed at the Christmas board amid a pagan scandal | +1,572 → 1,749 |
 | 481 | Stapleford scandal resolved; the **Vagon/Boar** investigation (Maucan & Cadeyrn taken alive; Idnerth exposed); **Battle of Bedegraine** (£170 ransom; a Courser); estate hardened; Achil set to the spurs; the **Christmas Court & Twelfth Night reckoning** — won the King's trust & favor, mêlée field, courted Lady Nest; then **lost the trial by combat to Idnerth** (a mortal wound, survived & maimed: DEX/APP −, a chest scar); Idnerth cleared-but-doomed; **granted Vagon** | +445 → 2,194 (+~150 court tally → ~2,344) |
+| 482 | The **march-syndicate** arc: a foreign forged-debt land-grab broken & **tried before the High King** (deeds void, march restored, Eilwen freed); the **western-march affinity** bound to Abisec; the **bought-sheriff** matter resolved clean (Pasgen a cleared fool, the conduit Gethin caught — a **warm Bristol lead** to the faceless master); royal favour restored. Battle→19; Courtesy/Honest/Merciful→14. | → **2,990 (firmed WP482)** |
 
 ## Canonical schedule ahead (GPC, for the GM)
 - **481:** Bedegraine conquered (DONE); Prince Madoc knighted.
