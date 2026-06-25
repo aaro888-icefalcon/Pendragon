@@ -9,7 +9,7 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **~2,679 (provisional)** (~2,448 firmed at WP 481 + ~150 storm of Hindon/Boar; **+~25 spring 482** Boar's-cell oath kept; summer-482 court/first-court tally → ~2,619 prov.; **+60 midsummer 482** — ran down & took the syndicate's factor alive, securing the Crown's proof [non-combat critical ×3 significant achievement]). Tally firms next WP. Next Bonus Point at 3,000 — within reach this year. |
+| Current Glory | **~2,829 (provisional)** (~2,448 firmed at WP 481 + ~150 storm of Hindon/Boar; **+~25 spring 482** Boar's-cell oath; summer-482 court/first-court → ~2,619 prov.; **+60** ran down the factor [non-combat crit ×3]; **+150 midsummer 482** — prosecuted & won the Crown trial that broke the foreign syndicate and restored the western march, performed before the High King [witnessed-by-High-King service]). Tally firms next WP. **Next Bonus Point at 3,000 — reachable this Winter Phase.** |
 | Economic grade | **Superlative** (£13+/yr equiv.; castle + lord's maintenance) — 3 squires' worth, glory bonuses, +2 horse / +3 family rolls |
 | Holding | **Knight Banneret; holds the CAPUT OF HINDON** (shell-keep castle DV 9/13/2 + mill + wool-town + home manors, ~£55) — a **Crown grant** (spring 482), held for the King on a **sworn perpetual-fealty vow** (his till the line fails; the western road guarded for Uther's heirs; forfeit twice as fast if ever turned). To fortify from his own purse (~£50 plan: town moat/enclosure/gateworks + two towers). **Gwythyr of Mere denied** the valley. Vagon reverts to Roderick's disposal; Stapleford remains the family seat (settled on Achil, held in trust). **Full Book-of-the-Estate detail for both holdings: `state/estate.md`.** |
 | Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. **WATCHFUL since the midsummer-482 court stumble** (fumbled lodging the syndicate case; recovered by honest spine + a clever play, but the easy favor is now probationary — 'I'll watch your hands'). (Homage still to Roderick; Uther reaches through the Count.) |
@@ -105,6 +105,7 @@
 - **Horsemanship** — a critical forced ride ran down the fleeing syndicate-factor before he could reach the Severn (midsummer 482; Horsemanship 15 −5 → check 10, rolled 10 = critical).
 - **Honor** — refused the captured factor's bribe (his testimony for his neck) to keep faith with the King's justice (midsummer 482).
 - **Just** — chose to deliver the forger whole to lawful royal trial rather than cut a private deal behind the throne's back (midsummer 482).
+- **Courtesy** — the Crown trial (midsummer 482): marshaled the wronged march-men before the High King with dignity, turning the case after the cold proof stumbled (Courtesy 13 → 1, strong success).
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.
