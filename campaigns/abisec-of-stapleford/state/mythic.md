@@ -5,8 +5,8 @@
 **Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
 **Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the **proportional** two-stage roll; each entry carries its own `dossier`+`status` — there is no `threads.md`/`npcs.md`). View: `state.py thread|char show <C> [--full]`; mutate weights via `state.py thread|char add|weight|remove`.
 
-## Chaos Factor: 2
-<!-- the sheriff inquiry stirred the pot: the first push failed and the optics backfired (Meurig openly), so CF lifted 1→2 (Stirring). -->
+## Chaos Factor: 1
+<!-- recovery: the public apology to Pasgen turned the optics & re-opened the inquiry from inside; mastered → 2→1. -->
 
 
 **Set it at each scene's START** = previous ±1 by whether the knight **mastered the outcome** (not his composure): −1 he controlled it · +1 it got away from him · ±2 only for a decisive triumph/catastrophe · hold on a wash. Clamp 1–9; baseline 5; floors Anarchy ≥5 / battle ≥4 / faerie ≥4. The game YEAR is the master metronome — CF is scene-tempo only, never overrides the GPC schedule.
@@ -32,7 +32,8 @@
      2 → 1: scene 8 — THE CROWN TRIAL WON. Scene Test EXPECTED (CF2→1d10=3). Order: cold proof [Mabli Stewardship 15 → 18 FAIL] → wronged men [Abisec Courtesy 13 → 1, turned it] → factor brought out BLIND [Q1 No: folds, won't lie into an unseen net; Q2 No: a true cutout, master stays faceless]. Forged debts void, march restored, Eilwen free, factor condemned, groom damned by flight. Uther warms from WATCHFUL toward trust. Glory +150 (High-King-witnessed service). A full local triumph, mastered → −1 → CF 1 (Becalmed denouement). NEW thread: the bought sheriff.
      1 (held): the King's reward/charge (deferred land + the sheriff commission, Brewnor weighs); the lands/Senara questions (both 'not now'); the Hindon homecoming + the keep-wall beat with Senara (soft No 54, Custennin landed); autumn downtime (sheriff sat tight, Fate No 78; works rise). Quiet denouement, held at 1.
      1 (held): scene 11 — the Hindon dinner. Senara declined the public co-host role (soft No 29) but ran the hall from the wings; Abisec hosted well [Courtesy 13→4] and BOUND the western-march affinity (Meurig's pledge). NEW thread #17. Glory +15. A social win, mastered — but CF already at floor 1, held.
-     1 → 2: scene 12 — the sheriff inquiry OPENED & first push FAILED. Cadwal circumstantial; [Fate No 77] the sheriff Pasgen is a FOOL not bought (the rot is the 'second hand under his seal'); [Intrigue 11→18] the push failed and the open ride with Meurig backfired (Pasgen cried persecution, shire closed ranks, Brewnor warned the optics). It got away from Abisec → +1. -->
+     1 → 2: scene 12 — the sheriff inquiry OPENED & first push FAILED. Cadwal circumstantial; [Fate No 77] the sheriff Pasgen is a FOOL not bought (the rot is the 'second hand under his seal'); [Intrigue 11→18] the push failed and the open ride with Meurig backfired (Pasgen cried persecution, shire closed ranks, Brewnor warned the optics). It got away from Abisec → +1.
+     2 → 1: scene 13 — Abisec PUBLICLY cleared & apologized to Pasgen [Courtesy 13→6 success]: optics flipped, Pasgen cleared/cooperative & named under-clerk GETHIN (seal-access) the prime 'second hand,' office thrown open; recovery mastered → −1. Glory +10. -->
 
 ## Lists — SINGLE SOURCE: `state/threads.json` · `state/characters.json`
 The dice roll the JSON (**proportional** two-stage roll, any length, no 25 cap). **No hand-copy of the Lists anywhere; no `npcs.md`/`threads.md` — the prose lives IN the JSON.**
