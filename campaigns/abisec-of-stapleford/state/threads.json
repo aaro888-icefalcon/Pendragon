@@ -103,6 +103,20 @@
    "weight": 1,
    "status": "active — Abisec's emerging march power-base",
    "dossier": "BORN at the Hindon dinner (late autumn 482): Abisec feasted the march's grateful & un-bought — Meurig, Cadwal (+ freed Eilwen), and ~6 restored knights whose fields the trial gave back — and bound them to him [Courtesy 13→4 success]. Meurig pledged it aloud: 'the march had no spine this spring; it has one now — Hindon's.' A real network/affinity now looks to Abisec as the march's protector under the King's peace — allies to call on (men, witnesses, news, standing). The thing he set out to build. Watch: a marcher affinity is also the kind of 'over-mighty' shape a paranoid Uther & a slighted Gwythyr both notice."
+  },
+  {
+   "name": "GPC 483 — The Irish War (raids on Cornwall & western Logres; Gorlois defends)",
+   "weight": 4,
+   "gpc_year": 483,
+   "status": "active — GPC backbone of 483",
+   "dossier": "GPC 483 spine: Irish sea-raiders harry Cornwall's coasts and WESTERN LOGRES; Duke Gorlois of Cornwall is fully occupied defending his duchy (the Irish are the real enemy — Gorlois is LOYAL, not the threat). Uther's court grows as he consolidates his nobles. RELEVANCE TO ABISEC: Hindon sits on the western march toward Summerland / the Severn approaches — the SAME western water the faceless MASTER's Bristol channel runs on. Irish raids on the western flank could touch his march or his affinity's coast, or tangle with the cross-water master-thread. Abisec (Battle 19, a banneret with an eschille + a sworn march affinity) is a natural muster for a western defence. Seeded w4 so the war LOOMS in oracle moments before its scheduled spring firing."
+  },
+  {
+   "name": "GPC 483 — The Prince's Passion (court intrigue; Prince Madoc)",
+   "weight": 3,
+   "gpc_year": 483,
+   "status": "active — GPC keyed adventure 483",
+   "dossier": "GPC 483 keyed adventure (campaign/uther/06-adventures.md): a COURT-BASED INTRIGUE involving PRINCE MADOC (Uther's son, knighted 481) — a prince's passion/affair entangling the court. RELEVANCE: Abisec is a favoured banneret with restored royal trust; a court summons or a role around the prince's affair is plausible (a discreet errand, a witnessing, a faction pull). Seeded w3 as the year's court-thread; load specifics from the adventure when it activates."
   }
  ]
 }

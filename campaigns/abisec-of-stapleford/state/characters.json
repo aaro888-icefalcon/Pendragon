@@ -355,6 +355,20 @@
    "weight": 1,
    "status": "lead toward the master (from Gethin's records)",
    "dossier": "Named in under-clerk Gethin's seized records (scene 14, 482): a man at a Bristol wharf who carried the syndicate's foreign silver across the water — the next rung up from the local cell toward the faceless master. The warm lead Mabli + a Bristol inquiry can pull. Unmet, unproven; the thread out of Logres."
+  },
+  {
+   "name": "Duke Gorlois of Cornwall (GPC)",
+   "weight": 3,
+   "gpc_year": 483,
+   "status": "GPC — defends Cornwall vs the Irish (483)",
+   "dossier": "Duke of Cornwall; in 483 fully occupied defending his duchy against Irish sea-raiders (LOYAL — the Irish are the enemy, not Gorlois). A great marcher lord of the west; Sir Petroc of Dimilioc (Abisec's Cornish friend-rival) is his man. Looms over the age — the Uther/Ygraine tragedy gathers ~485-486. Unmet by Abisec; seeded so he surfaces as the western war's face."
+  },
+  {
+   "name": "Prince Madoc (GPC)",
+   "weight": 3,
+   "gpc_year": 483,
+   "status": "GPC — the Prince's Passion (483)",
+   "dossier": "Uther's son, Prince Madoc (knighted 481). Central to the 483 'Prince's Passion' court intrigue. Seeded so the prince's affair can surface at court. Unmet by Abisec."
   }
  ]
 }
