@@ -106,6 +106,7 @@
 - **Honor** — refused the captured factor's bribe (his testimony for his neck) to keep faith with the King's justice (midsummer 482).
 - **Just** — chose to deliver the forger whole to lawful royal trial rather than cut a private deal behind the throne's back (midsummer 482).
 - **Courtesy** — the Crown trial (midsummer 482): marshaled the wronged march-men before the High King with dignity, turning the case after the cold proof stumbled (Courtesy 13 → 1, strong success).
+- **Honest** — volunteered his own conflict-of-interest to the King (holding Hindon, he could be accused of scheming with Meurig for the sheriff's seat) before accepting the commission (midsummer 482; opposed Honest 13 vs Suspicious 14 — partial, the honesty kept him clean).
 
 ## Build notes (precedent)
 Skills rebuilt Session 3 under canonical KAP 5e personalization (Ruling 23). Battle later +1 (Winter Training) +1 (1,000 Bonus) +1 (2,000 Bonus) = 18. Falconry/Reading raised as player-established family passions.
