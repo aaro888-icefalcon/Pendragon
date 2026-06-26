@@ -18,7 +18,7 @@
  },
  "economic_grade": "Superlative",
  "cash": {
-  "liquid_gbp": 110.5,
+  "liquid_gbp": 109.5,
   "ledger": [
    {
     "when": "spring 482",
@@ -55,6 +55,12 @@
     "entry": "Mellisarium (apiary) built at Hindon",
     "delta": -4.0,
     "balance": 110.5
+   },
+   {
+    "when": "early winter 483",
+    "entry": "Breach patch — timber+rubble (storm's own) + free town labor [Mabli Stewardship CRIT]",
+    "delta": -1.0,
+    "balance": 109.5
    }
   ],
   "projected_483_surplus_gbp": 21.0,
@@ -63,8 +69,8 @@
    "contingencies / ransoms",
    "(hospital plan SCRAPPED)"
   ],
-  "pending_repairs_483_gbp": 18.0,
-  "note_483": "Flood repairs ~£18 pending (not yet deducted); liquid stands £110.5 until spent."
+  "pending_repairs_483_gbp": 5.0,
+  "note_483": "Flood repair CORRECTED (Mabli, Stewardship CRIT): breach PATCHED now for ~£1 (on-hand stone/timber + free town labor); ~£5 of proper work waits for the SPRING thaw (stone wall rebuild ~£3 + mill ~£1 + cattle restock ~£2) — do NOT pay a winter rush premium. (The panic '£18' was fear, not arithmetic.)"
  },
  "glory": {
   "firmed_total": 2990,
@@ -123,7 +129,7 @@
      },
      "wool_town_wall": {
       "dv": 5,
-      "notes": "the once-open town, newly enclosed in stone | BREACHED (483 flood) on the town-side bank -- a gap until repaired (~£10)"
+      "notes": "the once-open town, newly enclosed in stone | 483 flood breached the town-side bank -> PATCHED with timber+rubble (DV ~3-4 at that section; proper stone rebuild ~£3 in spring restores DV 5)"
      },
      "town_ditch": {
       "dv_base": 3,
@@ -266,10 +272,10 @@
    "storm_damage_483": {
     "when": "early winter 483 (Yule storm)",
     "dead": "~4 townsfolk (Tegwen's family) drowned in the lower wool-town",
-    "wall_breach": "town-side moat-bank washed out -> a BREACH in the new wool-town wall (DV gap until repaired) -- ill-timed with Irish raiders on the water",
+    "wall_breach": "town-side moat-bank washed out -> breach in the new wool-town wall. PATCHED early winter 483 with a timber-and-rubble palisade (rough but a wall again; DV ~3-4 at that section until the spring stone rebuild restores DV 5).",
     "losses": "3 houses; the staple's lower wool-store ruined; ~12 of the new vaccary cattle drowned in the flooded enclosure",
-    "repair_estimate_gbp": 18.0,
-    "repair_detail": "wall breach ~10 + mill/works ~5 + cattle restock ~3 (income also hit: lost wool stock ~6, vaccary first-year yield ~halved)"
+    "repair_estimate_gbp": 6.0,
+    "repair_detail": "Mabli CRIT costing: urgent breach PATCH ~£1 (done, early winter 483; storm's own stone+timber + free town labor) + spring proper work ~£5 (stone wall rebuild ~£3, mill ~£1, cattle restock ~£2). Wool-store: not all lost — Mabli salvages & sells the wet wool cheap (~£3 income dent, not a repair)."
    }
   },
   "stapleford": {
