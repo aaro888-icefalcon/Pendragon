@@ -185,3 +185,9 @@ At each **Winter Phase** the AC theme priority is RE-ALLOCATED for the upcoming 
 - **OUTCOME:** Indeg safe (the pursuit ends); Gwilym's match & life-work safe; no scandal, no banner for the malcontents; **Abisec's oath kept whole** (silence held, no lie, the lady protected). The whole knot navigated by patient intelligence + one deft, honorable stroke. Residue: Abisec is now the prince's matchmaker (light obligation); Madoc a real ally.
 - **GLORY +60** (secret-but-prince-witnessed courtly service averting a Crown scandal + a royal patron gained): **2,990 → 3,050 — CROSSED 3,000.** **3rd Bonus Point taken → Battle 19 → 20.** (knight.md updated.) Prince's Passion thread → RESOLVED (w1 residue); Madoc → patron.
 - CF 4 (the arc's climax mastered; the year rolls on — the Irish war + the rest of 483 still live).
+
+### Scene 8 (483 spring, Sarum) — Abisec squares with Senara; she chooses the door out
+- Abisec apologized sincerely for cooling on her (her principled 'no' read unfairly as a closed hand) and returned her agency: your marriage or stay, your choice.
+- **[A: Fate No 52, narrow]** Apology accepted with dignity; cooling HEALED but thaw NOT advanced — 'I'll believe the change when it's a season old, not a sentence.' Her trust is earned in seasons, not speeches; wall holds at a hand's-width.
+- **[B: Fate No 84]** Given the choice, Senara chose to LEAVE wardship and be married out — royal Ebbesborne blood but no land; 'sooner the lady of my own poor house than the well-kept ghost of a great one'; and, quietly, out from under Abisec. **NEW TASK:** advocate a decent match for her to Uther. **The floated Abisec×Senara marriage: declined by her in all but name** — Abisec's heir-question narrows to other prospects / a brokered match.
+- A complex, honest close: Abisec gave two women real agency this chapter (Indeg, Senara); Senara's exercise of it points away from him. CF 4.
