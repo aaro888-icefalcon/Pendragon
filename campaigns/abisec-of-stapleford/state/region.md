@@ -43,3 +43,17 @@ Hindon sits in **southwest Wiltshire**, between the **Wylye** (north) and **Nadd
 - **Abisec's position:** strong centre (Hindon, fortifying; Stapleford; Roderick behind him E), weak/contested **W flank** (Selwood march), a friendly **SE** (Tisbury), a politic **N** (Tilshead).
 - **Gwythyr (Mere)** boxes him W; **Summerland** looms beyond; the **syndicate** is loose among the small border houses between.
 - **The coalition play:** Tisbury (Nest) + Tilshead (Caradoc) as the solid near-houses, **Meurig** as the march spine, the at-risk Selwood manors as the body — Abisec as protector "for the King's peace." Win the march before the purse buys it.
+
+## The march's swords — honour & knight-power (recorded 483)
+Field-power of the western march, big to small (per the KAP baron tier; Honour = Customary Revenue; ~1 knight per £10 CR):
+
+| Power | Honour (CR) | Knights fielded | Note |
+|---|---|---|---|
+| **Duke Gorlois of Cornwall** ★ | a duchy | **50+** | The King's western shield — pinned defending Cornwall's own coast; not coming to this stretch. |
+| **King Cadwy of Summerland** ★ | a kingdom | **30–50** | The Brue is his coast; bleeds too; answers on his own shore (foreign, at-accord). |
+| **Baron Gwythyr of Mere** ★ | ~£250–300 | **~25–30** | Great Council baron — biggest local fielder; slighted rival; won the 483 field-fight. |
+| **Baron Meurig** ★ | ~£150–200 | **~15–18** | The un-bought spine; lesser houses follow him; Abisec's sworn affinity. |
+| **Baron Tewdwr of Wereside** ★ | ~£100–150 (debt-broke) | **~5–8, unreliable** | Petty royal-blooded wastrel; syndicate's old cover; a write-off. |
+| **Knights / minor holders** | — | 1 each | Cadwal, the restored Selwood houses (the affinity's body), **Abisec** (banneret, ~6). |
+
+**Read:** Gwythyr + Meurig hold the bulk (~40–48 knights) — the field answer to any raid. Abisec's ~6 lances are marginal in open field; his weight is his walls, his warning-net, and his hand on Meurig's muster.

@@ -5,8 +5,8 @@
 **Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
 **Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the **proportional** two-stage roll; each entry carries its own `dossier`+`status` — there is no `threads.md`/`npcs.md`). View: `state.py thread|char show <C> [--full]`; mutate weights via `state.py thread|char add|weight|remove`.
 
-## Chaos Factor: 5
-<!-- RECALIBRATION (early winter 483): the becalmed year-turn (CF1) was shattered by the Yule-storm DISASTER [Fate ExcNo] + an Irish invasion on the march. CF reset 1 → 5 (live crisis). Lesson: don't roll crisis outcomes at CF1's No-compressed Fate Chart; a breaking crisis raises CF first. Honest odds breathe at 4-5. -->
+## Chaos Factor: 4
+<!-- the Irish raid is crushed (by the barons, not Abisec) and Hindon held safe -> the acute crisis passed, CF 5 → 4 (Stirring: Gwythyr's rising star, the 'guided raiders' unease, the GPC war still on through 483). -->
 
 
 **Set it at each scene's START** = previous ±1 by whether the knight **mastered the outcome** (not his composure): −1 he controlled it · +1 it got away from him · ±2 only for a decisive triumph/catastrophe · hold on a wash. Clamp 1–9; baseline 5; floors Anarchy ≥5 / battle ≥4 / faerie ≥4. The game YEAR is the master metronome — CF is scene-tempo only, never overrides the GPC schedule.
