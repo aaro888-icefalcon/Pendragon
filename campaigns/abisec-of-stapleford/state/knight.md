@@ -9,11 +9,11 @@
 | Religion | Pagan (kept quietly at a Christian court) |
 | Family arms | A hawk, wings spread, ringed about with icicles |
 | Distinctive feature | Eyes so dark they read black |
-| Current Glory | **2,990 (firmed, Winter Phase 482)** — crossed 482 just shy of 3,000 (frugal living kept maintenance Glory low). 481 firmed 2,448 + 482: deeds +431, land (CR £67) +67, famous trait/passion (Valorous 16 + Honor 16) +32, maintenance (frugal ≈£12) +12. **3rd Bonus Point lands on the first deed of 483 — 10 Glory away → then Battle 19→20.** |
+| Current Glory | **3,050 (483)** — crossed 482 just shy of 3,000 (frugal living kept maintenance Glory low). 481 firmed 2,448 + 482: deeds +431, land (CR £67) +67, famous trait/passion (Valorous 16 + Honor 16) +32, maintenance (frugal ≈£12) +12. **3rd Bonus Point taken (483, the Prince's Passion service) → Battle 19→20.** |
 | Economic grade | **Superlative** (£13+/yr equiv.; castle + lord's maintenance) — 3 squires' worth, glory bonuses, +2 horse / +3 family rolls |
 | Holding | **Knight Banneret; holds the CAPUT OF HINDON** (shell-keep castle DV 9/13/2 + mill + wool-town + home manors, ~£55) — a **Crown grant** (spring 482), held for the King on a **sworn perpetual-fealty vow** (his till the line fails; the western road guarded for Uther's heirs; forfeit twice as fast if ever turned). To fortify from his own purse (~£50 plan: town moat/enclosure/gateworks + two towers). **Gwythyr of Mere denied** the valley. Vagon reverts to Roderick's disposal; Stapleford remains the family seat (settled on Achil, held in trust). **Full Book-of-the-Estate detail for both holdings: `state/estate.md`.** |
 | Royal favor | **King Uther knows his face, measure, and worth** — counts him "an honest instrument I can spend without watching my back"; prizes his discretion. **WATCHFUL since the midsummer-482 court stumble** (fumbled lodging the syndicate case; recovered by honest spine + a clever play, but the easy favor is now probationary — 'I'll watch your hands') — **but the autumn-482 sheriff-commission EASED the probation: Abisec found the rot, cleared the innocent sheriff Pasgen, let the King's law take the real conduit Gethin (not his own hand), and opened a lead to the foreign master, all without grabbing the county — the 'honest instrument' proven again.** (Homage still to Roderick; Uther reaches through the Count.) |
-| Bonus Points | 2 spent (1,000 → Battle; 2,000 → Battle). **3rd PENDING** — Glory 2,990, lands on the first 483 deed → **Battle 19→20**. Distinguished-self passion +1 → Honor 16. |
+| Bonus Points | 3 spent (1,000 → Battle; 2,000 → Battle; 3,000 → Battle). **3rd taken (483, Prince's Passion)** → **Battle 19→20 DONE**. Distinguished-self passion +1 → Honor 16. |
 
 ## Attributes & Derived
 | SIZ | DEX | STR | CON | APP |
@@ -66,7 +66,7 @@
 ## Combat Skills
 | Skill | Value | | Skill | Value |
 |---|---|---|---|---|
-| Sword | **16** | | Battle | **19** |
+| Sword | **16** | | Battle | **20** |
 | Lance | **16** | | Horsemanship | **15** |
 | Spear | 6 | | Dagger | 5 |
 
