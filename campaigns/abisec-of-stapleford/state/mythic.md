@@ -1,12 +1,12 @@
 # Mythic State
 
 **Engine:** mythic-gm (companion skill) · resolution Fate Chart · discipline HARDCORE (no softening; Peril Points OFF)
-**Mode now:** **winter 482→spring 483 — Winter Phase DONE; the year turns.** 482 was a banner year (syndicate broken & tried; march affinity bound; sheriff matter resolved clean; favour restored). Glory firmed **2,990** (10 short of 3,000 — the 3rd Bonus Point + Battle→20 land on the first 483 deed). Estate now machine-tracked in **`state/estate.json`** (liquid £110.5; vaccary + apiary built; 2 towers up; ~£21/yr surplus). **Resume: SPRING 483** — GPC spine (Irish war continues; Gorlois defends Cornwall; the Prince's Passion) + two embers (the faceless master via the WARM Bristol lead; the marriage/heir question). CF 1.
+**Mode now:** **SPRING 483 — Hindon mended after the Yule-flood; the year's threads live.** 482 was a banner year (syndicate broken & tried; march affinity bound; sheriff matter resolved clean; favour restored). Glory firmed **2,990** (10 short of 3,000 — the 3rd Bonus Point + Battle→20 land on the first 483 deed). Estate now machine-tracked in **`state/estate.json`** (liquid £110.5; vaccary + apiary built; 2 towers up; ~£21/yr surplus). **Resume: SPRING 483** — GPC spine (Irish war continues; Gorlois defends Cornwall; the Prince's Passion) + two embers (the faceless master via the WARM Bristol lead; the marriage/heir question). CF 1.
 **Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
 **Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the **proportional** two-stage roll; each entry carries its own `dossier`+`status` — there is no `threads.md`/`npcs.md`). View: `state.py thread|char show <C> [--full]`; mutate weights via `state.py thread|char add|weight|remove`.
 
-## Chaos Factor: 4
-<!-- the Irish raid is crushed (by the barons, not Abisec) and Hindon held safe -> the acute crisis passed, CF 5 → 4 (Stirring: Gwythyr's rising star, the 'guided raiders' unease, the GPC war still on through 483). -->
+## Chaos Factor: 3
+<!-- spring 483: the flood fully rebuilt, Hindon mended, the town's loyalty deepened — a mastered domestic recovery → CF 4 → 3 (Settled; the year's threads simmer: Gwythyr's prestige, the master's Bristol lead, the guided-raiders hook, marriage/heir, the GPC war + Prince's Passion). -->
 
 
 **Set it at each scene's START** = previous ±1 by whether the knight **mastered the outcome** (not his composure): −1 he controlled it · +1 it got away from him · ±2 only for a decisive triumph/catastrophe · hold on a wash. Clamp 1–9; baseline 5; floors Anarchy ≥5 / battle ≥4 / faerie ≥4. The game YEAR is the master metronome — CF is scene-tempo only, never overrides the GPC schedule.

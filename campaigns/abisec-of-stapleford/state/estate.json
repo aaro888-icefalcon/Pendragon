@@ -18,7 +18,7 @@
  },
  "economic_grade": "Superlative",
  "cash": {
-  "liquid_gbp": 109.5,
+  "liquid_gbp": 104.5,
   "ledger": [
    {
     "when": "spring 482",
@@ -61,6 +61,12 @@
     "entry": "Breach patch — timber+rubble (storm's own) + free town labor [Mabli Stewardship CRIT]",
     "delta": -1.0,
     "balance": 109.5
+   },
+   {
+    "when": "spring 483",
+    "entry": "Flood rebuild done — stone wall (DV5 restored) £3 + mill £1 + cattle restock (12 head off Cadwal) £2",
+    "delta": -5.0,
+    "balance": 104.5
    }
   ],
   "projected_483_surplus_gbp": 21.0,
@@ -69,8 +75,8 @@
    "contingencies / ransoms",
    "(hospital plan SCRAPPED)"
   ],
-  "pending_repairs_483_gbp": 5.0,
-  "note_483": "Flood repair CORRECTED (Mabli, Stewardship CRIT): breach PATCHED now for ~£1 (on-hand stone/timber + free town labor); ~£5 of proper work waits for the SPRING thaw (stone wall rebuild ~£3 + mill ~£1 + cattle restock ~£2) — do NOT pay a winter rush premium. (The panic '£18' was fear, not arithmetic.)"
+  "pending_repairs_483_gbp": 0.0,
+  "note_483": "Flood fully repaired by spring 483 (~£6 total: £1 patch + £5 spring). Liquid £104.5."
  },
  "glory": {
   "firmed_total": 2990,
@@ -129,7 +135,7 @@
      },
      "wool_town_wall": {
       "dv": 5,
-      "notes": "the once-open town, newly enclosed in stone | 483 flood breached the town-side bank -> PATCHED with timber+rubble (DV ~3-4 at that section; proper stone rebuild ~£3 in spring restores DV 5)"
+      "notes": "enclosed in stone (DV 5) — 483 flood breach REBUILT in stone by spring 483 (DV 5 restored)"
      },
      "town_ditch": {
       "dv_base": 3,
@@ -172,7 +178,7 @@
      "name": "Vaccary (cattle herd)",
      "build_cost_gbp": 10.0,
      "annual_yield_gbp": 3.0,
-     "status": "built WP 482 | HIT (483 flood: ~12 head drowned; herd reduced, first-year yield ~halved, restock ~£3)",
+     "status": "built WP 482 | HIT (483 flood: ~12 head drowned; herd reduced, first-year yield ~halved, restock ~£3) | restocked spring 483 (12 head off Cadwal, ~£2); herd back near strength",
      "space": "PASTURE -- shares the chalk-down grazing with the wool-flocks (ample, no conflict)",
      "risk": "murrain: annual d20 at WP -- on 1-2 lose the year's yield, on a 1 lose the herd (rebuild cost)"
     },
@@ -275,7 +281,8 @@
     "wall_breach": "town-side moat-bank washed out -> breach in the new wool-town wall. PATCHED early winter 483 with a timber-and-rubble palisade (rough but a wall again; DV ~3-4 at that section until the spring stone rebuild restores DV 5).",
     "losses": "3 houses; the staple's lower wool-store ruined; ~12 of the new vaccary cattle drowned in the flooded enclosure",
     "repair_estimate_gbp": 6.0,
-    "repair_detail": "Mabli CRIT costing: urgent breach PATCH ~£1 (done, early winter 483; storm's own stone+timber + free town labor) + spring proper work ~£5 (stone wall rebuild ~£3, mill ~£1, cattle restock ~£2). Wool-store: not all lost — Mabli salvages & sells the wet wool cheap (~£3 income dent, not a repair)."
+    "repair_detail": "Mabli CRIT costing: urgent breach PATCH ~£1 (done, early winter 483; storm's own stone+timber + free town labor) + spring proper work ~£5 (stone wall rebuild ~£3, mill ~£1, cattle restock ~£2). Wool-store: not all lost — Mabli salvages & sells the wet wool cheap (~£3 income dent, not a repair).",
+    "status_resolved": "REPAIRED by spring 483 — wall rebuilt (DV5), mill mended, ~12 cattle restocked off Cadwal; the dead mourned. Total cost ~£6."
    }
   },
   "stapleford": {
