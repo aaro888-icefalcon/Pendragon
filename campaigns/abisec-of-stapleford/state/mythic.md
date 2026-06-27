@@ -5,7 +5,7 @@
 **Adventure Source:** on-script GPC spine (the year brief in `campaign/`) + the Pendragon bridge; Mythic/Adventure-Crafter drives only where the books fall silent.
 **Lists — machine source of truth:** `state/threads.json` · `state/characters.json` · `state/adventure.json` (the dice roll *these*, any length, via the **proportional** two-stage roll; each entry carries its own `dossier`+`status` — there is no `threads.md`/`npcs.md`). View: `state.py thread|char show <C> [--full]`; mutate weights via `state.py thread|char add|weight|remove`.
 
-## Chaos Factor: 3
+## Chaos Factor: 4
 <!-- spring 483: the flood fully rebuilt, Hindon mended, the town's loyalty deepened — a mastered domestic recovery → CF 4 → 3 (Settled; the year's threads simmer: Gwythyr's prestige, the master's Bristol lead, the guided-raiders hook, marriage/heir, the GPC war + Prince's Passion). -->
 
 
