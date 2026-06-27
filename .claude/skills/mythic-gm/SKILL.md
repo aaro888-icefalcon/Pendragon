@@ -19,7 +19,7 @@ You are the **Game Master** for a solo / GM-less tabletop RPG, running on Mythic
 
 This skill is **self-contained**: the complete Mythic + Adventure Crafter rules and tables are bundled and **fully hard-coded** (`references/`, `data/`). The Adventure Crafter is **always on** (Altered *and* Interrupt scenes generate Turning Points).
 
-**Running a specific RPG, setting, or generators?** They come from a **companion skill** that ships a `bridge/` filling the engine's hooks. See **`COMPANION-SKILLS.md`** (how to build/sync one) and `CONVERSION.md` (migrating a repo). At session start, if a companion bridge is present, load it: `python3 scripts/bridge.py summary <bridge>` — use an override where present, else the engine default.
+**Configuring a new RPG system?** Start at **`CONFIGURE.md`** — the decision tree and the **with/without sourcebooks × with/without published adventure** matrix (deep walkthroughs in `references/adapting/configure-matrix.md`). A specific RPG, setting, or generators come from a **companion skill** that ships a `bridge/` filling the engine's hooks; see **`COMPANION-SKILLS.md`** (build/sync a bridge) and `CONVERSION.md` (migrate a repo). At session start, if a companion bridge is present, load it: `python3 scripts/bridge.py summary <bridge>` — use an override where present, else the engine default.
 
 ---
 
@@ -35,6 +35,8 @@ This skill is **self-contained**: the complete Mythic + Adventure Crafter rules 
 ---
 
 ## SESSION ZERO (no state yet)
+
+> **Configuring a new system?** `CONFIGURE.md` routes you by two questions — do you have **sourcebooks**? is there a **published adventure**? — to one of four setups. A partial config always plays.
 
 1. **Set expectations.** This engine plays it straight: honest dice, real consequences, no rescues. Confirm the player wants that.
 2. **Choose the frame** (record all in `campaign-state.md`, copied from `assets/templates/campaign-state.md`):
@@ -121,7 +123,7 @@ Did dice decide every uncertain outcome, rolled and shown? Did I pre-commit stak
 
 ## INTEGRATING A PRE-EXISTING RPG (the seam)
 
-Mythic answers questions and paces; **the RPG owns task resolution and combat.** `scripts/system.py route` prints the rule. In short: if the System Profile has a mechanic → roll it (honest dice); otherwise → Fate Question. Combat runs on the RPG's loop with Mythic answering narrative beats inside it; a doubles-≤-CF result can fire a Random Event mid-fight. Stat NPCs on the fly: decide the expected value → Fate Question → read `npc_statistics` (Yes = as expected; ExcYes +25%; No −25%; ExcNo −50%). Bring your own system/lore/module through `references/adapting/`.
+Mythic answers questions and paces; **the RPG owns task resolution and combat.** `scripts/system.py route` prints the rule. In short: if the System Profile has a mechanic → roll it (honest dice); otherwise → Fate Question. Combat runs on the RPG's loop with Mythic answering narrative beats inside it; a doubles-≤-CF result can fire a Random Event mid-fight. Stat NPCs on the fly: decide the expected value → Fate Question → read `npc_statistics` (Yes = as expected; ExcYes +25%; No −25%; ExcNo −50%). Bring your own system/lore/module through **`CONFIGURE.md`** (the setup matrix) and `references/adapting/`.
 
 ---
 
@@ -133,6 +135,7 @@ Mythic answers questions and paces; **the RPG owns task resolution and combat.**
 | Discipline spine (creed, softening tells, self-audit) | `references/discipline/` |
 | Mythic rules detail (fate, chaos, scenes, events, lists, meaning, NPC, threads, variations) | `references/mythic/` |
 | Adventure Crafter (turning points, themes, lists) | `references/adventure-crafter/` |
+| Configure a new RPG system (±sourcebooks, ±published adventure) | `CONFIGURE.md` → `references/adapting/configure-matrix.md` |
 | Adapt a ruleset / char-gen / adventure / lore to the engine | `references/adapting/` |
 | Genre tone + stakes vocabulary | `references/genres/` |
 | The full Mythic / Adventure Crafter books (every table verbatim) | `references/canon/` |

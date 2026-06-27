@@ -179,7 +179,7 @@ The engine's discipline and Pendragon's laws reinforce each other:
 
 ```
 .claude/skills/mythic-gm/              THE ENGINE
-  SKILL.md  COMPANION-SKILLS.md  CONVERSION.md
+  SKILL.md  CONFIGURE.md  COMPANION-SKILLS.md  CONVERSION.md
   scripts/      dice.py · oracle.py · lists.py · adventure_crafter.py · state.py · tick.py · bridge.py · system.py · build_data.py
   data/         verified machine-rollable JSON (Mythic + Adventure Crafter)
   references/   playloop · discipline · mythic/ · adventure-crafter/ · adapting/ · genres/ · canon/

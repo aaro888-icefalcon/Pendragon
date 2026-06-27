@@ -2,6 +2,11 @@
 
 **Read this if you are pairing mythic-gm with a specific RPG, setting, or set of generators.**
 
+> New here? Start at **`CONFIGURE.md`** for the setup decision tree and the
+> *with/without sourcebooks × with/without published adventure* matrix. This file
+> is the full **bridge** contract (the reusable-companion track); the
+> campaign-folder quick path lives in `references/adapting/`.
+
 mythic-gm is the **engine**: it runs the scene/Chaos/Fate/Random-Event/Turning-Point loop, the discipline, and all Mythic + Adventure Crafter tables. A **companion skill** is a content pack (an RPG ± setting ± generators) that ships a **`bridge/`** folder filling the engine's *hooks*. The engine never holds RPG content; the companion never re-implements the oracle. **All randomness still runs through the engine's scripts** — honest, shown, cited. A partial bridge is valid: any hook you don't fill uses the engine default, so the engine always plays.
 
 ---

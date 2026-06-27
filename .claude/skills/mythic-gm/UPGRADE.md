@@ -11,6 +11,29 @@ Points, and character generation correct and machine-driven.
 
 ---
 
+## Revision — system-agnostic configuration guide (latest)
+
+Documentation-only; no script or rules changes. Adds a single, explicit path for
+**configuring a new RPG system**, organized by the two questions that actually
+decide the setup:
+
+- **New top-level `CONFIGURE.md`** — the engine's system-agnostic framing, a
+  Session-Zero decision tree, and the **{with/without sourcebooks} ×
+  {with/without published adventure}** 2×2 with a per-quadrant playbook of exact
+  commands, the campaign-folder-vs-reusable-bridge track choice, mixed/partial
+  cases, and the discipline invariants that survive every config.
+- **New `references/adapting/configure-matrix.md`** — the long-form, per-quadrant
+  step-by-step deep dive behind `CONFIGURE.md`.
+- Cross-linked from `SKILL.md` (Session Zero, Reference Loading Guide, the RPG
+  seam), `COMPANION-SKILLS.md`, `references/adapting/00_overview.md`,
+  `assets/templates/session-zero-checklist.md`, and `README.md`.
+
+To apply: drop in the new `mythic-gm/` (or just add the two new files and the
+cross-links). Nothing to migrate; `python3 mythic-gm/scripts/build_data.py` still
+prints `VERIFICATION PASSED ✓`.
+
+---
+
 ## What changed (this revision)
 
 1. **`Plotline` → `Thread` everywhere.** Mythic 2e's own term is *Thread*; the Adventure Crafter
