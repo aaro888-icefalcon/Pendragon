@@ -136,9 +136,9 @@
     },
     {
       "name": "Brother Iuan (Stapleford's priest)",
-      "weight": 1,
-      "status": "ally/clergy",
-      "dossier": "Young syncretic priest, now Stapleford's. Committed ally; Abisec swore (Honor) to shield him. Keeps the old faith tolerantly beside the new."
+      "weight": 2,
+      "status": "ally/clergy — FLOURISHING: a locally-beloved syncretic holy man drawing pilgrims (shields the rite)",
+      "dossier": "Young syncretic priest, now Stapleford's. Committed ally; Abisec swore (Honor) to shield him. Keeps the old faith tolerantly beside the new. — FLOURISHED (483 spring) [good-thing 7]: Iuan has become a locally-renowned holy man — his chapel draws pilgrims from three valleys (healings, field-blessings, a gentle God untroubled by the herb-charm under the prayer; talk of his spring-water mending a Warminster woman's eyes). His growing sanctity SHIELDS the old family rite better than secrecy ever did — you cannot denounce a priest the people call a saint; Father Cynfael is checkmated. Abisec's 2-year gamble (installing the tolerant Iuan) vindicated. Faint shadow: renown draws wider Church notice in time."
     },
     {
       "name": "Father Tewdric (the Deverills)",
