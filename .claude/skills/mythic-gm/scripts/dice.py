@@ -78,20 +78,46 @@ def cmd_check(odds, cf):
     if ev: print(f"   ⚡ RANDOM EVENT (doubles {a}, ≤ CF {cf})")
     print("   [src mythic.fate_check]")
 
-def cmd_scene(cf):
-    """Adventure Crafter is always on: both Altered and Interrupt generate a full Turning Point."""
+def cmd_scene(cf, mode=None):
+    """Test the Expected Scene (1d10). The within-CF branch is mode-dependent
+    (playloop.md Part 6 / Mythic-GME p.67):
+      crafter (DEFAULT) — the Adventure Crafter is always on: Altered AND Interrupt
+                          both generate a full Turning Point.
+      pure              — pure Mythic: Altered → a Scene Adjustment; Interrupt →
+                          a Random Event (no Turning Point).
+      prepared          — a published module: NO Altered/Interrupt; a within-CF roll
+                          instead ADDS a Random Event to the Expected Scene (the
+                          module keeps priority, Mythic is co-GM).
+    over-CF → the Expected Scene runs as framed in every mode."""
+    m = (mode or "crafter").lower()
+    if m not in ("pure", "crafter", "prepared"):
+        sys.exit("Unknown --mode (use pure|crafter|prepared).")
     r = d(10)
-    if r > cf:
-        out = "EXPECTED SCENE (runs as framed)"; tp = False
-    elif r % 2 == 1:  # odd
-        out = "ALTERED SCENE → Turning Point (use the Expected Scene as its basis)"; tp = True
-    else:             # even
-        out = "INTERRUPT SCENE → Turning Point (an entirely new, unexpected scene)"; tp = True
-    print(f"🎬 SCENE TEST  [Chaos {cf}]")
-    print(f"   1d10 = {r}   ({'over CF' if r>cf else 'within CF, '+('odd' if r%2 else 'even')})")
+    within = r <= cf
+    follow = None
+    if not within:
+        out = "EXPECTED SCENE (runs as framed)"
+    elif m == "prepared":
+        out = "PREPARED: keep the Expected Scene — ADD a Random Event to it (no Altered/Interrupt)"
+        follow = "   → python3 scripts/oracle.py event --campaign <dir>   (add the result to the Expected Scene)"
+    elif r % 2 == 1:  # odd → Altered
+        if m == "crafter":
+            out = "ALTERED SCENE → Turning Point (use the Expected Scene as its basis)"
+            follow = "   → python3 scripts/adventure_crafter.py turning-point --campaign <dir> [--existing]"
+        else:
+            out = "ALTERED SCENE (begin in the next-most-expected way; or python3 scripts/dice.py table scene_adjustment)"
+    else:             # even → Interrupt
+        if m == "crafter":
+            out = "INTERRUPT SCENE → Turning Point (an entirely new, unexpected scene)"
+            follow = "   → python3 scripts/adventure_crafter.py turning-point --campaign <dir> [--existing]"
+        else:
+            out = "INTERRUPT SCENE → Random Event (discard the expectation; open on the event)"
+            follow = "   → python3 scripts/oracle.py event --campaign <dir>"
+    print(f"🎬 SCENE TEST  [Chaos {cf}]  mode={m}")
+    print(f"   1d10 = {r}   ({'over CF' if not within else 'within CF, '+('odd' if r%2 else 'even')})")
     print(f"   RESULT: {out}")
-    if tp:
-        print("   → python3 scripts/adventure_crafter.py turning-point --campaign <dir> [--existing]")
+    if follow:
+        print(follow)
     print("   [src mythic.scene_test]")
 
 def cmd_thread_discovery(points):
@@ -149,7 +175,7 @@ def main():
     try:
         if cmd == "fate": cmd_fate(pos[0], int(pos[1]), mode, th, ch, camp, brg)
         elif cmd == "check": cmd_check(pos[0], int(pos[1]))
-        elif cmd == "scene": cmd_scene(int(pos[0]))
+        elif cmd == "scene": cmd_scene(int(pos[0]), mode)
         elif cmd == "table": cmd_table(pos[0])
         elif cmd == "thread-discovery": cmd_thread_discovery(int(pos[0]))
         elif cmd == "keyed": cmd_keyed(pos[0], pos[1] if len(pos)>1 else None)

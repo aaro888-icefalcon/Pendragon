@@ -13,9 +13,8 @@ Points, and character generation correct and machine-driven.
 
 ## Revision — system-agnostic configuration guide (latest)
 
-Documentation-only; no script or rules changes. Adds a single, explicit path for
-**configuring a new RPG system**, organized by the two questions that actually
-decide the setup:
+Adds a single, explicit path for **configuring a new RPG system**, organized by
+the two questions that actually decide the setup:
 
 - **New top-level `CONFIGURE.md`** — the engine's system-agnostic framing, a
   Session-Zero decision tree, and the **{with/without sourcebooks} ×
@@ -27,10 +26,17 @@ decide the setup:
 - Cross-linked from `SKILL.md` (Session Zero, Reference Loading Guide, the RPG
   seam), `COMPANION-SKILLS.md`, `references/adapting/00_overview.md`,
   `assets/templates/session-zero-checklist.md`, and `README.md`.
+- **Engine fix:** `dice.py scene` now honors `--mode pure|crafter|prepared` (it
+  was parsed but ignored). `crafter` stays the default and is unchanged (Altered
+  **and** Interrupt → a Turning Point); `pure` gives Altered → a Scene Adjustment
+  and Interrupt → a Random Event; `prepared` suppresses Altered/Interrupt and
+  **adds** a Random Event to the Expected Scene — the behavior the play loop and
+  the new configuration guide describe for running a published module.
 
-To apply: drop in the new `mythic-gm/` (or just add the two new files and the
-cross-links). Nothing to migrate; `python3 mythic-gm/scripts/build_data.py` still
-prints `VERIFICATION PASSED ✓`.
+To apply: drop in the new `mythic-gm/` (or add the two new files, the cross-links,
+and the `dice.py scene --mode` fix). Nothing to migrate; the bare
+`dice.py scene <CF>` the main loop uses is unaffected, and
+`python3 mythic-gm/scripts/build_data.py` still prints `VERIFICATION PASSED ✓`.
 
 ---
 
