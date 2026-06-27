@@ -130,9 +130,9 @@
     },
     {
       "name": "Merlin (the enchanter)",
-      "weight": 1,
-      "status": "background(looming)",
-      "dossier": "The enchanter; present at court. Unmet by Abisec; a cowled unease by the dais. Looms over the whole age."
+      "weight": 3,
+      "status": "MET (Hindon, summer 483) — a LIVE force now, quietly AGAINST the quest",
+      "dossier": "The enchanter; present at court. Unmet by Abisec; a cowled unease by the dais. Looms over the whole age. **MET, summer 483 (Turning Point).** Rode unbidden to Hindon the night Elidyr was poisoned. Named the poison (monkshood, thrice-drawn) & pointed to the cure (Sawyl at Hantonne) — but the 'debt for the leech's name' was a feint Abisec refused (he already knew Sawyl). REVEALED INTEREST: Senara's royal Ebbesborne blood ('what it may yet make') — and [Awareness✓] he does NOT mean it for Elidyr: MERLIN OPPOSES THE SENARA–ELIDYR MATCH, wanting that blood for an unnamed design of his own. WITHHELD the assassin's name ('knowing it now would cost you more'). 'You'll owe me; I'll name the debt when it suits me.' A kingmaker's hand now crossing Abisec's quest."
     },
     {
       "name": "Brother Iuan (Stapleford's priest)",
@@ -280,9 +280,9 @@
     },
     {
       "name": "Sawyl the Greek-taught (physician; distant)",
-      "weight": 1,
-      "status": "ally/healer(distant)",
-      "dossier": "Of Abisec's healing cohort; analytical, learned in Eastern/Greek medicine far past anything in Logres. Far off at a port (or abroad) — a rare correspondent and a link to the East that Abisec's Sarmatian blood already leans toward. Distant ally; a resource for hard cases and rare lore."
+      "weight": 3,
+      "status": "ally/healer — now MET & deeply OWED (forfeited his passage East in Abisec's cause)",
+      "dossier": "Of Abisec's healing cohort; analytical, learned in Eastern/Greek medicine far past anything in Logres. Far off at a port (or abroad) — a rare correspondent and a link to the East that Abisec's Sarmatian blood already leans toward. Distant ally; a resource for hard cases and rare lore. **MET in person at Hantonne, summer 483.** Boyhood roommate; the one art in Logres that could unmake refined monkshood. Found tending the childbed-fever of Master Brennus's young wife (at her crisis) — would NOT abandon a dying patient even for Abisec, and had already let his long-awaited ship for the East sail without him for her sake. Could not come; instead prepared the antidote & taught Abisec to administer it ('you've good hands and the right blood'). Abisec OWES him a real, unpaid debt."
     },
     {
       "name": "Sir Gwriad (uncle)",
@@ -391,8 +391,20 @@
     {
       "name": "Sir Elidyr of Throope (the man Senara loves; now MET — ally)",
       "weight": 3,
-      "status": "ally (MET) — Senara's love; a worthy poor honourable lord; RODERICK'S VASSAL (Ebble); will quitclaim the Hindon claim gladly",
-      "dossier": "[npcs_specific_nobility 22] Head of a MINOR but GREATLY RESPECTED house in the Ebble valley, near Senara's late mother's Ebbesborne kin — honorable, near her years, rich in honor and poor in power. THE MAN SENARA LOVES. [romance_meeting 58: 'one needed something the other had'] They met when her great house fell and great-uncle Cadell spurned her: Elidyr's small honourable house still treated her as worth something, and her royal Ebbesborne blood would lift his honoured-but-minor line — a match of mutual need that became real love. THE KING FORBIDS IT: her blood is 'too dear' to spend raising a minor house. Senara plans to wed him in SECRET (the 'wed-and-ruin' hand — gaining the man AND destroying her worth as a Crown marriage-asset; ruinous if discovered). ABISEC has deduced a man exists but does NOT have the name (Senara refused [Fate No 80] — won't hand him to 'the King's instrument'). The rescue: find/confirm Elidyr + win the King for an OPEN match before her secret plan blows up. — MET (summer 483): flushed out by Abisec's deadline-gambit [Fate Yes 22], Sir Elidyr of Throope rode unarmed up the Hindon road into the King's-instrument's reach — pale, steady, brave past sense — because he'd not let Senara be sold believing no one came. Abisec took his measure: honourable to the bone, poor & unashamed, near her years, NO guile, the genuine article — exactly the man she'd ruin three houses for. He came not to beg but to TRADE (knowing he's no match by Uther's reckoning): offers good-faith coin — the old honourable houses long watched GWYTHYR OF MERE dealing with Idnerth before the Boar's fall. Now Abisec's ALLY + source; the core task = win the King's leave for the Senara-Elidyr match. — MEASURED (summer 483): [Q2 No] his Gwythyr intel is SMOKE not fire — the gentry watched Gwythyr's riders on Hindon roads, an odd closeness Mere↔Idnerth, wool/coin moving wrong, before the Boar's fall — corroborates Idnerth's deathbed naming but NO proof (a trail). [character] No claim-grasper: 'I couldn't hold Hindon if you gift-wrapped it; I want the woman' — would QUITCLAIM any Hindon claim for himself & his heirs before God & clerk, gladly. [Q1 Yes] **Holds Throope of COUNT RODERICK — Abisec's own mentor-liege.** So the match is Roderick's to broker, the claim dies under Roderick's witness, and Elidyr's a known/bindable man in the Salisbury web. A clean, worthy, willing match-partner; the risk Abisec feared is cageable."
+      "status": "ally — SAVED (poisoned & twice attacked, summer 483); recovering at Hindon; bound to Abisec by his life",
+      "dossier": "[npcs_specific_nobility 22] Head of a MINOR but GREATLY RESPECTED house in the Ebble valley, near Senara's late mother's Ebbesborne kin — honorable, near her years, rich in honor and poor in power. THE MAN SENARA LOVES. [romance_meeting 58: 'one needed something the other had'] They met when her great house fell and great-uncle Cadell spurned her: Elidyr's small honourable house still treated her as worth something, and her royal Ebbesborne blood would lift his honoured-but-minor line — a match of mutual need that became real love. THE KING FORBIDS IT: her blood is 'too dear' to spend raising a minor house. Senara plans to wed him in SECRET (the 'wed-and-ruin' hand — gaining the man AND destroying her worth as a Crown marriage-asset; ruinous if discovered). ABISEC has deduced a man exists but does NOT have the name (Senara refused [Fate No 80] — won't hand him to 'the King's instrument'). The rescue: find/confirm Elidyr + win the King for an OPEN match before her secret plan blows up. — MET (summer 483): flushed out by Abisec's deadline-gambit [Fate Yes 22], Sir Elidyr of Throope rode unarmed up the Hindon road into the King's-instrument's reach — pale, steady, brave past sense — because he'd not let Senara be sold believing no one came. Abisec took his measure: honourable to the bone, poor & unashamed, near her years, NO guile, the genuine article — exactly the man she'd ruin three houses for. He came not to beg but to TRADE (knowing he's no match by Uther's reckoning): offers good-faith coin — the old honourable houses long watched GWYTHYR OF MERE dealing with Idnerth before the Boar's fall. Now Abisec's ALLY + source; the core task = win the King's leave for the Senara-Elidyr match. — MEASURED (summer 483): [Q2 No] his Gwythyr intel is SMOKE not fire — the gentry watched Gwythyr's riders on Hindon roads, an odd closeness Mere↔Idnerth, wool/coin moving wrong, before the Boar's fall — corroborates Idnerth's deathbed naming but NO proof (a trail). [character] No claim-grasper: 'I couldn't hold Hindon if you gift-wrapped it; I want the woman' — would QUITCLAIM any Hindon claim for himself & his heirs before God & clerk, gladly. [Q1 Yes] **Holds Throope of COUNT RODERICK — Abisec's own mentor-liege.** So the match is Roderick's to broker, the claim dies under Roderick's witness, and Elidyr's a known/bindable man in the Salisbury web. A clean, worthy, willing match-partner; the risk Abisec feared is cageable. **SUMMER 483:** waylaid on the Throope road by a hidden hand — a poisoned crossbow bolt (monkshood) that nearly killed him; then a SECOND, night attempt at his Hindon sickbed (drove off, but slew Gruffudd of the watch). SAVED by Abisec's hard ride to Hantonne for Sawyl's cure [First Aid✓] — life owed to Abisec. Slow recovery. The match (Roderick-blessed in principle) now also has a faceless enemy who twice tried to end it in blood."
+    },
+    {
+      "name": "Master Brennus of Hantonne (wine-shipper)",
+      "weight": 1,
+      "status": "neutral — a Hantonne contact; a frightened husband who held the leech",
+      "dossier": "Wine-shipper of Hantonne. His young wife lay in a hard childbed-fever; Sawyl was the one leech keeping her alive, so Brennus would not release him to Abisec ('he stays') — not malice, a husband's terror. Met civilly; no debt, no grudge. A south-coast port contact."
+    },
+    {
+      "name": "Gruffudd of the gate-watch (slain on the sickroom watch, 483)",
+      "weight": 1,
+      "status": "DEAD (483) — slain on the sickroom watch, faithful",
+      "dossier": "Gate-watchman of Hindon. Set by Abisec to guard the poisoned Elidyr; the faceless assassin came back in the night and killed him at the sickroom door, but Gruffudd's stand (with Custennin & Senara) cost the killer the kill. Owed a barrow and care for his kin. Stays in the pool (a debt, a memory)."
     }
   ]
 }
