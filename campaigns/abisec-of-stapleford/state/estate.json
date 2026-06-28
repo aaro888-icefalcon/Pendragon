@@ -289,7 +289,7 @@
         "squire": "Achil of Stapleford (brother & heir) — knighting ~484 on the Saxon campaign (Uther's counsel: blood him in real war; keep him a LORD as well as a knight; let him keep the healer-craft).",
         "foot_and_garrison": {
           "foot_at_hindon": 15,
-          "captain_castellan": "Drustan — grizzled veteran sergeant-at-arms; the natural CASTELLAN (formalise with the title + Battle/Siege).",
+          "captain_castellan": "Drustan — grizzled veteran sergeant-at-arms / garrison-captain UNDER the lord; minds the foot & holds Hindon when Abisec rides. Abisec sits Hindon himself (no castellan title).",
           "maintenance_gbp": "15 foot @ £0.5 = £7.5/yr (inside the Army expense line)."
         },
         "garrison_table_5_5": {
@@ -327,7 +327,7 @@
         "warhorses": "Karu (Charger 6d6), a Courser (6d6), 2 Rouncey (4d6), a Sumpter",
         "officers": {
           "constable": "a household knight holds the Constable office (horses ready — eschille doctrine)",
-          "castellan": "Drustan (to be formally titled) — commands the foot garrison so Abisec can ride",
+          "castellan": "NONE — Abisec SITS Hindon himself as resident lord-commander. Drustan (garrison-captain/sergeant-at-arms) holds it in the lord's absence (musters/war); no separate castellan office for a one-caput banneret.",
           "steward": "Mabli",
           "seneschal": "Sir Bledig"
         },
