@@ -86,7 +86,7 @@
 
 ## Equipment & Wealth
 - **Armor:** Chainmail (10 pt) · **Shield** (6 pt) · **Weapons:** Sword, dagger, 2 spears, lance · Fine clothing (£1)
-- **Coin on hand:** ~£9 + 9 denarii
+- **Coin on hand:** ~£9 + 9 denarii · **+£17 Parrett spoils** (autumn 483: the slain Irish chief's gold £10 + commander's share £7; locals' goods returned, hulls & prisoners ceded to the Crown) → **liquid ~£111.5** (reconcile at WP483 estate cycle)
 - **Ransom (Bedegraine 481):** ~£170 owed by the captured knight's kin (paid over coming months). ~£26 spent (armory £10 + hall defenses ~£10 + moat £2 + gateworks £4); **£110.5 liquid (firmed WP482)** — full decimal ledger in **`state/estate.json`** (the authoritative estate subsystem): Bedegraine ransom in full + King's silver grant + 482 surplus, less the towers, vaccary & apiary.
 - Father's field-surgery roll; a tiercel (hawk).
 
