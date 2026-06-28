@@ -415,6 +415,16 @@
       "weight": 2,
       "status": "ally — living witness to the last keeping (the mother's rite & price)",
       "dossier": "Arrived at the summer house midsummer-eve 483 (PC-Positive random event) on hearing the lord's daughter had come home. Once NURSE to Senara's mother; knew the house when it was still kept. Makes the pact human & plain: the keeper of the blood 'sings it home' each midsummer and pays the KEEPER'S PRICE — her own childbearing (Senara's mother gave up all children after Senara to keep the door small & keep her). Recalls the mother 'feared the wizard who used to watch her' — MERLIN's interest in this blood predates Senara by a generation. A clarifying, loyal old-faith ally."
+    },
+    {
+      "name": "Sir Gwallog of Tisbury (rival; baron's younger son)",
+      "weight": 1,
+      "status": "rival/enemy (NEW, 483) — competitive; working to cool Abisec's marriage prospects",
+      "dossier": "NEW (post-midsummer 483; generated tags: Enemy · Competitive · Hinders-the-marriage-thread). An ambitious baron's younger son of Tisbury (Nadder valley), climbing the same ladder as Abisec. For two months he has been calling on the marriageable houses of the region, courteous, and quietly leaving the same doubt: 'fine man, shame about the land' — weaponizing Abisec's real weakness (Hindon held on a forfeitable Crown vow, not hereditary). Cooling Abisec's prospects to keep a rising rival down. POSSIBLE (unproven) tie to Gwythyr of Mere (both undercut Abisec) — a future suspicion. Roderick named him to Abisec at Sarum."
+    },
+    {
+      "name": "Sir Gwallog of Tisbury",
+      "weight": 1
     }
   ]
 }
