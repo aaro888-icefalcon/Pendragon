@@ -167,8 +167,8 @@
     {
       "name": "Sir Gwion (garrisons Vagon)",
       "weight": 1,
-      "status": "war-band",
-      "dossier": "Young Salisbury knight; leg knit stiff-but-serviceable (Plain Sweep wound). Garrisoned Vagon under Abisec — now reverting to Roderick's command with the keep; glad he took the keys. A follower in Abisec's eschille."
+      "status": "FORMER war-band — stayed with Vagon when it reverted to Roderick (spring 482); now Roderick's man, not Abisec's",
+      "dossier": "Young Salisbury knight; leg knit stiff-but-serviceable (Plain Sweep wound). Garrisoned Vagon under Abisec — now reverting to Roderick's command with the keep; glad he took the keys. A follower in Abisec's eschille. **(resolved autumn 483)** When Vagon reverted to Count Roderick, Gwion STAYED to garrison it — he is Roderick's man now, no longer in Abisec's service. Amicable; a familiar face on the Salisbury side, not a sword Abisec can call."
     },
     {
       "name": "Cynyr (Roderick's huntsman)",

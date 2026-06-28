@@ -222,7 +222,8 @@
           "kings_garrison_foot": 5,
           "computation": "£55 CR -> 5 knights + 15 foot (1kn+3foot/£10 at £50) + 5 foot (1 foot per £1 over £50) = 5 knights + 20 foot. Split per the £50-rule (10 field + 5 king's-garrison at £50; the +5 remainder foot are field) -> 15 field + 5 king's-garrison.",
           "shortfall_fine": "Not bringing the 5 owed knights to a muster = a fine, £1 up to the holding's annual value, by the King's anger.",
-          "maintenance_rates": "knights £4 ea, foot £0.5 ea; a lowered servitium frees that saved maintenance to spend at will."
+          "maintenance_rates": "knights £4 ea, foot £0.5 ea; a lowered servitium frees that saved maintenance to spend at will.",
+          "maintenance_cost_gbp": "5 knights @ £4 (all-in: fee+horse+arms) = £20 + 20 foot @ £0.5 = £10 -> £30/yr. (Lord pays no fee to himself; in practice = 5 household knights £20 + 20 foot £10 = £30. He provisions all 20 foot even though 5 serve a royal castle.)"
         },
         "kings_garrison": {
           "owed": 5,
@@ -277,10 +278,6 @@
             "note": "household knight, but currently STAYED at Salisbury (Roderick's court)"
           },
           {
-            "name": "Sir Gwion",
-            "note": "garrisoned Vagon — which reverted to Roderick; his status with Abisec UNRESOLVED (worth nailing down)"
-          },
-          {
             "name": "Sir Jasson",
             "note": "friendly NEIGHBOUR knight — rides with Abisec by goodwill, not homage (brought lances to the Ebble)"
           },
@@ -333,6 +330,18 @@
           "castellan": "Drustan (to be formally titled) — commands the foot garrison so Abisec can ride",
           "steward": "Mabli",
           "seneschal": "Sir Bledig"
+        },
+        "former_men": [
+          {
+            "name": "Sir Gwion",
+            "note": "garrisoned Vagon; when Vagon reverted to Roderick (spring 482) Gwion STAYED with it — now Roderick's man, NO LONGER Abisec's."
+          }
+        ],
+        "provisioning": {
+          "summary": "Abisec's establishment is part-provisioned through STAPLEFORD (the family seat), keeping Hindon's frugal Army line (£32) tight against the £30 rules-cost of 5 knights + 20 foot.",
+          "armory": "Stapleford's armory (Selyf; net +£1, PRODUCES arms) outfits the household — so Hindon's effective arms/armour outlay is below the £3 line; much is made at home.",
+          "surplus": "Stapleford's ~£5/yr operating surplus is held in trust and banks to Abisec's reserve meanwhile.",
+          "accounts": "Bascar (Abisec's retired father, resident lord of Stapleford) keeps the Stapleford books — a real managed pipeline."
         }
       },
       "key_npcs": [
