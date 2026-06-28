@@ -450,3 +450,12 @@ At each **Winter Phase** the AC theme priority is RE-ALLOCATED for the upcoming 
 - **THE TERMS:** **[Q1 No]** CONTAINMENT, not a claim — Uther wants her *quiet*, married to a steady loyal man who won't fear her or be tempted by her dead claim. **[Q2 No]** NO dower/land/concession — 'my trust is what comes with her.' Her claim stays BURIED ('trouble the man who holds her lands and you answer to ME'). Keep her still = square; refuse = a 'falter' that worries the King ('what's gone soft in my honest instrument').
 - HOOKS: a possible real partnership (Abisec reaches the wronged where name-chasers failed — cf. Senara); her buried claim a dangerous long-game vs. a Crown-protected usurper.
 - Live: Abisec's answer to the King. CF 3.
+
+### Scene 52 (autumn 483, Uther's court) — accepted, eyes open; the due-diligence answers
+- Abisec affirmed loyalty ('always your man') and ACCEPTED the task, but asked his questions. Uther answered candidly:
+  - **SALTMERE** — her father's lost south-coast salt-marsh honour (half drowned; worth its shore-watch), held now by **Baron Anwas** (took it ~20 yrs ago on a thin claim; keeps Saxon keels off that coast = Crown-useful, so Uther shields him & keeps her claim dead). NEW char: Baron Anwas (w1, usurper / long-game target — 'touch him → answer to me').
+  - **BETROTHALS** — two, neither to the altar (MAIDEN [Fate Yes]): #1 fled her temper; #2 broke in SCANDAL — she was 'seduced or bewitched into disloyalty' [betrayal-form roll] — her soiled name (victim-or-wanton unresolved; faint enchantment hook). No prior marriage.
+  - **FERTILE/SOUND** [Fate Yes] — whole enough to bear sons (Uther: 'I need your line near as much as you do — it keeps Hindon yours'). The marriage CAN secure the heir.
+  - **AGE/TEMPER** — 26 (2 yrs older than Abisec), fierce; 'which is why I give her to you, not some soft boy. Manage her.'
+- **MATCH ACCEPTED**; royal favour solid. NEXT: meet Lady Rhonwen, then betroth/wed. LONG-GAME seed: Anwas & the buried Saltmere claim.
+- **SAVE POINT: autumn 483, court.** Sir Abisec, age 24 · Glory 3,305 · Battle 20 · HP 25/25 · liquid £94.5 · CF 3. The Crown match to Lady Rhonwen ACCEPTED, eyes open (wronged, scandal-marked, fierce, fertile, landless; her claim forbidden). Live: go meet his bride. OPEN: Gwallog (moot now — a King-match), Merlin's debt, Anwas/Saltmere (buried), the year toward Winter Phase.
