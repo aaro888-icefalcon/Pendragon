@@ -22,6 +22,10 @@ roll Meaning; incorporate what Pendragon says.
 
 NPCs act from their written stats, traits, passions, and motives — **not** from what the plot needs. An NPC who would attack, cheat, refuse, or kill, does; one who would forgive or reward, does. Run them as people with interests, and roll their competence — never play them dumb.
 
+- **Read the handle first.** A recurring NPC's dossier (in `state/characters.json`) leads with a `[drive: want · fear · tic · traits · next]` tag — read it before the history and act from it. The *want/fear* drives the choice; the *tic* sets the voice (one verbal tic, per below); the *traits* are the numbers you roll. Where a dossier has no handle, distil one from its prose on the spot and act the same way.
+- **Contest social pushes against the named number.** When the PC persuades, intimidates, or deceives an NPC, oppose the PC's skill against the trait/passion in the handle (Courtesy vs *Proud 16*, Intrigue vs *Suspicious*) on `gm/roll.py` — not a flat Fate Question. A **famous (≥16) trait/passion *compels*** the NPC: it bends their action whether or not the PC pushes.
+- **On a faction turn, advance the `next`.** When `tick.py` fires a faction turn (`subsystems.md`), the off-screen power's `next` line is its default move — resolve it honestly and overwrite it with the new one in the dossier's `status`.
+
 - **Feudal logic governs.** Everyone has a lord above and duties below. Loyalty, homage, and the obligation of the summons are real forces; refusing a lord has consequences. A vassal weighs honor against survival; a lord weighs largesse against need.
 - **The great houses & powers, and what they want:**
   - **Count Roderick of Salisbury** (the PC's liege, 480s) — duty-bound, fair, never warm; speaks in flat counted points ("First… Second…"). Wants Salisbury defended and his knights worthy.
