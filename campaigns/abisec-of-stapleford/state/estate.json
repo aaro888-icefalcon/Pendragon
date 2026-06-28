@@ -1,424 +1,552 @@
 {
- "_meta": {
-  "title": "Estate Subsystem — Sir Abisec of Stapleford (Knight Banneret of Hindon)",
-  "authoritative": "This JSON is the AUTHORITATIVE source for ALL estate numbers — cash, income, expenses, improvements, fortification DV, settlement & military demographics. estate.md is prose companion only; on any numeric conflict, THIS file wins.",
-  "currency": "Tracked to GBP 0.1 (decimals of a pound). 1 GBP = 20 shillings (s) = 240 denarii (d). Convert windfalls/wages/ransoms to GBP at the moment of entry.",
-  "reconcile_cadence": "Reconciled each WINTER PHASE (Step 4 economic + Step 8 Glory). Mid-year: append an ad-hoc cash.ledger entry for every windfall, grant, wage, plunder, or capital project, keeping the running balance current. The world-tick 'estate & entourage' hook fires this.",
-  "last_reconciled": "Winter Phase 482 (rolling into 483)",
-  "rules": {
-   "customary_revenue": "CR per holding = sum of income lines (assized rents + production + court/market + improvement yields). CR = the Honour value (Ruling #26b). Annual Land Glory = CR, capped 100/yr (Ruling #26e). Baron tier = Honour 200-300.",
-   "expenses": "Itemized CONCRETELY, never a flat 55/25/10/10 (that default over-stated a frugal lord). Categories: Army (the dominant real cost — eschille, garrison, warhorses, arms, castle ward), Court (admin + hospitality), Family (ACTUAL dependents only). Abisec is Temperate 13 / Modest 13 — he lives lean, so expenses run well under the old default and the estate BANKS a surplus.",
-   "operating_surplus": "operating_surplus = CR - expenses_total. Banked to liquid each Winter Phase reconciliation.",
-   "liquid_cash": "cash.liquid_gbp is the running balance, to 0.1. EVERY windfall, grant, wage, and capital project is logged in cash.ledger with its delta and the resulting running balance.",
-   "improvements": "Each improvement: build_cost (one-time, paid from liquid), annual_yield (added to the holding's CR), space (land/sites it occupies), risk (e.g., cattle murrain = an annual roll), status (built/planned).",
-   "fortification_DV": "Per element, KAP Defence Value. Wet moat adds to the ditch's DV. Updated as works complete; tower cadence = one wooden tower (GBP 15) per season, no debt.",
-   "maintenance_glory": "Winter Phase Step 8: maintenance Glory = libra ACTUALLY spent on conspicuous display/largesse. Frugal Abisec spends little, so this is LOW (the deliberate trade-off for banking cash). NOT the same as total upkeep.",
-   "economic_grade": "Set by ESTABLISHMENT (castle + CR + household), NOT by personal splurge. Abisec is Superlative (castle + GBP 67 CR + a banneret's household) and stays so while living frugally — keeping the +2 horse / +3 family Winter-Phase modifiers."
-  }
- },
- "economic_grade": "Superlative",
- "cash": {
-  "liquid_gbp": 104.5,
-  "ledger": [
-   {
-    "when": "spring 482",
-    "entry": "Opening liquid — Bedegraine ransom reserve 99.0 + purse 9.0",
-    "delta": null,
-    "balance": 108.0
-   },
-   {
-    "when": "summer 482",
-    "entry": "King's grant — half the forger's recovered silver (the thief's purse)",
-    "delta": 30.0,
-    "balance": 138.0
-   },
-   {
-    "when": "WP 482",
-    "entry": "482 operating surplus banked (CR 67.0 - expenses 50.5; frugal living)",
-    "delta": 16.5,
-    "balance": 154.5
-   },
-   {
-    "when": "WP 482",
-    "entry": "Two wooden towers (15.0 ea), flanking the wool-town wall",
-    "delta": -30.0,
-    "balance": 124.5
-   },
-   {
-    "when": "WP 482",
-    "entry": "Vaccary (cattle herd) built at Hindon",
-    "delta": -10.0,
-    "balance": 114.5
-   },
-   {
-    "when": "WP 482",
-    "entry": "Mellisarium (apiary) built at Hindon",
-    "delta": -4.0,
-    "balance": 110.5
-   },
-   {
-    "when": "early winter 483",
-    "entry": "Breach patch — timber+rubble (storm's own) + free town labor [Mabli Stewardship CRIT]",
-    "delta": -1.0,
-    "balance": 109.5
-   },
-   {
-    "when": "spring 483",
-    "entry": "Flood rebuild done — stone wall (DV5 restored) £3 + mill £1 + cattle restock (12 head off Cadwal) £2",
-    "delta": -5.0,
-    "balance": 104.5
-   }
-  ],
-  "projected_483_surplus_gbp": 21.0,
-  "reserve_earmarks": [
-   "tower cadence (15.0/season)",
-   "contingencies / ransoms",
-   "(hospital plan SCRAPPED)"
-  ],
-  "pending_repairs_483_gbp": 0.0,
-  "note_483": "Flood fully repaired by spring 483 (~£6 total: £1 patch + £5 spring). Liquid £104.5."
- },
- "glory": {
-  "firmed_total": 2990,
-  "firmed_at": "Winter Phase 482",
-  "next_bonus_point_at": 3000,
-  "bonus_points_spent": 2,
-  "note": "10 Glory short of 3,000 at WP482 -> NO new Bonus Point this year (frugal living kept maintenance Glory low). The 3rd Bonus Point (and Battle 19->20) lands on the FIRST deed of 483 -- a single scene away. Battle currently 19 (Dedicated-Study +1 at WP482).",
-  "annual_awards_482": {
-   "deeds": 431,
-   "land_cr": 67.0,
-   "famous_trait_passion": 32,
-   "maintenance_frugal": 12
-  }
- },
- "holdings": {
-  "hindon": {
-   "name": "Hindon — the caput (chief seat)",
-   "tenure": "Crown grant (spring 482): Knight Banneret holding the caput FOR the King on the perpetual-fealty vow; his till the line fails, forfeit twice as fast if ever turned. The outliers (~95 GBP, 8 parcels) escheated/withheld by the Crown.",
-   "cr_gbp": 55.0,
-   "cr_after_improvements_gbp": 59.5,
-   "income": {
-    "assized_rents": 28.0,
-    "production_demesne_and_mill": 15.0,
-    "court_and_market_wool_staple": 12.0
-   },
-   "income_improvements_annual": {
-    "vaccary_cattle": 3.0,
-    "mellisarium_bees": 1.5
-   },
-   "expenses": {
-    "army_gbp": 32.0,
-    "court_gbp": 8.5,
-    "family_gbp": 3.0,
-    "detail": {
-     "army": "5 household knights (fed/armed/horsed) 12.0 | garrison ~12 spears + sergeants 9.0 | warhorses & remounts 5.0 | arms & armour upkeep/replacement 3.0 | castle ward, watch, repairs 3.0",
-     "court": "steward (Mabli) + seneschal (Bledig) + reeve/clerks + manor-court & market admin 5.5 | hospitality (frugal day-table + the march-affinity feast) 3.0",
-     "family": "ward Lady Senara's keep 2.0 | Father Custennin (chaplain) 0.5 | alms/minor dependents 0.5  [NO wife/children -> low]"
+  "_meta": {
+    "title": "Estate Subsystem — Sir Abisec of Stapleford (Knight Banneret of Hindon)",
+    "authoritative": "This JSON is the AUTHORITATIVE source for ALL estate numbers — cash, income, expenses, improvements, fortification DV, settlement & military demographics. estate.md is prose companion only; on any numeric conflict, THIS file wins.",
+    "currency": "Tracked to GBP 0.1 (decimals of a pound). 1 GBP = 20 shillings (s) = 240 denarii (d). Convert windfalls/wages/ransoms to GBP at the moment of entry.",
+    "reconcile_cadence": "Reconciled each WINTER PHASE (Step 4 economic + Step 8 Glory). Mid-year: append an ad-hoc cash.ledger entry for every windfall, grant, wage, plunder, or capital project, keeping the running balance current. The world-tick 'estate & entourage' hook fires this.",
+    "last_reconciled": "Winter Phase 482 (rolling into 483)",
+    "rules": {
+      "customary_revenue": "CR per holding = sum of income lines (assized rents + production + court/market + improvement yields). CR = the Honour value (Ruling #26b). Annual Land Glory = CR, capped 100/yr (Ruling #26e). Baron tier = Honour 200-300.",
+      "expenses": "Itemized CONCRETELY, never a flat 55/25/10/10 (that default over-stated a frugal lord). Categories: Army (the dominant real cost — eschille, garrison, warhorses, arms, castle ward), Court (admin + hospitality), Family (ACTUAL dependents only). Abisec is Temperate 13 / Modest 13 — he lives lean, so expenses run well under the old default and the estate BANKS a surplus.",
+      "operating_surplus": "operating_surplus = CR - expenses_total. Banked to liquid each Winter Phase reconciliation.",
+      "liquid_cash": "cash.liquid_gbp is the running balance, to 0.1. EVERY windfall, grant, wage, and capital project is logged in cash.ledger with its delta and the resulting running balance.",
+      "improvements": "Each improvement: build_cost (one-time, paid from liquid), annual_yield (added to the holding's CR), space (land/sites it occupies), risk (e.g., cattle murrain = an annual roll), status (built/planned).",
+      "fortification_DV": "Per element, KAP Defence Value. Wet moat adds to the ditch's DV. Updated as works complete; tower cadence = one wooden tower (GBP 15) per season, no debt.",
+      "maintenance_glory": "Winter Phase Step 8: maintenance Glory = libra ACTUALLY spent on conspicuous display/largesse. Frugal Abisec spends little, so this is LOW (the deliberate trade-off for banking cash). NOT the same as total upkeep.",
+      "economic_grade": "Set by ESTABLISHMENT (castle + CR + household), NOT by personal splurge. Abisec is Superlative (castle + GBP 67 CR + a banneret's household) and stays so while living frugally — keeping the +2 horse / +3 family Winter-Phase modifiers."
     }
-   },
-   "expenses_total_gbp": 43.5,
-   "operating_surplus_gbp": 11.5,
-   "land_glory_gbp": 55.0,
-   "fortification": {
-    "type": "shell-keep castle joined by drawbridge to a walled, moated wool-town (the 'bolt')",
-    "elements": {
-     "keep_shell": {
-      "dv": 9,
-      "notes": "ringed by ditch+rampart DV 3 + wet moat (+4) -> no dry approach"
-     },
-     "bailey_wall": {
-      "dv": 13
-     },
-     "gate": {
-      "dv": 4,
-      "notes": "base 2 + complex gateworks +2"
-     },
-     "wool_town_wall": {
-      "dv": 5,
-      "notes": "enclosed in stone (DV 5) — 483 flood breach REBUILT in stone by spring 483 (DV 5 restored)"
-     },
-     "town_ditch": {
-      "dv_base": 3,
-      "wet_moat_bonus": 4,
-      "effective_dv": 7,
-      "notes": "wet moat off the dammed mill-stream"
-     },
-     "keep_ditch": {
-      "dv_base": 3,
-      "wet_moat_bonus": 4,
-      "effective_dv": 7
-     },
-     "towers": {
-      "count": 2,
-      "type": "wooden",
-      "built": "WP 482",
-      "cost_each_gbp": 15.0,
-      "notes": "flank the town wall -- enfilade the gate & corners, deny escalade; cadence one/season"
-     },
-     "drawbridge": {
-      "notes": "keep<->town over the moat; raised = each sealed off, no dry approach to either"
-     },
-     "cistern": {
-      "notes": "deep cistern/vault -- siege water & secure store"
-     }
-    },
-    "summary": "Keep 9 / bailey 13 / gate 4, moated; walled+moated wool-town (wall DV 5, ditch DV 7) with 2 flanking towers; joined by a drawbridge. Stout vs raiders or a rebel; USELESS vs a king's host -- 'loyal initiative, not a power-base' (the pitch that won the King's floor).",
-    "furnishings_one_time_display_gbp": 160,
-    "furnishings_note": "Magnificent hall -- a ONE-TIME display VALUE, not income, not an annual hospitality tax (Ruling #26f). The treason-silver's legacy."
-   },
-   "improvements": [
-    {
-     "name": "The bolt (integrated keep+town fortification)",
-     "build_cost_gbp": 41.0,
-     "status": "built (spring-autumn 482)",
-     "space": "the wool-town perimeter + keep ditch; mill-stream dammed",
-     "effect": "see fortification"
-    },
-    {
-     "name": "Vaccary (cattle herd)",
-     "build_cost_gbp": 10.0,
-     "annual_yield_gbp": 3.0,
-     "status": "built WP 482 | HIT (483 flood: ~12 head drowned; herd reduced, first-year yield ~halved, restock ~£3) | restocked spring 483 (12 head off Cadwal, ~£2); herd back near strength",
-     "space": "PASTURE -- shares the chalk-down grazing with the wool-flocks (ample, no conflict)",
-     "risk": "murrain: annual d20 at WP -- on 1-2 lose the year's yield, on a 1 lose the herd (rebuild cost)"
-    },
-    {
-     "name": "Mellisarium (apiary)",
-     "build_cost_gbp": 4.0,
-     "annual_yield_gbp": 1.5,
-     "status": "built WP 482",
-     "space": "MINIMAL -- a sheltered forage corner near lime-blossom/heather/wildflower on the down's edge",
-     "risk": "low; hard winter can thin the hives",
-     "bonus": "wax (candles) + mead -> eases the hall's hospitality without cash"
-    },
-    {
-     "name": "Wooden towers",
-     "build_cost_gbp": 15.0,
-     "status": "2 built WP 482; cadence one/season",
-     "space": "town-wall flanking points",
-     "effect": "+ town wall defence at gate & corners"
-    }
-   ],
-   "settlement": {
-    "population_souls": "~500 (wool-town ~200; home manors/vills ~300)",
-    "wool_town": {
-     "name": "Hindon town",
-     "households": "~45",
-     "features": "market cross; weekly market + an annual fair; the WOOL STAPLE (the economic engine, purged honest 482); guild hall; church & chapel; the lord's mill",
-     "status": "newly WALLED & MOATED (the bolt); 2 flanking towers"
-    },
-    "home_manors_vills": "~4 vills + the lord's demesne farms; ~50 tenant holdings (virgates/bovates)",
-    "demesne": "lord's home farms -- arable + the downland SHEEP-FLOCKS (the wool) + oxen/dairy; now + the cattle vaccary & the apiary",
-    "lands": "chalk downland (sheep & now cattle), arable home-manor fields, river meadow, the mill-stream (dammed for the moats)"
-   },
-   "military": {
-    "servitium_debitum": "~5-6 knights + ~16 foot (per Ruling #26c: 1 knight + 2 field + 1 garrison foot per 10 GBP CR). The King MAY reduce by grace given the sworn vow.",
-    "standing_garrison": "the eschille (5-6 household knights) + ~12 spears/sergeants + the watch",
-    "warhorses": "Karu (Charger 6d6), a Courser (6d6), 2 Rouncey (4d6), a Sumpter"
-   },
-   "key_npcs": [
-    {
-     "role": "steward",
-     "name": "Mabli",
-     "note": "see characters.json -- childhood friend, ledgers-genius; runs Hindon's books"
-    },
-    {
-     "role": "seneschal",
-     "name": "Sir Bledig",
-     "note": "see characters.json -- Idnerth's old seneschal, retained; honest, knows every parcel & penny"
-    },
-    {
-     "role": "household leech",
-     "name": "Sioned",
-     "note": "see characters.json -- the hall's infirmary"
-    },
-    {
-     "role": "captain of the garrison / sergeant-at-arms",
-     "name": "Drustan",
-     "personality": "Grizzled veteran spearman, blunt and unsmiling; drills the garrison hard and feeds his men first; cares nothing for court, everything for a tight watch. Loyal to a lord who respects the men on the wall.",
-     "status": "NEW (WP482 scaffolding)"
-    },
-    {
-     "role": "chief burgher / wool-guild master",
-     "name": "Gwgan the Wool-master",
-     "personality": "Shrewd, prosperous, calculating -- but honest since Abisec purged the wool-fraud and cut the mill-toll. The staple's voice; wants stability above all (stability is profit). A useful barometer of the town's mood.",
-     "status": "NEW"
-    },
-    {
-     "role": "staple-keeper / fair-warden",
-     "name": "Rhiwallon",
-     "personality": "Meticulous, dry, incorruptible -- installed to keep the staple's weights & tolls honest after the factor's fraud. Trusts a ledger over a face.",
-     "status": "NEW"
-    },
-    {
-     "role": "miller",
-     "name": "Heilyn the Miller",
-     "personality": "Competent, prosperous, faintly resented (millers take toll); watched since the mill-toll was cut and the hand-querns outlawed. Keeps his head down and the wheel turning.",
-     "status": "NEW"
-    },
-    {
-     "role": "reeve, chief home-manor",
-     "name": "Einion the Reeve",
-     "personality": "Solid, honest peasant foreman; knows every furrow, tenant, and feud in the vill. The lord's eyes on the land; speaks plainly when asked and not otherwise.",
-     "status": "NEW"
-    },
-    {
-     "role": "town smith / farrier",
-     "name": "Tudur the Smith",
-     "personality": "Strong, taciturn, indispensable -- arms, tools, horseshoes. Says little, makes much.",
-     "status": "NEW"
-    },
-    {
-     "role": "reeve, upland vill",
-     "name": "Gwrgi",
-     "personality": "Dour, weather-bitten shepherd-reeve of the high downs; suspicious of town men and new lords alike, but fair with his own.",
-     "status": "NEW"
-    }
-   ],
-   "storm_damage_483": {
-    "when": "early winter 483 (Yule storm)",
-    "dead": "~4 townsfolk (Tegwen's family) drowned in the lower wool-town",
-    "wall_breach": "town-side moat-bank washed out -> breach in the new wool-town wall. PATCHED early winter 483 with a timber-and-rubble palisade (rough but a wall again; DV ~3-4 at that section until the spring stone rebuild restores DV 5).",
-    "losses": "3 houses; the staple's lower wool-store ruined; ~12 of the new vaccary cattle drowned in the flooded enclosure",
-    "repair_estimate_gbp": 6.0,
-    "repair_detail": "Mabli CRIT costing: urgent breach PATCH ~£1 (done, early winter 483; storm's own stone+timber + free town labor) + spring proper work ~£5 (stone wall rebuild ~£3, mill ~£1, cattle restock ~£2). Wool-store: not all lost — Mabli salvages & sells the wet wool cheap (~£3 income dent, not a repair).",
-    "status_resolved": "REPAIRED by spring 483 — wall rebuilt (DV5), mill mended, ~12 cattle restocked off Cadwal; the dead mourned. Total cost ~£6."
-   }
   },
-  "stapleford": {
-   "name": "Stapleford — the family manor",
-   "tenure": "Held of COUNT RODERICK; settled on Achil (to hold OF Abisec once belted ~484-486); held in trust meanwhile, Bascar resident & running the hall.",
-   "cr_gbp": 12.0,
-   "income": {
-    "assized_rents_and_wylye_demesne": 10.0,
-    "coneygarth_warren": 2.0,
-    "armory_net": 1.0
-   },
-   "income_detail": {
-    "armory": "+5.0 income / -4.0 maintenance = net +1.0"
-   },
-   "expenses": {
-    "army_gbp": 4.5,
-    "court_gbp": 1.5,
-    "family_gbp": 1.0,
-    "detail": {
-     "army": "3 foot + arms; Achil squiring (no knight's fee drawn yet) 4.5",
-     "court": "Bascar runs it; bare admin 1.5",
-     "family": "Bascar & Eluned live off the demesne produce -- modest 1.0"
+  "economic_grade": "Superlative",
+  "cash": {
+    "liquid_gbp": 94.5,
+    "ledger": [
+      {
+        "when": "spring 482",
+        "entry": "Opening liquid — Bedegraine ransom reserve 99.0 + purse 9.0",
+        "delta": null,
+        "balance": 108.0
+      },
+      {
+        "when": "summer 482",
+        "entry": "King's grant — half the forger's recovered silver (the thief's purse)",
+        "delta": 30.0,
+        "balance": 138.0
+      },
+      {
+        "when": "WP 482",
+        "entry": "482 operating surplus banked (CR 67.0 - expenses 50.5; frugal living)",
+        "delta": 16.5,
+        "balance": 154.5
+      },
+      {
+        "when": "WP 482",
+        "entry": "Two wooden towers (15.0 ea), flanking the wool-town wall",
+        "delta": -30.0,
+        "balance": 124.5
+      },
+      {
+        "when": "WP 482",
+        "entry": "Vaccary (cattle herd) built at Hindon",
+        "delta": -10.0,
+        "balance": 114.5
+      },
+      {
+        "when": "WP 482",
+        "entry": "Mellisarium (apiary) built at Hindon",
+        "delta": -4.0,
+        "balance": 110.5
+      },
+      {
+        "when": "early winter 483",
+        "entry": "Breach patch — timber+rubble (storm's own) + free town labor [Mabli Stewardship CRIT]",
+        "delta": -1.0,
+        "balance": 109.5
+      },
+      {
+        "when": "spring 483",
+        "entry": "Flood rebuild done — stone wall (DV5 restored) £3 + mill £1 + cattle restock (12 head off Cadwal) £2",
+        "delta": -5.0,
+        "balance": 104.5
+      },
+      "post-midsummer 483: -£10 Senara's send-off (purse + rounsey + sumpter + escort; largesse)"
+    ],
+    "projected_483_surplus_gbp": 21.0,
+    "reserve_earmarks": [
+      "tower cadence (15.0/season)",
+      "contingencies / ransoms",
+      "(hospital plan SCRAPPED)"
+    ],
+    "pending_repairs_483_gbp": 0.0,
+    "note_483": "Flood fully repaired by spring 483 (~£6 total: £1 patch + £5 spring). Liquid £104.5."
+  },
+  "glory": {
+    "firmed_total": 2990,
+    "firmed_at": "Winter Phase 482",
+    "next_bonus_point_at": 3000,
+    "bonus_points_spent": 2,
+    "note": "10 Glory short of 3,000 at WP482 -> NO new Bonus Point this year (frugal living kept maintenance Glory low). The 3rd Bonus Point (and Battle 19->20) lands on the FIRST deed of 483 -- a single scene away. Battle currently 19 (Dedicated-Study +1 at WP482).",
+    "annual_awards_482": {
+      "deeds": 431,
+      "land_cr": 67.0,
+      "famous_trait_passion": 32,
+      "maintenance_frugal": 12
     }
-   },
-   "expenses_total_gbp": 7.0,
-   "operating_surplus_gbp": 5.0,
-   "surplus_note": "held in trust; supports Achil's eventual establishment or banked to Abisec's reserve meanwhile",
-   "land_glory_gbp": 12.0,
-   "fortification": {
-    "type": "moated, palisaded, gated manor (not a castle)",
-    "elements": {
-     "hall_enclosure": {
-      "dv_bonus": 4
-     },
-     "wet_moat": {
-      "dv_bonus": 4,
-      "notes": "added to the ditch"
-     },
-     "gateworks": {
-      "dv_bonus": 1
-     }
+  },
+  "holdings": {
+    "hindon": {
+      "name": "Hindon — the caput (chief seat)",
+      "tenure": "Crown grant (spring 482): Knight Banneret holding the caput FOR the King on the perpetual-fealty vow; his till the line fails, forfeit twice as fast if ever turned. The outliers (~95 GBP, 8 parcels) escheated/withheld by the Crown.",
+      "cr_gbp": 55.0,
+      "cr_after_improvements_gbp": 59.5,
+      "income": {
+        "assized_rents": 28.0,
+        "production_demesne_and_mill": 15.0,
+        "court_and_market_wool_staple": 12.0
+      },
+      "income_improvements_annual": {
+        "vaccary_cattle": 3.0,
+        "mellisarium_bees": 1.5
+      },
+      "expenses": {
+        "army_gbp": 32.0,
+        "court_gbp": 8.5,
+        "family_gbp": 3.0,
+        "detail": {
+          "army": "eschille: 5 household knights (fed/armed/horsed) 12.0 | foot: 15 field-foot @ £0.5 = 7.5 (the 5 king's-garrison foot serve a royal castle, NOT deferred [Fate No 82]) | warhorses & remounts 5.0 | arms & armour 3.0 | castle ward/watch/repairs (Drustan + town watch-and-ward) 4.5 -> ~32.0; trued at WP483",
+          "court": "steward (Mabli) + seneschal (Bledig) + reeve/clerks + manor-court & market admin 5.5 | hospitality (frugal day-table + the march-affinity feast) 3.0",
+          "family": "ward Lady Senara's keep 2.0 | Father Custennin (chaplain) 0.5 | alms/minor dependents 0.5  [NO wife/children -> low]"
+        }
+      },
+      "expenses_total_gbp": 43.5,
+      "operating_surplus_gbp": 11.5,
+      "land_glory_gbp": 55.0,
+      "fortification": {
+        "type": "shell-keep castle joined by drawbridge to a walled, moated wool-town (the 'bolt')",
+        "elements": {
+          "keep_shell": {
+            "dv": 9,
+            "notes": "ringed by ditch+rampart DV 3 + wet moat (+4) -> no dry approach"
+          },
+          "bailey_wall": {
+            "dv": 13
+          },
+          "gate": {
+            "dv": 4,
+            "notes": "base 2 + complex gateworks +2"
+          },
+          "wool_town_wall": {
+            "dv": 5,
+            "notes": "enclosed in stone (DV 5) — 483 flood breach REBUILT in stone by spring 483 (DV 5 restored)"
+          },
+          "town_ditch": {
+            "dv_base": 3,
+            "wet_moat_bonus": 4,
+            "effective_dv": 7,
+            "notes": "wet moat off the dammed mill-stream"
+          },
+          "keep_ditch": {
+            "dv_base": 3,
+            "wet_moat_bonus": 4,
+            "effective_dv": 7
+          },
+          "towers": {
+            "count": 2,
+            "type": "wooden",
+            "built": "WP 482",
+            "cost_each_gbp": 15.0,
+            "notes": "flank the town wall -- enfilade the gate & corners, deny escalade; cadence one/season"
+          },
+          "drawbridge": {
+            "notes": "keep<->town over the moat; raised = each sealed off, no dry approach to either"
+          },
+          "cistern": {
+            "notes": "deep cistern/vault -- siege water & secure store"
+          }
+        },
+        "summary": "Keep 9 / bailey 13 / gate 4, moated; walled+moated wool-town (wall DV 5, ditch DV 7) with 2 flanking towers; joined by a drawbridge. Stout vs raiders or a rebel; USELESS vs a king's host -- 'loyal initiative, not a power-base' (the pitch that won the King's floor).",
+        "furnishings_one_time_display_gbp": 160,
+        "furnishings_note": "Magnificent hall -- a ONE-TIME display VALUE, not income, not an annual hospitality tax (Ruling #26f). The treason-silver's legacy."
+      },
+      "improvements": [
+        {
+          "name": "The bolt (integrated keep+town fortification)",
+          "build_cost_gbp": 41.0,
+          "status": "built (spring-autumn 482)",
+          "space": "the wool-town perimeter + keep ditch; mill-stream dammed",
+          "effect": "see fortification"
+        },
+        {
+          "name": "Vaccary (cattle herd)",
+          "build_cost_gbp": 10.0,
+          "annual_yield_gbp": 3.0,
+          "status": "built WP 482 | HIT (483 flood: ~12 head drowned; herd reduced, first-year yield ~halved, restock ~£3) | restocked spring 483 (12 head off Cadwal, ~£2); herd back near strength",
+          "space": "PASTURE -- shares the chalk-down grazing with the wool-flocks (ample, no conflict)",
+          "risk": "murrain: annual d20 at WP -- on 1-2 lose the year's yield, on a 1 lose the herd (rebuild cost)"
+        },
+        {
+          "name": "Mellisarium (apiary)",
+          "build_cost_gbp": 4.0,
+          "annual_yield_gbp": 1.5,
+          "status": "built WP 482",
+          "space": "MINIMAL -- a sheltered forage corner near lime-blossom/heather/wildflower on the down's edge",
+          "risk": "low; hard winter can thin the hives",
+          "bonus": "wax (candles) + mead -> eases the hall's hospitality without cash"
+        },
+        {
+          "name": "Wooden towers",
+          "build_cost_gbp": 15.0,
+          "status": "2 built WP 482; cadence one/season",
+          "space": "town-wall flanking points",
+          "effect": "+ town wall defence at gate & corners"
+        }
+      ],
+      "settlement": {
+        "population_souls": "~500 (wool-town ~200; home manors/vills ~300)",
+        "wool_town": {
+          "name": "Hindon town",
+          "households": "~45",
+          "features": "market cross; weekly market + an annual fair; the WOOL STAPLE (the economic engine, purged honest 482); guild hall; church & chapel; the lord's mill",
+          "status": "newly WALLED & MOATED (the bolt); 2 flanking towers"
+        },
+        "home_manors_vills": "~4 vills + the lord's demesne farms; ~50 tenant holdings (virgates/bovates)",
+        "demesne": "lord's home farms -- arable + the downland SHEEP-FLOCKS (the wool) + oxen/dairy; now + the cattle vaccary & the apiary",
+        "lands": "chalk downland (sheep & now cattle), arable home-manor fields, river meadow, the mill-stream (dammed for the moats)"
+      },
+      "military": {
+        "_rules": "Book of the Estate (player-authoritative): servitium = 1 knight + 3 foot per £10 CR + 1 foot per remaining £1; a £50+ estate fields an ESCHILLE (5-15 mounted + 10-30 foot). GARRISON MANNING is by Table 5.5 (min professionals / max defenders per fortification), NOT by income.",
+        "customary_revenue_gbp": 55.0,
+        "servitium_debitum": {
+          "knights": 5,
+          "foot_total": 20,
+          "field_foot": 15,
+          "kings_garrison_foot": 5,
+          "computation": "£55 CR -> 5 knights + 15 foot (1kn+3foot/£10 at £50) + 5 foot (1 foot per £1 over £50) = 5 knights + 20 foot. Split per the £50-rule (10 field + 5 king's-garrison at £50; the +5 remainder foot are field) -> 15 field + 5 king's-garrison.",
+          "shortfall_fine": "Not bringing the 5 owed knights to a muster = a fine, £1 up to the holding's annual value, by the King's anger.",
+          "maintenance_rates": "knights £4 ea, foot £0.5 ea; a lowered servitium frees that saved maintenance to spend at will.",
+          "maintenance_cost_gbp": "5 knights @ £4 (all-in: fee+horse+arms) = £20 + 20 foot @ £0.5 = £10 -> £30/yr. (Lord pays no fee to himself; in practice = 5 household knights £20 + 20 foot £10 = £30. He provisions all 20 foot even though 5 serve a royal castle.)"
+        },
+        "kings_garrison": {
+          "owed": 5,
+          "deferred_to_hindon": false,
+          "ruling": "[Fate No 82, autumn 483] Uther does NOT defer — the 5 king's-garrison foot serve at the nearest ROYAL castle, not Hindon. The rule allows deferral; the King declines it (spends Abisec, gifts nothing). Re-petition possible later.",
+          "effect": "Hindon's own foot = 15 (the field foot); the 5 king's-garrison serve the Crown elsewhere."
+        },
+        "eschille": {
+          "definition": "Abisec's single field tactical unit (£50+ estate): the lord + knight-officers + other household knights + ~10 professional foot (payrolled, trained, best armour after a victory).",
+          "mounted_owed": 5,
+          "mounted_actual": 6,
+          "note": "Servitium owes 5 mounted (lord + 4); Abisec keeps 6 (himself + 5 household knights) — the 6th is his OWN extra knight, his to field or not.",
+          "knights_by_name": [
+            {
+              "name": "Sir Abisec",
+              "role": "lord / commander",
+              "status": "the caput"
+            },
+            {
+              "name": "Sir Alun",
+              "role": "household knight (right hand; childhood friend)",
+              "status": "Hindon / with the lord"
+            },
+            {
+              "name": "Sir Madog ap Gwriad",
+              "role": "household knight (cousin)",
+              "status": "AWAY — kinsman-envoy to Baron Meurig (483)"
+            },
+            {
+              "name": "Sir Elad",
+              "role": "household knight",
+              "status": "Hindon"
+            },
+            {
+              "name": "Sir Gerin",
+              "role": "household knight",
+              "status": "Hindon (back from the London escort)"
+            },
+            {
+              "name": "Sir Bann",
+              "role": "household knight (the extra, beyond servitium)",
+              "status": "Hindon (back from the London escort)"
+            }
+          ],
+          "professional_foot": 10,
+          "foot_officer": "Drustan (sergeant-at-arms) or a deputy",
+          "dispersal_note": "The 6 lances are chronically SCATTERED (envoys, escorts, Salisbury). The standing problem is CONCENTRATION, not headcount — keep the eschille together as a riding force."
+        },
+        "peripheral_swords": [
+          {
+            "name": "Sir Cadry",
+            "note": "household knight, but currently STAYED at Salisbury (Roderick's court)"
+          },
+          {
+            "name": "Sir Jasson",
+            "note": "friendly NEIGHBOUR knight — rides with Abisec by goodwill, not homage (brought lances to the Ebble)"
+          },
+          {
+            "name": "Sir Garmon",
+            "note": "old family-friend, ally-tier"
+          }
+        ],
+        "squire": "Achil of Stapleford (brother & heir) — knighting ~484 on the Saxon campaign (Uther's counsel: blood him in real war; keep him a LORD as well as a knight; let him keep the healer-craft).",
+        "foot_and_garrison": {
+          "foot_at_hindon": 15,
+          "captain_castellan": "Drustan — grizzled veteran sergeant-at-arms / garrison-captain UNDER the lord; minds the foot & holds Hindon when Abisec rides. Abisec sits Hindon himself (no castellan title).",
+          "maintenance_gbp": "15 foot @ £0.5 = £7.5/yr (inside the Army expense line)."
+        },
+        "garrison_table_5_5": {
+          "_rules": "Table 5.5 — min PROFESSIONALS to man the wall / MAX defenders the wall can hold. SIEGE minimums, not peacetime standing.",
+          "castle_keep_bailey": {
+            "fortification": "Motte-and-bailey Castle (shell keep on motte; ~1000 ft, 2 acres)",
+            "min_professionals": 10,
+            "max_defenders": 200
+          },
+          "wool_town": {
+            "fortification": "Village or Town (walled, ~1500 ft, ~4 acres)",
+            "min_professionals": 15,
+            "max_defenders": 300
+          },
+          "combined_siege_ideal_professionals": 25,
+          "abisec_professional_foot": 15,
+          "gap_note": "Siege ideal ~25 professionals (10 castle + 15 town); Abisec has 15 foot (the King kept the garrison-5). The shortfall is filled by the TOWN'S OWN MILITIA on the town walls — but Hindon is UNDER the professional ideal: a real siege leans hard on the town turning out and on the drawbridge sealing keep from town."
+        },
+        "town_furnishes": {
+          "obligation": "watch-and-ward — the wool-town garrisons its OWN walls at no cost to the lord.",
+          "militia_realistic": "~45 households (~200 souls) -> ~50-90 able-bodied townsmen (burgher militia). NOT the table's 300 'max defenders' — that is the WALL'S capacity, not the town's population.",
+          "professional_core": "Table 5.5 wants 15 professionals to stiffen 1500 ft of town wall; a town this size cannot keep 15 professionals, so Abisec's foot must supply the trained core. NET: the town furnishes BODIES (its militia, free); the lord furnishes the PROFESSIONAL stiffening.",
+          "key_burghers": "Gwgan the Wool-master (guild voice) + the chartered watch."
+        },
+        "garrison_distribution": {
+          "peacetime": "a light ward: the town's rotating watch on the town walls; ~3-5 foot + Drustan on the castle; the balance of the 15 foot drilling/patrolling/escorting (and available as field foot).",
+          "siege": "concentrate all 15 foot (~10 castle + ~5 stiffening the town gate/towers) + the town militia (~50-90) on the town walls + raise the drawbridge to seal keep from town. The 2 wooden towers enfilade the town wall & gate.",
+          "ruling_note": "Per-wall manning is a GM ruling — KAP sizes garrison by Table 5.5 (whole-fortification), not per wall-yard."
+        },
+        "subinfeudation": {
+          "policy": "RARE & costly for a one-caput banneret; landholding knights rarely exceed 20% (reputation). Abisec CANNOT afford to enfeoff a war-band (player's correct economics vs Uther's count-scale advice).",
+          "current": "Stapleford (£12) settled on Achil/heir — owes Abisec 1 knight + 3 foot once Achil is belted (grows the field force at no cash cost).",
+          "note": "The garrison fix is DOCTRINE (right-size with foot + the town watch + a castellan), NOT more sub-enfeoffment."
+        },
+        "warhorses": "Karu (Charger 6d6), a Courser (6d6), 2 Rouncey (4d6), a Sumpter",
+        "officers": {
+          "constable": "a household knight holds the Constable office (horses ready — eschille doctrine)",
+          "castellan": "NONE — Abisec SITS Hindon himself as resident lord-commander. Drustan (garrison-captain/sergeant-at-arms) holds it in the lord's absence (musters/war); no separate castellan office for a one-caput banneret.",
+          "steward": "Mabli",
+          "seneschal": "Sir Bledig"
+        },
+        "former_men": [
+          {
+            "name": "Sir Gwion",
+            "note": "garrisoned Vagon; when Vagon reverted to Roderick (spring 482) Gwion STAYED with it — now Roderick's man, NO LONGER Abisec's."
+          }
+        ],
+        "provisioning": {
+          "summary": "Abisec's establishment is part-provisioned through STAPLEFORD (the family seat), keeping Hindon's frugal Army line (£32) tight against the £30 rules-cost of 5 knights + 20 foot.",
+          "armory": "Stapleford's armory (Selyf; net +£1, PRODUCES arms) outfits the household — so Hindon's effective arms/armour outlay is below the £3 line; much is made at home.",
+          "surplus": "Stapleford's ~£5/yr operating surplus is held in trust and banks to Abisec's reserve meanwhile.",
+          "accounts": "Bascar (Abisec's retired father, resident lord of Stapleford) keeps the Stapleford books — a real managed pipeline."
+        }
+      },
+      "key_npcs": [
+        {
+          "role": "steward",
+          "name": "Mabli",
+          "note": "see characters.json -- childhood friend, ledgers-genius; runs Hindon's books"
+        },
+        {
+          "role": "seneschal",
+          "name": "Sir Bledig",
+          "note": "see characters.json -- Idnerth's old seneschal, retained; honest, knows every parcel & penny"
+        },
+        {
+          "role": "household leech",
+          "name": "Sioned",
+          "note": "see characters.json -- the hall's infirmary"
+        },
+        {
+          "role": "captain of the garrison / sergeant-at-arms",
+          "name": "Drustan",
+          "personality": "Grizzled veteran spearman, blunt and unsmiling; drills the garrison hard and feeds his men first; cares nothing for court, everything for a tight watch. Loyal to a lord who respects the men on the wall.",
+          "status": "NEW (WP482 scaffolding)"
+        },
+        {
+          "role": "chief burgher / wool-guild master",
+          "name": "Gwgan the Wool-master",
+          "personality": "Shrewd, prosperous, calculating -- but honest since Abisec purged the wool-fraud and cut the mill-toll. The staple's voice; wants stability above all (stability is profit). A useful barometer of the town's mood.",
+          "status": "NEW"
+        },
+        {
+          "role": "staple-keeper / fair-warden",
+          "name": "Rhiwallon",
+          "personality": "Meticulous, dry, incorruptible -- installed to keep the staple's weights & tolls honest after the factor's fraud. Trusts a ledger over a face.",
+          "status": "NEW"
+        },
+        {
+          "role": "miller",
+          "name": "Heilyn the Miller",
+          "personality": "Competent, prosperous, faintly resented (millers take toll); watched since the mill-toll was cut and the hand-querns outlawed. Keeps his head down and the wheel turning.",
+          "status": "NEW"
+        },
+        {
+          "role": "reeve, chief home-manor",
+          "name": "Einion the Reeve",
+          "personality": "Solid, honest peasant foreman; knows every furrow, tenant, and feud in the vill. The lord's eyes on the land; speaks plainly when asked and not otherwise.",
+          "status": "NEW"
+        },
+        {
+          "role": "town smith / farrier",
+          "name": "Tudur the Smith",
+          "personality": "Strong, taciturn, indispensable -- arms, tools, horseshoes. Says little, makes much.",
+          "status": "NEW"
+        },
+        {
+          "role": "reeve, upland vill",
+          "name": "Gwrgi",
+          "personality": "Dour, weather-bitten shepherd-reeve of the high downs; suspicious of town men and new lords alike, but fair with his own.",
+          "status": "NEW"
+        }
+      ],
+      "storm_damage_483": {
+        "when": "early winter 483 (Yule storm)",
+        "dead": "~4 townsfolk (Tegwen's family) drowned in the lower wool-town",
+        "wall_breach": "town-side moat-bank washed out -> breach in the new wool-town wall. PATCHED early winter 483 with a timber-and-rubble palisade (rough but a wall again; DV ~3-4 at that section until the spring stone rebuild restores DV 5).",
+        "losses": "3 houses; the staple's lower wool-store ruined; ~12 of the new vaccary cattle drowned in the flooded enclosure",
+        "repair_estimate_gbp": 6.0,
+        "repair_detail": "Mabli CRIT costing: urgent breach PATCH ~£1 (done, early winter 483; storm's own stone+timber + free town labor) + spring proper work ~£5 (stone wall rebuild ~£3, mill ~£1, cattle restock ~£2). Wool-store: not all lost — Mabli salvages & sells the wet wool cheap (~£3 income dent, not a repair).",
+        "status_resolved": "REPAIRED by spring 483 — wall rebuilt (DV5), mill mended, ~12 cattle restocked off Cadwal; the dead mourned. Total cost ~£6."
+      }
     },
-    "summary": "DV ~6 -- a stout manor: hall enclosure +4, wet moat +4 to the ditch, gateworks +1."
-   },
-   "improvements": [
-    {
-     "name": "Armory",
-     "build_cost_gbp": 10.0,
-     "annual_yield_gbp": 1.0,
-     "status": "built (480-481)",
-     "space": "manor yard",
-     "note": "+5 income / -4 maint; produces arms"
-    },
-    {
-     "name": "Hall enclosure / palisade",
-     "build_cost_gbp": 10.0,
-     "status": "built",
-     "effect": "+4 DV"
-    },
-    {
-     "name": "Wet moat",
-     "build_cost_gbp": 2.0,
-     "status": "built",
-     "effect": "+4 to ditch"
-    },
-    {
-     "name": "Gateworks",
-     "build_cost_gbp": 4.0,
-     "status": "built",
-     "effect": "+1 DV"
-    },
-    {
-     "name": "Coneygarth (rabbit warren)",
-     "build_cost_gbp": 4.0,
-     "annual_yield_gbp": 2.0,
-     "status": "built",
-     "space": "warren close"
-    },
-    {
-     "name": "Mews (the family hawks)",
-     "build_cost_gbp": null,
-     "status": "built",
-     "space": "mews building",
-     "note": "the hawk-and-icicles dynasty mark -- prestige, not income"
+    "stapleford": {
+      "name": "Stapleford — the family manor",
+      "tenure": "Held of COUNT RODERICK; settled on Achil (to hold OF Abisec once belted ~484-486); held in trust meanwhile, Bascar resident & running the hall.",
+      "cr_gbp": 12.0,
+      "income": {
+        "assized_rents_and_wylye_demesne": 10.0,
+        "coneygarth_warren": 2.0,
+        "armory_net": 1.0
+      },
+      "income_detail": {
+        "armory": "+5.0 income / -4.0 maintenance = net +1.0"
+      },
+      "expenses": {
+        "army_gbp": 4.5,
+        "court_gbp": 1.5,
+        "family_gbp": 1.0,
+        "detail": {
+          "army": "3 foot + arms; Achil squiring (no knight's fee drawn yet) 4.5",
+          "court": "Bascar runs it; bare admin 1.5",
+          "family": "Bascar & Eluned live off the demesne produce -- modest 1.0"
+        }
+      },
+      "expenses_total_gbp": 7.0,
+      "operating_surplus_gbp": 5.0,
+      "surplus_note": "held in trust; supports Achil's eventual establishment or banked to Abisec's reserve meanwhile",
+      "land_glory_gbp": 12.0,
+      "fortification": {
+        "type": "moated, palisaded, gated manor (not a castle)",
+        "elements": {
+          "hall_enclosure": {
+            "dv_bonus": 4
+          },
+          "wet_moat": {
+            "dv_bonus": 4,
+            "notes": "added to the ditch"
+          },
+          "gateworks": {
+            "dv_bonus": 1
+          }
+        },
+        "summary": "DV ~6 -- a stout manor: hall enclosure +4, wet moat +4 to the ditch, gateworks +1."
+      },
+      "improvements": [
+        {
+          "name": "Armory",
+          "build_cost_gbp": 10.0,
+          "annual_yield_gbp": 1.0,
+          "status": "built (480-481)",
+          "space": "manor yard",
+          "note": "+5 income / -4 maint; produces arms"
+        },
+        {
+          "name": "Hall enclosure / palisade",
+          "build_cost_gbp": 10.0,
+          "status": "built",
+          "effect": "+4 DV"
+        },
+        {
+          "name": "Wet moat",
+          "build_cost_gbp": 2.0,
+          "status": "built",
+          "effect": "+4 to ditch"
+        },
+        {
+          "name": "Gateworks",
+          "build_cost_gbp": 4.0,
+          "status": "built",
+          "effect": "+1 DV"
+        },
+        {
+          "name": "Coneygarth (rabbit warren)",
+          "build_cost_gbp": 4.0,
+          "annual_yield_gbp": 2.0,
+          "status": "built",
+          "space": "warren close"
+        },
+        {
+          "name": "Mews (the family hawks)",
+          "build_cost_gbp": null,
+          "status": "built",
+          "space": "mews building",
+          "note": "the hawk-and-icicles dynasty mark -- prestige, not income"
+        }
+      ],
+      "settlement": {
+        "population_souls": "~130 (a single manor/vill on the Wylye)",
+        "vill": "Stapleford -- the Wylye demesne + tenant holdings",
+        "features": "the manor hall (moated), the Mews, the coneygarth, the armory; a small chapel (Brother Iuan, resident priest)",
+        "character": "the dynasty's known gifts -- HEALING, BOOKS, and BIRDS"
+      },
+      "military": {
+        "servitium_debitum": "1 knight + 3 foot (the knight = Achil when belted; Abisec answers meanwhile)"
+      },
+      "key_npcs": [
+        {
+          "role": "resident lord (father)",
+          "name": "Bascar",
+          "note": "see characters.json -- runs Stapleford for Abisec"
+        },
+        {
+          "role": "lady (mother)",
+          "name": "Eluned",
+          "note": "see characters.json -- keeper of the old rite, healer"
+        },
+        {
+          "role": "resident priest",
+          "name": "Brother Iuan",
+          "note": "see characters.json -- syncretic, tolerant"
+        },
+        {
+          "role": "reeve",
+          "name": "Maredudd the Reeve",
+          "personality": "Long-serving, steady, unhurried; Bascar's right hand and the vill's memory. Has run Stapleford's fields through three harvests of trouble without complaint.",
+          "status": "NEW"
+        },
+        {
+          "role": "warrener (coneygarth)",
+          "name": "Iorwerth",
+          "personality": "A reformed poacher turned keeper -- knows every run and snare because he set them once. Sly, loyal, good with ferrets and excuses.",
+          "status": "NEW"
+        },
+        {
+          "role": "falconer / mews-keeper",
+          "name": "Gwilym Hafod",
+          "personality": "Quiet, patient, proud of the birds beyond all reason; speaks more gently to a hawk than to a man. Keeper of the hawk-and-icicles line.",
+          "status": "NEW"
+        },
+        {
+          "role": "armorer",
+          "name": "Selyf the Armorer",
+          "personality": "Methodical, exacting, a little vain about his work; the armory is his kingdom and his blades are honest.",
+          "status": "NEW"
+        }
+      ]
     }
-   ],
-   "settlement": {
-    "population_souls": "~130 (a single manor/vill on the Wylye)",
-    "vill": "Stapleford -- the Wylye demesne + tenant holdings",
-    "features": "the manor hall (moated), the Mews, the coneygarth, the armory; a small chapel (Brother Iuan, resident priest)",
-    "character": "the dynasty's known gifts -- HEALING, BOOKS, and BIRDS"
-   },
-   "military": {
-    "servitium_debitum": "1 knight + 3 foot (the knight = Achil when belted; Abisec answers meanwhile)"
-   },
-   "key_npcs": [
-    {
-     "role": "resident lord (father)",
-     "name": "Bascar",
-     "note": "see characters.json -- runs Stapleford for Abisec"
-    },
-    {
-     "role": "lady (mother)",
-     "name": "Eluned",
-     "note": "see characters.json -- keeper of the old rite, healer"
-    },
-    {
-     "role": "resident priest",
-     "name": "Brother Iuan",
-     "note": "see characters.json -- syncretic, tolerant"
-    },
-    {
-     "role": "reeve",
-     "name": "Maredudd the Reeve",
-     "personality": "Long-serving, steady, unhurried; Bascar's right hand and the vill's memory. Has run Stapleford's fields through three harvests of trouble without complaint.",
-     "status": "NEW"
-    },
-    {
-     "role": "warrener (coneygarth)",
-     "name": "Iorwerth",
-     "personality": "A reformed poacher turned keeper -- knows every run and snare because he set them once. Sly, loyal, good with ferrets and excuses.",
-     "status": "NEW"
-    },
-    {
-     "role": "falconer / mews-keeper",
-     "name": "Gwilym Hafod",
-     "personality": "Quiet, patient, proud of the birds beyond all reason; speaks more gently to a hawk than to a man. Keeper of the hawk-and-icicles line.",
-     "status": "NEW"
-    },
-    {
-     "role": "armorer",
-     "name": "Selyf the Armorer",
-     "personality": "Methodical, exacting, a little vain about his work; the armory is his kingdom and his blades are honest.",
-     "status": "NEW"
-    }
-   ]
   }
- }
 }
