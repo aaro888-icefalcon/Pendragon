@@ -112,7 +112,7 @@
         "court_gbp": 8.5,
         "family_gbp": 3.0,
         "detail": {
-          "army": "5 household knights (fed/armed/horsed) 12.0 | garrison ~12 spears + sergeants 9.0 | warhorses & remounts 5.0 | arms & armour upkeep/replacement 3.0 | castle ward, watch, repairs 3.0",
+          "army": "eschille: 5 household knights (fed/armed/horsed) 12.0 | foot: 15 field-foot @ £0.5 = 7.5 (the 5 king's-garrison foot serve a royal castle, NOT deferred [Fate No 82]) | warhorses & remounts 5.0 | arms & armour 3.0 | castle ward/watch/repairs (Drustan + town watch-and-ward) 4.5 -> ~32.0; trued at WP483",
           "court": "steward (Mabli) + seneschal (Bledig) + reeve/clerks + manor-court & market admin 5.5 | hospitality (frugal day-table + the march-affinity feast) 3.0",
           "family": "ward Lady Senara's keep 2.0 | Father Custennin (chaplain) 0.5 | alms/minor dependents 0.5  [NO wife/children -> low]"
         }
@@ -213,9 +213,127 @@
         "lands": "chalk downland (sheep & now cattle), arable home-manor fields, river meadow, the mill-stream (dammed for the moats)"
       },
       "military": {
-        "servitium_debitum": "~5-6 knights + ~16 foot (per Ruling #26c: 1 knight + 2 field + 1 garrison foot per 10 GBP CR). The King MAY reduce by grace given the sworn vow.",
-        "standing_garrison": "the eschille (5-6 household knights) + ~12 spears/sergeants + the watch",
-        "warhorses": "Karu (Charger 6d6), a Courser (6d6), 2 Rouncey (4d6), a Sumpter"
+        "_rules": "Book of the Estate (player-authoritative): servitium = 1 knight + 3 foot per £10 CR + 1 foot per remaining £1; a £50+ estate fields an ESCHILLE (5-15 mounted + 10-30 foot). GARRISON MANNING is by Table 5.5 (min professionals / max defenders per fortification), NOT by income.",
+        "customary_revenue_gbp": 55.0,
+        "servitium_debitum": {
+          "knights": 5,
+          "foot_total": 20,
+          "field_foot": 15,
+          "kings_garrison_foot": 5,
+          "computation": "£55 CR -> 5 knights + 15 foot (1kn+3foot/£10 at £50) + 5 foot (1 foot per £1 over £50) = 5 knights + 20 foot. Split per the £50-rule (10 field + 5 king's-garrison at £50; the +5 remainder foot are field) -> 15 field + 5 king's-garrison.",
+          "shortfall_fine": "Not bringing the 5 owed knights to a muster = a fine, £1 up to the holding's annual value, by the King's anger.",
+          "maintenance_rates": "knights £4 ea, foot £0.5 ea; a lowered servitium frees that saved maintenance to spend at will."
+        },
+        "kings_garrison": {
+          "owed": 5,
+          "deferred_to_hindon": false,
+          "ruling": "[Fate No 82, autumn 483] Uther does NOT defer — the 5 king's-garrison foot serve at the nearest ROYAL castle, not Hindon. The rule allows deferral; the King declines it (spends Abisec, gifts nothing). Re-petition possible later.",
+          "effect": "Hindon's own foot = 15 (the field foot); the 5 king's-garrison serve the Crown elsewhere."
+        },
+        "eschille": {
+          "definition": "Abisec's single field tactical unit (£50+ estate): the lord + knight-officers + other household knights + ~10 professional foot (payrolled, trained, best armour after a victory).",
+          "mounted_owed": 5,
+          "mounted_actual": 6,
+          "note": "Servitium owes 5 mounted (lord + 4); Abisec keeps 6 (himself + 5 household knights) — the 6th is his OWN extra knight, his to field or not.",
+          "knights_by_name": [
+            {
+              "name": "Sir Abisec",
+              "role": "lord / commander",
+              "status": "the caput"
+            },
+            {
+              "name": "Sir Alun",
+              "role": "household knight (right hand; childhood friend)",
+              "status": "Hindon / with the lord"
+            },
+            {
+              "name": "Sir Madog ap Gwriad",
+              "role": "household knight (cousin)",
+              "status": "AWAY — kinsman-envoy to Baron Meurig (483)"
+            },
+            {
+              "name": "Sir Elad",
+              "role": "household knight",
+              "status": "Hindon"
+            },
+            {
+              "name": "Sir Gerin",
+              "role": "household knight",
+              "status": "Hindon (back from the London escort)"
+            },
+            {
+              "name": "Sir Bann",
+              "role": "household knight (the extra, beyond servitium)",
+              "status": "Hindon (back from the London escort)"
+            }
+          ],
+          "professional_foot": 10,
+          "foot_officer": "Drustan (sergeant-at-arms) or a deputy",
+          "dispersal_note": "The 6 lances are chronically SCATTERED (envoys, escorts, Salisbury). The standing problem is CONCENTRATION, not headcount — keep the eschille together as a riding force."
+        },
+        "peripheral_swords": [
+          {
+            "name": "Sir Cadry",
+            "note": "household knight, but currently STAYED at Salisbury (Roderick's court)"
+          },
+          {
+            "name": "Sir Gwion",
+            "note": "garrisoned Vagon — which reverted to Roderick; his status with Abisec UNRESOLVED (worth nailing down)"
+          },
+          {
+            "name": "Sir Jasson",
+            "note": "friendly NEIGHBOUR knight — rides with Abisec by goodwill, not homage (brought lances to the Ebble)"
+          },
+          {
+            "name": "Sir Garmon",
+            "note": "old family-friend, ally-tier"
+          }
+        ],
+        "squire": "Achil of Stapleford (brother & heir) — knighting ~484 on the Saxon campaign (Uther's counsel: blood him in real war; keep him a LORD as well as a knight; let him keep the healer-craft).",
+        "foot_and_garrison": {
+          "foot_at_hindon": 15,
+          "captain_castellan": "Drustan — grizzled veteran sergeant-at-arms; the natural CASTELLAN (formalise with the title + Battle/Siege).",
+          "maintenance_gbp": "15 foot @ £0.5 = £7.5/yr (inside the Army expense line)."
+        },
+        "garrison_table_5_5": {
+          "_rules": "Table 5.5 — min PROFESSIONALS to man the wall / MAX defenders the wall can hold. SIEGE minimums, not peacetime standing.",
+          "castle_keep_bailey": {
+            "fortification": "Motte-and-bailey Castle (shell keep on motte; ~1000 ft, 2 acres)",
+            "min_professionals": 10,
+            "max_defenders": 200
+          },
+          "wool_town": {
+            "fortification": "Village or Town (walled, ~1500 ft, ~4 acres)",
+            "min_professionals": 15,
+            "max_defenders": 300
+          },
+          "combined_siege_ideal_professionals": 25,
+          "abisec_professional_foot": 15,
+          "gap_note": "Siege ideal ~25 professionals (10 castle + 15 town); Abisec has 15 foot (the King kept the garrison-5). The shortfall is filled by the TOWN'S OWN MILITIA on the town walls — but Hindon is UNDER the professional ideal: a real siege leans hard on the town turning out and on the drawbridge sealing keep from town."
+        },
+        "town_furnishes": {
+          "obligation": "watch-and-ward — the wool-town garrisons its OWN walls at no cost to the lord.",
+          "militia_realistic": "~45 households (~200 souls) -> ~50-90 able-bodied townsmen (burgher militia). NOT the table's 300 'max defenders' — that is the WALL'S capacity, not the town's population.",
+          "professional_core": "Table 5.5 wants 15 professionals to stiffen 1500 ft of town wall; a town this size cannot keep 15 professionals, so Abisec's foot must supply the trained core. NET: the town furnishes BODIES (its militia, free); the lord furnishes the PROFESSIONAL stiffening.",
+          "key_burghers": "Gwgan the Wool-master (guild voice) + the chartered watch."
+        },
+        "garrison_distribution": {
+          "peacetime": "a light ward: the town's rotating watch on the town walls; ~3-5 foot + Drustan on the castle; the balance of the 15 foot drilling/patrolling/escorting (and available as field foot).",
+          "siege": "concentrate all 15 foot (~10 castle + ~5 stiffening the town gate/towers) + the town militia (~50-90) on the town walls + raise the drawbridge to seal keep from town. The 2 wooden towers enfilade the town wall & gate.",
+          "ruling_note": "Per-wall manning is a GM ruling — KAP sizes garrison by Table 5.5 (whole-fortification), not per wall-yard."
+        },
+        "subinfeudation": {
+          "policy": "RARE & costly for a one-caput banneret; landholding knights rarely exceed 20% (reputation). Abisec CANNOT afford to enfeoff a war-band (player's correct economics vs Uther's count-scale advice).",
+          "current": "Stapleford (£12) settled on Achil/heir — owes Abisec 1 knight + 3 foot once Achil is belted (grows the field force at no cash cost).",
+          "note": "The garrison fix is DOCTRINE (right-size with foot + the town watch + a castellan), NOT more sub-enfeoffment."
+        },
+        "warhorses": "Karu (Charger 6d6), a Courser (6d6), 2 Rouncey (4d6), a Sumpter",
+        "officers": {
+          "constable": "a household knight holds the Constable office (horses ready — eschille doctrine)",
+          "castellan": "Drustan (to be formally titled) — commands the foot garrison so Abisec can ride",
+          "steward": "Mabli",
+          "seneschal": "Sir Bledig"
+        }
       },
       "key_npcs": [
         {
