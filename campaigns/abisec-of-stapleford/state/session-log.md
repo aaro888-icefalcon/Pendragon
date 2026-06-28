@@ -426,3 +426,9 @@ At each **Winter Phase** the AC theme priority is RE-ALLOCATED for the upcoming 
 - **STRATEGY CLARIFIED:** a good match made **well & visibly** answers it all at once — secures the heir/line (and thus Hindon), and a confident house accepting him **proves the vow is no flaw**, killing Gwallog's whisper in a stroke.
 - Live: which house — Eilwen (march power-match), Nest (open; history), Adwen of Wilton (receptive; a feud), or wider feelers via Roderick. CF 2.
 - **(Meta, binding — written to CLAUDE.md §Session-checklist #6):** commit AND push state after every scene/material change, as we go; never ask the player about banking/pausing the session — just keep playing.
+
+### Scene 48 (post-midsummer 483, Sarum) — the local field is dry; look to the court
+- Player ruled out Eilwen (Achil's age, parted as friends, no chemistry; her father a poor knight/charity case). Asked Cadwal's feudal status + Gwythyr/Meurig/other barons' daughters.
+- **Roderick's answers (rolled):** **Cadwal** is NOT free [Fate No] — holds of **Baron Meurig** [not the King, Fate No]; his sword already serves Abisec's coalition through Meurig, no direct homage to take. **Gwythyr** has no marriageable daughter [Fate No] (two sons + a babe); **Meurig** none either [Fate No]. **Other nearby minor/medium barons:** NO good prospect [Fate **ExcNo** — a thin year for brides of his tier]. Local field = only **Adwen of Wilton** (a feud) and **Nest** (open; no land).
+- **RODERICK'S COUNSEL:** stop looking down, look **UP** — leverage Abisec's firm royal favour for a **CROWN-BROKERED match** (unimpeachable, beyond Gwallog's whisper; Roderick to open it at court). Slower than a local handshake, but the strongest play.
+- Live: Abisec's choice — let Roderick open a King-brokered match / ride at Nest or Adwen locally / another play. CF 2.
