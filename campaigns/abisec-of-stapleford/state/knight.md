@@ -93,6 +93,9 @@
 ## Squire
 **Achil** — younger brother, age 16. First Aid 6, Battle 1, Horsemanship 6, Chirurgery 5. **RESCUED from Hindon (spring 482)**; now squires for Abisec at Hindon, changed by captivity and by watching Idris die for him — set on the healer-who-fights path. The fallback heir + Abisec's closest tie. **Stapleford settled on him** (to hold of Abisec once belted; knighting ~484–486; held in trust meanwhile).
 
+## Wife
+**Lady Rhonwen** — m. autumn 483 (the King's imposed match), at Sarum in Count Roderick's hall (full comital honour). Dispossessed heir of drowned **Saltmere** (a south-coast salt-marsh shore-warden honour, usurped ~20 yrs by Crown-shielded **Baron Anwas**); ~26; proud, grievance-worn, fiercely honest, a capable administrator who clawed two decades to hold a house. The marriage is fair but **cold** — won only by genuine, **unperformed** true deeds over time (she always catches performance; **never dangle Saltmere**, even kindly). Charged on the wedding hour to bring the family to Hindon, take the garrison in hand, and hold the walls while Abisec rides to war — a castellan-bride. No heir yet.
+
 ## Experience checks pending (next Winter Phase)
 <!-- Append as earned in play; cleared at Winter Phase. WP481: Sword/Lance/Intrigue gained. WP482: Courtesy/Honest/Merciful gained; Horsemanship/Honor/Just held. -->
 **483 pending:** Battle, Lance, Sword, Horsemanship (the strand victory); Courtesy (the council). + the Prince's Passion service (Courtesy/Honor).
