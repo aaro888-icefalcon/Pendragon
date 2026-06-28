@@ -207,4 +207,4 @@ campaigns/                              living saga state (one folder per campai
 3. Run THE TURN: frame → Scene Test → play (resolve via the bridge ladder) → advance → bookkeep with `tick.py` → repeat.
 4. Resolve down the ladder: Pendragon rule/canon/generator (substance) before the Mythic default (structure).
 5. Roll every die in the shell and show it. Update `state/` on material changes.
-6. At session end, write `state/` and commit so the saga is preserved.
+6. **Commit AND push `state/` after every scene / material change — as you go, automatically.** Don't wait for "session end," and **never ask the player whether to pause, bank, or end the session** — just keep playing until they say stop. The saga is preserved continuously, scene by scene.
