@@ -18,7 +18,7 @@
   },
   "economic_grade": "Superlative",
   "cash": {
-    "liquid_gbp": 94.5,
+    "liquid_gbp": 118.0,
     "ledger": [
       {
         "when": "spring 482",
@@ -68,7 +68,31 @@
         "delta": -5.0,
         "balance": 104.5
       },
-      "post-midsummer 483: -£10 Senara's send-off (purse + rounsey + sumpter + escort; largesse)"
+      "post-midsummer 483: -£10 Senara's send-off (purse + rounsey + sumpter + escort; largesse)",
+      {
+        "when": "WP 483",
+        "entry": "WP483: Parrett spoils (chief's gold + commander's share)",
+        "delta": 17.0,
+        "balance": 111.5
+      },
+      {
+        "when": "WP 483",
+        "entry": "WP483: 483 operating surplus banked (CR 67 - expenses ~50.5; frugal-ish)",
+        "delta": 16.5,
+        "balance": 128.0
+      },
+      {
+        "when": "WP 483",
+        "entry": "WP483: Rhonwen's silks/cloth gift + the family feast (largesse, extraordinary)",
+        "delta": -6.0,
+        "balance": 122.0
+      },
+      {
+        "when": "WP 483",
+        "entry": "WP483: Bascar & Eluned funerals & mourning (family)",
+        "delta": -4.0,
+        "balance": 118.0
+      }
     ],
     "projected_483_surplus_gbp": 21.0,
     "reserve_earmarks": [
@@ -80,16 +104,17 @@
     "note_483": "Flood fully repaired by spring 483 (~£6 total: £1 patch + £5 spring). Liquid £104.5."
   },
   "glory": {
-    "firmed_total": 2990,
-    "firmed_at": "Winter Phase 482",
-    "next_bonus_point_at": 3000,
-    "bonus_points_spent": 2,
-    "note": "10 Glory short of 3,000 at WP482 -> NO new Bonus Point this year (frugal living kept maintenance Glory low). The 3rd Bonus Point (and Battle 19->20) lands on the FIRST deed of 483 -- a single scene away. Battle currently 19 (Dedicated-Study +1 at WP482).",
-    "annual_awards_482": {
-      "deeds": 431,
+    "firmed_total": 3595,
+    "firmed_at": "Winter Phase 483",
+    "next_bonus_point_at": 4000,
+    "bonus_points_spent": 3,
+    "note": "WP483 firmed 3595 (deeds 3430 + land CR 67 + famous Valorous 16 & Honor 17 = 33 + maintenance 15 + marriage 50). 3rd Bonus Point spent in 483 (Battle 19->20). No new BP -> next at 4,000 (405 away).",
+    "annual_awards_483": {
+      "deeds_483_running": 3430,
       "land_cr": 67.0,
-      "famous_trait_passion": 32,
-      "maintenance_frugal": 12
+      "famous_trait_passion": 33,
+      "maintenance": 15,
+      "marriage": 50
     }
   },
   "holdings": {

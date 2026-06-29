@@ -77,8 +77,8 @@
     {
       "name": "Bascar & Eluned of Stapleford (parents)",
       "weight": 1,
-      "status": "family — Eluned TOOK TO RHONWEN (autumn 483): two capable, sharp women recognising each other; she 'annexed' the guarded bride at the Hindon dinner, the move that cracked Rhonwen's wall. Bascar quietly proud of his son's war-won standing. The Stapleford elders blessing the marriage in deed.",
-      "dossier": "Abisec's parents at Stapleford. ELUNED — sharp, stubborn-but-pragmatic, keeper of the Stapleford pagan rite since Gwenda died; nursed Abisec from the mortal wound; runs the hall; angling to see him married ('don't let the clever get you killed'). BASCAR — old soldier (soldiered with Garmon); brokered a kin-marriage (WP 481); gave Abisec the field-surgery roll. Counsel: 'be the hand, not the coronet.'"
+      "status": "DEAD — BOTH (Winter Phase 483) [family rolls: Bascar d20=2, Eluned d20=2]: a winter fever took Bascar first in the Stapleford hall; Eluned, nursing him, followed within the fortnight. Three weeks after she'd 'annexed' Rhonwen at the Hindon dinner. Theodoros, sent hard down the frozen road, came only to close their eyes (no art turns a winter fever in the old). Eluned was the keeper of the Stapleford pagan rite & the dynasty's healer-matriarch; Bascar the Stapleford anchor. Their deaths leave Stapleford without a resident master and the rite without a keeper.",
+      "dossier": "Abisec's parents at Stapleford. ELUNED — sharp, stubborn-but-pragmatic, keeper of the Stapleford pagan rite since Gwenda died; nursed Abisec from the mortal wound; runs the hall; angling to see him married ('don't let the clever get you killed'). BASCAR — old soldier (soldiered with Garmon); brokered a kin-marriage (WP 481); gave Abisec the field-surgery roll. Counsel: 'be the hand, not the coronet.' — DIED WP483 (winter fever, within a fortnight of each other). Eluned: the rite-keeper who nursed Abisec from his mortal wound and took Rhonwen in as kin weeks before the end. Bascar: ceded Stapleford to Abisec but ran it to the last, quietly proud. The dynasty's middle generation passes to Abisec. OPEN: who keeps the rite now (Tangwystl? Dwynwen? Iuan?); Stapleford's stewardship (Achil not yet belted)."
     },
     {
       "name": "Sir Brewnor (crown officer; ally)",
@@ -286,21 +286,21 @@
     },
     {
       "name": "Sir Gwriad (uncle)",
-      "weight": 1,
-      "status": "family",
-      "dossier": "Abisec's maternal uncle (Eluned's brother); a knight on a manor half a day from Stapleford. Gruff, practical. Father of cousin Madog. Near kin and a Salisbury anchor."
+      "weight": 2,
+      "status": "MISSING — fate unknown (WP483) [family roll d20=13]: Eluned's brother, cousin Madog's father; rode out before the worst of the snows on his own errand and did not return — no body, no word, no grave. His wife Angharad keeps the manor and waits. A live hook: dead in the weather? Waylaid? Gone to ground? (And note the foreign master is loose on these roads — coincidence, or not?)",
+      "dossier": "Abisec's maternal uncle (Eluned's brother); a knight on a manor half a day from Stapleford. Gruff, practical. Father of cousin Madog. Near kin and a Salisbury anchor. — VANISHED (WP483): rode out before the snows, never came back; fate unknown. A thread to run down — natural mischance most likely, but the timing (the master loose, the hunt mutual) is worth a wary glance. Madog (his son, Abisec's household knight) will want to search."
     },
     {
       "name": "Lady Angharad (aunt)",
       "weight": 1,
-      "status": "family",
+      "status": "family — in limbo (WP483): her husband Sir Gwriad vanished before the snows (fate unknown); she keeps their manor and waits. A wedding goes ahead in her branch regardless (life unasked). Near kin, now in grief & uncertainty like the rest.",
       "dossier": "Sir Gwriad's wife, Abisec's aunt; warm and harried, runs their manor. Near kin."
     },
     {
       "name": "Old Tangwystl (matriarch)",
-      "weight": 1,
-      "status": "family/elder",
-      "dossier": "The family matriarch (Abisec's grandmother's generation); formidable, sharp-tongued, keeper of the oldest lore, the oldest healing, and the oldest grudges. Near kin and a wellspring of family memory/old-ways counsel."
+      "weight": 2,
+      "status": "family/elder — the SURVIVING eldest (WP483): outlived her own son's generation (Bascar & Eluned dead this winter; she took not a chill). Ancient, sharp-tongued, keeper of the oldest lore & healing & grudges — and now, by default, the last elder of the line and the natural claimant to keep the Stapleford rite Eluned held. She blunt-absolved Rhonwen's scandal at the Hindon dinner ('they forget').",
+      "dossier": "The family matriarch (Abisec's grandmother's generation); formidable, sharp-tongued, keeper of the oldest lore, the oldest healing, and the oldest grudges. Near kin and a wellspring of family memory/old-ways counsel. — OUTLIVED THEM (WP483): Bascar & Eluned dead of winter fever; Tangwystl, the ancient, survives — now the eldest of the line and the obvious keeper of the old rite. The family's grief-anchor and living memory."
     },
     {
       "name": "Lady Eilwen (marriage prospect; march alliance)",
