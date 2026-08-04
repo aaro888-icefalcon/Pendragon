@@ -23,7 +23,7 @@
 > **Mortal wound, Twelfth Night 481 (trial by combat vs Idnerth):** survived a lance through the chest → 3 Stats Lost rolls = **DEX 13→11, APP 12→11** (permanent). Strength, toughness, wind, and all skills intact; a half-step slower forever, a hand-wide scar down the breastbone.
 
 - **Damage:** 4d6 · **Healing Rate:** 2 · **Move:** 2 (STR 10 + DEX 11)
-- **Hit Points:** 19 / 25 (spear-wound bound, autumn 483 Parrett) · **Unconscious:** 6 · **Major Wound:** ≥14 (=CON) · **Knockdown:** ≥11 (=SIZ)
+- **Hit Points:** 25 / 25 (flank wound healed clean over winter 483, Theodoros attending) · **Unconscious:** 6 · **Major Wound:** ≥14 (=CON) · **Knockdown:** ≥11 (=SIZ)
 
 ## Traits (pairs total 20; bold = famous/notable 16+)
 | Trait | Opp. | | Trait | Opp. |
@@ -74,7 +74,7 @@
 
 
 ## Wounds & Condition
-- **HP 19/25 — Healthy (wounded autumn 483; First Aid bound it, +2).** Took a **spear-thrust to the flank** leading the western-relief charge on the Parrett: an Irish chief who stood his ground critted as Abisec's lance was turned (4d6=18 − mail 10, shield bypassed by the crit = **8 HP**); kept the saddle, no major wound, no knockdown; Alun killed the chief. Above half (17 > 12) — no aggravation risk; Healing Rate 2/wk. — *Prior:* took a **mortal wound** in the Twelfth Night trial by combat (Idnerth's critical lance: net 31 vs a 7-HP body); saved by the King's surgeon [First Aid 16: success]. Nursed Unhealthy→Healthy by **Eluned's Chirurgery** [3 weekly successes]. Permanent cost: DEX 13→11, APP 12→11, the chest scar. **Watch:** Aggravation rule — strenuous activity while HP ≤ half (≤12) risks re-opening wounds.
+- **HP 25/25 — Healthy (the autumn flank wound healed clean over winter under Theodoros; spring 484).** Had taken a **spear-thrust to the flank** leading the western-relief charge on the Parrett: an Irish chief who stood his ground critted as Abisec's lance was turned (4d6=18 − mail 10, shield bypassed by the crit = **8 HP**); kept the saddle, no major wound, no knockdown; Alun killed the chief. Above half (17 > 12) — no aggravation risk; Healing Rate 2/wk. — *Prior:* took a **mortal wound** in the Twelfth Night trial by combat (Idnerth's critical lance: net 31 vs a 7-HP body); saved by the King's surgeon [First Aid 16: success]. Nursed Unhealthy→Healthy by **Eluned's Chirurgery** [3 weekly successes]. Permanent cost: DEX 13→11, APP 12→11, the chest scar. **Watch:** Aggravation rule — strenuous activity while HP ≤ half (≤12) risks re-opening wounds.
 
 ## Horses
 | Horse | Type | Damage | Notes |
